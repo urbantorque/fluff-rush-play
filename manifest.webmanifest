@@ -1,0 +1,18 @@
+{
+  "name": "Fluff Rush: Cozy Crowd Run",
+  "short_name": "Fluff Rush",
+  "description": "Start with one. End with thousands. Steer a fluffy parade through number gates and wake a sleepy valley back into colour.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFE9D2",
+  "theme_color": "#FFE9D2",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
