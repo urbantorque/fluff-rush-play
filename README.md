@@ -15,7 +15,7 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
 
 ## How to play
 
-| | |
+| You meet | What to do |
 |---|---|
 | **Steer** | Drag sideways anywhere on the screen. Movement is relative, so your thumb never hides the parade. On a computer: drag, or use A/D or the arrow keys. |
 | **Gates** | Only the lane your leader walks through counts. `+` adds, `×` multiplies, `−` Zzz gates send friends to nap, `÷` picnics split the parade. Close calls are on purpose: at 11, `+12` beats `×2`. |
@@ -72,4 +72,4 @@ Every Fuzzbud, building and boss is **drawn in code**, and every sound is **synt
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 62641ba); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 36bd177); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
