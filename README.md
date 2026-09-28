@@ -18,6 +18,7 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
 | You meet | What to do |
 |---|---|
 | **Steer** | Drag sideways anywhere on the screen. Movement is relative, so your thumb never hides the parade. On a computer: drag, or use A/D or the arrow keys. |
+| **Whistle** | Tap (don't drag) and Pip whistles: the parade huddles tight for a moment and slips past hazards. It needs a few seconds to recharge. |
 | **Gates** | Only the lane your leader walks through counts. `+` adds, `×` multiplies, `−` Zzz gates send friends to nap, `÷` picnics split the parade. Close calls are on purpose: at 11, `+12` beats `×2`. |
 | **Sleepy Fuzzbuds** | Grey friends doze by the road. Sweep a wide parade over them to wake each one. |
 | **Sleepy Walls** | "Needs 40": pour in and hug them awake. Half your huggers bounce back, and a few move to your town. |
@@ -31,6 +32,7 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
 - **Golden Fuzzbuds.** A rare shiny sleeper worth bonus Petals, sometimes a **Jackpot**.
 - **"Phew!"** Wake a wall with only a few to spare.
 - **Full bloom** and **New best!** Light all five lanterns and beat your record.
+- **Sky Parade.** Finish a run and your whole parade bursts into a firework picture in the sky. Tap to pop it for bonus Petals.
 
 ## Screenshots
 
@@ -52,6 +54,8 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
 - **Bloom Square.** Five buildings, three tiers each, and every one changes your runs. The Bakery gives extra starters, the Band Stand teaches tunes, the Workshop earns more Petals, the Tea House's Morning Basket fills while you're away, and the Costume Closet dresses up the whole parade.
 - **Leaders.** Pip is the all-rounder. Tambo doubles `+` gates but also Zzz gates. Otto halves hazards but caps `×` at 3. Pair a leader with a tune for a little pre-run puzzle.
 - **Daily Parade.** A brand-new level every day with a twist (Golden Hour, Carousel Day, Mystery Day…). Miss a day? No worries: there are no streaks to break. Share your score with one tap.
+- **Star Road.** Every 3 stars opens a gift: hats, trails, decor, tunes, Petals. Gifts never expire.
+- **Encores.** Three-star a level to unlock its Encore, the same road with a twist, and win a crown.
 - **Album.** 12 friends to find, some only by secret play. Riddles show the way.
 - **Two valleys, two bosses.** 12 levels plus a bonus parade across golden-hour Hushvale Meadow and dusky Lantern Marsh, with Mumu the cloud-whale and Luma the lantern moth.
 
@@ -72,4 +76,4 @@ Every Fuzzbud, building and boss is **drawn in code**, and every sound is **synt
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version edfc68e); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 031dea8); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
