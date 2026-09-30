@@ -11,7 +11,7 @@
 
 You start as **Pip**, one sleepy pom-pom in a grey, drizzly valley. Drag to steer and the parade walks on its own. Pick the right gates (`+12` or `×2`?), sweep up sleeping friends, hug the Sleepy Walls awake, and watch one Fuzzbud snowball into **thousands**. Wherever the parade goes, colour soaks back into the world behind it.
 
-It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into the whole game, and made cozy: **no war, no energy timers, no ads, no pay-to-win.**
+It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into the whole game, and made cozy: **no war, no energy timers, no forced ads, no pay-to-win.**
 
 ## How to play
 
@@ -61,7 +61,7 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
 
 ## The Fair Play Charter
 
-One currency, earned only by playing. No energy. No ads. No loot boxes. No countdown deals. No pay-to-win. This playtest build has no purchases at all.
+One currency, earned only by playing. No energy. No forced ads. No loot boxes. No countdown deals. Stars, cures and timers are never for sale. This playtest build has no ads and no purchases at all.
 
 ## Made differently
 
@@ -76,4 +76,4 @@ Every Fuzzbud, building and boss is **drawn in code**, and every sound is **synt
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 031dea8); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 9281c9e); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
