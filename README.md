@@ -76,4 +76,4 @@ Every Fuzzbud, building and boss is **drawn in code**, and every sound is **synt
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version efee181); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 3498e9f); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
