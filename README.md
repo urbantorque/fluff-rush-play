@@ -9,7 +9,7 @@
 
 ## What is Fluff Rush?
 
-You start as **Pip**, one sleepy pom-pom in a grey, drizzly valley. Drag to steer and the parade walks on its own. Pick the right gates (`+12` or `×2`?), sweep up sleeping friends, hug the Sleepy Walls awake, and watch one Fuzzbud snowball into **thousands**. Wherever the parade goes, colour soaks back into the world behind it.
+You start as **Pip**, one sleepy pom-pom in a grey, drizzly valley. Drag to steer and the parade walks on its own. Pick the right gates (`+12` or `×2`?), sweep up sleeping friends, hug the Sleepy Walls awake, and watch one Fluffling snowball into **thousands**. Wherever the parade goes, colour soaks back into the world behind it.
 
 It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into the whole game, and made cozy: **no war, no energy timers, no forced ads, no pay-to-win.**
 
@@ -20,7 +20,7 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
 | **Steer** | Drag sideways anywhere on the screen. Movement is relative, so your thumb never hides the parade. On a computer: drag, or use A/D or the arrow keys. |
 | **Whistle** | Tap (don't drag) and Pip whistles: the parade huddles tight for a moment and slips past hazards. It needs a few seconds to recharge. |
 | **Gates** | Only the lane your leader walks through counts. `+` adds, `×` multiplies, `−` Zzz gates send friends to nap, `÷` picnics split the parade. Close calls are on purpose: at 11, `+12` beats `×2`. |
-| **Sleepy Fuzzbuds** | Grey friends doze by the road. Sweep a wide parade over them to wake each one. |
+| **Sleepy Flufflings** | Grey friends doze by the road. Sweep a wide parade over them to wake each one. |
 | **Sleepy Walls** | "Needs 40": pour in and hug them awake. Half your huggers bounce back, and a few move to your town. |
 | **Hazards** | Treat stalls tempt the edges, sleepy clouds drift across, lily bridges squeeze the road, and the Nap Cat sweeps its tail. |
 | **The finale** | Climb the Festival Tree. The bigger the parade, the more lanterns light, and lanterns are stars. Two sleeping giants need a *really* big hug. |
@@ -29,7 +29,7 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
 
 - **"Fluff Rush!"** Five perfect gate picks in a row set off a rainbow callout, a slow-motion beat and a fanfare.
 - **Milestones.** 100, 250, 500… **1,000!** Every new size gets its own cheer.
-- **Golden Fuzzbuds.** A rare shiny sleeper worth bonus Petals, sometimes a **Jackpot**.
+- **Golden Flufflings.** A rare shiny sleeper worth bonus Petals, sometimes a **Jackpot**.
 - **"Phew!"** Wake a wall with only a few to spare.
 - **Full bloom** and **New best!** Light all five lanterns and beat your record.
 - **Sky Parade.** Finish a run and your whole parade bursts into a firework picture in the sky. Tap to pop it for bonus Petals.
@@ -40,7 +40,7 @@ It's the "numbers go up" crowd fantasy you've seen in mobile ads, turned into th
   <tr>
     <td align="center" width="33%"><img src="media/01-bloom-gate.jpg" alt="The parade approaches a ×3 and a +20 gate while colour spreads behind it" width="260"><br><sub><b>Pick your gate.</b> Colour follows the parade.</sub></td>
     <td align="center" width="33%"><img src="media/02-fluff-rush.jpg" alt="A rainbow 'Fluff Rush!' callout after five perfect picks" width="260"><br><sub><b>Fluff Rush!</b> Five perfect picks in a row.</sub></td>
-    <td align="center" width="33%"><img src="media/03-thousand.jpg" alt="A parade of 1,859 Fuzzbuds with a '1,000!' milestone" width="260"><br><sub><b>1,000!</b> Start with one, end with thousands.</sub></td>
+    <td align="center" width="33%"><img src="media/03-thousand.jpg" alt="A parade of 1,859 Flufflings with a '1,000!' milestone" width="260"><br><sub><b>1,000!</b> Start with one, end with thousands.</sub></td>
   </tr>
   <tr>
     <td align="center" width="33%"><img src="media/04-mumu.jpg" alt="Mumu the cloud-whale wakes up after a giant group hug" width="260"><br><sub><b>Wake the giants.</b> Mumu needs a 350-strong hug.</sub></td>
@@ -65,7 +65,7 @@ One currency, earned only by playing. No energy. No forced ads. No loot boxes. N
 
 ## Made differently
 
-Every Fuzzbud, building and boss is **drawn in code**, and every sound is **synthesised live** in your browser. The game has no image or audio files, only a few hundred KB of TypeScript and three fonts, and it draws up to 240 bouncing Fuzzbuds at once.
+Every Fluffling, building and boss is **drawn in code**, and every sound is **synthesised live** in your browser. The game has no image or audio files, only a few hundred KB of TypeScript and three fonts, and it draws up to 240 bouncing Flufflings at once.
 
 ## Playtest notes
 
@@ -76,4 +76,4 @@ Every Fuzzbud, building and boss is **drawn in code**, and every sound is **synt
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 237be08); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version cb8cbc7); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
