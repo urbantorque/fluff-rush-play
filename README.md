@@ -76,4 +76,4 @@ Every Fluffling, building and boss is **drawn in code**, and every sound is **sy
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 832e236); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version 62975c0); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
