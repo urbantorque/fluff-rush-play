@@ -5,6 +5,8 @@
 <h3 align="center"><a href="https://urbantorque.github.io/fluff-rush-play/">Play Fluff Rush in your browser →</a></h3>
 <p align="center">Free · no install · no sign-up · best on a phone held upright</p>
 
+**Try the [Fields garden prototype](https://urbantorque.github.io/fluff-rush-play/garden.html).** Plant, water and pull connected patches. Send baskets to earn tools and grow your six-square patch into a twelve-square farm. It saves separately from the main game.
+
 ---
 
 ## What is Fluff Rush?
@@ -76,4 +78,4 @@ Every Fluffling, building and boss is **drawn in code**, and every sound is **sy
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version aeee7a5); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository only hosts the playable build (version b1def89); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
