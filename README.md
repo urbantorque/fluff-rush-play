@@ -5,23 +5,23 @@
 <h3 align="center"><a href="https://urbantorque.github.io/fluff-rush-play/">Play Fluff Rush in your browser →</a></h3>
 <p align="center">Free · no install · no sign-up · phone and desktop</p>
 
-Steer a parade of Flufflings, wake sleeping giants and bring a village back to life. Between roads, grow connected garden patches, cook for celebrations and follow lantern trails through the mist.
+Steer a parade of Flufflings, wake sleeping giants and bring everyone Home. Choose a leader, find your way through four valleys, and take your friends on a travelling outing.
 
 ## How to play
 
 - **Parade:** drag sideways, or use A/D or the arrow keys. Tap or press Space to use your leader's call. Choose number gates, gather sleeping friends and steer around hazards.
-- **Fields:** choose seeds, plant and water them, then harvest connected patches. Your harvest stocks the village pantry for recipes and festivals.
-- **Wilds:** follow the lantern trails, solve spatial puzzles and bring keepsakes home. Free practice is available on completed trails.
+- **Troupe:** choose a friend to lead, learn their call in a free lesson, or dress your parade.
+- **Home:** meet the company you brought back, share a moment with a friend and display an earned keepsake.
 
 Your progress saves in your browser. Use a private browsing window to try a fresh game without changing your usual save.
 
 ## What's in this build
 
 - 30 main Parade roads across four valleys, plus bonus roads.
-- 15 story trails and their mastery variants.
-- One village, shared garden and pantry, seven story festivals, and a complete ending.
-- Endgame Parade trials, garden puzzles and Wilds masteries with saved personal records.
-- Optional festival years, garden visits, Encores and the Daily Parade.
+- Five leaders with different calls and shared friendship activities.
+- Four three-chapter outings with saved route choices and travelling company.
+- Free practice for recorded road encounters, six mastery challenges and the Daily Parade.
+- Optional, untimed destination activities and a Home that remembers your journeys.
 
 The web playtest has no ads or purchases. There is no account to create.
 
@@ -35,4 +35,4 @@ On iPhone, Share → Add to Home Screen opens it like an app.
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (986d797); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (bc12954); the game's source is private. Fonts: Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
