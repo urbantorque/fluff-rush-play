@@ -19,6 +19,7 @@ Your progress saves in your browser. Use a private browsing window to try a fres
 
 - 30 main Parade roads across four valleys, plus bonus roads.
 - Illustrated road maps, living giants and a travelling company beside your next departure.
+- A new illustrated Home, softer character art across Roads and Troupe, gentle environmental motion and refined phone controls.
 - Five leaders with different calls and shared friendship activities.
 - Four three-chapter outings with saved route choices and travelling company.
 - Free practice for recorded road encounters, six mastery challenges and the Daily Parade.
@@ -36,4 +37,4 @@ On iPhone, Share → Add to Home Screen opens it like an app.
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (c474659); the game's source is private. Fonts: Alegreya, Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (6dac364); the game's source is private. Fonts: Alegreya, Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
