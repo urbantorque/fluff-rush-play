@@ -38,4 +38,4 @@ On iPhone, Share → Add to Home Screen opens it like an app.
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (8bc430ab); the game's source is private. Fonts: Alegreya, Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (26f1a7f8); the game's source is private. Fonts: Alegreya, Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
