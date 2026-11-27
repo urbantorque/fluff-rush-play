@@ -1,0 +1,86 @@
+{"utc":"2026-11-27T13:33:03.834Z","event":"open","url":"http://localhost:4173/?town","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T13:33:04.401Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T13:33:14.799Z","event":"note","text":"Control, supplied historical save at 112 active minutes with one chair empty. I want to see who is missing by looking at the actual Band Stand, then follow her road. This test is supplied."}
+{"utc":"2026-11-27T13:33:15.041Z","event":"input","line":"read","ms":194}
+{"utc":"2026-11-27T13:33:15.556Z","event":"input","line":"buttons","ms":508}
+{"utc":"2026-11-27T13:33:21.282Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:33:21.629Z","event":"input","line":"button Later","ms":1147}
+{"utc":"2026-11-27T13:33:22.316Z","event":"input","line":"choice ^Bloom Square$","ms":684}
+{"utc":"2026-11-27T13:33:25.096Z","event":"input","line":"watch 2","ms":2769}
+{"utc":"2026-11-27T13:33:25.532Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T13:33:25.803Z","event":"input","line":"choice Band Stand, restoration and visits","ms":704}
+{"utc":"2026-11-27T13:33:26.098Z","event":"input","line":"read","ms":284}
+{"utc":"2026-11-27T13:33:26.464Z","event":"input","line":"buttons","ms":362}
+{"utc":"2026-11-27T13:33:34.591Z","event":"input","line":"read","ms":463}
+{"utc":"2026-11-27T13:33:35.062Z","event":"input","line":"buttons","ms":466}
+{"utc":"2026-11-27T13:33:37.819Z","event":"view","screen":"The Taffy Float","result":false}
+{"utc":"2026-11-27T13:33:38.148Z","event":"input","line":"button Replay Taffy Float for Mint","ms":1002}
+{"utc":"2026-11-27T13:33:40.796Z","event":"input","line":"watch 2","ms":2617}
+{"utc":"2026-11-27T13:33:41.059Z","event":"input","line":"read","ms":259}
+{"utc":"2026-11-27T13:33:41.346Z","event":"input","line":"buttons","ms":283}
+{"utc":"2026-11-27T13:33:43.705Z","event":"note","text":"Diagnostic. The empty chair names Mint. Replay Taffy Float for Mint opened the right road card in one selection. Its instruction is to steer beside the float at each bell. I keep Suki for the first try."}
+{"utc":"2026-11-27T13:33:44.389Z","event":"view","road":"L14","phase":"walk","screen":"square","result":false,"crowd":35}
+{"utc":"2026-11-27T13:33:44.531Z","event":"input","line":"button Replay road","ms":821}
+{"utc":"2026-11-27T13:33:48.927Z","event":"input","line":"watch 4","ms":4394}
+{"utc":"2026-11-27T13:33:49.026Z","event":"input","line":"read","ms":98}
+{"utc":"2026-11-27T13:33:49.597Z","event":"input","line":"read","ms":139}
+{"utc":"2026-11-27T13:33:57.093Z","event":"input","line":"watch 2","ms":2212}
+{"utc":"2026-11-27T13:33:57.196Z","event":"input","line":"read","ms":97}
+{"utc":"2026-11-27T13:34:01.759Z","event":"input","line":"read","ms":250}
+{"utc":"2026-11-27T13:34:02.248Z","event":"input","line":"left 80","ms":485}
+{"utc":"2026-11-27T13:34:05.729Z","event":"input","line":"watch 3","ms":3473}
+{"utc":"2026-11-27T13:34:05.916Z","event":"input","line":"read","ms":185}
+{"utc":"2026-11-27T13:34:20.109Z","event":"view","road":"L14","phase":"finale","screen":"square","result":false,"crowd":2679}
+{"utc":"2026-11-27T13:34:20.856Z","event":"input","line":"read","ms":805}
+{"utc":"2026-11-27T13:34:21.917Z","event":"input","line":"buttons","ms":1041}
+{"utc":"2026-11-27T13:34:29.713Z","event":"input","line":"watch 3","ms":4220}
+{"utc":"2026-11-27T13:34:30.297Z","event":"input","line":"read","ms":574}
+{"utc":"2026-11-27T13:34:30.359Z","event":"view","road":"L14","phase":"done","screen":"2 of 4 bells rung!","result":true,"crowd":2679}
+{"utc":"2026-11-27T13:34:30.459Z","event":"result","text":"Parade size\n2,679\nBest streak\n3\nNew best! 2,679 beats 2,510Parade of 2679 reached the end.\n2 of 4 bells rung!\n\nThe Taffy Float\n\nRoad report\nHear Poppy play"}
+{"utc":"2026-11-27T13:34:30.577Z","event":"input","line":"buttons","ms":275}
+{"utc":"2026-11-27T13:35:01.064Z","event":"input","line":"read","ms":98}
+{"utc":"2026-11-27T13:35:01.199Z","event":"input","line":"buttons","ms":133}
+{"utc":"2026-11-27T13:35:12.153Z","event":"note","text":"Diagnostic. I missed Mint while I followed the cart down the centre. I can name the retry: collect her on the right and meet the float at her bell on the left. I want to try that line, then see who fills the fourth chair."}
+{"utc":"2026-11-27T13:35:12.437Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:35:12.644Z","event":"input","line":"button Hear Poppy play","ms":480}
+{"utc":"2026-11-27T13:35:15.349Z","event":"input","line":"watch 2","ms":2692}
+{"utc":"2026-11-27T13:35:15.695Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T13:35:15.826Z","event":"input","line":"choice Band Stand, restoration and visits","ms":467}
+{"utc":"2026-11-27T13:35:16.335Z","event":"view","screen":"The Taffy Float","result":false}
+{"utc":"2026-11-27T13:35:16.522Z","event":"input","line":"button Replay Taffy Float for Mint","ms":694}
+{"utc":"2026-11-27T13:35:16.796Z","event":"input","line":"read","ms":272}
+{"utc":"2026-11-27T13:35:17.828Z","event":"input","line":"read","ms":221}
+{"utc":"2026-11-27T13:35:18.156Z","event":"input","line":"buttons","ms":326}
+{"utc":"2026-11-27T13:35:22.256Z","event":"view","road":"L14","phase":"walk","screen":"square","result":false,"crowd":35}
+{"utc":"2026-11-27T13:35:22.369Z","event":"input","line":"button Replay road","ms":569}
+{"utc":"2026-11-27T13:35:26.983Z","event":"input","line":"watch 4","ms":4607}
+{"utc":"2026-11-27T13:35:27.538Z","event":"input","line":"right 150","ms":536}
+{"utc":"2026-11-27T13:35:30.975Z","event":"input","line":"watch 3","ms":3424}
+{"utc":"2026-11-27T13:35:31.194Z","event":"input","line":"read","ms":212}
+{"utc":"2026-11-27T13:35:31.615Z","event":"input","line":"left 124","ms":413}
+{"utc":"2026-11-27T13:35:33.890Z","event":"input","line":"watch 2","ms":2271}
+{"utc":"2026-11-27T13:35:34.008Z","event":"input","line":"read","ms":114}
+{"utc":"2026-11-27T13:35:35.776Z","event":"input","line":"read","ms":118}
+{"utc":"2026-11-27T13:35:35.924Z","event":"input","line":"buttons","ms":147}
+{"utc":"2026-11-27T13:35:41.159Z","event":"note","text":"Diagnostic. Mint aboard appeared after I took the right-hand group and crossed left to the bell. I am leaving the steering alone now to see whether the intended fourth seat is the thing the result sends me back to."}
+{"utc":"2026-11-27T13:35:47.996Z","event":"input","line":"watch 6","ms":6834}
+{"utc":"2026-11-27T13:35:48.508Z","event":"input","line":"read","ms":502}
+{"utc":"2026-11-27T13:35:52.024Z","event":"input","line":"read","ms":127}
+{"utc":"2026-11-27T13:35:52.205Z","event":"input","line":"buttons","ms":179}
+{"utc":"2026-11-27T13:35:56.991Z","event":"view","road":"L14","phase":"finale","screen":"square","result":false,"crowd":2829}
+{"utc":"2026-11-27T13:36:02.010Z","event":"input","line":"watch 6","ms":6773}
+{"utc":"2026-11-27T13:36:02.175Z","event":"input","line":"read","ms":155}
+{"utc":"2026-11-27T13:36:02.372Z","event":"input","line":"buttons","ms":194}
+{"utc":"2026-11-27T13:36:03.093Z","event":"view","road":"L14","phase":"done","screen":"3 of 4 bells rung!","result":true,"crowd":2829}
+{"utc":"2026-11-27T13:36:03.144Z","event":"result","text":"Parade size\n2,829\nBest streak\n3\nNew best! 2,829 beats 2,679Parade of 2829 reached the end.\n3 of 4 bells rung!\n\nThe Taffy Float\n\nRoad report\nHear Mint play"}
+{"utc":"2026-11-27T13:36:15.111Z","event":"input","line":"read","ms":131}
+{"utc":"2026-11-27T13:36:15.265Z","event":"input","line":"buttons","ms":150}
+{"utc":"2026-11-27T13:36:19.388Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:36:19.636Z","event":"input","line":"button Hear Mint play","ms":571}
+{"utc":"2026-11-27T13:36:23.476Z","event":"input","line":"watch 3","ms":3823}
+{"utc":"2026-11-27T13:36:23.844Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T13:36:24.109Z","event":"input","line":"choice Band Stand, restoration and visits","ms":631}
+{"utc":"2026-11-27T13:36:24.378Z","event":"input","line":"read","ms":267}
+{"utc":"2026-11-27T13:36:27.278Z","event":"note","text":"Diagnostic. The result actually said Hear Mint play. All four names are now present on the stand. I would keep this two-selection trip, the right-to-left pickup and the result handoff intact."}
+{"utc":"2026-11-27T13:36:27.375Z","event":"leave"}
+{"utc":"2026-11-27T13:36:27.380Z","event":"quit"}

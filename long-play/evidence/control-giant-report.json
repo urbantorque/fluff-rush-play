@@ -1,0 +1,170 @@
+{
+  "method": "Normal-clock, assisted diagnostics on three independent copies of the same first Snow Giant approach. Changes only the available QA steering policy; each uses the actual authored road and reward system.",
+  "file": ".tmp/long-play/diagnostic-campaign/L29-save.json",
+  "rows": [
+    {
+      "driver": "bad",
+      "started": "2026-11-27T14:09:43.876Z",
+      "ended": "2026-11-27T14:10:15.328Z",
+      "receipt": {
+        "cleared": false,
+        "stars": 0,
+        "woken": false,
+        "home": 0,
+        "paws": [],
+        "decisive": "Honey crossing",
+        "alternatives": [
+          "Gate crossing",
+          "Ice crossing",
+          "Gate crossing",
+          "Gate crossing",
+          "Honey crossing",
+          "Gate crossing"
+        ]
+      },
+      "first": "Nap time!\n\nThe wall needed 851 more friends.\n\nPetals kept\n30\n\nRoad rewards\nCrossing practice\n\nAt gate rows 5 and 6, try +900 then ×3 in place of ×3 then +900. That choice was worth 1,800 more friends there.\n\nTry The Snow Giant's Hill again\nMap",
+      "disclosed": "Crossing practice\n\nHoney crossing · 155 arrived with Suki. Your call was ready.\n\nPractise this crossing\nFree borrowed crowd. Your whole-road result is kept.",
+      "errors": []
+    },
+    {
+      "driver": "good",
+      "started": "2026-11-27T14:10:15.512Z",
+      "ended": "2026-11-27T14:11:46.540Z",
+      "receipt": {
+        "cleared": true,
+        "stars": 2,
+        "woken": true,
+        "home": 15988,
+        "paws": [
+          {
+            "phase": 1,
+            "need": [
+              18300,
+              12200
+            ],
+            "have": [
+              67,
+              15921
+            ],
+            "woke": [
+              false,
+              true
+            ],
+            "snow": {
+              "side": 0,
+              "warm": false,
+              "base": 12200
+            }
+          },
+          {
+            "phase": 2,
+            "need": [
+              2400,
+              6500
+            ],
+            "have": [
+              5996,
+              9992
+            ],
+            "woke": [
+              true,
+              true
+            ],
+            "snow": {
+              "side": 0,
+              "warm": false,
+              "base": 1600
+            }
+          }
+        ],
+        "decisive": "Frozen Pond or Pine Path",
+        "alternatives": [
+          "Gate crossing",
+          "Ice crossing",
+          "Gate crossing",
+          "Gate crossing",
+          "Honey crossing",
+          "Gate crossing",
+          "Ice crossing",
+          "Burrow crossing",
+          "Frozen Pond or Pine Path",
+          "Gate crossing",
+          "The Snow Giant's Hill · the awakening"
+        ]
+      },
+      "first": "The Snow Giant is awake!\n\nThe Snow Giant's Hill\n\nRoad report\nCome home",
+      "disclosed": "Road report\nParade\n15,988\nPaws awake\n3 / 4\nStar Path\n+10\nGarden\n+42\n\nThe Snow Giant is waiting for you in Town.\n\nThe Snow Giant sniffs the air. “Is Pip baking?”\n\nRoad Petals\n+261 \nVillage Board request\n+50 Petals\nYou met Honey!\nPlay Starfall Parade\nRequest done: Plant a Garden on the road",
+      "errors": []
+    },
+    {
+      "driver": "expert",
+      "started": "2026-11-27T14:11:46.725Z",
+      "ended": "2026-11-27T14:13:18.178Z",
+      "receipt": {
+        "cleared": true,
+        "stars": 3,
+        "woken": true,
+        "home": 36555,
+        "paws": [
+          {
+            "phase": 1,
+            "need": [
+              12200,
+              12200
+            ],
+            "have": [
+              18430,
+              18125
+            ],
+            "woke": [
+              true,
+              true
+            ],
+            "snow": {
+              "side": 0,
+              "warm": true,
+              "base": 12200
+            }
+          },
+          {
+            "phase": 2,
+            "need": [
+              1600,
+              6500
+            ],
+            "have": [
+              15841,
+              20714
+            ],
+            "woke": [
+              true,
+              true
+            ],
+            "snow": {
+              "side": 0,
+              "warm": true,
+              "base": 1600
+            }
+          }
+        ],
+        "decisive": "Frozen Pond or Pine Path",
+        "alternatives": [
+          "Gate crossing",
+          "Ice crossing",
+          "Gate crossing",
+          "Gate crossing",
+          "Honey crossing",
+          "Gate crossing",
+          "Ice crossing",
+          "Burrow crossing",
+          "Frozen Pond or Pine Path",
+          "Gate crossing",
+          "The Snow Giant's Hill · the awakening"
+        ]
+      },
+      "first": "The Snow Giant is awake!\n\nThe Snow Giant's Hill\n\nRoad report\nCome home",
+      "disclosed": "Road report\nParade\n36,555\nPaws awake\n4 / 4\nEvery gate right!\n+58\nStar Path\n+10\n\nThe Snow Giant is waiting for you in Town.\n\nThe Snow Giant sniffs the air. “Is Pip baking?”\n\nTotal Petals\nIncludes 10 from Golden Rush\n+305 \nYou met The Snow Giant!\nPlay Starfall Parade",
+      "errors": []
+    }
+  ]
+}

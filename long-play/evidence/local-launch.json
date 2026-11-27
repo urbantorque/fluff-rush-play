@@ -1,0 +1,43 @@
+{
+  "method": "Real loopback HTTP requests and a new Chromium context with both local game origins. Matched all 65 served game bytes by SHA-256 and the served release archive. Used the actual furnished launcher, changed a seat for free and reopened it. The other tab remained the blank Pip opening.",
+  "hash": "435713e9430f75ddbf70ccfc94a353fba628f854c81c33aae85ce467dafa0ef7",
+  "archiveSha256": "d0832ac5bcd1caf275c4e2372833c314dde44479f2f4d870d3138eaec8b7dd3f",
+  "checkedFiles": 65,
+  "opening": {
+    "phase": "sleep",
+    "wallet": 0,
+    "asset": "./assets/index-CCziZ-5V.js"
+  },
+  "before": {
+    "wallet": 8135,
+    "setting": "town:bakery-table:yuzu:cart",
+    "welcomed": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ],
+    "notes": "town:tune:221"
+  },
+  "arranged": {
+    "wallet": 8135,
+    "setting": "town:bakery-table:yuzu:hood",
+    "welcomed": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ],
+    "notes": "town:tune:221"
+  },
+  "reopened": {
+    "wallet": 8135,
+    "setting": "town:bakery-table:yuzu:hood",
+    "welcomed": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ],
+    "notes": "town:tune:221"
+  },
+  "independent": {
+    "wallet": 0,
+    "table": false
+  },
+  "errors": []
+}

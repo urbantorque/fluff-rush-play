@@ -1,0 +1,83 @@
+{
+  "method": "Same original profiles, normal time, seed 317. Ordinary touch from a pinned fountain host and from the telescope. One +66 px right gesture on the first Seedfall run, no gesture on its retry. Native contacts on both Aurora spans with assisted travel elsewhere. The final host completion is a separate assisted diagnostic.",
+  "rows": [
+    {
+      "route": "breakfast",
+      "file": "docs/Fluff-Rush-long-play/evidence/weekly-pinned.json",
+      "offer": "Breakfast at the fountain\nFloat the boat\n\nCatch six parachute groups on Seedfall Road for breakfast.\n\nReplay Seedfall Road\nStay in Town",
+      "attempts": [
+        {
+          "start": {
+            "id": "L5",
+            "target": 6,
+            "purpose": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "cue": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "objective": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "startingWallet": 6312,
+            "pin": "breakfast:hosting:L5:0"
+          },
+          "result": {
+            "receipt": "4 parachutes this time. You were aiming for 6.\n\nSeedfall Road\n\nRoad report\nTry for 6 again\nTown",
+            "action": "Try for 6 again",
+            "hit": 4,
+            "wallet": 6450,
+            "best": 5,
+            "pin": "breakfast:hosting:L5:0"
+          }
+        },
+        {
+          "start": {
+            "id": "L5",
+            "target": 6,
+            "purpose": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "cue": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "objective": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "startingWallet": 6450,
+            "pin": "breakfast:hosting:L5:0"
+          },
+          "stoppedAt": "Verified the chosen target after the first touch on the result."
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "telescope",
+      "file": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "offer": "The Lookout telescope\n\nCatch 12 of 15 colours on the Aurora Bridge to bring the Bell and Lantern home.\n\nBack to Town\nPlay Aurora Bridge",
+      "attempts": [
+        {
+          "start": {
+            "id": "L28",
+            "target": 12,
+            "purpose": "",
+            "cue": "",
+            "objective": "Target 0 / 12 colours",
+            "startingWallet": 7682,
+            "pin": null
+          },
+          "result": {
+            "receipt": "9 colours this time. You were aiming for 12.\n\nThe Aurora Bridge\n\nRoad report\nTry for 12 again\nTown",
+            "action": "Try for 12 again",
+            "hit": 9,
+            "wallet": 8139,
+            "best": 9,
+            "pin": null
+          }
+        },
+        {
+          "start": {
+            "id": "L28",
+            "target": 12,
+            "purpose": "",
+            "cue": "",
+            "objective": "Target 0 / 12 colours",
+            "startingWallet": 8139,
+            "pin": null
+          },
+          "stoppedAt": "Verified the chosen target after the first touch on the result."
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

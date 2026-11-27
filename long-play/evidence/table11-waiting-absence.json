@@ -1,0 +1,63 @@
+{
+  "fixture": "docs/Fluff-Rush-long-play/evidence/before-drizzle-raincoats.json",
+  "method": "Three independent simulated calendar absences on a copy of the same save. Entered Town, declined the gift and reopened the Bakery with reduced motion. This establishes state correctness only.",
+  "rows": [
+    {
+      "gap": 1,
+      "date": "2026-11-28",
+      "startingWallet": 377,
+      "unchangedWallet": 377,
+      "everOwned": 1,
+      "rememberedFlags": [
+        "town:basket:matcha",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bun-outing:matcha:L3",
+        "town:bun-greeted",
+        "town:bakery-table:matcha:hood"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Clover’s table\n\nThe dry corner is set for three yellow raincoats.\n\nSeat the raincoats\nMake room for the cart\nWalk Drizzle Dell\nKeep the last yellow hood under the left awning.\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 7,
+      "date": "2026-12-04",
+      "startingWallet": 377,
+      "unchangedWallet": 377,
+      "everOwned": 1,
+      "rememberedFlags": [
+        "town:basket:matcha",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bun-outing:matcha:L3",
+        "town:bun-greeted",
+        "town:bakery-table:matcha:hood"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Clover’s table\n\nThe dry corner is set for three yellow raincoats.\n\nSeat the raincoats\nMake room for the cart\nWalk Drizzle Dell\nKeep the last yellow hood under the left awning.\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 14,
+      "date": "2026-12-11",
+      "startingWallet": 377,
+      "unchangedWallet": 377,
+      "everOwned": 1,
+      "rememberedFlags": [
+        "town:basket:matcha",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bun-outing:matcha:L3",
+        "town:bun-greeted",
+        "town:bakery-table:matcha:hood"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Clover’s table\n\nThe dry corner is set for three yellow raincoats.\n\nSeat the raincoats\nMake room for the cart\nWalk Drizzle Dell\nKeep the last yellow hood under the left awning.\nShare buns\nBack to Town",
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "method": "In a separate hands-on visit from the furnished review checkpoint, tapped Suki’s wrapper boat twice and selected Stay in Town. Compared the actual saved result with the supplied checkpoint.",
+  "wallet": 8135,
+  "afterWallet": 8135,
+  "retained": [
+    "breakfast:guest:cart",
+    "breakfast:guest:drum",
+    "breakfast:guest:fig",
+    "breakfast:guest:hood",
+    "breakfast:guest:painters",
+    "breakfast:guest:wade",
+    "town:bakery-table:yuzu:cart",
+    "town:table-welcome:cart",
+    "town:table-welcome:hood",
+    "town:tune:221"
+  ],
+  "unchanged": [
+    "levels",
+    "daily",
+    "buildings",
+    "decor"
+  ],
+  "clip": "clips/play-suki-check-wrapper-boat.webm",
+  "inputs": [
+    {
+      "line": "tap 285 655",
+      "seconds": 0.152
+    },
+    {
+      "line": "tap 82 633",
+      "seconds": 3.503
+    },
+    {
+      "line": "button Stay in Town",
+      "seconds": 6.931
+    }
+  ],
+  "errors": []
+}

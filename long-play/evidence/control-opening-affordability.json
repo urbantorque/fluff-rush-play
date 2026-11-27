@@ -1,0 +1,223 @@
+{
+  "method": "Mechanical repetition of the first tester’s successful physical inputs on a blank production save. The real wait between touches comes from the assessment journal. Read the wallet once per rendered frame and stop on the first Sleepy Signs clear. No Daily or gift claims.",
+  "events": [
+    {
+      "line": "tap 192 751",
+      "requestedMs": 3,
+      "actualMs": 4
+    },
+    {
+      "line": "left 85",
+      "requestedMs": 4680,
+      "actualMs": 4683
+    },
+    {
+      "line": "left 60",
+      "requestedMs": 12162,
+      "actualMs": 12171
+    },
+    {
+      "line": "button Try again",
+      "requestedMs": 19505,
+      "actualMs": 19516
+    },
+    {
+      "line": "right 115",
+      "requestedMs": 19700,
+      "actualMs": 19705
+    },
+    {
+      "line": "left 230",
+      "requestedMs": 28183,
+      "actualMs": 28187
+    },
+    {
+      "line": "right 215",
+      "requestedMs": 35060,
+      "actualMs": 35070
+    },
+    {
+      "line": "button Visit the Bakery",
+      "requestedMs": 49108,
+      "actualMs": 49116
+    },
+    {
+      "line": "button Reopen for 100 Petals",
+      "requestedMs": 56935,
+      "actualMs": 56949
+    },
+    {
+      "line": "button Share buns at the Bakery",
+      "requestedMs": 68986,
+      "actualMs": 68990
+    },
+    {
+      "line": "button Clover",
+      "requestedMs": 74451,
+      "actualMs": 74464
+    },
+    {
+      "line": "button Take Clover along",
+      "requestedMs": 77028,
+      "actualMs": 77043
+    },
+    {
+      "line": "button Back",
+      "requestedMs": 81616,
+      "actualMs": 81622
+    },
+    {
+      "line": "button Parade",
+      "requestedMs": 84518,
+      "actualMs": 84518
+    },
+    {
+      "line": "tap 198 619",
+      "requestedMs": 98703,
+      "actualMs": 98706
+    },
+    {
+      "line": "button Start with Clover",
+      "requestedMs": 102001,
+      "actualMs": 102006
+    },
+    {
+      "line": "left 170",
+      "requestedMs": 102215,
+      "actualMs": 102221
+    },
+    {
+      "line": "right 210",
+      "requestedMs": 108225,
+      "actualMs": 108238
+    },
+    {
+      "line": "left 235",
+      "requestedMs": 112094,
+      "actualMs": 112107
+    },
+    {
+      "line": "button Try again",
+      "requestedMs": 118021,
+      "actualMs": 118038
+    },
+    {
+      "line": "right 140",
+      "requestedMs": 118198,
+      "actualMs": 118199
+    },
+    {
+      "line": "left 245",
+      "requestedMs": 123766,
+      "actualMs": 123768
+    },
+    {
+      "line": "right 235",
+      "requestedMs": 129414,
+      "actualMs": 129428
+    },
+    {
+      "line": "button Next road",
+      "requestedMs": 148470,
+      "actualMs": 148478
+    },
+    {
+      "line": "button Pause",
+      "requestedMs": 150985,
+      "actualMs": 150986
+    },
+    {
+      "line": "button Leave for Town",
+      "requestedMs": 154665,
+      "actualMs": 154668
+    },
+    {
+      "line": "button Share buns at the Bakery",
+      "requestedMs": 157418,
+      "actualMs": 157425
+    },
+    {
+      "line": "button Clover",
+      "requestedMs": 160115,
+      "actualMs": 160115
+    },
+    {
+      "line": "button Take Clover along",
+      "requestedMs": 164186,
+      "actualMs": 164194
+    },
+    {
+      "line": "button Start with Clover",
+      "requestedMs": 164381,
+      "actualMs": 164383
+    },
+    {
+      "line": "left 130",
+      "requestedMs": 164829,
+      "actualMs": 164833
+    },
+    {
+      "line": "tap 197 771",
+      "requestedMs": 179253,
+      "actualMs": 179265
+    },
+    {
+      "line": "right 198",
+      "requestedMs": 193473,
+      "actualMs": 193480
+    }
+  ],
+  "history": [
+    {
+      "wallet": 0,
+      "bakery": 0,
+      "band": 0,
+      "road": "L1",
+      "t": 239.69999998807907
+    },
+    {
+      "wallet": 12,
+      "bakery": 0,
+      "band": 0,
+      "road": "L1",
+      "t": 13443.800000011921
+    },
+    {
+      "wallet": 120,
+      "bakery": 0,
+      "band": 0,
+      "road": "L1",
+      "t": 42845.19999998808
+    },
+    {
+      "wallet": 20,
+      "bakery": 1,
+      "band": 0,
+      "t": 57291.5
+    },
+    {
+      "wallet": 32,
+      "bakery": 1,
+      "band": 0,
+      "road": "L1",
+      "t": 114573.09999996424
+    },
+    {
+      "wallet": 151,
+      "bakery": 1,
+      "band": 0,
+      "road": "L1",
+      "t": 142396.80000001192
+    },
+    {
+      "wallet": 263,
+      "bakery": 1,
+      "band": 0,
+      "road": "L2",
+      "t": 196648.5
+    }
+  ],
+  "bandCost": 180,
+  "firstAffordableSecondsFromPurchase": 139.36,
+  "errors": []
+}

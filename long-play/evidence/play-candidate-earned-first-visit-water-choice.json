@@ -1,0 +1,32 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "readingHoldSeconds": 0,
+  "duration": 8.483999967575073,
+  "marks": {
+    "river_chosen": 4.597
+  },
+  "frames": 504,
+  "inputs": [
+    {
+      "line": "button Make room for the cart",
+      "seconds": 0.18
+    },
+    {
+      "line": "choice Take Lantern River",
+      "seconds": 4.879
+    },
+    {
+      "line": "right 220",
+      "seconds": 5.196
+    }
+  ],
+  "errors": [],
+  "profile": "candidate-earned",
+  "asset": "./assets/index-CCziZ-5V.js",
+  "method": "Separately recorded hands-on visit. The tester chose the actions at the ordinary game controls. Input commands and times are also in the profile journal."
+}

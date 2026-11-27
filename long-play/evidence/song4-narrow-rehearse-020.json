@@ -1,0 +1,173 @@
+{
+  "crossings": [
+    {
+      "note": 2,
+      "from": -100.000009059906,
+      "target": 100,
+      "millisecondsToOppositeLaneCentre": 262,
+      "millisecondsInLaneBeforeFront": 350
+    },
+    {
+      "note": 3,
+      "from": 100.000009059906,
+      "target": -100,
+      "millisecondsToOppositeLaneCentre": 266,
+      "millisecondsInLaneBeforeFront": 349
+    }
+  ],
+  "fixture": ".tmp/long-play/phrases/control-020.json",
+  "method": "One normal-clock native-input rehearsal from the actual restored stand. The test requested each note in its authored lane, held repeated notes without an extra touch, and returned to the same stand. Read-only observation of game input, planks, native audio voices and save. No driver assistance.",
+  "digits": "020",
+  "viewport": {
+    "width": 320,
+    "height": 568
+  },
+  "still": true,
+  "mute": true,
+  "key": false,
+  "demo": [
+    {
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Rose"
+    },
+    {
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Mint"
+    },
+    {
+      "time": 0.783333333333333,
+      "label": "Tambo plays Rose"
+    }
+  ],
+  "bands": [
+    {
+      "note": 0,
+      "x": -100,
+      "start": 1008,
+      "end": 1123.5,
+      "speed": 210,
+      "color": "#FFB8CF"
+    },
+    {
+      "note": 2,
+      "x": 100,
+      "start": 1255.8,
+      "end": 1371.3,
+      "speed": 210,
+      "color": "#7FE3C8"
+    },
+    {
+      "note": 0,
+      "x": -100,
+      "start": 1503.6,
+      "end": 1619.1,
+      "speed": 210,
+      "color": "#FFB8CF"
+    }
+  ],
+  "inputs": [
+    {
+      "note": 0,
+      "contact": true,
+      "wall": 6.879100000023842,
+      "time": 4.483333333333346,
+      "from": 0,
+      "x": 0,
+      "dist": 858.375,
+      "delta": -50.79365079365079
+    },
+    {
+      "note": 2,
+      "contact": true,
+      "wall": 8.164600000023842,
+      "time": 5.766666666666743,
+      "from": -100.000009059906,
+      "x": -100.00000905990039,
+      "dist": 1127.875,
+      "delta": 101.5873061891586
+    },
+    {
+      "note": 0,
+      "contact": true,
+      "wall": 9.344100000023841,
+      "time": 6.950000000000135,
+      "from": 100.000009059906,
+      "x": 100.00000905973585,
+      "dist": 1376.375,
+      "delta": -101.5873061891586
+    }
+  ],
+  "actual": [
+    true,
+    true,
+    true
+  ],
+  "receipt": "Your welcome song\n\n●\n▲\n●\n\n3 of 3 notes played.\n\nBack to Band Stand\nChange a note\nSteer it again",
+  "next": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\n● ▲ ●\nRose left · Honey middle · Mint right\nVisit or choose a place\nSteer your welcome song\nHear your welcome song\nPlay a road\nBack",
+  "hubVisible": 0,
+  "before": 7682,
+  "after": 7682,
+  "changed": [],
+  "steps": [
+    {
+      "wall": 2.695800000011921,
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Rose",
+      "played": 1,
+      "steps": []
+    },
+    {
+      "wall": 2.94,
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Mint",
+      "played": 2,
+      "steps": []
+    },
+    {
+      "wall": 3.1779000000357627,
+      "time": 0.783333333333333,
+      "label": "Tambo plays Rose",
+      "played": 3,
+      "steps": []
+    },
+    {
+      "wall": 3.425,
+      "time": 1.033333333333332,
+      "label": "● Rose · left",
+      "played": 4,
+      "steps": []
+    },
+    {
+      "wall": 8.143200000047683,
+      "time": 5.7500000000000755,
+      "label": "▲ Mint · right",
+      "played": 4,
+      "steps": [
+        true
+      ]
+    },
+    {
+      "wall": 9.327400000035762,
+      "time": 6.933333333333468,
+      "label": "● Rose · left",
+      "played": 4,
+      "steps": [
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 10.5145,
+      "time": 8.116666666666847,
+      "label": "3 of 3 notes played",
+      "played": 4,
+      "steps": [
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "voices": [],
+  "errors": []
+}

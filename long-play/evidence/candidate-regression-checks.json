@@ -1,0 +1,113 @@
+{
+  "method": "Checked-in Node suites against the source used for the production build. The geography exception is reproduced from an unmodified git archive and checked separately against eight equivalent states.",
+  "rows": [
+    {
+      "source": "scripts/test-bakery-table.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Bakery table passed both welcome orders, two real passenger sources, legacy/partial ownership, misses, repeat settlement, seat switching and a stable host."
+    },
+    {
+      "source": "scripts/test-welcome-song.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Welcome song passed saved-note editing, independent taps, lengths 3–8, repeated holds and the full crossing interval."
+    },
+    {
+      "source": "scripts/test-breakfast-invites.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "PASS: six invitations, dish rewards, locked leaders, skipped weeks, legacy Fig, replay memory, advanced host selection, persistence and weekly payout limits."
+    },
+    {
+      "source": "scripts/test-fountain-mastery.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "PASS: three mastery ladders, paired decorations, eligible traces, tied legacy saves and persistent bests."
+    },
+    {
+      "source": "scripts/test-fountain-guests.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "PASS: four picnic guests, alternate unlock, actual road conditions, no duplicate rewards, old saves and fieldwork gates."
+    },
+    {
+      "source": "scripts/test-town-benefits.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "PASS: 19 atomic purchases, staged shared benefits, exact payouts, old tiers, no practice/failure payouts, preserved records and reload."
+    },
+    {
+      "source": "scripts/test-town-rings.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "PASS: 19 upgrades, 5650 Petals, staggered road milestones, gates, legacy access, preserved legacy building tiers, atomic spending, free activities, calm residents and reload."
+    },
+    {
+      "source": "scripts/test-town-purpose.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "PASS: remembered projects, 19 purchases, three exactly-once wearable gifts, old owners, preserved legacy building tiers, repeatable free play, eight-note songs, lighting and reload."
+    },
+    {
+      "source": "scripts/test-town-restoration-art.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Town restoration art: 19 checks passed"
+    },
+    {
+      "source": "scripts/test-companion-care.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Companion care: 130 checks passed."
+    },
+    {
+      "source": "scripts/test-town.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "The second friend's quest: the keeper's map (AC6)\nThe third friend's quest: the keeper's songbook (AC6, Milestone 2)\nWren's quest, its ending (AA12, Milestone 2)\nThe Village Plan (AC7)\nThe festival year (Part AD, AD1)\ntown: 954/954 checks passed"
+    },
+    {
+      "source": "scripts/test-replay-decisions.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Friend alternative 1: 31 actions, shade true, outer false\nFriend alternative 2: 34 actions, shade false, outer true\nnanatrail-master: 33 actions, 11 revisited movement tiles\nstarfallcrossing-master: 35 actions, 8 revisited movement tiles\nReplay decisions: announced isolated arrangements, factual feedback, saved bounded requests/exact spending, earned pace/warnings/Undo, solution acknowledgement and distinct safe Wilds plans pass"
+    },
+    {
+      "source": "scripts/test-invitation-decision.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Invitation decisions: three guest roads, two chosen seeds, invalid/unearned seed, reload, exact-once, old-save compatibility and no resource cost passed"
+    },
+    {
+      "source": "scripts/test-choice-and-return.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Choice and return: earned completion/old years, unfinished-play priority, unchanged intent/receipts, exact nonmutating lantern previews and validated human session observations pass."
+    },
+    {
+      "source": "scripts/test-save.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "callings (v3)\ncompanions (v7)\ncomplete (v1)\ncut (v5)\ndeep (v10)\nmid (v1)\nmidwalk (v1)\nnew (v1)\noverworld (v8)\nsweep (v6)\nwood (v9)\na walk under way at v8, ended by v9\na Heart's dream under way at v9, ended by v10\na Whisperwood walk under way at v9, its bonds and Wonders, by v10\ncorrupt and odd saves\n\n710/710 checks passed"
+    },
+    {
+      "source": "scripts/test-daily.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "[UTC] 1721/1721 checks passed\n  [Australia/Sydney] 1721/1721 checks passed\n  [America/New_York] 1721/1721 checks passed\n  [Pacific/Auckland] 1721/1721 checks passed\n  [America/St_Johns] 1721/1721 checks passed\ndaily: all checks passed in every time zone"
+    },
+    {
+      "source": "scripts/test-town-soundscape.ts",
+      "exit": 0,
+      "baselineKnownFailure": false,
+      "output": "Town soundscape: earned local water/hearth/grove, district birds, reload stability and three bounded care responses pass."
+    },
+    {
+      "source": "scripts/test-town-world-view.ts",
+      "exit": 1,
+      "baselineKnownFailure": true,
+      "output": "node:internal/modules/run_main:107\r\n    triggerUncaughtException(\r\n    ^\r\n\r\nAssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:\r\n+ actual - expected\r\n\r\n  [\r\n    'square',\r\n+   'meadow'\r\n  ]\r\n\r\n    at scripts/test-town-world-view.ts:10:8 {\r\n  generatedMessage: true,\r\n  code: 'ERR_ASSERTION',\r\n  actual: [ 'square', 'meadow' ],\r\n  expected: [ 'square' ],\r\n  operator: 'deepStrictEqual',\r\n  diff: 'simple'\r\n}\r\n\r\nNode.js v24.18.0"
+    }
+  ]
+}

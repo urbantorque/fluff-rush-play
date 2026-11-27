@@ -1,0 +1,116 @@
+{
+  "method": "Started from the normal game URL, collected the single offered calendar gift, closed the real tab, and reopened into the previously chosen Square. One ordinary touch at the Bakery basket entered the room. Rotated the same open room, used its helper in each orientation, then closed and reopened again.",
+  "file": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+  "giftOffered": "Collect 40 Petals",
+  "old": {
+    "wallet": 8135,
+    "day": 1,
+    "table": [
+      "town:bakery-table:yuzu:cart",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "before": {
+    "wallet": 8175,
+    "day": 2,
+    "table": [
+      "town:bakery-table:yuzu:cart",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "oneTouch": "[data-key=bun-basket]",
+  "rows": [
+    {
+      "width": 393,
+      "height": 852,
+      "title": true,
+      "bounds": [
+        22,
+        480,
+        350,
+        290
+      ],
+      "scrollWidth": 393,
+      "artPanelTop": 479.9375,
+      "artPanelLeft": 21.5,
+      "host": "Mochi’s table",
+      "action": "Pass it back"
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "title": true,
+      "bounds": [
+        12,
+        258,
+        296,
+        302
+      ],
+      "scrollWidth": 320,
+      "artPanelTop": 258.34375,
+      "artPanelLeft": 12,
+      "host": "Mochi’s table",
+      "action": "Pass the buns"
+    },
+    {
+      "width": 568,
+      "height": 320,
+      "title": true,
+      "bounds": [
+        317,
+        19,
+        244,
+        283
+      ],
+      "scrollWidth": 568,
+      "artPanelTop": 18.515625,
+      "artPanelLeft": 316.765625,
+      "host": "Mochi’s table",
+      "action": "Pass it back"
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "title": true,
+      "bounds": [
+        465,
+        428,
+        350,
+        290
+      ],
+      "scrollWidth": 1280,
+      "artPanelTop": 427.9375,
+      "artPanelLeft": 465,
+      "host": "Mochi’s table",
+      "action": "Pass the buns"
+    },
+    {
+      "width": 393,
+      "height": 852,
+      "title": true,
+      "bounds": [
+        22,
+        480,
+        350,
+        290
+      ],
+      "scrollWidth": 393,
+      "artPanelTop": 479.9375,
+      "artPanelLeft": 21.5,
+      "host": "Mochi’s table",
+      "action": "Pass it back"
+    }
+  ],
+  "after": {
+    "wallet": 8175,
+    "day": 2,
+    "table": [
+      "town:bakery-table:yuzu:cart",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "errors": []
+}

@@ -1,0 +1,22 @@
+{
+  "method": "Separate from the actual third choice. Start both editions and both input methods from the exact original earned fixture. Open the existing breakfast at the fountain, float the wrapper boat once using the native touch or keyboard control, confirm the repeat offer and verify ordinary roads, wallet, album and Daily stay unchanged.",
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "rows": [
+    {
+      "method": "touch",
+      "asset": "./assets/index-CCziZ-5V.js",
+      "accessibleName": "Float the boat by Suki’s cup",
+      "after": "Float it again. Suki’s pink paper boat.",
+      "wallet": 7682,
+      "errors": []
+    },
+    {
+      "method": "keyboard",
+      "asset": "./assets/index-CCziZ-5V.js",
+      "accessibleName": "Float the boat by Suki’s cup",
+      "after": "Float it again. Suki’s pink paper boat.",
+      "wallet": 7682,
+      "errors": []
+    }
+  ]
+}

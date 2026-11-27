@@ -1,0 +1,45 @@
+{
+  "method": "Each result and next decision starts on the same earned save with seed 317 and the same native steering contacts, at 393 by 852 and 1×. Results, ordinary rewards and the intended next targets are compared directly.",
+  "rows": [
+    {
+      "route": "breakfast",
+      "control": "clips/play-control-goal-breakfast.webm",
+      "candidate": "clips/play-candidate-goal-breakfast.webm",
+      "fixture": "docs/Fluff-Rush-long-play/evidence/weekly-pinned.json",
+      "deltas": [
+        66
+      ],
+      "hit": 4,
+      "originalTarget": 5,
+      "newTarget": 6,
+      "settledWallet": 6450
+    },
+    {
+      "route": "telescope",
+      "control": "clips/play-control-goal-telescope.webm",
+      "candidate": "clips/play-candidate-goal-telescope.webm",
+      "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "deltas": [
+        0,
+        62,
+        62,
+        0,
+        -125,
+        125,
+        -125,
+        125,
+        -125,
+        62,
+        62,
+        -125,
+        62,
+        62,
+        -125
+      ],
+      "hit": 9,
+      "originalTarget": 10,
+      "newTarget": 12,
+      "settledWallet": 8139
+    }
+  ]
+}

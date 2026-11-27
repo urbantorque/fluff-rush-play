@@ -1,0 +1,202 @@
+{"utc":"2026-11-27T12:59:52.382Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T12:59:52.661Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:00:32.197Z","event":"note","text":"Diagnosis. This fork of the blank save now has 30 campaign clears from the real-clock expert continuation. The Bakery is my only purchase. I am following the musician and story-reunion controls from partial ownership. These are assigned diagnostics."}
+{"utc":"2026-11-27T13:00:32.266Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T13:00:32.389Z","event":"input","line":"buttons","ms":123}
+{"utc":"2026-11-27T13:00:46.937Z","event":"input-error","line":"film giant-home","error":"page.waitForFunction: Timeout 10000ms exceeded."}
+{"utc":"2026-11-27T13:00:47.442Z","event":"input","line":"tap 195 743","ms":497}
+{"utc":"2026-11-27T13:00:47.588Z","event":"input","line":"read","ms":145}
+{"utc":"2026-11-27T13:00:47.777Z","event":"input","line":"buttons","ms":187}
+{"utc":"2026-11-27T13:00:55.117Z","event":"input","line":"read","ms":220}
+{"utc":"2026-11-27T13:00:55.261Z","event":"input","line":"buttons","ms":142}
+{"utc":"2026-11-27T13:01:00.935Z","event":"view","screen":"Build Tambo’s Band Stand","result":false}
+{"utc":"2026-11-27T13:01:01.068Z","event":"input","line":"tap 293 400","ms":318}
+{"utc":"2026-11-27T13:01:01.188Z","event":"input","line":"read","ms":117}
+{"utc":"2026-11-27T13:01:01.360Z","event":"input","line":"buttons","ms":169}
+{"utc":"2026-11-27T13:01:06.948Z","event":"note","text":"Diagnosis. Poppy, Mint, Plum and Honey already sit on the unbuilt plinth. Its card offers Hear the band before I pay anything. I choose to hear what the four have already earned."}
+{"utc":"2026-11-27T13:01:07.116Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:01:07.166Z","event":"input","line":"button Hear the band","ms":216}
+{"utc":"2026-11-27T13:01:10.363Z","event":"input","line":"watch 3","ms":3195}
+{"utc":"2026-11-27T13:01:10.413Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T13:01:10.480Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T13:01:18.030Z","event":"input","line":"read","ms":43}
+{"utc":"2026-11-27T13:01:18.101Z","event":"input","line":"buttons","ms":69}
+{"utc":"2026-11-27T13:01:22.454Z","event":"view","screen":"Build Tambo’s Band Stand","result":false}
+{"utc":"2026-11-27T13:01:22.649Z","event":"input","line":"tap 190 742","ms":289}
+{"utc":"2026-11-27T13:01:23.045Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:01:23.171Z","event":"input","line":"button Build for 180 Petals","ms":503}
+{"utc":"2026-11-27T13:01:30.698Z","event":"input","line":"watch 5","ms":7525}
+{"utc":"2026-11-27T13:01:30.763Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T13:01:30.831Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T13:01:42.129Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T13:01:42.195Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T13:01:47.079Z","event":"note","text":"Diagnosis. Paying 180 left 6707 and changed the plinth. No chimes exist on this save yet. I want to find what it would take to make the song from here."}
+{"utc":"2026-11-27T13:01:47.441Z","event":"input","line":"choice How to open Meadow Walk","ms":345}
+{"utc":"2026-11-27T13:01:47.468Z","event":"view","screen":"Open Meadow Walk","result":false}
+{"utc":"2026-11-27T13:01:47.534Z","event":"input","line":"read","ms":91}
+{"utc":"2026-11-27T13:01:47.635Z","event":"input","line":"buttons","ms":100}
+{"utc":"2026-11-27T13:02:01.864Z","event":"view","screen":"Build the bread counter","result":false}
+{"utc":"2026-11-27T13:02:01.932Z","event":"input","line":"choice ^Bakery Build the bread counter","ms":178}
+{"utc":"2026-11-27T13:02:01.997Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T13:02:02.063Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T13:02:06.583Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:02:06.628Z","event":"input","line":"button Upgrade for 140 Petals","ms":167}
+{"utc":"2026-11-27T13:02:10.878Z","event":"input","line":"watch 4","ms":4249}
+{"utc":"2026-11-27T13:02:11.011Z","event":"input","line":"choice How to open Meadow Walk","ms":132}
+{"utc":"2026-11-27T13:02:11.114Z","event":"view","screen":"Raise the music pavilion","result":false}
+{"utc":"2026-11-27T13:02:11.165Z","event":"input","line":"choice ^Band Stand Raise the music pavilion","ms":153}
+{"utc":"2026-11-27T13:02:11.544Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:02:11.599Z","event":"input","line":"button Upgrade for 160 Petals","ms":432}
+{"utc":"2026-11-27T13:02:15.914Z","event":"input","line":"watch 4","ms":4314}
+{"utc":"2026-11-27T13:02:16.014Z","event":"view","screen":"Open Meadow Walk","result":false}
+{"utc":"2026-11-27T13:02:16.062Z","event":"input","line":"choice How to open Meadow Walk","ms":147}
+{"utc":"2026-11-27T13:02:16.196Z","event":"view","screen":"Light the Lantern Workshop","result":false}
+{"utc":"2026-11-27T13:02:16.246Z","event":"input","line":"choice ^Workshop Light the Lantern Workshop","ms":183}
+{"utc":"2026-11-27T13:02:16.608Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:02:16.661Z","event":"input","line":"button Build for 240 Petals","ms":415}
+{"utc":"2026-11-27T13:02:20.935Z","event":"input","line":"watch 4","ms":4273}
+{"utc":"2026-11-27T13:02:21.011Z","event":"input","line":"read","ms":75}
+{"utc":"2026-11-27T13:02:21.081Z","event":"input","line":"buttons","ms":69}
+{"utc":"2026-11-27T13:04:57.720Z","event":"input-error","line":"read","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:05:03.116Z","event":"input-error","line":"buttons","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:05:06.610Z","event":"input-error","line":"choice ^Lantern Workshop, repair","error":"locator.boundingBox: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /^Lantern Workshop, repair/i }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T13:05:12.179Z","event":"input-error","line":"read","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:05:18.421Z","event":"input","line":"buttons","ms":6055}
+{"utc":"2026-11-27T13:05:48.388Z","event":"input","line":"buttons","ms":4276}
+{"utc":"2026-11-27T13:06:52.180Z","event":"input-error","line":"choice How to open Meadow Walk","error":"locator.boundingBox: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /How to open Meadow Walk/i }).last()\u001b[22m\n\u001b[2m    - locator resolved to visible <button class=\"hotspot\" data-key=\"path:meadow\" data-cy=\"540.193384"}
+{"utc":"2026-11-27T13:06:57.852Z","event":"input-error","line":"read","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:07:03.127Z","event":"input","line":"buttons","ms":5109}
+{"utc":"2026-11-27T13:07:58.007Z","event":"input","line":"buttons","ms":2340}
+{"utc":"2026-11-27T13:08:08.199Z","event":"note","text":"Diagnostic. Three restoration purchases made real progress toward Meadow Walk. I want to see what is available with the Band Stand restored before a chime song exists. Park this copy during the route survey."}
+{"utc":"2026-11-27T13:08:09.488Z","event":"leave"}
+{"utc":"2026-11-27T13:26:06.977Z","event":"view","screen":"","result":false}
+{"utc":"2026-11-27T13:26:07.119Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T13:26:07.271Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T13:26:07.399Z","event":"input","line":"return","ms":1153}
+{"utc":"2026-11-27T13:26:11.470Z","event":"input","line":"watch 3","ms":4064}
+{"utc":"2026-11-27T13:26:12.042Z","event":"input","line":"read","ms":529}
+{"utc":"2026-11-27T13:27:09.940Z","event":"input","line":"buttons","ms":57809}
+{"utc":"2026-11-27T13:27:10.349Z","event":"input","line":"read","ms":391}
+{"utc":"2026-11-27T13:27:11.787Z","event":"input","line":"buttons","ms":1135}
+{"utc":"2026-11-27T13:27:11.849Z","event":"note","text":"Diagnostic second sitting on the campaign copy of the original blank save. The calendar changed at local midnight. I choose to collect the 20 saved Petals and find out what the Band Stand offers before the Lookout exists."}
+{"utc":"2026-11-27T13:27:12.919Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:27:13.462Z","event":"input","line":"button Collect 20 Petals","ms":1590}
+{"utc":"2026-11-27T13:27:18.888Z","event":"input","line":"watch 2","ms":5418}
+{"utc":"2026-11-27T13:27:20.459Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T13:27:21.280Z","event":"input","line":"choice Band Stand, restoration and visits","ms":2379}
+{"utc":"2026-11-27T13:27:22.084Z","event":"input","line":"read","ms":768}
+{"utc":"2026-11-27T13:27:22.781Z","event":"input","line":"buttons","ms":660}
+{"utc":"2026-11-27T13:27:23.388Z","event":"input","line":"read","ms":583}
+{"utc":"2026-11-27T13:27:23.828Z","event":"input","line":"buttons","ms":423}
+{"utc":"2026-11-27T13:27:24.651Z","event":"input","line":"buttons","ms":807}
+{"utc":"2026-11-27T13:27:58.298Z","event":"note","text":"Diagnostic. The roster can be full before the Grove or any saved tune exists. Hear the band and Play together are available here. Keeping the existing quartet playable matters on a partially built Town."}
+{"utc":"2026-11-27T13:27:58.920Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:27:59.294Z","event":"input","line":"button Back","ms":983}
+{"utc":"2026-11-27T13:28:00.721Z","event":"input","line":"watch 1","ms":1418}
+{"utc":"2026-11-27T13:28:01.186Z","event":"view","screen":"Open Meadow Walk","result":false}
+{"utc":"2026-11-27T13:28:01.439Z","event":"input","line":"choice How to open Meadow Walk","ms":713}
+{"utc":"2026-11-27T13:28:01.762Z","event":"input","line":"read","ms":321}
+{"utc":"2026-11-27T13:28:02.112Z","event":"input","line":"buttons","ms":342}
+{"utc":"2026-11-27T13:28:15.118Z","event":"input","line":"buttons","ms":378}
+{"utc":"2026-11-27T13:28:18.580Z","event":"view","screen":"Build the glass workshop","result":false}
+{"utc":"2026-11-27T13:28:18.951Z","event":"input","line":"choice ^Workshop Build the glass workshop","ms":1114}
+{"utc":"2026-11-27T13:28:19.941Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:28:20.512Z","event":"input","line":"button Upgrade for 180 Petals","ms":1557}
+{"utc":"2026-11-27T13:28:27.971Z","event":"input","line":"watch 5","ms":7441}
+{"utc":"2026-11-27T13:28:28.554Z","event":"input","line":"read","ms":572}
+{"utc":"2026-11-27T13:28:29.352Z","event":"input","line":"buttons","ms":756}
+{"utc":"2026-11-27T13:28:30.053Z","event":"input","line":"read","ms":674}
+{"utc":"2026-11-27T13:28:30.756Z","event":"input","line":"buttons","ms":695}
+{"utc":"2026-11-27T13:28:34.797Z","event":"note","text":"Diagnostic. Buying the last 180-Petal workshop flower opened Meadow immediately. I want the ducks to have somewhere to land on Lantern River, so I choose to visit Meadow and look for the pond."}
+{"utc":"2026-11-27T13:28:35.893Z","event":"input","line":"choice ^Meadow Walk is open!","ms":1066}
+{"utc":"2026-11-27T13:28:40.116Z","event":"input","line":"watch 3","ms":4215}
+{"utc":"2026-11-27T13:28:40.333Z","event":"input","line":"read","ms":210}
+{"utc":"2026-11-27T13:28:40.686Z","event":"input","line":"buttons","ms":347}
+{"utc":"2026-11-27T13:28:46.013Z","event":"input","line":"read","ms":248}
+{"utc":"2026-11-27T13:28:46.346Z","event":"input","line":"buttons","ms":327}
+{"utc":"2026-11-27T13:28:48.890Z","event":"view","screen":"Bring back Lily Pond","result":false}
+{"utc":"2026-11-27T13:28:49.093Z","event":"input","line":"choice Bring back Lily Pond","ms":454}
+{"utc":"2026-11-27T13:28:49.291Z","event":"input","line":"read","ms":193}
+{"utc":"2026-11-27T13:28:49.487Z","event":"input","line":"buttons","ms":189}
+{"utc":"2026-11-27T13:28:51.900Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:28:51.968Z","event":"input","line":"button Build for 260 Petals","ms":306}
+{"utc":"2026-11-27T13:28:55.550Z","event":"input","line":"watch 3","ms":3574}
+{"utc":"2026-11-27T13:28:55.707Z","event":"input","line":"read","ms":153}
+{"utc":"2026-11-27T13:28:55.905Z","event":"input","line":"buttons","ms":192}
+{"utc":"2026-11-27T13:29:15.590Z","event":"input","line":"read","ms":180}
+{"utc":"2026-11-27T13:29:15.739Z","event":"input","line":"buttons","ms":147}
+{"utc":"2026-11-27T13:29:18.372Z","event":"view","screen":"Build the duck house","result":false}
+{"utc":"2026-11-27T13:29:18.481Z","event":"input","line":"choice Bring back Lily Pond","ms":297}
+{"utc":"2026-11-27T13:29:18.566Z","event":"input","line":"read","ms":85}
+{"utc":"2026-11-27T13:29:18.683Z","event":"input","line":"buttons","ms":116}
+{"utc":"2026-11-27T13:29:27.546Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:29:27.644Z","event":"input","line":"tap 189 730","ms":214}
+{"utc":"2026-11-27T13:29:27.719Z","event":"input","line":"read","ms":74}
+{"utc":"2026-11-27T13:29:27.833Z","event":"input","line":"buttons","ms":113}
+{"utc":"2026-11-27T13:29:30.399Z","event":"input","line":"button Lead the ducks","ms":270}
+{"utc":"2026-11-27T13:29:32.622Z","event":"input","line":"watch 2","ms":2222}
+{"utc":"2026-11-27T13:29:32.721Z","event":"input","line":"read","ms":96}
+{"utc":"2026-11-27T13:29:32.821Z","event":"input","line":"buttons","ms":96}
+{"utc":"2026-11-27T13:29:59.671Z","event":"input","line":"read","ms":151}
+{"utc":"2026-11-27T13:29:59.857Z","event":"input","line":"buttons","ms":181}
+{"utc":"2026-11-27T13:30:03.584Z","event":"note","text":"Diagnostic. A lilac lily already grows at Sunny bank from my earlier river clear before owning the pond. That is the kind of acknowledgement I wanted from the cart. I choose Reeds, then Lantern River to see whether the same old road now has a new destination."}
+{"utc":"2026-11-27T13:30:03.965Z","event":"input","line":"button Reeds","ms":371}
+{"utc":"2026-11-27T13:30:06.293Z","event":"input","line":"watch 2","ms":2326}
+{"utc":"2026-11-27T13:30:06.474Z","event":"input","line":"read","ms":175}
+{"utc":"2026-11-27T13:30:06.682Z","event":"input","line":"buttons","ms":201}
+{"utc":"2026-11-27T13:30:39.058Z","event":"input","line":"read","ms":365}
+{"utc":"2026-11-27T13:30:39.823Z","event":"input","line":"buttons","ms":757}
+{"utc":"2026-11-27T13:30:43.372Z","event":"view","road":"L9","phase":"walk","screen":"square","result":false,"crowd":24}
+{"utc":"2026-11-27T13:30:43.769Z","event":"input","line":"button Replay Lantern River","ms":1788}
+{"utc":"2026-11-27T13:30:45.177Z","event":"input","line":"watch 1","ms":1391}
+{"utc":"2026-11-27T13:30:45.648Z","event":"input","line":"read","ms":456}
+{"utc":"2026-11-27T13:30:47.210Z","event":"input","line":"buttons","ms":1540}
+{"utc":"2026-11-27T13:30:49.685Z","event":"input","line":"read","ms":434}
+{"utc":"2026-11-27T13:30:50.286Z","event":"input","line":"buttons","ms":584}
+{"utc":"2026-11-27T13:30:53.029Z","event":"input","line":"right 210","ms":893}
+{"utc":"2026-11-27T13:30:55.811Z","event":"input","line":"watch 2","ms":2771}
+{"utc":"2026-11-27T13:30:56.070Z","event":"input","line":"read","ms":247}
+{"utc":"2026-11-27T13:30:59.194Z","event":"input","line":"left 290","ms":1701}
+{"utc":"2026-11-27T13:31:06.974Z","event":"input","line":"watch 4","ms":7761}
+{"utc":"2026-11-27T13:31:08.242Z","event":"input","line":"read","ms":1250}
+{"utc":"2026-11-27T13:31:13.227Z","event":"input","line":"read","ms":651}
+{"utc":"2026-11-27T13:31:13.491Z","event":"input","line":"buttons","ms":253}
+{"utc":"2026-11-27T13:31:23.256Z","event":"input","line":"watch 6","ms":7633}
+{"utc":"2026-11-27T13:31:23.788Z","event":"input","line":"read","ms":516}
+{"utc":"2026-11-27T13:31:24.193Z","event":"input","line":"buttons","ms":395}
+{"utc":"2026-11-27T13:31:29.694Z","event":"view","road":"L9","phase":"finale","screen":"square","result":false,"crowd":1991}
+{"utc":"2026-11-27T13:31:35.475Z","event":"view","road":"L9","phase":"done","screen":"1,991 friends home!","result":true,"crowd":1991}
+{"utc":"2026-11-27T13:31:35.593Z","event":"result","text":"Parade size\n1,991\nParade of 1991 reached the end.\n1,991 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\nMeet the ducks beside the flower beyond the last gate.\n\nRoad report\nReplay to meet the ducks"}
+{"utc":"2026-11-27T13:31:37.908Z","event":"input","line":"read","ms":349}
+{"utc":"2026-11-27T13:31:38.588Z","event":"input","line":"buttons","ms":672}
+{"utc":"2026-11-27T13:31:45.563Z","event":"note","text":"Diagnostic. Both crews boarded, 146 left and 16 right, but I missed my chosen reed-bed flower. The result says to meet the ducks beside the flower beyond the last gate. I choose one more try for the already chosen reeds and will look past the last gate rather than holding left throughout."}
+{"utc":"2026-11-27T13:31:45.981Z","event":"view","road":"L9","phase":"walk","screen":"square","result":false,"crowd":24}
+{"utc":"2026-11-27T13:31:46.145Z","event":"input","line":"button Replay to meet the ducks","ms":578}
+{"utc":"2026-11-27T13:31:49.582Z","event":"input","line":"watch 3","ms":3432}
+{"utc":"2026-11-27T13:31:49.739Z","event":"input","line":"read","ms":145}
+{"utc":"2026-11-27T13:31:55.484Z","event":"input","line":"read","ms":602}
+{"utc":"2026-11-27T13:31:59.396Z","event":"input","line":"right 215","ms":1054}
+{"utc":"2026-11-27T13:32:08.462Z","event":"input","line":"watch 6","ms":9057}
+{"utc":"2026-11-27T13:32:09.252Z","event":"input","line":"read","ms":759}
+{"utc":"2026-11-27T13:32:09.882Z","event":"input","line":"read","ms":615}
+{"utc":"2026-11-27T13:32:11.634Z","event":"input","line":"left 149","ms":714}
+{"utc":"2026-11-27T13:32:15.415Z","event":"input","line":"watch 3","ms":3766}
+{"utc":"2026-11-27T13:32:15.683Z","event":"input","line":"read","ms":260}
+{"utc":"2026-11-27T13:32:19.959Z","event":"input","line":"left 32","ms":560}
+{"utc":"2026-11-27T13:32:22.577Z","event":"view","road":"L9","phase":"finale","screen":"square","result":false,"crowd":1799}
+{"utc":"2026-11-27T13:32:23.734Z","event":"input","line":"watch 3","ms":3755}
+{"utc":"2026-11-27T13:32:24.025Z","event":"input","line":"read","ms":287}
+{"utc":"2026-11-27T13:32:24.325Z","event":"input","line":"buttons","ms":295}
+{"utc":"2026-11-27T13:32:25.099Z","event":"view","road":"L9","phase":"done","screen":"1,799 friends home!","result":true,"crowd":1799}
+{"utc":"2026-11-27T13:32:25.162Z","event":"result","text":"Parade size\n1,799\nMeet the ducks on the left.The ducks are bringing a lily home.Parade of 1799 reached the end.\n1,799 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\n2 stars at 2,500 friends home\n\nTotal Petals\nIncludes 31 from the Workshop and 3 from Meadow\n+62 \nRoad report\n\nThe ducks brought a river lily home.\n\nVisit your river lily\nPlay Starfall Parade\nReplay road"}
+{"utc":"2026-11-27T13:32:26.711Z","event":"input","line":"read","ms":203}
+{"utc":"2026-11-27T13:32:26.893Z","event":"input","line":"buttons","ms":176}
+{"utc":"2026-11-27T13:32:31.316Z","event":"note","text":"Diagnostic. This time I crossed back after the rafts and made two small left adjustments near the last gate. The ducks brought a lily home. The river result still describes both groups. The meaningful repeat was lining up for the flower, which changed the place I had picked in town."}
+{"utc":"2026-11-27T13:32:31.747Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:32:31.889Z","event":"input","line":"button Visit your river lily","ms":567}
+{"utc":"2026-11-27T13:32:35.381Z","event":"input","line":"watch 3","ms":3481}
+{"utc":"2026-11-27T13:32:35.542Z","event":"input","line":"read","ms":160}
+{"utc":"2026-11-27T13:32:35.738Z","event":"input","line":"buttons","ms":190}
+{"utc":"2026-11-27T13:33:24.006Z","event":"input","line":"read","ms":298}
+{"utc":"2026-11-27T13:33:24.226Z","event":"input","line":"buttons","ms":216}
+{"utc":"2026-11-27T13:33:24.479Z","event":"leave"}

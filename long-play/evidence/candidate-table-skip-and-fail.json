@@ -1,0 +1,329 @@
+{
+  "method": "Three independent normal-speed runs. Reproduced the control’s Snow Giant failure using the existing bad-steering diagnostic on its original L29 checkpoint, with an actual raincoat plan. On two young saves, used native touch to bring the Drizzle cart while a raincoat setting waited and select Next road, then replayed an ordinary Drizzle after both groups had been seated. Reopened from the normal entry.",
+  "rows": [
+    {
+      "mode": "fail",
+      "file": ".tmp/long-play/table-plans/table9-giant-hood.json",
+      "started": "2026-11-27T16:32:47.421Z",
+      "ended": "2026-11-27T16:33:19.780Z",
+      "approach": {
+        "leader": "suki",
+        "firstRows": [
+          {
+            "d": 1120,
+            "lanes": [
+              {
+                "op": "+",
+                "v": 60
+              },
+              {
+                "op": "x",
+                "v": 2
+              }
+            ]
+          },
+          {
+            "d": 3100,
+            "lanes": [
+              {
+                "op": "x",
+                "v": 3
+              },
+              {
+                "op": "+",
+                "v": 60
+              }
+            ]
+          },
+          {
+            "d": 3397.5,
+            "lanes": [
+              {
+                "op": "+",
+                "v": 60
+              },
+              {
+                "op": "x",
+                "v": 3
+              }
+            ]
+          }
+        ]
+      },
+      "before": {
+        "wallet": 6579,
+        "table": [
+          "town:bakery-table:matcha:hood"
+        ],
+        "l4": {
+          "stars": 1,
+          "best": 800,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 9,
+            "leaders": {
+              "tambo": {
+                "best": 800,
+                "stars": 1,
+                "last": 800,
+                "plays": 1
+              }
+            }
+          }
+        }
+      },
+      "first": "Nap time!\n\nThe wall needed 851 more friends.\n\nPetals kept\n30\n\nRoad rewards\nCrossing practice\n\nAt gate rows 5 and 6, try +900 then ×3 in place of ×3 then +900. That choice was worth 1,800 more friends there.\n\nTry The Snow Giant's Hill again\nMap",
+      "after": {
+        "wallet": 6609,
+        "table": [
+          "town:bakery-table:matcha:hood"
+        ],
+        "l4": {
+          "stars": 1,
+          "best": 800,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 9,
+            "leaders": {
+              "tambo": {
+                "best": 800,
+                "stars": 1,
+                "last": 800,
+                "plays": 1
+              }
+            }
+          }
+        }
+      },
+      "hasTableAction": 0,
+      "next": "Parade size\n0\nFriends woken this run: 5\n5 woken\nThe parade rests.\nNap time!\n\nThe wall needed 851 more friends.\n\nPetals kept\n30\n\nRoad rewards\nCrossing practice\n\nAt gate rows 5 and 6, try +900 then ×3 in place of ×3 then +900. That choice was worth 1,800 more friends there.\n\nTry The Snow Giant's Hill again\nMap",
+      "saved": {
+        "wallet": 6609,
+        "table": [
+          "town:bakery-table:matcha:hood"
+        ]
+      }
+    },
+    {
+      "mode": "skip",
+      "file": ".tmp/long-play/table-plans/prototype-early-hood.json",
+      "started": "2026-11-27T16:33:19.949Z",
+      "ended": "2026-11-27T16:33:59.611Z",
+      "approach": {
+        "cue": "Keep the last yellow hood under the left awning.",
+        "leader": "tambo",
+        "firstRows": [
+          {
+            "d": 800,
+            "lanes": [
+              {
+                "op": "+",
+                "v": 15
+              },
+              {
+                "op": "x",
+                "v": 2
+              }
+            ]
+          },
+          {
+            "d": 2025,
+            "lanes": [
+              {
+                "op": "+",
+                "v": 6
+              },
+              {
+                "op": "x",
+                "v": 3
+              }
+            ]
+          },
+          {
+            "d": 2237.5,
+            "lanes": [
+              {
+                "op": "x",
+                "v": 3
+              },
+              {
+                "op": "+",
+                "v": 6
+              }
+            ]
+          }
+        ]
+      },
+      "before": {
+        "wallet": 377,
+        "table": [
+          "town:bakery-table:matcha:hood"
+        ],
+        "l4": {
+          "stars": 0,
+          "best": 0,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0
+        }
+      },
+      "first": "792 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 20 from Runaway\n+120 \nRoad report\nBack to Clover’s table\nThe dry corner is still set.\nNext road",
+      "after": {
+        "wallet": 497,
+        "table": [
+          "town:bakery-table:matcha:hood"
+        ],
+        "l4": {
+          "stars": 1,
+          "best": 792,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 9,
+            "leaders": {
+              "tambo": {
+                "best": 792,
+                "stars": 1,
+                "last": 792,
+                "plays": 1
+              }
+            }
+          }
+        }
+      },
+      "hasTableAction": 1,
+      "next": "Petals\n377\n2\n gifts!\nFriends\n16\nDaily\nParade\nTown\nRoad 5\nSeedfall Road",
+      "saved": {
+        "wallet": 497,
+        "table": [
+          "town:bakery-table:matcha:hood"
+        ]
+      }
+    },
+    {
+      "mode": "already-seated",
+      "file": ".tmp/long-play/table-prototype/both-hood-home-save.json",
+      "started": "2026-11-27T16:33:59.768Z",
+      "ended": "2026-11-27T16:34:33.434Z",
+      "approach": {
+        "leader": "tambo",
+        "firstRows": [
+          {
+            "d": 800,
+            "lanes": [
+              {
+                "op": "+",
+                "v": 15
+              },
+              {
+                "op": "x",
+                "v": 2
+              }
+            ]
+          },
+          {
+            "d": 2025,
+            "lanes": [
+              {
+                "op": "+",
+                "v": 6
+              },
+              {
+                "op": "x",
+                "v": 3
+              }
+            ]
+          },
+          {
+            "d": 2237.5,
+            "lanes": [
+              {
+                "op": "x",
+                "v": 3
+              },
+              {
+                "op": "+",
+                "v": 6
+              }
+            ]
+          }
+        ]
+      },
+      "before": {
+        "wallet": 662,
+        "table": [
+          "town:bakery-table:matcha:hood",
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "l4": {
+          "stars": 2,
+          "best": 2043,
+          "plays": 4,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 9,
+            "leaders": {
+              "tambo": {
+                "best": 2043,
+                "stars": 2,
+                "last": 792,
+                "previous": 2043,
+                "plays": 3
+              }
+            }
+          }
+        }
+      },
+      "first": "792 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 8 from Runaway\n+52 \nRoad report\nView Bakery\nUpgrade cost · 140 Petals\nNext road\nReplay road",
+      "after": {
+        "wallet": 714,
+        "table": [
+          "town:bakery-table:matcha:hood",
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "l4": {
+          "stars": 2,
+          "best": 2043,
+          "plays": 4,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 9,
+            "leaders": {
+              "tambo": {
+                "best": 2043,
+                "stars": 2,
+                "last": 792,
+                "previous": 792,
+                "plays": 4
+              }
+            }
+          }
+        }
+      },
+      "hasTableAction": 0,
+      "next": "Parade size\n792\nFriends woken this run: 3\n3 woken\nCrowd recovered.Parade of 792 reached the end.\n792 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 8 from Runaway\n+52 \nRoad report\nView Bakery\nUpgrade cost · 140 Petals\nNext road\nReplay road",
+      "saved": {
+        "wallet": 714,
+        "table": [
+          "town:bakery-table:matcha:hood",
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ]
+      }
+    }
+  ]
+}

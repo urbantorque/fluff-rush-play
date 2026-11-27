@@ -1,0 +1,53 @@
+{
+  "method": "The earlier native Seedfall outing brought Mochi to Clover’s already occupied table. Leave the original seating intact, then touch Let Mochi host and reopen the actual tab.",
+  "fixture": ".tmp/long-play/host-seat-change/mochi-return-save.json",
+  "before": {
+    "wallet": 812,
+    "heading": "Clover’s table",
+    "place": "town:bakery-table:matcha:hood",
+    "returning": "town:bun-outing:yuzu:L5",
+    "welcomes": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ],
+    "guests": [
+      "breakfast:guest:cart",
+      "breakfast:guest:fig",
+      "breakfast:guest:hood",
+      "breakfast:guest:painters"
+    ]
+  },
+  "after": {
+    "wallet": 812,
+    "heading": "Mochi’s table",
+    "place": "town:bakery-table:yuzu:hood",
+    "returning": "town:bun-outing:yuzu:L5",
+    "welcomes": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ],
+    "guests": [
+      "breakfast:guest:cart",
+      "breakfast:guest:fig",
+      "breakfast:guest:hood",
+      "breakfast:guest:painters"
+    ]
+  },
+  "reopened": {
+    "wallet": 812,
+    "heading": "Mochi’s table",
+    "place": "town:bakery-table:yuzu:hood",
+    "returning": "town:bun-outing:yuzu:L5",
+    "welcomes": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ],
+    "guests": [
+      "breakfast:guest:cart",
+      "breakfast:guest:fig",
+      "breakfast:guest:hood",
+      "breakfast:guest:painters"
+    ]
+  },
+  "errors": []
+}

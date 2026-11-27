@@ -1,0 +1,173 @@
+{
+  "method": "Second opening control taken from the choices on the separate fresh candidate evaluation. Same blank profile, seed, normal touch, motion, original sound and scheduled input times. Left and right are physical CSS-pixel drag distances. Both ordinary result, friend and purchase states match. Actual dispatch times can vary with browser scheduling.",
+  "maxDispatchDifferenceMs": 10,
+  "walletBeforePurchase": 185,
+  "price": 100,
+  "walletAfterPurchase": 85,
+  "home": 174,
+  "stars": 3,
+  "fig": [
+    "town:fig-at-bakery",
+    "breakfast:last:L1:fig"
+  ],
+  "original": {
+    "film": "clips/play-control-fig-first-opening.webm",
+    "duration": 30.714100122451782,
+    "marks": {
+      "result": 0.002,
+      "bakery": 1.878,
+      "basket": 18.633,
+      "nextDecision": 26.067
+    },
+    "fullInputs": [
+      {
+        "line": "tap 192 751",
+        "requestedMs": 3,
+        "actualMs": 5
+      },
+      {
+        "line": "right 135",
+        "requestedMs": 395,
+        "actualMs": 444
+      },
+      {
+        "line": "left 240",
+        "requestedMs": 4978,
+        "actualMs": 4979
+      },
+      {
+        "line": "right 234",
+        "requestedMs": 11826,
+        "actualMs": 11837
+      },
+      {
+        "line": "button Visit the Bakery",
+        "requestedMs": 33787,
+        "actualMs": 33792
+      },
+      {
+        "line": "button Reopen for 100 Petals",
+        "requestedMs": 34161,
+        "actualMs": 34169
+      },
+      {
+        "line": "tap 268 490",
+        "requestedMs": 47010,
+        "actualMs": 47012
+      },
+      {
+        "line": "button Share the first bun",
+        "requestedMs": 51162,
+        "actualMs": 51172
+      },
+      {
+        "line": "button Berry",
+        "requestedMs": 58613,
+        "actualMs": 58613
+      }
+    ],
+    "clipInputs": [
+      {
+        "line": "button Visit the Bakery",
+        "seconds": 1.133
+      },
+      {
+        "line": "button Reopen for 100 Petals",
+        "seconds": 1.51
+      },
+      {
+        "line": "tap 268 490",
+        "seconds": 14.364
+      },
+      {
+        "line": "button Share the first bun",
+        "seconds": 18.514
+      },
+      {
+        "line": "button Berry",
+        "seconds": 25.963
+      }
+    ],
+    "still": "evidence/control-fig-first-berry.jpg"
+  },
+  "revised": {
+    "film": "clips/play-candidate-fig-first-opening.webm",
+    "duration": 30.709800004959106,
+    "marks": {
+      "result": 0.01,
+      "bakery": 1.848,
+      "basket": 18.63,
+      "nextDecision": 26.076
+    },
+    "fullInputs": [
+      {
+        "line": "tap 192 751",
+        "requestedMs": 3,
+        "actualMs": 13
+      },
+      {
+        "line": "right 135",
+        "requestedMs": 395,
+        "actualMs": 454
+      },
+      {
+        "line": "left 240",
+        "requestedMs": 4978,
+        "actualMs": 4988
+      },
+      {
+        "line": "right 234",
+        "requestedMs": 11826,
+        "actualMs": 11831
+      },
+      {
+        "line": "button Visit the Bakery",
+        "requestedMs": 33787,
+        "actualMs": 33792
+      },
+      {
+        "line": "button Reopen for 100 Petals",
+        "requestedMs": 34161,
+        "actualMs": 34163
+      },
+      {
+        "line": "tap 268 490",
+        "requestedMs": 47010,
+        "actualMs": 47020
+      },
+      {
+        "line": "button Share the first bun",
+        "requestedMs": 51162,
+        "actualMs": 51165
+      },
+      {
+        "line": "button Berry",
+        "requestedMs": 58613,
+        "actualMs": 58616
+      }
+    ],
+    "clipInputs": [
+      {
+        "line": "button Visit the Bakery",
+        "seconds": 1.144
+      },
+      {
+        "line": "button Reopen for 100 Petals",
+        "seconds": 1.507
+      },
+      {
+        "line": "tap 268 490",
+        "seconds": 14.364
+      },
+      {
+        "line": "button Share the first bun",
+        "seconds": 18.509
+      },
+      {
+        "line": "button Berry",
+        "seconds": 25.961
+      }
+    ],
+    "still": "evidence/candidate-fig-first-berry.jpg"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "method": "Three independent seeks per chapter comparing decoded reel images to corresponding original timestamps. Mean absolute per-channel differences on a 79×170 sample.",
+  "result": {
+    "width": 393,
+    "height": 852,
+    "duration": 88.93
+  },
+  "checks": [
+    {
+      "source": "play-control-town",
+      "meanAbsoluteRgbError": [
+        0.5,
+        0.43,
+        0.55
+      ]
+    },
+    {
+      "source": "play-candidate-town",
+      "meanAbsoluteRgbError": [
+        0.54,
+        0.43,
+        0.55
+      ]
+    },
+    {
+      "source": "play-control-cart-home",
+      "meanAbsoluteRgbError": [
+        4.18,
+        1.26,
+        1.08
+      ]
+    },
+    {
+      "source": "play-control-cart-home",
+      "meanAbsoluteRgbError": [
+        0.5,
+        0.34,
+        0.36
+      ]
+    },
+    {
+      "source": "play-candidate-cart-home",
+      "meanAbsoluteRgbError": [
+        1.35,
+        1.17,
+        1.09
+      ]
+    },
+    {
+      "source": "play-candidate-cart-home",
+      "meanAbsoluteRgbError": [
+        0.58,
+        0.37,
+        0.51
+      ]
+    },
+    {
+      "source": "play-candidate-hood-home",
+      "meanAbsoluteRgbError": [
+        1.11,
+        1.18,
+        1.1
+      ]
+    },
+    {
+      "source": "play-candidate-hood-home",
+      "meanAbsoluteRgbError": [
+        0.58,
+        0.37,
+        0.39
+      ]
+    },
+    {
+      "source": "play-candidate-river-hood",
+      "meanAbsoluteRgbError": [
+        0.73,
+        0.55,
+        0.79
+      ]
+    },
+    {
+      "source": "play-candidate-river-hood",
+      "meanAbsoluteRgbError": [
+        0.61,
+        0.42,
+        0.38
+      ]
+    },
+    {
+      "source": "play-candidate-occupied-393x852",
+      "meanAbsoluteRgbError": [
+        1.18,
+        0.38,
+        0.96
+      ]
+    },
+    {
+      "source": "play-control-compose-221",
+      "meanAbsoluteRgbError": [
+        3.12,
+        0.88,
+        0.37
+      ]
+    },
+    {
+      "source": "play-candidate-rehearse-221",
+      "meanAbsoluteRgbError": [
+        0.54,
+        0.85,
+        1.33
+      ]
+    },
+    {
+      "source": "play-candidate-rehearse-020",
+      "meanAbsoluteRgbError": [
+        0.46,
+        0.91,
+        0.7
+      ]
+    },
+    {
+      "source": "play-candidate-rehearse-11111111",
+      "meanAbsoluteRgbError": [
+        1,
+        0.68,
+        0.97
+      ]
+    }
+  ]
+}

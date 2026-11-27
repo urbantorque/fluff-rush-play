@@ -1,0 +1,16 @@
+{
+  "method": "Pressed Play in a fresh phone-sized Chromium window, with original sound enabled and no seeking. Compared the actual elapsed wall time to the end time reported by the media element.",
+  "sha256": "eb9d980cff8f7f1148b7d32a216c151fd6e4f145ede15df9021925a9279c9d54",
+  "result": {
+    "start": "2026-11-27T16:51:26.856Z",
+    "finish": "2026-11-27T16:52:56.281Z",
+    "wall": 89.42490000003576,
+    "media": 88.93,
+    "duration": 88.93,
+    "playbackRate": 1,
+    "muted": false,
+    "frames": 2663,
+    "dropped": 0,
+    "waitingAt": []
+  }
+}

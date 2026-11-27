@@ -1,0 +1,732 @@
+{
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "method": "Ordinary navigation on an earned save. Normal clock. Desktop keys, mobile touch; note where a map hotspot was focused by keyboard. Images are local working evidence.",
+  "rows": [
+    {
+      "size": "393x852",
+      "input": "touch (map and building hotspots focused by keyboard)",
+      "panels": [
+        {
+          "label": "map",
+          "title": "map",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Parade size 0\n          Festival Tre"
+        },
+        {
+          "label": "daily",
+          "title": "Daily Parade",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            24,
+            361,
+            812
+          ],
+          "actions": [
+            "Gentle",
+            "Grand",
+            null,
+            "Previous month",
+            "Next month",
+            "Saturday 28 Nov, today's parade",
+            "Play Grand",
+            "Back"
+          ],
+          "focus": "Play Grand"
+        },
+        {
+          "label": "wardrobe",
+          "title": "Wardrobe",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            137,
+            361,
+            699
+          ],
+          "actions": [
+            "Hats",
+            "Styles",
+            "Effects",
+            "Decor",
+            "Preview uncollected",
+            "Strawberry Beret\nhat. Press to wear it.",
+            "Rain Hood\nWearing\nhat. Press to take it off.",
+            "Lantern Cap\nhat. Press to wear it.",
+            "Market Bonnet\nhat. Press to wear it.",
+            "Wool Beanie\nhat. Press to wear it.",
+            "Preview sets",
+            "Back"
+          ],
+          "focus": "Hats"
+        },
+        {
+          "label": "album",
+          "title": "Friends you’ve met",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            24,
+            361,
+            812
+          ],
+          "actions": [
+            "Back"
+          ],
+          "focus": "Friends you’ve met\n    \n    9 of 9 f"
+        },
+        {
+          "label": "settings",
+          "title": "Settings",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            383,
+            361,
+            453
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Done"
+          ],
+          "focus": "Done"
+        },
+        {
+          "label": "storybook",
+          "title": "Story so far",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            626,
+            361,
+            209
+          ],
+          "actions": [
+            null,
+            "Back"
+          ],
+          "focus": "A cup for Pip"
+        },
+        {
+          "label": "drizzle-card",
+          "title": "Drizzle Dell",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            385,
+            361,
+            451
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Hat: Rain Hood. Press for the next hat.",
+            "Trail: No trail. Press for the next trail.",
+            "Replay road",
+            "Back"
+          ],
+          "focus": "Replay road"
+        },
+        {
+          "label": "leader",
+          "title": "Drizzle Dell",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            93,
+            361,
+            743
+          ],
+          "actions": [
+            "Pip · Huddle\nProtect the whole crowd for 1 second. Huddle just before impact.",
+            "Tambo · Drum Call\nCall sleepers across every lane.\nGather 3 together to drum again sooner. Double gains at + gates.",
+            "Suits this road\nOtto · Umbrella\nOpen on a bridge to cover the last walker across.\nRain cover lasts 3.6 seconds. × gates stop at ×3.",
+            "Suki · Treat Toss\nToss to bring friends back from a stall or a cat.\nAll from a stall. Half from a recent cat sweep, once per cat.",
+            "Wren · Lantern Call\nRead tricky gates and draw nearby sleepers to the light.\nFor 3 seconds, lit ice is safe to steer across.",
+            "Replay road",
+            "Back"
+          ],
+          "focus": "Tambo · Drum CallChange leader"
+        },
+        {
+          "label": "road-hud",
+          "title": "map",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Parade size 13\n          Festival Tr"
+        },
+        {
+          "label": "pause",
+          "title": "Paused",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            226,
+            361,
+            399
+          ],
+          "actions": [
+            "Sound effects",
+            "Music",
+            "Resume",
+            "Restart road",
+            "Leave for Town"
+          ],
+          "focus": "Resume"
+        },
+        {
+          "label": "bakery-upgrade",
+          "title": "Bakery",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            16,
+            385,
+            361,
+            451
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Share buns",
+            "Play a road",
+            "Back"
+          ],
+          "focus": "Share buns"
+        },
+        {
+          "label": "basket",
+          "title": "Warm buns for everyone",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Berry"
+        },
+        {
+          "label": "back-to-town",
+          "title": "square",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Share buns at the Bakery"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "size": "568x320",
+      "input": "touch (map and building hotspots focused by keyboard)",
+      "panels": [
+        {
+          "label": "map",
+          "title": "map",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Parade size 0\n          Festival Tre"
+        },
+        {
+          "label": "daily",
+          "title": "Daily Parade",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            8,
+            552,
+            304
+          ],
+          "actions": [
+            "Gentle",
+            "Grand",
+            null,
+            "Previous month",
+            "Next month",
+            "Saturday 28 Nov, today's parade",
+            "Play Grand",
+            "Back"
+          ],
+          "focus": "Play Grand"
+        },
+        {
+          "label": "wardrobe",
+          "title": "Wardrobe",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            8,
+            552,
+            304
+          ],
+          "actions": [
+            "Hats",
+            "Styles",
+            "Effects",
+            "Decor",
+            "Preview uncollected",
+            "Strawberry Beret\nhat. Press to wear it.",
+            "Rain Hood\nWearing\nhat. Press to take it off.",
+            "Lantern Cap\nhat. Press to wear it.",
+            "Market Bonnet\nhat. Press to wear it.",
+            "Wool Beanie\nhat. Press to wear it.",
+            "Preview sets",
+            "Back"
+          ],
+          "focus": "Wardrobe\n\n    Tambo’s outfit · Rain "
+        },
+        {
+          "label": "album",
+          "title": "Friends you’ve met",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            8,
+            552,
+            304
+          ],
+          "actions": [
+            "Back"
+          ],
+          "focus": "Friends you’ve met\n    \n    9 of 9 f"
+        },
+        {
+          "label": "settings",
+          "title": "Settings",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            8,
+            552,
+            304
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Done"
+          ],
+          "focus": "Done"
+        },
+        {
+          "label": "storybook",
+          "title": "Story so far",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            75,
+            552,
+            171
+          ],
+          "actions": [
+            null,
+            "Back"
+          ],
+          "focus": "A cup for Pip"
+        },
+        {
+          "label": "drizzle-card",
+          "title": "Drizzle Dell",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            8,
+            552,
+            304
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Hat: Rain Hood. Press for the next hat.",
+            "Trail: No trail. Press for the next trail.",
+            "Replay road",
+            "Back"
+          ],
+          "focus": "Replay road"
+        },
+        {
+          "label": "leader",
+          "title": "Drizzle Dell",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            8,
+            552,
+            304
+          ],
+          "actions": [
+            "Pip · Huddle\nProtect the whole crowd for 1 second. Huddle just before impact.",
+            "Tambo · Drum Call\nCall sleepers across every lane.\nGather 3 together to drum again sooner. Double gains at + gates.",
+            "Suits this road\nOtto · Umbrella\nOpen on a bridge to cover the last walker across.\nRain cover lasts 3.6 seconds. × gates stop at ×3.",
+            "Suki · Treat Toss\nToss to bring friends back from a stall or a cat.\nAll from a stall. Half from a recent cat sweep, once per cat.",
+            "Wren · Lantern Call\nRead tricky gates and draw nearby sleepers to the light.\nFor 3 seconds, lit ice is safe to steer across.",
+            "Replay road",
+            "Back"
+          ],
+          "focus": "Tambo · Drum CallChange leader"
+        },
+        {
+          "label": "road-hud",
+          "title": "map",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Parade size 13\n          Festival Tr"
+        },
+        {
+          "label": "pause",
+          "title": "Paused",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            8,
+            36,
+            552,
+            248
+          ],
+          "actions": [
+            "Sound effects",
+            "Music",
+            "Resume",
+            "Restart road",
+            "Leave for Town"
+          ],
+          "focus": "Resume"
+        },
+        {
+          "label": "bakery-upgrade",
+          "title": "Bakery",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            34,
+            8,
+            500,
+            304
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Share buns",
+            "Play a road",
+            "Back"
+          ],
+          "focus": "Share buns"
+        },
+        {
+          "label": "basket",
+          "title": "Warm buns for everyone",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Berry"
+        },
+        {
+          "label": "back-to-town",
+          "title": "square",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Share buns at the Bakery"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "size": "1280x800",
+      "input": "keyboard",
+      "panels": [
+        {
+          "label": "map",
+          "title": "map",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Parade size 0\n          Festival Tre"
+        },
+        {
+          "label": "daily",
+          "title": "Daily Parade",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            24,
+            460,
+            760
+          ],
+          "actions": [
+            "Gentle",
+            "Grand",
+            null,
+            "Previous month",
+            "Next month",
+            "Saturday 28 Nov, today's parade",
+            "Play Grand",
+            "Back"
+          ],
+          "focus": "Play Grand"
+        },
+        {
+          "label": "wardrobe",
+          "title": "Wardrobe",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            95,
+            460,
+            689
+          ],
+          "actions": [
+            "Hats",
+            "Styles",
+            "Effects",
+            "Decor",
+            "Preview uncollected",
+            "Strawberry Beret\nhat. Press to wear it.",
+            "Rain Hood\nWearing\nhat. Press to take it off.",
+            "Lantern Cap\nhat. Press to wear it.",
+            "Market Bonnet\nhat. Press to wear it.",
+            "Wool Beanie\nhat. Press to wear it.",
+            "Preview sets",
+            "Back"
+          ],
+          "focus": "Hats"
+        },
+        {
+          "label": "album",
+          "title": "Friends you’ve met",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            21,
+            461,
+            761
+          ],
+          "actions": [
+            "Back"
+          ],
+          "focus": "Friends you’ve met\n    \n    9 of 9 f"
+        },
+        {
+          "label": "settings",
+          "title": "Settings",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            331,
+            460,
+            453
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Done"
+          ],
+          "focus": "Done"
+        },
+        {
+          "label": "storybook",
+          "title": "Story so far",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            409,
+            573,
+            461,
+            209
+          ],
+          "actions": [
+            null,
+            "Back"
+          ],
+          "focus": "A cup for Pip"
+        },
+        {
+          "label": "drizzle-card",
+          "title": "Drizzle Dell",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            160,
+            460,
+            478
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Hat: Rain Hood. Press for the next hat.",
+            "Trail: No trail. Press for the next trail.",
+            "Replay road",
+            "Back"
+          ],
+          "focus": "Replay road"
+        },
+        {
+          "label": "leader",
+          "title": "Drizzle Dell",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            73,
+            460,
+            655
+          ],
+          "actions": [
+            "Pip · Huddle\nProtect the whole crowd for 1 second. Huddle just before impact.",
+            "Tambo · Drum Call\nCall sleepers across every lane.\nGather 3 together to drum again sooner. Double gains at + gates.",
+            "Suits this road\nOtto · Umbrella\nOpen on a bridge to cover the last walker across.\nRain cover lasts 3.6 seconds. × gates stop at ×3.",
+            "Suki · Treat Toss\nToss to bring friends back from a stall or a cat.\nAll from a stall. Half from a recent cat sweep, once per cat.",
+            "Wren · Lantern Call\nRead tricky gates and draw nearby sleepers to the light.\nFor 3 seconds, lit ice is safe to steer across.",
+            "Replay road",
+            "Back"
+          ],
+          "focus": "Tambo · Drum CallChange leader"
+        },
+        {
+          "label": "road-hud",
+          "title": "map",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Parade size 13\n          Festival Tr"
+        },
+        {
+          "label": "pause",
+          "title": "Paused",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            193,
+            460,
+            415
+          ],
+          "actions": [
+            "Sound effects",
+            "Music",
+            "Resume",
+            "Restart road",
+            "Leave for Town"
+          ],
+          "focus": "Resume"
+        },
+        {
+          "label": "bakery-upgrade",
+          "title": "Bakery",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "bounds": [
+            410,
+            191,
+            460,
+            418
+          ],
+          "actions": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Share buns",
+            "Play a road",
+            "Back"
+          ],
+          "focus": "Share buns"
+        },
+        {
+          "label": "basket",
+          "title": "Warm buns for everyone",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Berry"
+        },
+        {
+          "label": "back-to-town",
+          "title": "square",
+          "documentOverflows": false,
+          "panelOverflows": false,
+          "actions": [],
+          "focus": "Share buns at the Bakery"
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

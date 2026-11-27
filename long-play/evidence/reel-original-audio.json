@@ -1,0 +1,80 @@
+{
+  "method": "Compared original Opus payloads byte-for-byte and their presentation times in every edited excerpt. The first and last 125 ms of each excerpt are excluded to allow the editor to cut between packets.",
+  "rows": [
+    {
+      "source": "play-control-town",
+      "packetsCompared": 113,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-town",
+      "packetsCompared": 113,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-control-cart-home",
+      "packetsCompared": 53,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-control-cart-home",
+      "packetsCompared": 33,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-cart-home",
+      "packetsCompared": 53,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-cart-home",
+      "packetsCompared": 32,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-hood-home",
+      "packetsCompared": 70,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-hood-home",
+      "packetsCompared": 33,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-river-hood",
+      "packetsCompared": 30,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-river-hood",
+      "packetsCompared": 32,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-occupied-393x852",
+      "packetsCompared": 111,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-control-compose-221",
+      "packetsCompared": 54,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-rehearse-221",
+      "packetsCompared": 192,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-rehearse-020",
+      "packetsCompared": 203,
+      "maximumDifferenceMs": 0
+    },
+    {
+      "source": "play-candidate-rehearse-11111111",
+      "packetsCompared": 40,
+      "maximumDifferenceMs": 0
+    }
+  ]
+}

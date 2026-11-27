@@ -1,0 +1,130 @@
+{
+  "method": "Fourteen simulated days later, follow the retained six-catch invitation on the ordinary map. Use native touch contacts and normal time to meet exactly five groups, retry, then meet exactly six. No assisted steering. Close and reopen to check the served breakfast and wallet.",
+  "fixture": "docs/Fluff-Rush-long-play/evidence/weekly-pinned.json",
+  "before": {
+    "wallet": 6312,
+    "marks": 5,
+    "pins": [
+      "breakfast:hosting:L5:0"
+    ]
+  },
+  "offer": "Hushvale Meadow · Level 5\n\nSeedfall Road\n\nCatch six parachute groups on Seedfall Road for breakfast.\n\nSuki · Treat Toss\nChange leader\nRoad options\nReplay road\nBack",
+  "rows": [
+    {
+      "wanted": 5,
+      "hit": 5,
+      "drags": [
+        {
+          "group": 1,
+          "aim": 0,
+          "px": 0
+        },
+        {
+          "group": 2,
+          "aim": -100,
+          "px": -62
+        },
+        {
+          "group": 3,
+          "aim": 0,
+          "px": 62
+        },
+        {
+          "group": 4,
+          "aim": 100,
+          "px": 62
+        },
+        {
+          "group": 5,
+          "aim": 100,
+          "px": 0
+        },
+        {
+          "group": 6,
+          "aim": 103,
+          "px": 2
+        },
+        {
+          "group": 7,
+          "aim": -103,
+          "px": -127
+        },
+        {
+          "group": 8,
+          "aim": 103,
+          "px": 129
+        }
+      ],
+      "after": {
+        "wallet": 6450,
+        "marks": 5,
+        "pins": [
+          "breakfast:hosting:L5:0"
+        ]
+      },
+      "receipt": "5 parachutes this time. You were aiming for 6.\n\nSeedfall Road\n\nRoad report\nTry for 6 again\nTown"
+    },
+    {
+      "wanted": 6,
+      "hit": 6,
+      "drags": [
+        {
+          "group": 1,
+          "aim": 0,
+          "px": 0
+        },
+        {
+          "group": 2,
+          "aim": -100,
+          "px": -62
+        },
+        {
+          "group": 3,
+          "aim": 0,
+          "px": 62
+        },
+        {
+          "group": 4,
+          "aim": 100,
+          "px": 62
+        },
+        {
+          "group": 5,
+          "aim": 100,
+          "px": 0
+        },
+        {
+          "group": 6,
+          "aim": 0,
+          "px": -62
+        },
+        {
+          "group": 7,
+          "aim": -103,
+          "px": -64
+        },
+        {
+          "group": 8,
+          "aim": 103,
+          "px": 129
+        }
+      ],
+      "after": {
+        "wallet": 6704,
+        "marks": 6,
+        "pins": [
+          "breakfast:served:2"
+        ]
+      },
+      "receipt": "You aimed for 6 and caught 6.\n\n4 daisy lamps on your fountain path.\n\n2,904 friends home · 496 more for 3 stars (3,400 total)\n\nRoad Petals\nIncludes 36 from the Workshop and 30 from Meadow\n+154 \nVillage Board request\n+100 Petals\nRoad report\nSee my daisy lamps\nTown"
+    }
+  ],
+  "afterReload": {
+    "wallet": 6704,
+    "marks": 6,
+    "pins": [
+      "breakfast:served:2"
+    ]
+  },
+  "errors": []
+}

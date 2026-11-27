@@ -1,0 +1,99 @@
+{
+  "method": "Six independent 12-second samples in a furnished Bakery. Start after ordinary entrance and camera easing. Window rAF includes the local scheduler. Paint time wraps the production Square render. No film or concurrent game instances. The original and candidate use exactly the same physical save and 393×852 viewport.",
+  "first": {
+    "original": {
+      "method": "Twelve normal-clock seconds in the focused Bakery on an identical full-Town save, 393×852. Chromium rAF on the desktop host, including game drawing. The control ignores the new place flags. This measures this environment only.",
+      "fixture": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+      "heading": "Warm buns for everyone",
+      "wallet": 8135,
+      "elapsedMs": 12014.900000023841,
+      "frames": 721,
+      "p50": 16.69999999999891,
+      "p95": 16.700000000000728,
+      "p99": 16.800000000000182,
+      "over50": 0,
+      "errors": []
+    },
+    "candidate": {
+      "method": "Twelve normal-clock seconds in the focused Bakery on an identical full-Town save, 393×852. Chromium rAF on the desktop host, including game drawing. The control ignores the new place flags. This measures this environment only.",
+      "fixture": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+      "heading": "Mochi’s table",
+      "wallet": 8135,
+      "elapsedMs": 12006.600000023842,
+      "frames": 685,
+      "p50": 16.699999999999818,
+      "p95": 33.19999999999891,
+      "p99": 33.399999999999636,
+      "over50": 0,
+      "errors": []
+    }
+  },
+  "rows": [
+    {
+      "edition": "control",
+      "heading": "Warm buns for everyone",
+      "wallet": 8135,
+      "frames": 721,
+      "p50": 16.69999999999891,
+      "p95": 16.799999999999272,
+      "p99": 16.80000000000109,
+      "over50": 0,
+      "paintP95Ms": 16.399999976158142
+    },
+    {
+      "edition": "candidate",
+      "heading": "Mochi’s table",
+      "wallet": 8135,
+      "frames": 720,
+      "p50": 16.69999999999891,
+      "p95": 16.799999999999272,
+      "p99": 16.80000000000109,
+      "over50": 0,
+      "paintP95Ms": 15.599999964237213
+    },
+    {
+      "edition": "candidate",
+      "heading": "Mochi’s table",
+      "wallet": 8135,
+      "frames": 721,
+      "p50": 16.69999999999891,
+      "p95": 16.700000000000728,
+      "p99": 16.80000000000109,
+      "over50": 0,
+      "paintP95Ms": 15.5
+    },
+    {
+      "edition": "control",
+      "heading": "Warm buns for everyone",
+      "wallet": 8135,
+      "frames": 721,
+      "p50": 16.69999999999891,
+      "p95": 16.700000000000728,
+      "p99": 16.800000000000182,
+      "over50": 0,
+      "paintP95Ms": 15.900000035762787
+    },
+    {
+      "edition": "candidate",
+      "heading": "Mochi’s table",
+      "wallet": 8135,
+      "frames": 720,
+      "p50": 16.69999999999891,
+      "p95": 16.700000000000728,
+      "p99": 16.80000000000109,
+      "over50": 0,
+      "paintP95Ms": 15.300000011920929
+    },
+    {
+      "edition": "control",
+      "heading": "Warm buns for everyone",
+      "wallet": 8135,
+      "frames": 721,
+      "p50": 16.69999999999891,
+      "p95": 16.700000000000728,
+      "p99": 16.80000000000109,
+      "over50": 0,
+      "paintP95Ms": 15.800000011920929
+    }
+  ]
+}

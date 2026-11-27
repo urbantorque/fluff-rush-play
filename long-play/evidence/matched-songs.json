@@ -1,0 +1,176 @@
+{
+  "method": "Same earned original save, viewport, seed, musical inputs, ordinary timing and settings for composition and playback at the original and revised stands. The new rehearsal then uses the matching tune saved at the original Lookout. The baseline ended at a listening decision.",
+  "rows": [
+    {
+      "phrase": "221",
+      "control": "clips/play-control-compose-221.webm",
+      "candidate": "clips/play-candidate-compose-221.webm",
+      "rehearsal": "clips/play-candidate-rehearse-221.webm",
+      "originalCheckpoint": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "rehearsalCheckpoint": "docs/Fluff-Rush-long-play/evidence/before-rehearsal-221.json",
+      "walletBeforeAndAfter": 7682,
+      "controlDuration": 7.25,
+      "candidateDuration": 7.6,
+      "rehearsalDuration": 11.8,
+      "notes": [
+        2,
+        2,
+        1
+      ],
+      "contacts": [
+        {
+          "note": 2,
+          "move": true,
+          "px": 62.4
+        },
+        {
+          "note": 2,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": true,
+          "px": -62.4
+        }
+      ],
+      "crossings": [],
+      "spoken": [
+        "Tambo plays your song. Rose left, Honey middle, Mint right.",
+        "Hold right for 2 Mint notes.",
+        "Honey, middle.",
+        "3 of 3 notes played."
+      ],
+      "ordinarySaveKeysChanged": []
+    },
+    {
+      "phrase": "020",
+      "control": "clips/play-control-compose-020.webm",
+      "candidate": "clips/play-candidate-compose-020.webm",
+      "rehearsal": "clips/play-candidate-rehearse-020.webm",
+      "originalCheckpoint": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "rehearsalCheckpoint": "docs/Fluff-Rush-long-play/evidence/before-rehearsal-020.json",
+      "walletBeforeAndAfter": 7682,
+      "controlDuration": 7.27,
+      "candidateDuration": 7.27,
+      "rehearsalDuration": 12.44,
+      "notes": [
+        0,
+        2,
+        0
+      ],
+      "contacts": [
+        {
+          "note": 0,
+          "move": true,
+          "px": -62.4
+        },
+        {
+          "note": 2,
+          "move": true,
+          "px": 124.8
+        },
+        {
+          "note": 0,
+          "move": true,
+          "px": -124.8
+        }
+      ],
+      "crossings": [
+        {
+          "note": 2,
+          "from": -99.9999976704139,
+          "target": 100,
+          "millisecondsToOppositeLaneCentre": 271,
+          "millisecondsInLaneBeforeFront": 445
+        },
+        {
+          "note": 3,
+          "from": 99.99999767041385,
+          "target": -100,
+          "millisecondsToOppositeLaneCentre": 263,
+          "millisecondsInLaneBeforeFront": 452
+        }
+      ],
+      "spoken": [
+        "Tambo plays your song. Rose left, Honey middle, Mint right.",
+        "Rose, left.",
+        "Mint, right.",
+        "Rose, left.",
+        "3 of 3 notes played."
+      ],
+      "ordinarySaveKeysChanged": []
+    },
+    {
+      "phrase": "11111111",
+      "control": "clips/play-control-compose-11111111.webm",
+      "candidate": "clips/play-candidate-compose-11111111.webm",
+      "rehearsal": "clips/play-candidate-rehearse-11111111.webm",
+      "originalCheckpoint": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "rehearsalCheckpoint": "docs/Fluff-Rush-long-play/evidence/before-rehearsal-11111111.json",
+      "walletBeforeAndAfter": 7682,
+      "controlDuration": 11.72,
+      "candidateDuration": 11.82,
+      "rehearsalDuration": 16.43,
+      "notes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "contacts": [
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        },
+        {
+          "note": 1,
+          "move": false,
+          "px": 0
+        }
+      ],
+      "crossings": [],
+      "spoken": [
+        "Tambo plays your song. Rose left, Honey middle, Mint right.",
+        "Hold the middle for 8 Honey notes.",
+        "8 of 8 notes played."
+      ],
+      "ordinarySaveKeysChanged": []
+    }
+  ]
+}

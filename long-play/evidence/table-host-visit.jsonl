@@ -1,0 +1,52 @@
+{"utc":"2026-11-27T14:49:15.122Z","event":"open","url":"http://localhost:4173/?town","asset":"./assets/index-CEJXj-6T.js"}
+{"utc":"2026-11-27T14:49:15.224Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T14:49:29.438Z","event":"note","text":"Supplied prototype check using the actual two-welcome Clover save. I want to see whether Mochi can join this same breakfast after a real bun outing, without paying or displacing Clover before I ask. I will pack Mochi and play the road she offers."}
+{"utc":"2026-11-27T14:49:29.665Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:49:29.719Z","event":"input","line":"button Later","ms":280}
+{"utc":"2026-11-27T14:49:29.911Z","event":"input","line":"choice Visit Clover","ms":191}
+{"utc":"2026-11-27T14:49:30.087Z","event":"input","line":"button Share buns","ms":175}
+{"utc":"2026-11-27T14:49:30.237Z","event":"input","line":"button Mochi","ms":149}
+{"utc":"2026-11-27T14:49:30.391Z","event":"view","screen":"Seedfall Road","result":false}
+{"utc":"2026-11-27T14:49:30.455Z","event":"input","line":"choice Take Mochi along","ms":217}
+{"utc":"2026-11-27T14:49:30.522Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T14:49:30.602Z","event":"input","line":"buttons","ms":79}
+{"utc":"2026-11-27T14:49:38.535Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T14:49:38.583Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T14:49:52.419Z","event":"view","road":"L5","phase":"walk","screen":"square","result":false,"crowd":13}
+{"utc":"2026-11-27T14:49:52.468Z","event":"input","line":"button Start with Mochi","ms":247}
+{"utc":"2026-11-27T14:49:55.649Z","event":"input","line":"watch 3","ms":3180}
+{"utc":"2026-11-27T14:49:55.899Z","event":"input","line":"left 150","ms":248}
+{"utc":"2026-11-27T14:50:00.186Z","event":"input","line":"watch 4","ms":4286}
+{"utc":"2026-11-27T14:50:00.513Z","event":"input","line":"right 120","ms":326}
+{"utc":"2026-11-27T14:50:04.767Z","event":"input","line":"watch 4","ms":4252}
+{"utc":"2026-11-27T14:50:05.039Z","event":"input","line":"left 145","ms":272}
+{"utc":"2026-11-27T14:50:09.267Z","event":"input","line":"watch 4","ms":4227}
+{"utc":"2026-11-27T14:50:09.515Z","event":"input","line":"right 225","ms":247}
+{"utc":"2026-11-27T14:50:12.496Z","event":"view","road":"L5","phase":"pour","screen":"square","result":false,"crowd":149}
+{"utc":"2026-11-27T14:50:13.014Z","event":"view","road":"L5","phase":"walk","screen":"square","result":false,"crowd":106}
+{"utc":"2026-11-27T14:50:16.747Z","event":"input","line":"watch 7","ms":7233}
+{"utc":"2026-11-27T14:50:16.801Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T14:50:27.720Z","event":"view","road":"L5","phase":"finale","screen":"square","result":false,"crowd":1312}
+{"utc":"2026-11-27T14:50:31.167Z","event":"input","line":"read","ms":57}
+{"utc":"2026-11-27T14:50:31.236Z","event":"input","line":"buttons","ms":68}
+{"utc":"2026-11-27T14:50:34.845Z","event":"view","road":"L5","phase":"done","screen":"4 of 8 parachutes caught!","result":true,"crowd":4112}
+{"utc":"2026-11-27T14:50:34.868Z","event":"result","text":"Parade size\n4,112\nBest streak\n2\nFriends woken this run: 3\n3 woken\nFull bloom! All 5 lanterns litParade of 4112 reached the end.\n4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path.\nInvite the raincoat trio\n\nTotal Petals\n+17 \nYou met Blossom!\nRoad report\nSee my daisy lamps\nNext road"}
+{"utc":"2026-11-27T14:50:49.097Z","event":"input","line":"read","ms":36}
+{"utc":"2026-11-27T14:50:49.148Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T14:50:54.305Z","event":"note","text":"Mochi shared the bun on Seedfall. I caught four of eight and lit two daisy lamps. I will use See my daisy lamps to get home and look for her at the basket. The established fountain reward should keep this first result."}
+{"utc":"2026-11-27T14:50:54.464Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:50:54.497Z","event":"input","line":"button See my daisy lamps","ms":191}
+{"utc":"2026-11-27T14:50:56.648Z","event":"input","line":"watch 2","ms":2151}
+{"utc":"2026-11-27T14:50:56.698Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T14:50:56.746Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T14:51:07.947Z","event":"input","line":"read","ms":38}
+{"utc":"2026-11-27T14:51:07.999Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T14:51:11.283Z","event":"input","line":"choice Visit Clover","ms":131}
+{"utc":"2026-11-27T14:51:11.352Z","event":"input","line":"read","ms":69}
+{"utc":"2026-11-27T14:51:11.399Z","event":"input","line":"buttons","ms":45}
+{"utc":"2026-11-27T14:51:11.531Z","event":"input","line":"button Share buns","ms":132}
+{"utc":"2026-11-27T14:51:11.597Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T14:51:11.663Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T14:51:39.192Z","event":"note","text":"I found the original Seedfall greeting for Mochi behind Share buns. Visit the table still seats Clover, and neither screen lets Mochi take the chair. I am stopping here. The current setting should stay intact until I choose to let Mochi host."}
+{"utc":"2026-11-27T14:51:39.204Z","event":"leave"}
+{"utc":"2026-11-27T14:51:39.205Z","event":"quit"}

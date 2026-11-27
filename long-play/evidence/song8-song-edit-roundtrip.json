@@ -1,0 +1,119 @@
+{
+  "method": "Actual Lookout and Band Stand on one earned save. Native touch, a true tab close to discard a draft, live rotation while editing, a kept edit and a second close/reopen. The final rehearsal reads the kept eight notes.",
+  "file": "docs/Fluff-Rush-long-play/evidence/before-rehearsal-11111111.json",
+  "rows": [
+    {
+      "label": "Old eight-note song on small portrait",
+      "current": "",
+      "width": 320,
+      "height": 568,
+      "scrollWidth": 320,
+      "view": [
+        12,
+        295,
+        296,
+        265
+      ],
+      "draft": "",
+      "saved": "town:tune:11111111",
+      "wallet": 7682
+    },
+    {
+      "label": "Fourth note selected",
+      "current": "Make a welcome song\n\nChoose a chime for note 4.\n\nRose\nHoney\nMint\n◆\n◆\n◆\n◆\n◆\n◆\n◆\n◆\nHear your song\nSong saved\nUndo last\nHear it at the Band Stand\nSteer it with Tambo\nBack to Town",
+      "width": 320,
+      "height": 568,
+      "scrollWidth": 320,
+      "view": [
+        12,
+        313,
+        296,
+        247
+      ],
+      "draft": "11111111",
+      "saved": "town:tune:11111111",
+      "wallet": 7682
+    },
+    {
+      "label": "One note changed, draft only",
+      "current": "Make a welcome song\n\nKeep playing, or save these notes for the Band Stand.\n\nRose\nHoney\nMint\n◆\n◆\n◆\n●\n◆\n◆\n◆\n◆\nListen\nKeep this song\nUndo last\nBack to Town",
+      "width": 320,
+      "height": 568,
+      "scrollWidth": 320,
+      "view": [
+        12,
+        295,
+        296,
+        265
+      ],
+      "draft": "11101111",
+      "saved": "town:tune:11111111",
+      "wallet": 7682
+    },
+    {
+      "label": "Closed without saving; original phrase returned",
+      "current": "",
+      "width": 320,
+      "height": 568,
+      "scrollWidth": 320,
+      "view": [
+        12,
+        295,
+        296,
+        265
+      ],
+      "draft": "",
+      "saved": "town:tune:11111111",
+      "wallet": 7682
+    },
+    {
+      "label": "Editing the same position in short landscape",
+      "current": "Make a welcome song\n\nKeep playing, or save these notes for the Band Stand.\n\nRose\nHoney\nMint\n◆\n◆\n◆\n●\n◆\n◆\n◆\n◆\nListen\nKeep this song\nUndo last\nBack to Town",
+      "width": 568,
+      "height": 320,
+      "scrollWidth": 568,
+      "view": [
+        317,
+        17,
+        244,
+        285
+      ],
+      "draft": "11101111",
+      "saved": "town:tune:11111111",
+      "wallet": 7682
+    },
+    {
+      "label": "Replaced the fourth note, removed the last and kept a new ending",
+      "current": "Make a welcome song\n\nTouch a symbol to change that note, or start a new song with a chime.\n\nRose\nHoney\nMint\n◆\n◆\n◆\n●\n◆\n◆\n◆\n▲\nHear your song\nSong saved\nHear it at the Band Stand\nSteer it with Tambo\nBack to Town",
+      "width": 568,
+      "height": 320,
+      "scrollWidth": 568,
+      "view": [
+        317,
+        12,
+        244,
+        296
+      ],
+      "draft": "",
+      "saved": "town:tune:11101112",
+      "wallet": 7682
+    },
+    {
+      "label": "The eight-note edit survived reopening",
+      "current": "",
+      "width": 320,
+      "height": 568,
+      "scrollWidth": 320,
+      "view": [
+        12,
+        295,
+        296,
+        265
+      ],
+      "draft": "",
+      "saved": "town:tune:11101112",
+      "wallet": 7682
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,243 @@
+{
+  "method": "Native keyboard Space; synthetic saves; no direct ability invocation or gameplay-state assignment",
+  "rows": [
+    {
+      "id": "pip",
+      "before": {
+        "leader": "pip",
+        "ability": "huddle",
+        "calls": 0,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 53,
+        "phase": "walk"
+      },
+      "active": {
+        "leader": "pip",
+        "ability": "huddle",
+        "calls": 1,
+        "huddled": true,
+        "spread": false,
+        "lit": false,
+        "spacing": 4.4,
+        "count": 53,
+        "phase": "walk"
+      },
+      "mid": {
+        "leader": "pip",
+        "ability": "huddle",
+        "calls": 1,
+        "huddled": true,
+        "spread": false,
+        "lit": false,
+        "spacing": 4.4,
+        "count": 53,
+        "phase": "walk"
+      },
+      "ended": {
+        "leader": "pip",
+        "ability": "huddle",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 173,
+        "phase": "walk"
+      }
+    },
+    {
+      "id": "tambo",
+      "before": {
+        "leader": "tambo",
+        "ability": "drum",
+        "calls": 0,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 18,
+        "phase": "walk"
+      },
+      "active": {
+        "leader": "tambo",
+        "ability": "drum",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 28,
+        "phase": "walk"
+      },
+      "mid": {
+        "leader": "tambo",
+        "ability": "drum",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 28,
+        "phase": "walk"
+      },
+      "ended": {
+        "leader": "tambo",
+        "ability": "drum",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 78,
+        "phase": "walk"
+      }
+    },
+    {
+      "id": "otto",
+      "before": {
+        "leader": "otto",
+        "ability": "umbrella",
+        "calls": 0,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 3800,
+        "phase": "walk"
+      },
+      "active": {
+        "leader": "otto",
+        "ability": "umbrella",
+        "calls": 1,
+        "huddled": true,
+        "spread": false,
+        "lit": false,
+        "spacing": 4.4,
+        "count": 3800,
+        "phase": "walk"
+      },
+      "mid": {
+        "leader": "otto",
+        "ability": "umbrella",
+        "calls": 1,
+        "huddled": true,
+        "spread": false,
+        "lit": false,
+        "spacing": 4.4,
+        "count": 3800,
+        "phase": "walk"
+      },
+      "ended": {
+        "leader": "otto",
+        "ability": "umbrella",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 5.6,
+        "count": 3800,
+        "phase": "walk"
+      }
+    },
+    {
+      "id": "suki",
+      "before": {
+        "leader": "suki",
+        "ability": "treats",
+        "calls": 0,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 19,
+        "phase": "walk"
+      },
+      "active": {
+        "leader": "suki",
+        "ability": "treats",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 19,
+        "phase": "walk"
+      },
+      "mid": {
+        "leader": "suki",
+        "ability": "treats",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 19,
+        "phase": "walk"
+      },
+      "ended": {
+        "leader": "suki",
+        "ability": "treats",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 38,
+        "phase": "walk"
+      }
+    },
+    {
+      "id": "wren",
+      "before": {
+        "leader": "wren",
+        "ability": "lantern",
+        "calls": 0,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 96,
+        "phase": "walk"
+      },
+      "active": {
+        "leader": "wren",
+        "ability": "lantern",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": true,
+        "spacing": 8.8,
+        "count": 96,
+        "phase": "walk"
+      },
+      "mid": {
+        "leader": "wren",
+        "ability": "lantern",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": true,
+        "spacing": 8.8,
+        "count": 96,
+        "phase": "walk"
+      },
+      "ended": {
+        "leader": "wren",
+        "ability": "lantern",
+        "calls": 1,
+        "huddled": false,
+        "spread": false,
+        "lit": false,
+        "spacing": 8.8,
+        "count": 92,
+        "phase": "walk"
+      }
+    }
+  ],
+  "errors": [],
+  "sourceCheck": "scripts/qa/parade-restored-calls.mjs",
+  "transport": "Local production files; test clock only in this deterministic ability check."
+}

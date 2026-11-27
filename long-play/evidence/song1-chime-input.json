@@ -1,0 +1,79 @@
+{
+  "method": "Same earned save each time. Distinct native touchscreen contacts or desktop Enter events at real intervals. Held Enter stays down; separate presses release the key between contacts.",
+  "rows": [
+    {
+      "input": "touch",
+      "gap": 0,
+      "digits": "0121",
+      "at": [
+        0,
+        61,
+        112,
+        161
+      ],
+      "heard": "0121",
+      "after": 7682,
+      "started": "2026-11-27T15:35:21.499Z",
+      "ended": "2026-11-27T15:35:24.144Z"
+    },
+    {
+      "input": "touch",
+      "gap": 60,
+      "digits": "221",
+      "at": [
+        0,
+        121,
+        245
+      ],
+      "heard": "221",
+      "after": 7682,
+      "started": "2026-11-27T15:35:24.305Z",
+      "ended": "2026-11-27T15:35:26.922Z"
+    },
+    {
+      "input": "touch",
+      "gap": 240,
+      "digits": "0121",
+      "at": [
+        0,
+        289,
+        596,
+        884
+      ],
+      "heard": "0121",
+      "after": 7682,
+      "started": "2026-11-27T15:35:27.090Z",
+      "ended": "2026-11-27T15:35:30.544Z"
+    },
+    {
+      "input": "held-enter",
+      "gap": 360,
+      "digits": "1111",
+      "at": [
+        0,
+        378,
+        765,
+        1154
+      ],
+      "heard": "1",
+      "after": 7682,
+      "started": "2026-11-27T15:35:30.706Z",
+      "ended": "2026-11-27T15:35:34.559Z"
+    },
+    {
+      "input": "separate-enter",
+      "gap": 0,
+      "digits": "1111",
+      "at": [
+        0,
+        28,
+        44,
+        63
+      ],
+      "heard": "1111",
+      "after": 7682,
+      "started": "2026-11-27T15:35:34.727Z",
+      "ended": "2026-11-27T15:35:37.025Z"
+    }
+  ]
+}

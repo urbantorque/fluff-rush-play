@@ -1,0 +1,210 @@
+{
+  "method": "Supplied regression sequence on one uninterrupted progression per discovery order. Real native touch, original clock, genuine completed outings. Duplicate delivery of each actual result; no storage assignments during play.",
+  "fixture": ".tmp/long-play/prototype-mochi-home-save.json",
+  "rows": [
+    {
+      "id": "L4",
+      "line": "cart",
+      "start": "2026-11-27T14:43:41.773Z",
+      "ended": "2026-11-27T14:44:15.171Z",
+      "tapsFromTable": 1,
+      "elapsedMsToSteering": 289,
+      "cue": "Meet the red cart on the right, past the shower.",
+      "passengers": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 8,
+        "dryCalls": 0
+      },
+      "before": {
+        "wallet": 7783,
+        "setting": "town:bakery-table:yuzu:cart",
+        "welcomes": [],
+        "ordinaryGuests": [
+          "breakfast:guest:cart",
+          "breakfast:guest:drum",
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters",
+          "breakfast:guest:wade"
+        ],
+        "plates": [
+          "breakfast:plate:0",
+          "breakfast:plate:1",
+          "breakfast:plate:2"
+        ],
+        "stars": [
+          2,
+          2
+        ],
+        "visits": 1
+      },
+      "paid": {
+        "wallet": 7887,
+        "setting": "town:bakery-table:yuzu:cart",
+        "welcomes": [
+          "town:table-welcome:cart"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:cart",
+          "breakfast:guest:drum",
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters",
+          "breakfast:guest:wade"
+        ],
+        "plates": [
+          "breakfast:plate:0",
+          "breakfast:plate:1",
+          "breakfast:plate:2"
+        ],
+        "stars": [
+          2,
+          2
+        ],
+        "visits": 1
+      },
+      "duplicate": 0,
+      "receipt": "958 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right. Last time, your back row reached shelter.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 22 from the Workshop, 30 from Meadow and 8 from Runaway\n+82 \nRoad report\nBack to Mochi’s table\nA rider has the bun basket.\nEarn the second star on Sleepy Signs\nReplay road\nTown",
+      "home": "Mochi’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Mochi can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town"
+    },
+    {
+      "id": "L9",
+      "line": "both",
+      "start": "2026-11-27T14:44:15.301Z",
+      "ended": "2026-11-27T14:44:52.783Z",
+      "tapsFromTable": 1,
+      "elapsedMsToSteering": 332,
+      "cue": "Bring the yellow hoods on the left raft.",
+      "passengers": {
+        "raincoats": true,
+        "cart": true
+      },
+      "before": {
+        "wallet": 7887,
+        "setting": "town:bakery-table:yuzu:hood",
+        "welcomes": [
+          "town:table-welcome:cart"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:cart",
+          "breakfast:guest:drum",
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters",
+          "breakfast:guest:wade"
+        ],
+        "plates": [
+          "breakfast:plate:0",
+          "breakfast:plate:1",
+          "breakfast:plate:2"
+        ],
+        "stars": [
+          2,
+          2
+        ],
+        "visits": 1
+      },
+      "paid": {
+        "wallet": 8011,
+        "setting": "town:bakery-table:yuzu:hood",
+        "welcomes": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:cart",
+          "breakfast:guest:drum",
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters",
+          "breakfast:guest:wade"
+        ],
+        "plates": [
+          "breakfast:plate:0",
+          "breakfast:plate:1",
+          "breakfast:plate:2"
+        ],
+        "stars": [
+          2,
+          2
+        ],
+        "visits": 1
+      },
+      "duplicate": 0,
+      "receipt": "3,301 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\nMeet the ducks beside the flower beyond the last gate.\n\nRoad report\nBack to Mochi’s table\nA yellow coat is drying on the chair.\nEarn the second star on Sleepy Signs\nTown",
+      "home": "Mochi’s table\n\nOne coat dries on the chair. Mochi sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town"
+    },
+    {
+      "id": "L9",
+      "line": "both",
+      "start": "2026-11-27T14:44:52.799Z",
+      "ended": "2026-11-27T14:45:28.317Z",
+      "tapsFromTable": 2,
+      "elapsedMsToSteering": 362,
+      "cue": "Bring the yellow hoods on the left raft.",
+      "passengers": {
+        "raincoats": true,
+        "cart": true
+      },
+      "before": {
+        "wallet": 8011,
+        "setting": "town:bakery-table:yuzu:hood",
+        "welcomes": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:cart",
+          "breakfast:guest:drum",
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters",
+          "breakfast:guest:wade"
+        ],
+        "plates": [
+          "breakfast:plate:0",
+          "breakfast:plate:1",
+          "breakfast:plate:2"
+        ],
+        "stars": [
+          2,
+          2
+        ],
+        "visits": 1
+      },
+      "paid": {
+        "wallet": 8135,
+        "setting": "town:bakery-table:yuzu:hood",
+        "welcomes": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:cart",
+          "breakfast:guest:drum",
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters",
+          "breakfast:guest:wade"
+        ],
+        "plates": [
+          "breakfast:plate:0",
+          "breakfast:plate:1",
+          "breakfast:plate:2"
+        ],
+        "stars": [
+          2,
+          2
+        ],
+        "visits": 1
+      },
+      "duplicate": 0,
+      "receipt": "3,280 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\nMeet the ducks beside the flower beyond the last gate.\n\nRoad report\nBack to Mochi’s table\nA yellow coat is drying on the chair.\nEarn the second star on Sleepy Signs\nTown",
+      "home": "Mochi’s table\n\nOne coat dries on the chair. Mochi sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town"
+    }
+  ],
+  "errors": []
+}

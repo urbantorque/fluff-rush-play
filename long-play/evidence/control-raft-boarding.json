@@ -1,0 +1,469 @@
+{
+  "method": "Normal-time, scripted controls on separate saves. Leave the leader centred through early gates, steer toward one bank four seconds before boarding. Try separate branches with and without a timed native call. No crowd assignments. Assisted steering starts after passengers are recorded.",
+  "rows": [
+    {
+      "leader": "pip",
+      "fixture": ".tmp/long-play/diagnostic-campaign/L8-save.json",
+      "side": -1,
+      "trigger": false,
+      "started": "2026-11-27T14:00:52.831Z",
+      "ended": "2026-11-27T14:01:29.822Z",
+      "before": {
+        "n": 23,
+        "x": 0,
+        "d": 0.7845775462962961,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.43478260869565216,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 196,
+        "x": 0,
+        "d": 2959.2083333333017,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.49489795918367346,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 161,
+        "x": -76.99999999999997,
+        "d": 3785.70833333325,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.906832298136646,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 161,
+        "x": -76.99999999999997,
+        "d": 4162.708333333238,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.906832298136646,
+        "phase": "cross",
+        "of": 161,
+        "left": 146,
+        "flags": {
+          "raincoats": true,
+          "cart": true
+        }
+      },
+      "result": "2,970 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\n3 stars at 3,500 friends home\n\nTotal Petals\n+160 \nRoad report\n\nThe ducks brought a river lily home. It will bloom when Lily Pond opens.\n\nOn the breakfast cloth: a basket of pears · +18 Petals\n\nNext: Nap Cat Crossing",
+      "errors": []
+    },
+    {
+      "leader": "pip",
+      "fixture": ".tmp/long-play/diagnostic-campaign/L8-save.json",
+      "side": 1,
+      "trigger": false,
+      "started": "2026-11-27T14:01:30.091Z",
+      "ended": "2026-11-27T14:02:07.203Z",
+      "before": {
+        "n": 23,
+        "x": 0,
+        "d": 6.570836950231478,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.43478260869565216,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 196,
+        "x": 0,
+        "d": 2961.624999999968,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.49489795918367346,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 161,
+        "x": 76.99999999999997,
+        "d": 3788.1249999999163,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.09937888198757763,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 161,
+        "x": 76.99999999999997,
+        "d": 4165.124999999905,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.09937888198757763,
+        "phase": "cross",
+        "of": 161,
+        "left": 16,
+        "flags": {
+          "raincoats": true,
+          "cart": true
+        }
+      },
+      "result": "2,688 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\n3 stars at 3,500 friends home\n\nTotal Petals\n+141 \nRoad report\n\nThe ducks brought a river lily home. It will bloom when Lily Pond opens.\n\nOn the breakfast cloth: a basket of pears · +18 Petals\n\nNext: Nap Cat Crossing",
+      "errors": []
+    },
+    {
+      "leader": "pip",
+      "fixture": ".tmp/long-play/diagnostic-campaign/L8-save.json",
+      "side": -1,
+      "trigger": true,
+      "started": "2026-11-27T14:02:07.380Z",
+      "ended": "2026-11-27T14:02:44.200Z",
+      "before": {
+        "n": 23,
+        "x": 0,
+        "d": 0.9361436631944441,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.43478260869565216,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 196,
+        "x": 0,
+        "d": 2961.624999999968,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.49489795918367346,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 161,
+        "x": -76.99999999999997,
+        "d": 3788.1249999999163,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.906832298136646,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 161,
+        "x": -76.99999999999997,
+        "d": 4169.958333333239,
+        "huddle": false,
+        "calls": 2,
+        "share": 1,
+        "phase": "cross",
+        "of": 161,
+        "left": 161,
+        "flags": {
+          "raincoats": true,
+          "cart": false
+        }
+      },
+      "result": "2,916 friends home!\n\nLantern River\n\nThe raincoats crossed on the left raft.\n\n3 stars at 3,500 friends home\n\nTotal Petals\n+134 \nRoad report\n\nThe ducks brought a river lily home. It will bloom when Lily Pond opens.\n\nOn the breakfast cloth: a basket of pears · +18 Petals\n\nNext: Nap Cat Crossing",
+      "errors": []
+    },
+    {
+      "leader": "pip",
+      "fixture": ".tmp/long-play/diagnostic-campaign/L8-save.json",
+      "side": 1,
+      "trigger": true,
+      "started": "2026-11-27T14:02:44.380Z",
+      "ended": "2026-11-27T14:03:21.367Z",
+      "before": {
+        "n": 23,
+        "x": 0,
+        "d": 0.7845775462962961,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.43478260869565216,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 196,
+        "x": 0,
+        "d": 2959.2083333333017,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.49489795918367346,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 161,
+        "x": 76.99999999999997,
+        "d": 3785.70833333325,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.09937888198757763,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 161,
+        "x": 76.99999999999997,
+        "d": 4162.708333333238,
+        "huddle": false,
+        "calls": 2,
+        "share": 0,
+        "phase": "cross",
+        "of": 161,
+        "left": 0,
+        "flags": {
+          "raincoats": false,
+          "cart": true
+        }
+      },
+      "result": "2,568 friends home!\n\nLantern River\n\nThe cart riders crossed on the right raft.\n\n3 stars at 3,500 friends home\n\nTotal Petals\n+172 \nRoad report\n\nThe ducks brought a river lily home. It will bloom when Lily Pond opens.\n\nNext: Nap Cat Crossing",
+      "errors": []
+    },
+    {
+      "leader": "otto",
+      "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "side": -1,
+      "trigger": false,
+      "started": "2026-11-27T14:03:21.532Z",
+      "ended": "2026-11-27T14:03:59.884Z",
+      "before": {
+        "n": 25,
+        "x": 0,
+        "d": 0.4295247395833333,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.48,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 200,
+        "x": 0,
+        "d": 2961.624999999968,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.495,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 164,
+        "x": -76.99999999999997,
+        "d": 3788.1249999999163,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.8963414634146342,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 164,
+        "x": -76.99999999999997,
+        "d": 4165.124999999905,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.8963414634146342,
+        "phase": "cross",
+        "of": 164,
+        "left": 147,
+        "flags": {
+          "raincoats": true,
+          "cart": true
+        }
+      },
+      "result": "New best · 3,450 home\n\nLantern River\n\nThe ducks brought the river lily ashore.\n\n3 stars at 3,700 friends home\n\nTotal Petals\nIncludes 40 from the Workshop and 30 from Meadow\n+107 \nRoad report\nEarn the second star on Sleepy Signs\nReplay road\nTown",
+      "errors": []
+    },
+    {
+      "leader": "otto",
+      "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "side": 1,
+      "trigger": false,
+      "started": "2026-11-27T14:04:00.078Z",
+      "ended": "2026-11-27T14:04:34.564Z",
+      "before": {
+        "n": 25,
+        "x": 0,
+        "d": 1.106065538194444,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.44,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 200,
+        "x": 0,
+        "d": 2959.2083333333017,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.495,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 164,
+        "x": 76.99999999999997,
+        "d": 3785.70833333325,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.10365853658536585,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 164,
+        "x": 76.99999999999997,
+        "d": 4162.708333333238,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.10365853658536585,
+        "phase": "cross",
+        "of": 164,
+        "left": 17,
+        "flags": {
+          "raincoats": true,
+          "cart": true
+        }
+      },
+      "result": "2,994 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\n3 stars at 3,700 friends home\n\nTotal Petals\nIncludes 40 from the Workshop and 30 from Meadow\n+65 \nRoad report\nEarn the second star on Sleepy Signs\nReplay road\nTown",
+      "errors": []
+    },
+    {
+      "leader": "otto",
+      "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "side": -1,
+      "trigger": true,
+      "started": "2026-11-27T14:04:34.741Z",
+      "ended": "2026-11-27T14:05:13.845Z",
+      "before": {
+        "n": 25,
+        "x": 0,
+        "d": 0.26537181712962965,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.48,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 200,
+        "x": 0,
+        "d": 2961.624999999968,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.495,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 164,
+        "x": -76.99999999999997,
+        "d": 3788.1249999999163,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.8963414634146342,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 164,
+        "x": -76.99999999999997,
+        "d": 4165.124999999905,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.8963414634146342,
+        "phase": "cross",
+        "of": 164,
+        "left": 147,
+        "flags": {
+          "raincoats": true,
+          "cart": true
+        }
+      },
+      "result": "New best · 3,450 home\n\nLantern River\n\nThe ducks brought the river lily ashore.\n\n3 stars at 3,700 friends home\n\nTotal Petals\nIncludes 40 from the Workshop and 30 from Meadow\n+116 \nRoad report\nEarn the second star on Sleepy Signs\nReplay road\nTown",
+      "errors": []
+    },
+    {
+      "leader": "otto",
+      "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "side": 1,
+      "trigger": true,
+      "started": "2026-11-27T14:05:14.023Z",
+      "ended": "2026-11-27T14:05:48.743Z",
+      "before": {
+        "n": 25,
+        "x": 0,
+        "d": 0.6503182870370369,
+        "huddle": true,
+        "calls": 1,
+        "share": 0.48,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "approach": {
+        "n": 200,
+        "x": 0,
+        "d": 2961.624999999968,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.495,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "beforeCall": {
+        "n": 164,
+        "x": 76.99999999999997,
+        "d": 3788.1249999999163,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.10365853658536585,
+        "phase": "ahead",
+        "of": 0,
+        "left": 0
+      },
+      "boarded": {
+        "n": 164,
+        "x": 76.99999999999997,
+        "d": 4165.124999999905,
+        "huddle": false,
+        "calls": 1,
+        "share": 0.10365853658536585,
+        "phase": "cross",
+        "of": 164,
+        "left": 17,
+        "flags": {
+          "raincoats": true,
+          "cart": true
+        }
+      },
+      "result": "2,994 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\n3 stars at 3,700 friends home\n\nTotal Petals\nIncludes 40 from the Workshop and 30 from Meadow\n+126 \nRoad report\nEarn the second star on Sleepy Signs\nReplay road\nTown",
+      "errors": []
+    }
+  ]
+}

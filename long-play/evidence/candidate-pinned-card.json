@@ -1,0 +1,30 @@
+{
+  "fixture": "docs/Fluff-Rush-long-play/evidence/weekly-pinned.json",
+  "method": "Ordinary Seedfall map card from the same 6,312-Petal pinned profile. Separate current-day and fourteen-day calendar copies. Opened the named map node and began steering with the card’s primary control.",
+  "rows": [
+    {
+      "gap": 0,
+      "card": "Hushvale Meadow · Level 5\n\nSeedfall Road\n\nCatch six parachute groups on Seedfall Road for breakfast.\n\nSuki · Treat Toss\nChange leader\nRoad options\nReplay road\nBack",
+      "start": {
+        "purpose": "Catch six parachute groups on Seedfall Road for breakfast.",
+        "target": 6,
+        "objective": "Catch six parachute groups on Seedfall Road for breakfast.",
+        "pin": "breakfast:hosting:L5:0",
+        "wallet": 6312
+      },
+      "errors": []
+    },
+    {
+      "gap": 14,
+      "card": "Hushvale Meadow · Level 5\n\nSeedfall Road\n\nCatch six parachute groups on Seedfall Road for breakfast.\n\nSuki · Treat Toss\nChange leader\nRoad options\nReplay road\nBack",
+      "start": {
+        "purpose": "Catch six parachute groups on Seedfall Road for breakfast.",
+        "target": 6,
+        "objective": "Catch six parachute groups on Seedfall Road for breakfast.",
+        "pin": "breakfast:hosting:L5:0",
+        "wallet": 6312
+      },
+      "errors": []
+    }
+  ]
+}

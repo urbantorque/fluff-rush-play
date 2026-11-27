@@ -1,0 +1,241 @@
+{
+  "method": "Supplied regression sequence on one uninterrupted progression per discovery order. Real native touch, original clock, genuine completed outings. Duplicate delivery of each actual result; no storage assignments during play.",
+  "fixture": "docs/Fluff-Rush-long-play/evidence/before-drizzle.json",
+  "rows": [
+    {
+      "id": "L4",
+      "line": "miss",
+      "start": "2026-11-27T16:37:16.898Z",
+      "ended": "2026-11-27T16:37:52.248Z",
+      "tapsFromTable": 1,
+      "elapsedMsToSteering": 211,
+      "cue": "Keep the last yellow hood under the left awning.",
+      "passengers": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 0,
+        "dryCalls": 0
+      },
+      "before": {
+        "wallet": 377,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcomes": [],
+        "ordinaryGuests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0"
+        ],
+        "stars": [
+          0,
+          null
+        ],
+        "visits": 1
+      },
+      "paid": {
+        "wallet": 477,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcomes": [],
+        "ordinaryGuests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0"
+        ],
+        "stars": [
+          1,
+          null
+        ],
+        "visits": 1
+      },
+      "duplicate": 0,
+      "receipt": "834 friends home!\n\nDrizzle Dell\n\nHold left for the yellow hood, or lead right for the cart.\n\n2 stars at 1,900 friends home\n\nTotal Petals\n+99 \nRoad report\nBack to Clover’s table\nThe dry corner is still set.\nNext road",
+      "home": "Clover’s table\n\nThe dry corner is set for three yellow raincoats.\n\nSeat the raincoats\nMake room for the cart\nWalk Drizzle Dell\nKeep the last yellow hood under the left awning.\nShare buns\nBack to Town"
+    },
+    {
+      "id": "L4",
+      "line": "hood",
+      "start": "2026-11-27T16:37:54.894Z",
+      "ended": "2026-11-27T16:38:31.974Z",
+      "tapsFromTable": 1,
+      "elapsedMsToSteering": 150,
+      "cue": "Keep the last yellow hood under the left awning.",
+      "passengers": {
+        "scene": "awning",
+        "joined": 3,
+        "total": 3,
+        "called": 0,
+        "cart": 0,
+        "dryCalls": 0
+      },
+      "before": {
+        "wallet": 477,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcomes": [],
+        "ordinaryGuests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0"
+        ],
+        "stars": [
+          1,
+          null
+        ],
+        "visits": 1
+      },
+      "paid": {
+        "wallet": 576,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcomes": [
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0"
+        ],
+        "stars": [
+          2,
+          null
+        ],
+        "visits": 1
+      },
+      "duplicate": 0,
+      "receipt": "New best · 1,976 home\n\nDrizzle Dell\n\nAt gate 6, your crowd grew from 976 to 1,976.\n\n3 stars at 2,150 friends home\n\nTotal Petals\nIncludes 13 from Runaway\n+99 \nRoad report\nBack to Clover’s table\nA yellow coat is drying on the chair.\nNext road",
+      "home": "Clover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town"
+    },
+    {
+      "id": "L4",
+      "line": "hood",
+      "start": "2026-11-27T16:38:31.977Z",
+      "ended": "2026-11-27T16:39:05.278Z",
+      "tapsFromTable": 2,
+      "elapsedMsToSteering": 301,
+      "cue": "Keep the last yellow hood under the left awning.",
+      "passengers": {
+        "scene": "awning",
+        "joined": 3,
+        "total": 3,
+        "called": 0,
+        "cart": 0,
+        "dryCalls": 0
+      },
+      "before": {
+        "wallet": 576,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcomes": [
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0"
+        ],
+        "stars": [
+          2,
+          null
+        ],
+        "visits": 1
+      },
+      "paid": {
+        "wallet": 637,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcomes": [
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0"
+        ],
+        "stars": [
+          2,
+          null
+        ],
+        "visits": 1
+      },
+      "duplicate": 0,
+      "receipt": "1,976 friends home!\n\nDrizzle Dell\n\nYour back row reached the awning. Three friends stepped out!\n\n3 stars at 2,150 friends home\n\nTotal Petals\n+61 \nRoad report\nBack to Clover’s table\nA yellow coat is drying on the chair.\nNext road",
+      "home": "Clover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town"
+    },
+    {
+      "id": "L4",
+      "line": "cart",
+      "start": "2026-11-27T16:39:05.412Z",
+      "ended": "2026-11-27T16:39:38.940Z",
+      "tapsFromTable": 1,
+      "elapsedMsToSteering": 177,
+      "cue": "Meet the red cart on the right, past the shower.",
+      "passengers": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 8,
+        "dryCalls": 0
+      },
+      "before": {
+        "wallet": 637,
+        "setting": "town:bakery-table:matcha:cart",
+        "welcomes": [
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0"
+        ],
+        "stars": [
+          2,
+          null
+        ],
+        "visits": 1
+      },
+      "paid": {
+        "wallet": 707,
+        "setting": "town:bakery-table:matcha:cart",
+        "welcomes": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "ordinaryGuests": [
+          "breakfast:guest:cart",
+          "breakfast:guest:fig",
+          "breakfast:guest:hood",
+          "breakfast:guest:painters"
+        ],
+        "plates": [
+          "breakfast:plate:0",
+          "breakfast:plate:1"
+        ],
+        "stars": [
+          2,
+          null
+        ],
+        "visits": 1
+      },
+      "duplicate": 0,
+      "receipt": "792 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right. Last time, your back row reached shelter.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 8 from Runaway\n+70 \nRoad report\n\nOn the breakfast cloth: a basket of pears · +18 Petals\n\nBack to Clover’s table\nA rider has the bun basket.\nNext road\nReplay road",
+      "home": "Clover’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Clover can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town"
+    }
+  ],
+  "errors": []
+}

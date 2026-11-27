@@ -1,0 +1,121 @@
+{
+  "method": "Same earned save each time. Distinct native touchscreen contacts or desktop Enter events at real intervals. Held Enter stays down; separate presses release the key between contacts.",
+  "rows": [
+    {
+      "input": "touch",
+      "gap": 0,
+      "digits": "0121",
+      "at": [
+        0,
+        42,
+        97,
+        143
+      ],
+      "heard": "0121",
+      "after": 7682,
+      "started": "2026-11-27T16:04:26.700Z",
+      "ended": "2026-11-27T16:04:29.391Z"
+    },
+    {
+      "input": "touch",
+      "gap": 60,
+      "digits": "221",
+      "at": [
+        0,
+        127,
+        253
+      ],
+      "heard": "221",
+      "after": 7682,
+      "started": "2026-11-27T16:04:29.548Z",
+      "ended": "2026-11-27T16:04:32.252Z"
+    },
+    {
+      "input": "touch",
+      "gap": 240,
+      "digits": "0121",
+      "at": [
+        0,
+        296,
+        600,
+        898
+      ],
+      "heard": "0121",
+      "after": 7682,
+      "started": "2026-11-27T16:04:32.418Z",
+      "ended": "2026-11-27T16:04:35.905Z"
+    },
+    {
+      "input": "held-enter",
+      "gap": 360,
+      "digits": "1111",
+      "at": [
+        0,
+        379,
+        754,
+        1141
+      ],
+      "heard": "1",
+      "after": 7682,
+      "started": "2026-11-27T16:04:36.062Z",
+      "ended": "2026-11-27T16:04:39.890Z"
+    },
+    {
+      "input": "separate-enter",
+      "gap": 0,
+      "digits": "1111",
+      "at": [
+        0,
+        18,
+        34,
+        51
+      ],
+      "heard": "1111",
+      "after": 7682,
+      "started": "2026-11-27T16:04:40.104Z",
+      "ended": "2026-11-27T16:04:42.466Z"
+    },
+    {
+      "input": "held-space",
+      "gap": 300,
+      "digits": "2222",
+      "at": [
+        0,
+        337,
+        651,
+        973
+      ],
+      "heard": "2",
+      "after": 7682,
+      "started": "2026-11-27T16:04:42.612Z",
+      "ended": "2026-11-27T16:04:46.174Z"
+    },
+    {
+      "input": "separate-space",
+      "gap": 0,
+      "digits": "2222",
+      "at": [
+        0,
+        18,
+        34,
+        50
+      ],
+      "heard": "2222",
+      "after": 7682,
+      "started": "2026-11-27T16:04:46.339Z",
+      "ended": "2026-11-27T16:04:48.654Z"
+    },
+    {
+      "input": "held-touch",
+      "gap": 0,
+      "digits": "1",
+      "at": [
+        0
+      ],
+      "heard": "1",
+      "after": 7682,
+      "started": "2026-11-27T16:04:48.803Z",
+      "ended": "2026-11-27T16:04:51.851Z"
+    }
+  ]
+}

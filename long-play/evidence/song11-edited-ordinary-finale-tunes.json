@@ -1,0 +1,38 @@
+{
+  "method": "Each fixture was composed through the Lookout controls in the named test. Native touch through normal Sleepy Signs. Sampled the ordinary tree finale and actual Web Audio oscillator pitches at the corresponding moments. No audition or direct sound triggering.",
+  "rows": [
+    {
+      "song": "201",
+      "file": "docs/Fluff-Rush-long-play/evidence/edited-song-201.json",
+      "started": "2026-11-27T16:21:01.081Z",
+      "ended": "2026-11-27T16:21:32.919Z",
+      "notes": [
+        2,
+        0,
+        1
+      ],
+      "steps": [
+        {
+          "index": 0,
+          "expectedHz": 783.991,
+          "observedHz": 783.9908719634985,
+          "wall": 28.64640000003576
+        },
+        {
+          "index": 1,
+          "expectedHz": 523.251,
+          "observedHz": 523.2511306011972,
+          "wall": 28.877699999988078
+        },
+        {
+          "index": 2,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 29.132199999988078
+        }
+      ],
+      "stars": 1,
+      "errors": []
+    }
+  ]
+}

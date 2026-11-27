@@ -1,0 +1,60 @@
+{
+  "method": "The three values in live come from the participant’s receipts and notes at actual game time. The separately replayed original and revised branches start at 7,682 for each inward touch and use an identical road-distance trigger. Both builds produced the identical checked split, wallet, ordinary best and passenger flags at each distance.",
+  "files": [
+    "control-seating-control.json",
+    "candidate-seating-control.json"
+  ],
+  "rows": [
+    {
+      "inwardTouchPixels": 96,
+      "ordinaryBoard": {
+        "left": 194,
+        "right": 125,
+        "overflow": 74
+      },
+      "ordinaryWallet": 7818,
+      "live": {
+        "left": 195,
+        "right": 125,
+        "overflow": 75,
+        "noteUtc": "2026-11-27T17:31:40.096Z",
+        "choiceNote": "Chosen practice. My right correction was late. The receipt counted 195 left and 125 right, with 75 on the lily pads. I want one more try nearer the middle of my two previous approaches.",
+        "film": "clips/play-candidate-earned-loading-the-rafts.webm"
+      }
+    },
+    {
+      "inwardTouchPixels": 52,
+      "ordinaryBoard": {
+        "left": 81,
+        "right": 213,
+        "overflow": 13
+      },
+      "ordinaryWallet": 8089,
+      "live": {
+        "left": 80,
+        "right": 211,
+        "overflow": 11,
+        "noteUtc": "2026-11-27T17:32:16.994Z",
+        "choiceNote": "Chosen practice. Eleven on the lily pads, down from 75. Now I know which way and roughly how far to move. I want one more try to see zero. I will stay middle after the river this time.",
+        "film": "clips/play-candidate-earned-second-raft-attempt.webm"
+      }
+    },
+    {
+      "inwardTouchPixels": 67,
+      "ordinaryBoard": {
+        "left": 119,
+        "right": 191,
+        "overflow": 0
+      },
+      "ordinaryWallet": 8088,
+      "live": {
+        "left": 118,
+        "right": 191,
+        "overflow": 0,
+        "noteUtc": "2026-11-27T17:33:17.683Z",
+        "choiceNote": "New play. At boarding it was 118 and 191, both under capacity. That settles the problem for me. Since the duck flower is still ahead on this very run, I will take a look at the right bank after the last gate.",
+        "film": "clips/play-candidate-earned-third-raft-attempt.webm"
+      }
+    }
+  ]
+}

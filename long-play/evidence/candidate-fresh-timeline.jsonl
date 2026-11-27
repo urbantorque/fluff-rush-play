@@ -1,0 +1,183 @@
+{"utc":"2026-11-27T17:13:31.776Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-CCziZ-5V.js"}
+{"utc":"2026-11-27T17:13:31.920Z","event":"view","road":"L1","phase":"sleep","screen":"","result":false,"crowd":1}
+{"utc":"2026-11-27T17:13:35.977Z","event":"view","road":"L1","phase":"sleep","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T17:13:46.658Z","event":"note","text":"New play. The supplied opening is Pip and the Bakery. This time I want to bring Fig on the first clear. I will take the larger first gate and cross for her loaf."}
+{"utc":"2026-11-27T17:13:47.000Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T17:13:47.052Z","event":"input","line":"tap 192 751","ms":391}
+{"utc":"2026-11-27T17:13:47.300Z","event":"input","line":"right 135","ms":247}
+{"utc":"2026-11-27T17:13:51.636Z","event":"input","line":"watch 4","ms":4335}
+{"utc":"2026-11-27T17:13:51.988Z","event":"input","line":"left 240","ms":352}
+{"utc":"2026-11-27T17:13:56.268Z","event":"input","line":"watch 4","ms":4278}
+{"utc":"2026-11-27T17:13:56.317Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T17:13:57.817Z","event":"view","road":"L1","phase":"pour","screen":"map","result":false,"crowd":23}
+{"utc":"2026-11-27T17:13:58.483Z","event":"input","line":"watch 2","ms":2165}
+{"utc":"2026-11-27T17:13:58.718Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":19}
+{"utc":"2026-11-27T17:13:58.772Z","event":"input","line":"right 234","ms":288}
+{"utc":"2026-11-27T17:14:05.922Z","event":"view","road":"L1","phase":"finale","screen":"map","result":false,"crowd":174}
+{"utc":"2026-11-27T17:14:06.037Z","event":"input","line":"watch 7","ms":7265}
+{"utc":"2026-11-27T17:14:06.098Z","event":"input","line":"read","ms":61}
+{"utc":"2026-11-27T17:14:08.319Z","event":"input","line":"read","ms":40}
+{"utc":"2026-11-27T17:14:08.401Z","event":"input","line":"buttons","ms":81}
+{"utc":"2026-11-27T17:14:11.518Z","event":"view","road":"L1","phase":"done","screen":"Fig is home!","result":true,"crowd":174}
+{"utc":"2026-11-27T17:14:11.534Z","event":"result","text":"Parade size\n174\nBest streak\n3\nFriends woken this run: 3\n3 woken\nFull bloom! All 5 lanterns litParade of 174 reached the end.\nFig is home!\n\nWake Up, Pip\n\nFig points to the Bakery window. “That’s how we used to find the turn.”\n\nTotal Petals\n+100 \n\nYou can reopen the Bakery for 100 Petals. Three friends will join your next parade.\n\nVisit the Bakery"}
+{"utc":"2026-11-27T17:14:14.935Z","event":"input","line":"watch 2","ms":2137}
+{"utc":"2026-11-27T17:14:14.999Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T17:14:15.050Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T17:14:20.444Z","event":"note","text":"Town. Fig made it home with 174 and pointed out her Bakery window. I want to see her there before I do anything else."}
+{"utc":"2026-11-27T17:14:20.685Z","event":"view","screen":"Reopen the Bakery","result":false}
+{"utc":"2026-11-27T17:14:20.750Z","event":"input","line":"button Visit the Bakery","ms":305}
+{"utc":"2026-11-27T17:14:20.819Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T17:14:21.202Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T17:14:21.250Z","event":"input","line":"button Reopen for 100 Petals","ms":431}
+{"utc":"2026-11-27T17:14:23.401Z","event":"input","line":"watch 2","ms":2150}
+{"utc":"2026-11-27T17:14:23.468Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T17:14:23.533Z","event":"input","line":"buttons","ms":64}
+{"utc":"2026-11-27T17:14:32.137Z","event":"input-error","line":"button Share buns at the Bakery","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Share buns at the Bakery', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T17:14:32.204Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T17:14:32.257Z","event":"input","line":"buttons","ms":52}
+{"utc":"2026-11-27T17:14:33.751Z","event":"input","line":"tap 268 490","ms":83}
+{"utc":"2026-11-27T17:14:33.786Z","event":"input","line":"read","ms":35}
+{"utc":"2026-11-27T17:14:33.837Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T17:14:37.818Z","event":"note","text":"Town. With Fig already here the Bakery says Share the first bun. I choose that over the next road."}
+{"utc":"2026-11-27T17:14:37.978Z","event":"input","line":"button Share the first bun","ms":158}
+{"utc":"2026-11-27T17:14:40.129Z","event":"input","line":"watch 2","ms":2150}
+{"utc":"2026-11-27T17:14:40.203Z","event":"input","line":"read","ms":73}
+{"utc":"2026-11-27T17:14:40.253Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T17:14:45.270Z","event":"note","text":"Town. Fig has her loaf, and Berry is the pink friend I passed over on the original save. I want one trip with Berry to the painters."}
+{"utc":"2026-11-27T17:14:45.425Z","event":"input","line":"button Berry","ms":154}
+{"utc":"2026-11-27T17:14:45.506Z","event":"input","line":"read","ms":79}
+{"utc":"2026-11-27T17:14:45.577Z","event":"input","line":"buttons","ms":70}
+{"utc":"2026-11-27T17:14:45.795Z","event":"view","screen":"Sleepy Signs","result":false}
+{"utc":"2026-11-27T17:14:45.858Z","event":"input","line":"button Take Berry along","ms":280}
+{"utc":"2026-11-27T17:14:45.926Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T17:14:45.988Z","event":"input","line":"buttons","ms":61}
+{"utc":"2026-11-27T17:14:49.657Z","event":"note","text":"New play. Three painters can put a face to this trip. I will stay left for them."}
+{"utc":"2026-11-27T17:14:49.807Z","event":"view","road":"L2","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T17:14:49.872Z","event":"input","line":"button Start with Berry","ms":213}
+{"utc":"2026-11-27T17:14:50.121Z","event":"input","line":"left 135","ms":248}
+{"utc":"2026-11-27T17:14:57.392Z","event":"input","line":"watch 7","ms":7270}
+{"utc":"2026-11-27T17:14:57.481Z","event":"input","line":"read","ms":88}
+{"utc":"2026-11-27T17:15:02.720Z","event":"input","line":"watch 5","ms":5239}
+{"utc":"2026-11-27T17:15:02.775Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T17:15:04.694Z","event":"view","road":"L2","phase":"pour","screen":"square","result":false,"crowd":31}
+{"utc":"2026-11-27T17:15:05.705Z","event":"view","road":"L2","phase":"walk","screen":"square","result":false,"crowd":19}
+{"utc":"2026-11-27T17:15:11.183Z","event":"input","line":"watch 6","ms":6267}
+{"utc":"2026-11-27T17:15:11.235Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T17:15:16.938Z","event":"input","line":"watch 5","ms":5253}
+{"utc":"2026-11-27T17:15:17.004Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T17:15:17.415Z","event":"view","road":"L2","phase":"finale","screen":"square","result":false,"crowd":116}
+{"utc":"2026-11-27T17:15:17.454Z","event":"input","line":"right 190","ms":286}
+{"utc":"2026-11-27T17:15:21.890Z","event":"view","road":"L2","phase":"done","screen":"Tambo can lead your parade!","result":true,"crowd":116}
+{"utc":"2026-11-27T17:15:21.902Z","event":"result","text":"Parade size\n116\nBest streak\n2\nFriends woken this run: 3\n3 woken\nParade of 116 reached the end.\nTambo can lead your parade!\n\nSleepy Signs\n\nRoad report\nTry Tambo on Treat Street"}
+{"utc":"2026-11-27T17:15:22.721Z","event":"input","line":"watch 5","ms":5266}
+{"utc":"2026-11-27T17:15:22.770Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T17:15:22.818Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T17:15:22.873Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T17:15:22.924Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T17:15:34.043Z","event":"note","text":"New play. I brought all three painters home with Berry. The result offers Tambo on Treat Street. I want to use his drum at their flags before I go looking for Berry at home."}
+{"utc":"2026-11-27T17:15:34.447Z","event":"view","screen":"Treat Street","result":false}
+{"utc":"2026-11-27T17:15:34.520Z","event":"input","line":"button Try Tambo on Treat Street","ms":475}
+{"utc":"2026-11-27T17:15:34.575Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T17:15:34.639Z","event":"input","line":"buttons","ms":63}
+{"utc":"2026-11-27T17:15:38.374Z","event":"view","road":"L3","phase":"walk","screen":"map","result":false,"crowd":11}
+{"utc":"2026-11-27T17:15:38.455Z","event":"input","line":"button Start with Berry","ms":247}
+{"utc":"2026-11-27T17:15:43.737Z","event":"input","line":"watch 5","ms":5281}
+{"utc":"2026-11-27T17:15:43.784Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T17:15:43.835Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T17:15:58.891Z","event":"view","road":"L3","phase":"pour","screen":"map","result":false,"crowd":267}
+{"utc":"2026-11-27T17:15:59.903Z","event":"view","road":"L3","phase":"walk","screen":"map","result":false,"crowd":159}
+{"utc":"2026-11-27T17:16:17.650Z","event":"view","road":"L3","phase":"finale","screen":"map","result":false,"crowd":825}
+{"utc":"2026-11-27T17:16:22.204Z","event":"view","road":"L3","phase":"done","screen":"825 friends home!","result":true,"crowd":825}
+{"utc":"2026-11-27T17:16:22.221Z","event":"result","text":"Parade size\n825\nFriends woken this run: 3\n3 woken\nGolden Rush: 10 of 10, +50 PetalsParade of 825 reached the end.\n825 friends home!\n\nTreat Street\n\nThe painters rinse their brushes while Fig cuts the bread.\n\n2 stars at 2,850 friends home\n\nTotal Petals\nIncludes 20 from Golden Rush\n+99 \nRamune joined the parade!\nBack to Berry’s table\nChoose road"}
+{"utc":"2026-11-27T17:16:59.452Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T17:16:59.498Z","event":"input","line":"buttons","ms":45}
+{"utc":"2026-11-27T17:17:02.235Z","event":"note","text":"Town. Berry came back with the painters. I chose her named table to see who was there, passing up Choose road."}
+{"utc":"2026-11-27T17:17:02.384Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T17:17:02.468Z","event":"input","line":"button Back to Berry’s table","ms":231}
+{"utc":"2026-11-27T17:17:02.534Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T17:17:02.585Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T17:17:05.275Z","event":"note","text":"Town. I want to see the raincoats together. The word seat makes me wonder where their little feet go."}
+{"utc":"2026-11-27T17:17:05.318Z","event":"recording-start","name":"candidate-fresh-fresh-raincoat-invitation","at":1795799825.3186}
+{"utc":"2026-11-27T17:17:05.517Z","event":"input","line":"button Seat the raincoats","ms":198}
+{"utc":"2026-11-27T17:17:05.565Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T17:17:05.614Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T17:17:08.837Z","event":"input","line":"watch 3","ms":3222}
+{"utc":"2026-11-27T17:17:08.850Z","event":"capture-begin","name":"candidate-fresh-fresh-raincoat-invitation"}
+{"utc":"2026-11-27T17:17:09.121Z","event":"capture-finish","name":"candidate-fresh-fresh-raincoat-invitation"}
+{"utc":"2026-11-27T17:17:09.122Z","event":"note","text":"New play. I want to walk the last yellow hood home with Berry. This gives me a reason to choose the left awning."}
+{"utc":"2026-11-27T17:17:11.630Z","event":"input-error","line":"button Walk Drizzle Dell","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Walk Drizzle Dell', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T17:17:11.683Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T17:17:11.734Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T17:17:11.800Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T17:17:11.864Z","event":"input","line":"buttons","ms":63}
+{"utc":"2026-11-27T17:17:16.348Z","event":"input","line":"read","ms":40}
+{"utc":"2026-11-27T17:17:16.397Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T17:17:18.489Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":11}
+{"utc":"2026-11-27T17:17:18.531Z","event":"input","line":"choice Walk Drizzle Dell","ms":185}
+{"utc":"2026-11-27T17:17:18.582Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T17:17:18.630Z","event":"input","line":"buttons","ms":47}
+{"utc":"2026-11-27T17:17:21.345Z","event":"input","line":"right 185","ms":294}
+{"utc":"2026-11-27T17:17:24.562Z","event":"input","line":"watch 3","ms":3216}
+{"utc":"2026-11-27T17:17:24.604Z","event":"input","line":"read","ms":41}
+{"utc":"2026-11-27T17:17:24.904Z","event":"input","line":"left 285","ms":299}
+{"utc":"2026-11-27T17:17:32.151Z","event":"view","road":"L4","phase":"pour","screen":"square","result":false,"crowd":106}
+{"utc":"2026-11-27T17:17:32.195Z","event":"input","line":"watch 7","ms":7289}
+{"utc":"2026-11-27T17:17:32.250Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T17:17:32.314Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T17:17:32.366Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T17:17:33.119Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":81}
+{"utc":"2026-11-27T17:17:33.166Z","event":"input","line":"read","ms":60}
+{"utc":"2026-11-27T17:17:33.214Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T17:17:35.566Z","event":"input","line":"choice Drum","ms":125}
+{"utc":"2026-11-27T17:17:43.847Z","event":"input","line":"watch 8","ms":8279}
+{"utc":"2026-11-27T17:17:43.899Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T17:17:44.050Z","event":"input","line":"buttons","ms":150}
+{"utc":"2026-11-27T17:17:44.097Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T17:17:44.146Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T17:17:45.751Z","event":"input","line":"read","ms":57}
+{"utc":"2026-11-27T17:17:45.813Z","event":"input","line":"buttons","ms":60}
+{"utc":"2026-11-27T17:17:47.909Z","event":"view","road":"L4","phase":"finale","screen":"square","result":false,"crowd":2066}
+{"utc":"2026-11-27T17:17:48.394Z","event":"note","text":"New play. I saw the rear row reach the awning and the message counted three. I am staying left for home; the runaway can get away."}
+{"utc":"2026-11-27T17:17:52.933Z","event":"view","road":"L4","phase":"done","screen":"2,066 friends home!","result":true,"crowd":2066}
+{"utc":"2026-11-27T17:17:52.952Z","event":"result","text":"Parade size\n2,066\nFriends woken this run: 3\n3 woken\nParade of 2066 reached the end.\n2,066 friends home!\n\nDrizzle Dell\n\nYour back row reached the awning. Three friends stepped out!\n\n3 stars at 2,150 friends home\n\nTotal Petals\n+118 \nRoad report\nBack to Berry’s table\nA yellow coat is drying on the chair.\nNext road"}
+{"utc":"2026-11-27T17:17:58.678Z","event":"input","line":"watch 10","ms":10283}
+{"utc":"2026-11-27T17:17:58.738Z","event":"input","line":"read","ms":59}
+{"utc":"2026-11-27T17:17:58.797Z","event":"input","line":"buttons","ms":59}
+{"utc":"2026-11-27T17:17:58.848Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T17:17:58.898Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T17:17:58.949Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T17:17:59.011Z","event":"input","line":"buttons","ms":62}
+{"utc":"2026-11-27T17:18:02.897Z","event":"input","line":"read","ms":56}
+{"utc":"2026-11-27T17:18:02.947Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T17:18:05.576Z","event":"note","text":"Town. I am 84 short of the third star. I pass on trying Drizzle again for the number. The wet coat is waiting on the chair and I want to see that."}
+{"utc":"2026-11-27T17:18:05.684Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T17:18:05.730Z","event":"input","line":"choice Back to Berry","ms":154}
+{"utc":"2026-11-27T17:18:05.778Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T17:18:05.853Z","event":"input","line":"buttons","ms":74}
+{"utc":"2026-11-27T17:18:09.233Z","event":"input","line":"button Lift the cloth","ms":182}
+{"utc":"2026-11-27T17:18:09.312Z","event":"input","line":"read","ms":77}
+{"utc":"2026-11-27T17:18:12.567Z","event":"input","line":"watch 3","ms":3254}
+{"utc":"2026-11-27T17:18:12.635Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T17:18:12.651Z","event":"note","text":"Town. Berry gets to sit down and the coat shelters the small one. I am done here. I am passing on Go out together and the unfilled cart seat. I would like to find this picture when I next open Town."}
+{"utc":"2026-11-27T17:18:12.667Z","event":"leave"}
+{"utc":"2026-11-27T17:18:39.124Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-CCziZ-5V.js"}
+{"utc":"2026-11-27T17:18:39.239Z","event":"input","line":"return","ms":375}
+{"utc":"2026-11-27T17:18:39.240Z","event":"note","text":"Town. First reopen in the supplied clean-profile window. At my stop I wanted to see Berry and the little guest again. I want to see how many taps get me back to them."}
+{"utc":"2026-11-27T17:18:39.301Z","event":"input","line":"read","ms":59}
+{"utc":"2026-11-27T17:18:39.380Z","event":"input","line":"buttons","ms":79}
+{"utc":"2026-11-27T17:18:43.954Z","event":"note","text":"Town. At the Square the big invitation is breakfast. The two little yellow caps beside the Bakery are the place I remember."}
+{"utc":"2026-11-27T17:18:44.298Z","event":"view","screen":"Build the bread counter","result":false}
+{"utc":"2026-11-27T17:18:44.366Z","event":"input","line":"tap 101 253","ms":410}
+{"utc":"2026-11-27T17:18:44.431Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T17:18:44.496Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T17:18:51.282Z","event":"note","text":"Searching. Touching the painted table opened the bread-counter purchase. I want to visit, so I am opening Visit or choose a place."}
+{"utc":"2026-11-27T17:18:51.333Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T17:18:51.379Z","event":"input","line":"tap 162 730","ms":96}
+{"utc":"2026-11-27T17:18:51.427Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T17:18:51.496Z","event":"input","line":"buttons","ms":68}
+{"utc":"2026-11-27T17:18:54.450Z","event":"input","line":"button Visit Berry’s table","ms":226}
+{"utc":"2026-11-27T17:18:54.529Z","event":"input","line":"read","ms":78}
+{"utc":"2026-11-27T17:18:54.615Z","event":"input","line":"buttons","ms":85}
+{"utc":"2026-11-27T17:18:54.616Z","event":"note","text":"Town. The three raincoats were still there and Berry was sitting down. I want to leave them there. The cart can wait."}
+{"utc":"2026-11-27T17:18:54.651Z","event":"leave"}
+{"utc":"2026-11-27T17:18:54.652Z","event":"quit"}

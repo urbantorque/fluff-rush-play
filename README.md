@@ -7,6 +7,12 @@
 
 Steer a parade of Flufflings, wake sleeping giants and bring everyone Home. Choose a leader, find your way through four valleys, and take your friends on a travelling outing.
 
+## The long-play release
+
+Bring Mochi’s cart home from Lantern River and choose who sits at the Bakery. At Tambo’s stand, change a held note and try steering through your own phrase. The furnished Town opens with both activities available.
+
+[Play Fluff Rush](https://urbantorque.github.io/fluff-rush-play/) · [Visit the furnished Town](https://urbantorque.github.io/fluff-rush-play/long-play/checkpoint.html) · [Compare 12 normal-speed pairs](https://urbantorque.github.io/fluff-rush-play/long-play/evidence.html) · [Watch the 89-second reel](https://urbantorque.github.io/fluff-rush-play/long-play/release.html#reel) · [Download the tested build](https://urbantorque.github.io/fluff-rush-play/long-play/Fluff-Rush-435713e9430f.zip) · [Release judgement](https://urbantorque.github.io/fluff-rush-play/long-play/)
+
 ## How to play
 
 - **Parade:** drag sideways, or use A/D or the arrow keys. Tap or press Space to use your leader's call. Choose number gates, gather sleeping friends and steer around hazards.
@@ -46,4 +52,4 @@ On iPhone, Share → Add to Home Screen opens it like an app.
 
 ---
 
-<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (c8b5302f32d2); the game's source is private. Fonts: Alegreya, Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>
+<sub>© 2026 urbantorque. All rights reserved. This repository hosts the playable build (435713e9430f); the game's source is private. Fonts: Alegreya, Mochiy Pop One, Fredoka and Nunito (SIL Open Font License). Icons: Phosphor (MIT).</sub>

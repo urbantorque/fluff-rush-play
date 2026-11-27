@@ -1,0 +1,65 @@
+{"utc":"2026-11-27T16:59:20.196Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-CCziZ-5V.js"}
+{"utc":"2026-11-27T16:59:20.342Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T16:59:31.622Z","event":"note","text":"Town. Supplied sensory check on the separate furnished review save. I want the Bakery in silence with motion reduced, then I will look for the band by the same Square."}
+{"utc":"2026-11-27T16:59:31.692Z","event":"input","line":"read","ms":69}
+{"utc":"2026-11-27T16:59:31.805Z","event":"input","line":"buttons","ms":111}
+{"utc":"2026-11-27T16:59:36.071Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T16:59:36.124Z","event":"input","line":"button Later","ms":286}
+{"utc":"2026-11-27T16:59:36.242Z","event":"view","screen":"Settings","result":false}
+{"utc":"2026-11-27T16:59:36.292Z","event":"input","line":"button Settings","ms":168}
+{"utc":"2026-11-27T16:59:36.340Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T16:59:36.406Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T16:59:41.925Z","event":"input","line":"tap 255 184","ms":97}
+{"utc":"2026-11-27T16:59:42.007Z","event":"input","line":"tap 258 236","ms":81}
+{"utc":"2026-11-27T16:59:42.092Z","event":"input","line":"tap 251 290","ms":85}
+{"utc":"2026-11-27T16:59:42.210Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T16:59:42.264Z","event":"input","line":"button Done","ms":171}
+{"utc":"2026-11-27T16:59:42.491Z","event":"input","line":"choice A cart rider carries","ms":226}
+{"utc":"2026-11-27T16:59:44.656Z","event":"input","line":"watch 2","ms":2164}
+{"utc":"2026-11-27T16:59:44.712Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T16:59:50.966Z","event":"note","text":"Town. I can count the cart separately from the rider holding the basket. Mochi has the cup. I want to see the coat go over the smallest guest, and then check what survives when I rotate."}
+{"utc":"2026-11-27T16:59:51.124Z","event":"input","line":"button Seat the raincoats","ms":156}
+{"utc":"2026-11-27T16:59:51.297Z","event":"input","line":"button Lift the cloth","ms":172}
+{"utc":"2026-11-27T16:59:51.693Z","event":"input","line":"size 568 320","ms":395}
+{"utc":"2026-11-27T16:59:52.823Z","event":"input","line":"watch 1","ms":1130}
+{"utc":"2026-11-27T16:59:52.878Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T17:00:00.198Z","event":"note","text":"Town. At 568 wide I can see the small guest’s face and lifted cloth on the left while the actions stay on the right. The scene reads in silence. I will leave the wet coats here and check Tambo’s saved notes."}
+{"utc":"2026-11-27T17:00:00.355Z","event":"input","line":"button Back to Town","ms":155}
+{"utc":"2026-11-27T17:00:00.722Z","event":"input","line":"size 320 568","ms":366}
+{"utc":"2026-11-27T17:00:03.238Z","event":"input-error","line":"button Band Stand, restoration and visits","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Band Stand, restoration and visits', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"hotspot\" data-key=\"b:band\" data-cy=\"265.125\""}
+{"utc":"2026-11-27T17:00:03.307Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T17:00:03.374Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T17:00:15.742Z","event":"input","line":"tap 240 209","ms":131}
+{"utc":"2026-11-27T17:00:15.761Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T17:00:15.805Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T17:00:15.872Z","event":"input","line":"buttons","ms":66}
+{"utc":"2026-11-27T17:00:23.551Z","event":"note","text":"Chosen practice. The silent stand shows triangle triangle diamond. I read right, hold, middle. I will try that by touch at the smallest size."}
+{"utc":"2026-11-27T17:00:23.709Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T17:00:23.766Z","event":"input","line":"button Steer your welcome song","ms":213}
+{"utc":"2026-11-27T17:00:24.036Z","event":"input","line":"right 160","ms":270}
+{"utc":"2026-11-27T17:00:28.293Z","event":"input","line":"watch 4","ms":4257}
+{"utc":"2026-11-27T17:00:28.353Z","event":"input","line":"read","ms":59}
+{"utc":"2026-11-27T17:00:31.725Z","event":"input","line":"watch 1","ms":1109}
+{"utc":"2026-11-27T17:00:32.008Z","event":"input","line":"left 82","ms":281}
+{"utc":"2026-11-27T17:00:32.067Z","event":"input","line":"read","ms":58}
+{"utc":"2026-11-27T17:00:32.339Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T17:00:34.219Z","event":"input","line":"watch 2","ms":2152}
+{"utc":"2026-11-27T17:00:34.270Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T17:00:35.287Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T17:00:35.338Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T17:00:53.025Z","event":"note","text":"Chosen practice. The two triangles landed. I was still at the right edge as the diamond passed. The result asks me to move to the middle after Mint. I want to try one earlier, shorter return."}
+{"utc":"2026-11-27T17:00:53.108Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T17:00:53.174Z","event":"input","line":"button Steer it again","ms":148}
+{"utc":"2026-11-27T17:00:53.472Z","event":"input","line":"right 52","ms":294}
+{"utc":"2026-11-27T17:00:58.751Z","event":"input","line":"watch 5","ms":5279}
+{"utc":"2026-11-27T17:00:59.880Z","event":"input","line":"watch 1","ms":1128}
+{"utc":"2026-11-27T17:01:00.133Z","event":"input","line":"left 52","ms":252}
+{"utc":"2026-11-27T17:01:01.688Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T17:01:03.302Z","event":"input","line":"watch 3","ms":3168}
+{"utc":"2026-11-27T17:01:03.357Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T17:01:06.233Z","event":"note","text":"Town. Three of three. I got the middle landing by leaving the second triangle earlier. I am done with this exact melody. I want the band to keep it as it is."}
+{"utc":"2026-11-27T17:01:06.389Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T17:01:06.441Z","event":"input","line":"button Back to Band Stand","ms":207}
+{"utc":"2026-11-27T17:01:06.506Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T17:01:06.543Z","event":"leave"}
+{"utc":"2026-11-27T17:01:06.545Z","event":"quit"}

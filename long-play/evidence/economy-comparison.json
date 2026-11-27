@@ -1,0 +1,217 @@
+{
+  "method": "Two independently played, normal-clock production builds. The Daily and ordinary economy checks repeated settlement and reloaded the save. The original willing shopping branch and the directly repeated purchase use separate wallets. Times are wall seconds on this machine.",
+  "opening": {
+    "failed": 12,
+    "firstClear": 100,
+    "welcomeGift": 8,
+    "finds": 0,
+    "Bakery": 100,
+    "left": 20,
+    "previousTimeToBandStandSeconds": 139,
+    "firstRoadRepeatsPurelyForFunds": 0,
+    "sameInputBudget": {
+      "wallets": [
+        0,
+        12,
+        120,
+        20,
+        32,
+        151,
+        263
+      ],
+      "bandPrice": 180,
+      "originalSeconds": 139.36,
+      "candidateSeconds": 139.37
+    }
+  },
+  "gifts": [
+    {
+      "simulatedDays": 1,
+      "gift": 37,
+      "repeatClaim": 0
+    },
+    {
+      "simulatedDays": 7,
+      "gift": 37,
+      "repeatClaim": 0
+    }
+  ],
+  "irregular": [
+    {
+      "road": "catchup gentle",
+      "performance": "good",
+      "before": 237,
+      "paid": 71,
+      "after": 308,
+      "duplicateAndReloadPaid": 0
+    },
+    {
+      "road": "catchup gentle",
+      "performance": "expert",
+      "before": 308,
+      "paid": 1,
+      "after": 309,
+      "duplicateAndReloadPaid": 0
+    },
+    {
+      "road": "today gentle",
+      "performance": "good",
+      "before": 309,
+      "paid": 88,
+      "after": 397,
+      "duplicateAndReloadPaid": 0
+    },
+    {
+      "road": "today gentle",
+      "performance": "expert",
+      "before": 397,
+      "paid": 3,
+      "after": 400,
+      "duplicateAndReloadPaid": 0
+    },
+    {
+      "road": "today gentle",
+      "performance": "expert",
+      "before": 400,
+      "paid": 0,
+      "after": 400,
+      "duplicateAndReloadPaid": 0
+    },
+    {
+      "road": "today grand",
+      "performance": "expert",
+      "before": 400,
+      "paid": 33,
+      "after": 433,
+      "duplicateAndReloadPaid": 0
+    },
+    {
+      "road": "ordinary Drizzle Dell",
+      "performance": "good",
+      "before": 433,
+      "paid": 128,
+      "after": 561,
+      "duplicateAndReloadPaid": 0
+    }
+  ],
+  "pond": {
+    "price": 260,
+    "balanceAfter": 301,
+    "firstAffordableSeconds": {
+      "original": 57.84,
+      "candidate": 49.98
+    },
+    "roadRepeatsPurelyForFunds": 0
+  },
+  "breakdown": [
+    {
+      "when": "catchup",
+      "track": "gentle",
+      "previousStars": 0,
+      "stars": 2,
+      "starsPaid": 9,
+      "firstDailyClear": 0,
+      "finds": 2,
+      "board": 60,
+      "total": 71,
+      "wallet": 308,
+      "duplicate": 0
+    },
+    {
+      "when": "catchup",
+      "track": "gentle",
+      "previousStars": 2,
+      "stars": 3,
+      "starsPaid": 1,
+      "firstDailyClear": 0,
+      "finds": 0,
+      "board": 0,
+      "total": 1,
+      "wallet": 309,
+      "duplicate": 0
+    },
+    {
+      "when": "today",
+      "track": "gentle",
+      "previousStars": 0,
+      "stars": 2,
+      "starsPaid": 23,
+      "firstDailyClear": 12,
+      "finds": 3,
+      "board": 50,
+      "total": 88,
+      "wallet": 397,
+      "duplicate": 0
+    },
+    {
+      "when": "today",
+      "track": "gentle",
+      "previousStars": 2,
+      "stars": 3,
+      "starsPaid": 3,
+      "firstDailyClear": 0,
+      "finds": 0,
+      "board": 0,
+      "total": 3,
+      "wallet": 400,
+      "duplicate": 0
+    },
+    {
+      "when": "today",
+      "track": "gentle",
+      "previousStars": 3,
+      "stars": 3,
+      "starsPaid": 0,
+      "firstDailyClear": 0,
+      "finds": 0,
+      "board": 0,
+      "total": 0,
+      "wallet": 400,
+      "duplicate": 0
+    },
+    {
+      "when": "today",
+      "track": "grand",
+      "previousStars": 0,
+      "stars": 2,
+      "starsPaid": 31,
+      "firstDailyClear": 0,
+      "finds": 2,
+      "board": 0,
+      "total": 33,
+      "wallet": 433,
+      "duplicate": 0
+    }
+  ],
+  "ordinary": {
+    "paid": 128,
+    "wallet": 561,
+    "sourceReducer": {
+      "stars": 3,
+      "base": 77,
+      "town": [
+        {
+          "name": "Workshop",
+          "petals": 38
+        },
+        {
+          "name": "Meadow · welcome home",
+          "petals": 13
+        }
+      ]
+    }
+  },
+  "furnished": {
+    "source": 7682,
+    "directPriceOfExistingCosmetic": 1000,
+    "directWalletAfter": 6682,
+    "paidAgain": 0,
+    "secondsToAfford": 0,
+    "roadRepeatsPurelyForFunds": 0,
+    "subjectiveShoppingBranch": {
+      "afterAurora": 7854,
+      "afterTeaTable": 6854,
+      "afterMochi": 6955
+    }
+  }
+}

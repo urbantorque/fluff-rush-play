@@ -1,0 +1,30 @@
+{
+  "method": "The same partially furnished save has a pending cart at the Bakery and the fountain’s real raincoat-trio invitation. Tested the explicit letter, a genuine close/reopen to the saved map card, and explicit departure from the table.",
+  "file": ".tmp/long-play/table9-story-with-table/L5-save.json",
+  "rows": [
+    {
+      "intent": "Play from the fountain letter",
+      "invitation": "Invite the raincoat trio\n\nHold left until the last yellow hood reaches the awning.\n\nReplay Drizzle Dell\nKeep this outing",
+      "cue": "Meet the red cart on the right, past the shower.",
+      "wallet": 722,
+      "table": "town:bakery-table:matcha:cart",
+      "picnic": "town:picnic-plan:hoods"
+    },
+    {
+      "intent": "Saved fountain outing from its regular road card after reopening",
+      "card": "Hushvale Meadow · Level 4\n\nDrizzle Dell\n\nClover is saving the wide end. Meet the red cart on the right, past the shower.\n\nTambo · Drum Call\nChange leader\nRoad options\nStart with Clover\nBack",
+      "cue": "Meet the red cart on the right, past the shower.",
+      "wallet": 722,
+      "table": "town:bakery-table:matcha:cart",
+      "picnic": "town:picnic-plan:hoods"
+    },
+    {
+      "intent": "Choose the cart explicitly at the Bakery on the same save",
+      "cue": "Meet the red cart on the right, past the shower.",
+      "wallet": 722,
+      "table": "town:bakery-table:matcha:cart",
+      "picnic": "town:picnic-plan:hoods"
+    }
+  ],
+  "errors": []
+}

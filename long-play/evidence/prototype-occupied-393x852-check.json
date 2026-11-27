@@ -1,0 +1,69 @@
+{
+  "fixture": ".tmp/long-play/table-prototype/both-hood-home-save.json",
+  "started": "2026-11-27T14:40:46.671Z",
+  "ended": "2026-11-27T14:40:58.412Z",
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "keyboard": false,
+  "still": false,
+  "checks": [
+    {
+      "before": {
+        "wallet": 662,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:matcha:L4"
+      },
+      "accessible": "Visit Clover’s table with the raincoats",
+      "first": "Clover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "helped": "Clover’s table\n\nThe littlest guest tucks in under the cloth. Clover takes a sip.\n\nSeat the raincoats\nMake room for the cart\nLower the cloth\nGo out together\nShare buns\nBack to Town",
+      "changed": {
+        "wallet": 662,
+        "setting": "town:bakery-table:matcha:cart",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:matcha:L4"
+      },
+      "afterRealReopen": {
+        "wallet": 662,
+        "setting": "town:bakery-table:matcha:cart",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:matcha:L4"
+      },
+      "layout": {
+        "panel": [
+          22,
+          480,
+          350,
+          290
+        ],
+        "overflow": false,
+        "applicationReducedMotion": false,
+        "title": "Clover’s table"
+      },
+      "inputs": [
+        "[data-act=later]:visible",
+        "[data-ring=square]:visible",
+        "[data-act=later]:visible",
+        "[data-ring=square]:visible",
+        "[data-key=bun-basket]",
+        "[data-moment=help-table]",
+        "[data-moment=set-cart]",
+        "[data-moment=close]",
+        "[data-act=later]:visible",
+        "[data-ring=square]:visible",
+        "[data-key=bun-basket]"
+      ]
+    }
+  ]
+}

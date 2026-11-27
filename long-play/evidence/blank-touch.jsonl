@@ -1,0 +1,294 @@
+{"utc":"2026-11-27T12:28:22.607Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T12:28:22.672Z","event":"view","road":"L1","phase":"sleep","screen":"","result":false,"crowd":1}
+{"utc":"2026-11-27T12:28:26.726Z","event":"view","road":"L1","phase":"sleep","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T12:28:36.072Z","event":"note","text":"New play. Pip and Bakery are the assigned opening. I want the baker at the window. I will look for Fig before the first wall."}
+{"utc":"2026-11-27T12:28:36.427Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T12:28:36.490Z","event":"input","line":"tap 192 751","ms":415}
+{"utc":"2026-11-27T12:28:36.611Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T12:28:41.024Z","event":"input","line":"left 85","ms":272}
+{"utc":"2026-11-27T12:28:41.077Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T12:28:47.436Z","event":"view","road":"L1","phase":"pour","screen":"map","result":false,"crowd":7}
+{"utc":"2026-11-27T12:28:48.437Z","event":"view","road":"L1","phase":"rest","screen":"map","result":false,"crowd":0}
+{"utc":"2026-11-27T12:28:48.490Z","event":"input","line":"left 60","ms":256}
+{"utc":"2026-11-27T12:28:48.539Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T12:28:49.443Z","event":"view","road":"L1","phase":"done","screen":"The wall needed one more friend.","result":true,"crowd":0}
+{"utc":"2026-11-27T12:28:49.457Z","event":"result","text":"Parade size\n0\nFig catches her loaf and joins the parade.The parade rests.\nThe wall needed one more friend.\n\nPetals kept\n12\n\nCrossing practice\n\nTake +5 at the first gate. Four more friends join there.\n\nTry again\nMap"}
+{"utc":"2026-11-27T12:28:50.290Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T12:28:50.390Z","event":"input","line":"buttons","ms":100}
+{"utc":"2026-11-27T12:28:53.215Z","event":"note","text":"Forced repeat. I got Fig on the left but the wall needed one more. I will use the right +5 before crossing back for her."}
+{"utc":"2026-11-27T12:28:55.732Z","event":"view","road":"L1","phase":"sleep","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T12:28:55.771Z","event":"input","line":"button Try again","ms":194}
+{"utc":"2026-11-27T12:28:55.973Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T12:28:56.023Z","event":"input","line":"right 115","ms":251}
+{"utc":"2026-11-27T12:28:57.546Z","event":"input","line":"read","ms":76}
+{"utc":"2026-11-27T12:29:02.174Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T12:29:04.540Z","event":"input","line":"left 230","ms":285}
+{"utc":"2026-11-27T12:29:04.618Z","event":"input","line":"read","ms":77}
+{"utc":"2026-11-27T12:29:06.659Z","event":"view","road":"L1","phase":"pour","screen":"map","result":false,"crowd":23}
+{"utc":"2026-11-27T12:29:07.679Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":19}
+{"utc":"2026-11-27T12:29:08.824Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T12:29:11.398Z","event":"input","line":"right 215","ms":266}
+{"utc":"2026-11-27T12:29:11.458Z","event":"input","line":"read","ms":59}
+{"utc":"2026-11-27T12:29:13.425Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:29:14.805Z","event":"view","road":"L1","phase":"finale","screen":"map","result":false,"crowd":99}
+{"utc":"2026-11-27T12:29:16.798Z","event":"input","line":"read","ms":57}
+{"utc":"2026-11-27T12:29:16.876Z","event":"input","line":"buttons","ms":77}
+{"utc":"2026-11-27T12:29:18.892Z","event":"view","road":"L1","phase":"done","screen":"99 friends home!","result":true,"crowd":99}
+{"utc":"2026-11-27T12:29:18.916Z","event":"result","text":"Parade size\n99\nFriends woken this run: 3\n3 woken\nParade of 99 reached the end.\n99 friends home!\n\nWake Up, Pip\n\nPip sets an empty plate for Fig. “Next time, look left for her loaf.”\n\n2 stars at 130 friends home\n\nTotal Petals\n+78 \n\nYou can reopen the Bakery for 100 Petals. Three friends will join your next parade.\n\nVisit the Bakery"}
+{"utc":"2026-11-27T12:29:20.584Z","event":"input","line":"read","ms":77}
+{"utc":"2026-11-27T12:29:20.785Z","event":"input","line":"buttons","ms":196}
+{"utc":"2026-11-27T12:29:24.386Z","event":"note","text":"Town. The empty plate names the miss. I want to see the Bakery open before deciding whether to go back for Fig."}
+{"utc":"2026-11-27T12:29:25.480Z","event":"view","screen":"Reopen the Bakery","result":false}
+{"utc":"2026-11-27T12:29:25.555Z","event":"input","line":"button Visit the Bakery","ms":375}
+{"utc":"2026-11-27T12:29:25.632Z","event":"input","line":"read","ms":76}
+{"utc":"2026-11-27T12:29:25.760Z","event":"input","line":"buttons","ms":127}
+{"utc":"2026-11-27T12:29:30.456Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T12:29:30.502Z","event":"input","line":"buttons","ms":46}
+{"utc":"2026-11-27T12:29:33.120Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:29:33.171Z","event":"input","line":"button Reopen for 100 Petals","ms":164}
+{"utc":"2026-11-27T12:29:33.221Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:29:35.553Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T12:29:42.337Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T12:29:42.388Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T12:29:45.057Z","event":"note","text":"Town. The basket is already out. I choose to touch it before Next road. I expect Fig to be missing."}
+{"utc":"2026-11-27T12:29:45.222Z","event":"input","line":"button Share buns at the Bakery","ms":164}
+{"utc":"2026-11-27T12:29:45.273Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T12:29:50.522Z","event":"note","text":"Town. Clover is closest to the basket. I choose her to see whether she can come get Fig with me."}
+{"utc":"2026-11-27T12:29:50.779Z","event":"input","line":"button Clover","ms":256}
+{"utc":"2026-11-27T12:29:50.855Z","event":"input","line":"read","ms":73}
+{"utc":"2026-11-27T12:29:50.926Z","event":"input","line":"buttons","ms":71}
+{"utc":"2026-11-27T12:29:53.324Z","event":"view","screen":"Sleepy Signs","result":false}
+{"utc":"2026-11-27T12:29:53.408Z","event":"input","line":"button Take Clover along","ms":308}
+{"utc":"2026-11-27T12:29:53.511Z","event":"input","line":"read","ms":102}
+{"utc":"2026-11-27T12:29:53.593Z","event":"input","line":"buttons","ms":80}
+{"utc":"2026-11-27T12:29:57.686Z","event":"note","text":"Searching. Take Clover along chose Sleepy Signs for me. I wanted Pip's first road to collect Fig with her. I will use Back to look for it."}
+{"utc":"2026-11-27T12:29:57.784Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:29:57.838Z","event":"input","line":"button Back","ms":150}
+{"utc":"2026-11-27T12:29:57.887Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T12:29:57.956Z","event":"input","line":"buttons","ms":68}
+{"utc":"2026-11-27T12:30:00.984Z","event":"view","screen":"map","result":false}
+{"utc":"2026-11-27T12:30:01.054Z","event":"input","line":"button Parade","ms":464}
+{"utc":"2026-11-27T12:30:01.104Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:30:01.154Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T12:30:03.988Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:30:04.038Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T12:30:08.921Z","event":"input-error","line":"button Level 1: Wake Up, Pip, 1 of 3 stars","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Level 1: Wake Up, Pip, 1 of 3 stars', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button data-key=\"L1\" class=\"hotspot\" data-cy=\"658.5343511"}
+{"utc":"2026-11-27T12:30:08.971Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:30:09.020Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T12:30:09.741Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T12:30:14.867Z","event":"input","line":"tap 198 619","ms":92}
+{"utc":"2026-11-27T12:30:14.873Z","event":"view","screen":"Wake Up, Pip","result":false}
+{"utc":"2026-11-27T12:30:14.923Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T12:30:18.071Z","event":"note","text":"Chosen practice. Clover stayed packed when I picked road one on the map. The Bakery lends three starters. I will hold left from the start for Fig and see if that is enough."}
+{"utc":"2026-11-27T12:30:18.225Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T12:30:18.285Z","event":"input","line":"button Start with Clover","ms":212}
+{"utc":"2026-11-27T12:30:18.535Z","event":"input","line":"left 170","ms":248}
+{"utc":"2026-11-27T12:30:18.591Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T12:30:24.557Z","event":"input","line":"right 210","ms":260}
+{"utc":"2026-11-27T12:30:24.621Z","event":"input","line":"read","ms":63}
+{"utc":"2026-11-27T12:30:28.368Z","event":"view","road":"L1","phase":"pour","screen":"map","result":false,"crowd":7}
+{"utc":"2026-11-27T12:30:28.452Z","event":"input","line":"left 235","ms":286}
+{"utc":"2026-11-27T12:30:28.505Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T12:30:29.383Z","event":"view","road":"L1","phase":"rest","screen":"map","result":false,"crowd":0}
+{"utc":"2026-11-27T12:30:30.900Z","event":"view","road":"L1","phase":"done","screen":"The wall needed one more friend.","result":true,"crowd":0}
+{"utc":"2026-11-27T12:30:30.915Z","event":"result","text":"Parade size\n0\nClover shares a warm bun.The Runaway got away. Next time!The parade rests.\nThe wall needed one more friend.\n\nPetals kept\n12\n\nCrossing practice\n\nTake +5 at the first gate. Four more friends join there.\n\nRunaway\nTry again\nMap"}
+{"utc":"2026-11-27T12:30:31.085Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T12:30:31.136Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T12:30:34.092Z","event":"note","text":"Chosen practice. Clover shared her bun even when the wall stopped us. Held left through the first gate again. I will take +5 and cross immediately this time."}
+{"utc":"2026-11-27T12:30:34.221Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":1}
+{"utc":"2026-11-27T12:30:34.269Z","event":"input","line":"button Try again","ms":176}
+{"utc":"2026-11-27T12:30:34.534Z","event":"input","line":"right 140","ms":264}
+{"utc":"2026-11-27T12:30:39.838Z","event":"input","line":"watch 5","ms":5303}
+{"utc":"2026-11-27T12:30:40.103Z","event":"input","line":"left 245","ms":265}
+{"utc":"2026-11-27T12:30:40.170Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:30:42.801Z","event":"input","line":"read","ms":45}
+{"utc":"2026-11-27T12:30:44.653Z","event":"view","road":"L1","phase":"pour","screen":"map","result":false,"crowd":23}
+{"utc":"2026-11-27T12:30:45.180Z","event":"view","road":"L1","phase":"walk","screen":"map","result":false,"crowd":19}
+{"utc":"2026-11-27T12:30:45.737Z","event":"input","line":"right 235","ms":251}
+{"utc":"2026-11-27T12:30:52.784Z","event":"view","road":"L1","phase":"finale","screen":"map","result":false,"crowd":174}
+{"utc":"2026-11-27T12:30:56.004Z","event":"input","line":"watch 10","ms":10266}
+{"utc":"2026-11-27T12:30:56.068Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:30:56.117Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T12:30:56.166Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T12:30:56.217Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T12:30:58.375Z","event":"view","road":"L1","phase":"done","screen":"New best · 174 home","result":true,"crowd":174}
+{"utc":"2026-11-27T12:30:58.390Z","event":"result","text":"Parade size\n174\nBest streak\n3\nFriends woken this run: 3\n3 woken\nFull bloom! All 5 lanterns litNew best! 174 beats 99Parade of 174 reached the end.\nNew best · 174 home\n\nWake Up, Pip\n\nAt gate 4, your crowd grew from 58 to 174.\n\nTotal Petals\n+69 \nYou met Comet!\n\nClear 2 new roads to upgrade the Bakery.\n\nNext road\nReplay road"}
+{"utc":"2026-11-27T12:30:58.503Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T12:31:04.539Z","event":"note","text":"Town. I can see Fig feeding Pip in the result picture, but the two buttons both send me to another road. I want the window and Clover. I will try Next road then Back."}
+{"utc":"2026-11-27T12:31:04.708Z","event":"view","road":"L2","phase":"walk","screen":"map","result":false,"crowd":8}
+{"utc":"2026-11-27T12:31:04.767Z","event":"input","line":"button Next road","ms":225}
+{"utc":"2026-11-27T12:31:04.815Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T12:31:04.867Z","event":"input","line":"buttons","ms":52}
+{"utc":"2026-11-27T12:31:07.165Z","event":"view","road":"L2","phase":"walk","screen":"Paused","result":false,"crowd":8}
+{"utc":"2026-11-27T12:31:07.204Z","event":"input","line":"button Pause","ms":147}
+{"utc":"2026-11-27T12:31:07.269Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:31:07.336Z","event":"input","line":"buttons","ms":66}
+{"utc":"2026-11-27T12:31:10.853Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:31:10.920Z","event":"input","line":"button Leave for Town","ms":183}
+{"utc":"2026-11-27T12:31:10.968Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T12:31:11.037Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T12:31:13.625Z","event":"input","line":"button Share buns at the Bakery","ms":135}
+{"utc":"2026-11-27T12:31:13.687Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T12:31:13.753Z","event":"input","line":"buttons","ms":64}
+{"utc":"2026-11-27T12:31:16.320Z","event":"input","line":"button Clover","ms":133}
+{"utc":"2026-11-27T12:31:16.387Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:31:20.256Z","event":"note","text":"Town. Clover ate a bun on the failed road. At the basket I get Tap a neighbour and Clover shared a bun again. I want to discover whether finishing a road changes this."}
+{"utc":"2026-11-27T12:31:20.403Z","event":"view","screen":"Sleepy Signs","result":false}
+{"utc":"2026-11-27T12:31:20.453Z","event":"input","line":"button Take Clover along","ms":195}
+{"utc":"2026-11-27T12:31:20.848Z","event":"view","road":"L2","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T12:31:20.900Z","event":"input","line":"button Start with Clover","ms":447}
+{"utc":"2026-11-27T12:31:21.150Z","event":"input","line":"left 130","ms":249}
+{"utc":"2026-11-27T12:31:27.466Z","event":"input","line":"watch 6","ms":6315}
+{"utc":"2026-11-27T12:31:27.520Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T12:31:29.331Z","event":"input","line":"read","ms":58}
+{"utc":"2026-11-27T12:31:35.402Z","event":"input","line":"tap 197 771","ms":77}
+{"utc":"2026-11-27T12:31:36.002Z","event":"view","road":"L2","phase":"pour","screen":"square","result":false,"crowd":31}
+{"utc":"2026-11-27T12:31:37.018Z","event":"view","road":"L2","phase":"walk","screen":"square","result":false,"crowd":19}
+{"utc":"2026-11-27T12:31:43.671Z","event":"input","line":"watch 8","ms":8268}
+{"utc":"2026-11-27T12:31:43.736Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:31:43.801Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:31:48.670Z","event":"view","road":"L2","phase":"finale","screen":"square","result":false,"crowd":116}
+{"utc":"2026-11-27T12:31:49.798Z","event":"input","line":"right 198","ms":253}
+{"utc":"2026-11-27T12:31:49.853Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T12:31:52.586Z","event":"input","line":"read","ms":59}
+{"utc":"2026-11-27T12:31:52.601Z","event":"view","road":"L2","phase":"done","screen":"Tambo can lead your parade!","result":true,"crowd":116}
+{"utc":"2026-11-27T12:31:52.617Z","event":"result","text":"Parade size\n116\nBest streak\n2\nFriends woken this run: 3\n3 woken\nParade of 116 reached the end.\nTambo can lead your parade!\n\nSleepy Signs\n\nRoad report\nTry Tambo on Treat Street"}
+{"utc":"2026-11-27T12:31:52.671Z","event":"input","line":"buttons","ms":83}
+{"utc":"2026-11-27T12:31:55.999Z","event":"input","line":"read","ms":42}
+{"utc":"2026-11-27T12:31:56.050Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T12:32:03.790Z","event":"note","text":"Searching. All three painters are home and I want to see who received the bun. The only visible button is Try Tambo on Treat Street. I open the report looking for a way home."}
+{"utc":"2026-11-27T12:32:03.850Z","event":"view","road":"L2","phase":"done","screen":"square","result":true,"crowd":116}
+{"utc":"2026-11-27T12:32:03.863Z","event":"result","text":"Parade size\n116\nBest streak\n2\nFriends woken this run: 3\n3 woken\nRoad report\n\nThree sign painters came through the little gate.\n\n2 stars at 450 friends home\n\nTotal Petals\n+112 \n\nThe Runaway got away. When Comet crosses again, steer into its path or whistle while it is close.\n\nMore from this road\n\nOn the breakfast cloth: Fig’s jam tarts · +12 Petals"}
+{"utc":"2026-11-27T12:32:03.899Z","event":"input","line":"tap 185 720","ms":107}
+{"utc":"2026-11-27T12:32:03.949Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:32:03.997Z","event":"input","line":"buttons","ms":47}
+{"utc":"2026-11-27T12:32:13.147Z","event":"input","line":"tap 118 712","ms":70}
+{"utc":"2026-11-27T12:32:13.199Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T12:32:13.248Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T12:32:16.151Z","event":"input","line":"tap 335 392","ms":70}
+{"utc":"2026-11-27T12:32:18.667Z","event":"input-error","line":"button Try Tambo on Treat Street","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Try Tambo on Treat Street', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:32:18.735Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:32:18.782Z","event":"input","line":"buttons","ms":44}
+{"utc":"2026-11-27T12:32:19.047Z","event":"input","line":"read","ms":38}
+{"utc":"2026-11-27T12:32:19.095Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T12:32:24.102Z","event":"view","road":"L2","phase":"done","screen":"Tambo can lead your parade!","result":true,"crowd":116}
+{"utc":"2026-11-27T12:32:24.116Z","event":"result","text":"Parade size\n116\nBest streak\n2\nFriends woken this run: 3\n3 woken\nTambo can lead your parade!\n\nSleepy Signs\n\nRoad report\nTry Tambo on Treat Street"}
+{"utc":"2026-11-27T12:32:24.167Z","event":"input","line":"tap 333 355","ms":114}
+{"utc":"2026-11-27T12:32:24.342Z","event":"view","screen":"Treat Street","result":false}
+{"utc":"2026-11-27T12:32:24.401Z","event":"input","line":"button Try Tambo on Treat Street","ms":233}
+{"utc":"2026-11-27T12:32:24.451Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:32:24.517Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T12:32:28.499Z","event":"view","screen":"map","result":false}
+{"utc":"2026-11-27T12:32:28.550Z","event":"input","line":"button Back","ms":134}
+{"utc":"2026-11-27T12:32:28.705Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:32:28.765Z","event":"input","line":"button Town","ms":214}
+{"utc":"2026-11-27T12:32:31.275Z","event":"input-error","line":"button Share buns at the Bakery","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Share buns at the Bakery', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"hotspot\" data-key=\"bun-basket\" data-cy=\"402.3323719354"}
+{"utc":"2026-11-27T12:32:31.330Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T12:32:31.381Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T12:32:31.485Z","event":"input","line":"read","ms":43}
+{"utc":"2026-11-27T12:32:36.603Z","event":"input","line":"tap 275 455","ms":71}
+{"utc":"2026-11-27T12:32:36.647Z","event":"input","line":"read","ms":43}
+{"utc":"2026-11-27T12:32:36.697Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T12:32:40.715Z","event":"input","line":"button Share buns at the Bakery","ms":144}
+{"utc":"2026-11-27T12:32:40.780Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:32:48.427Z","event":"note","text":"Town. Fig is outside with her loaf. Clover pats the basket and names Sleepy Signs. I decline Berry and Mochi here: sharing the same bun again offers no different thing to do with my hands. I do want to see the three painters on Treat Street. I choose that next."}
+{"utc":"2026-11-27T12:32:48.580Z","event":"input","line":"button Back to Town","ms":150}
+{"utc":"2026-11-27T12:32:48.660Z","event":"view","screen":"map","result":false}
+{"utc":"2026-11-27T12:32:48.695Z","event":"input","line":"button Parade","ms":115}
+{"utc":"2026-11-27T12:32:48.743Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T12:32:48.798Z","event":"input","line":"buttons","ms":55}
+{"utc":"2026-11-27T12:32:51.881Z","event":"view","screen":"Treat Street","result":false}
+{"utc":"2026-11-27T12:32:51.934Z","event":"input","line":"tap 245 801","ms":115}
+{"utc":"2026-11-27T12:32:52.001Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T12:32:52.072Z","event":"input","line":"buttons","ms":70}
+{"utc":"2026-11-27T12:32:54.821Z","event":"note","text":"New play. The road card names the painters I just brought in. I choose to try Tambo at their flags."}
+{"utc":"2026-11-27T12:32:54.986Z","event":"view","road":"L3","phase":"walk","screen":"map","result":false,"crowd":11}
+{"utc":"2026-11-27T12:32:55.045Z","event":"input","line":"button Start with Clover","ms":223}
+{"utc":"2026-11-27T12:32:55.315Z","event":"input","line":"right 115","ms":268}
+{"utc":"2026-11-27T12:33:00.532Z","event":"input","line":"watch 5","ms":5215}
+{"utc":"2026-11-27T12:33:00.579Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T12:33:01.118Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T12:33:07.086Z","event":"input","line":"tap 194 775","ms":90}
+{"utc":"2026-11-27T12:33:07.153Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T12:33:13.387Z","event":"input","line":"watch 6","ms":6233}
+{"utc":"2026-11-27T12:33:13.453Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T12:33:14.800Z","event":"input","line":"read","ms":79}
+{"utc":"2026-11-27T12:33:15.746Z","event":"view","road":"L3","phase":"pour","screen":"map","result":false,"crowd":402}
+{"utc":"2026-11-27T12:33:16.751Z","event":"view","road":"L3","phase":"walk","screen":"map","result":false,"crowd":294}
+{"utc":"2026-11-27T12:33:21.447Z","event":"input","line":"left 115","ms":382}
+{"utc":"2026-11-27T12:33:21.531Z","event":"input","line":"tap 188 89","ms":83}
+{"utc":"2026-11-27T12:33:21.581Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:33:30.793Z","event":"input","line":"watch 9","ms":9211}
+{"utc":"2026-11-27T12:33:30.845Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T12:33:31.496Z","event":"input","line":"read","ms":61}
+{"utc":"2026-11-27T12:33:31.561Z","event":"input","line":"buttons","ms":63}
+{"utc":"2026-11-27T12:33:35.626Z","event":"view","road":"L3","phase":"finale","screen":"map","result":false,"crowd":2599}
+{"utc":"2026-11-27T12:33:36.956Z","event":"input-error","line":"button Drum ready","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Drum ready', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:33:40.209Z","event":"view","road":"L3","phase":"done","screen":"2,599 friends home!","result":true,"crowd":2599}
+{"utc":"2026-11-27T12:33:40.218Z","event":"result","text":"Parade size\n2,599\nBest streak\n3\nFriends woken this run: 3\n3 woken\nParade of 2599 reached the end.\n2,599 friends home!\n\nTreat Street\n\nThe painters rinse their brushes while Fig cuts the bread.\n\n2 stars at 2,850 friends home\n\nTotal Petals\nIncludes 14 from Golden Rush\n+25 \nRamune joined the parade!\nChoose road"}
+{"utc":"2026-11-27T12:33:44.214Z","event":"input","line":"watch 7","ms":7257}
+{"utc":"2026-11-27T12:33:44.295Z","event":"input","line":"read","ms":79}
+{"utc":"2026-11-27T12:33:44.364Z","event":"input","line":"read","ms":69}
+{"utc":"2026-11-27T12:33:44.429Z","event":"input","line":"buttons","ms":64}
+{"utc":"2026-11-27T12:33:49.561Z","event":"note","text":"New play. 2599 arrived; the painters rinse their brushes while Fig cuts bread. I can see both my earlier detours together. I want to look at the next road choice."}
+{"utc":"2026-11-27T12:33:49.837Z","event":"view","screen":"Which road first?","result":false}
+{"utc":"2026-11-27T12:33:49.902Z","event":"input","line":"button Choose road","ms":339}
+{"utc":"2026-11-27T12:33:49.976Z","event":"input","line":"read","ms":72}
+{"utc":"2026-11-27T12:33:50.043Z","event":"input","line":"buttons","ms":66}
+{"utc":"2026-11-27T12:33:56.620Z","event":"note","text":"New play. I choose Drizzle over Seedfall because the fork picture shows a cart outside in the rain. I want to see where it ends up. I will steer right for it."}
+{"utc":"2026-11-27T12:33:56.706Z","event":"view","screen":"Drizzle Dell","result":false}
+{"utc":"2026-11-27T12:33:56.751Z","event":"input","line":"tap 105 405","ms":122}
+{"utc":"2026-11-27T12:33:56.823Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T12:33:56.893Z","event":"input","line":"buttons","ms":69}
+{"utc":"2026-11-27T12:34:00.666Z","event":"view","road":"L4","phase":"walk","screen":"map","result":false,"crowd":11}
+{"utc":"2026-11-27T12:34:00.729Z","event":"input","line":"button Start with Clover","ms":216}
+{"utc":"2026-11-27T12:34:00.979Z","event":"input","line":"right 150","ms":248}
+{"utc":"2026-11-27T12:34:09.229Z","event":"input","line":"watch 8","ms":8250}
+{"utc":"2026-11-27T12:34:09.295Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T12:34:09.359Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T12:34:11.726Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T12:34:14.360Z","event":"view","road":"L4","phase":"pour","screen":"map","result":false,"crowd":78}
+{"utc":"2026-11-27T12:34:14.896Z","event":"input","line":"tap 196 87","ms":76}
+{"utc":"2026-11-27T12:34:14.943Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T12:34:15.376Z","event":"view","road":"L4","phase":"walk","screen":"map","result":false,"crowd":53}
+{"utc":"2026-11-27T12:34:23.397Z","event":"input","line":"watch 8","ms":8452}
+{"utc":"2026-11-27T12:34:23.565Z","event":"input","line":"read","ms":168}
+{"utc":"2026-11-27T12:34:24.347Z","event":"input","line":"read","ms":79}
+{"utc":"2026-11-27T12:34:28.590Z","event":"input","line":"right 70","ms":332}
+{"utc":"2026-11-27T12:34:28.714Z","event":"input","line":"tap 190 770","ms":123}
+{"utc":"2026-11-27T12:34:28.782Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T12:34:30.562Z","event":"view","road":"L4","phase":"finale","screen":"map","result":false,"crowd":800}
+{"utc":"2026-11-27T12:34:31.199Z","event":"input","line":"read","ms":70}
+{"utc":"2026-11-27T12:34:31.296Z","event":"input","line":"buttons","ms":96}
+{"utc":"2026-11-27T12:34:35.081Z","event":"view","road":"L4","phase":"done","screen":"800 friends home!","result":true,"crowd":800}
+{"utc":"2026-11-27T12:34:35.110Z","event":"result","text":"Parade size\n800\nFriends woken this run: 3\n3 woken\nParade of 800 reached the end.\n800 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 20 from Runaway\n+109 \nRoad report\nNext road"}
+{"utc":"2026-11-27T12:34:37.641Z","event":"input","line":"read","ms":42}
+{"utc":"2026-11-27T12:34:37.693Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T12:34:40.992Z","event":"note","text":"Town. Eight riders caught a lift. I want to find the cart in Town. The result offers Next road. I will examine the report once."}
+{"utc":"2026-11-27T12:34:41.096Z","event":"input","line":"tap 140 683","ms":101}
+{"utc":"2026-11-27T12:34:41.180Z","event":"input","line":"read","ms":82}
+{"utc":"2026-11-27T12:34:46.942Z","event":"view","road":"L4","phase":"done","screen":"map","result":true,"crowd":800}
+{"utc":"2026-11-27T12:34:46.976Z","event":"result","text":"Parade size\n800\nFriends woken this run: 3\n3 woken\nRoad report\nLanterns lit\n1 / 5\n\nTambo’s best 800.\n\nMore from this road"}
+{"utc":"2026-11-27T12:34:47.026Z","event":"input","line":"tap 142 724","ms":119}
+{"utc":"2026-11-27T12:34:47.091Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:34:47.144Z","event":"input","line":"buttons","ms":52}
+{"utc":"2026-11-27T12:34:54.125Z","event":"view","road":"L4","phase":"done","screen":"800 friends home!","result":true,"crowd":800}
+{"utc":"2026-11-27T12:34:54.142Z","event":"result","text":"Parade size\n800\nFriends woken this run: 3\n3 woken\n800 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 20 from Runaway\n+120 \nRoad report\nNext road"}
+{"utc":"2026-11-27T12:34:54.193Z","event":"input","line":"tap 330 685","ms":105}
+{"utc":"2026-11-27T12:34:54.342Z","event":"view","road":"L5","phase":"walk","screen":"map","result":false,"crowd":13}
+{"utc":"2026-11-27T12:34:54.408Z","event":"input","line":"button Next road","ms":213}
+{"utc":"2026-11-27T12:34:54.457Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:34:54.507Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T12:34:57.393Z","event":"view","road":"L5","phase":"walk","screen":"Paused","result":false,"crowd":13}
+{"utc":"2026-11-27T12:34:57.447Z","event":"input","line":"button Pause","ms":160}
+{"utc":"2026-11-27T12:34:57.957Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:34:57.989Z","event":"input","line":"button Leave for Town","ms":541}
+{"utc":"2026-11-27T12:34:58.041Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T12:34:58.090Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T12:35:00.511Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T12:35:00.580Z","event":"input","line":"buttons","ms":68}
+{"utc":"2026-11-27T12:35:03.712Z","event":"input","line":"button Share buns at the Bakery","ms":223}
+{"utc":"2026-11-27T12:35:03.813Z","event":"input","line":"read","ms":99}
+{"utc":"2026-11-27T12:35:09.973Z","event":"note","text":"Voluntary stop. Clover names Drizzle Dell exactly as she named Sleepy Signs. I looked for the eight cart riders and found no cart at her basket. I decline sharing with Berry or Mochi to run the same errand. I would close here. Next time I would like to seat the people I brought, or try the other side if the hoods come home somewhere I can find."}
+{"utc":"2026-11-27T12:35:10.017Z","event":"leave"}
+{"utc":"2026-11-27T12:35:10.023Z","event":"quit"}

@@ -1,0 +1,378 @@
+{
+  "crossings": [],
+  "fixture": ".tmp/long-play/phrases/control-11111111.json",
+  "method": "One normal-clock native-input rehearsal from the actual restored stand. The test requested each note in its authored lane, held repeated notes without an extra touch, and returned to the same stand. Read-only observation of game input, planks, native audio voices and save. No driver assistance.",
+  "digits": "11111111",
+  "viewport": {
+    "width": 320,
+    "height": 568
+  },
+  "still": true,
+  "mute": true,
+  "key": false,
+  "demo": [
+    {
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 0.783333333333333,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.033333333333332,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.2666666666666646,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.5166666666666637,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.7499999999999962,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.9833333333333287,
+      "label": "Tambo plays Honey"
+    }
+  ],
+  "bands": [
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1008,
+      "end": 1123.5,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1201.2,
+      "end": 1316.7,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1394.4,
+      "end": 1509.9,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1587.6,
+      "end": 1703.1,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1780.8000000000002,
+      "end": 1896.3000000000002,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1974,
+      "end": 2089.5,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 2167.2,
+      "end": 2282.7,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 2360.4,
+      "end": 2475.9,
+      "speed": 210,
+      "color": "#FFE066"
+    }
+  ],
+  "inputs": [
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 6.649800000011921,
+      "time": 4.483333333333346,
+      "from": 0,
+      "x": 0,
+      "dist": 858.375,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 7.938800000011921,
+      "time": 5.766666666666743,
+      "from": 0,
+      "x": 0,
+      "dist": 1127.875,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 8.853699999988079,
+      "time": 6.683333333333455,
+      "from": 0,
+      "x": 0,
+      "dist": 1320.375,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 9.777599999964238,
+      "time": 7.6000000000001675,
+      "from": 0,
+      "x": 0,
+      "dist": 1512.875,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 10.692099999964237,
+      "time": 8.516666666666824,
+      "from": 0,
+      "x": 0,
+      "dist": 1705.375,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 11.616699999988079,
+      "time": 9.450000000000104,
+      "from": 0,
+      "x": 0,
+      "dist": 1901.375,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 12.554899999976158,
+      "time": 10.383333333333384,
+      "from": 0,
+      "x": 0,
+      "dist": 2097.375,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "wall": 13.455199999988078,
+      "time": 11.283333333333333,
+      "from": 0,
+      "x": 0,
+      "dist": 2286.375,
+      "delta": 0
+    }
+  ],
+  "actual": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "receipt": "Your welcome song\n\n◆\n◆\n◆\n◆\n◆\n◆\n◆\n◆\n\n8 of 8 notes played.\n\nBack to Band Stand\nChange a note\nSteer it again",
+  "next": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\n◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆\nRose left · Honey middle · Mint right\nVisit or choose a place\nSteer your welcome song\nHear your welcome song\nPlay a road\nBack",
+  "hubVisible": 0,
+  "before": 7682,
+  "after": 7682,
+  "changed": [],
+  "steps": [
+    {
+      "wall": 2.4695999999642373,
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Honey",
+      "played": 1,
+      "steps": []
+    },
+    {
+      "wall": 2.7145,
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Honey",
+      "played": 2,
+      "steps": []
+    },
+    {
+      "wall": 2.9510999999642373,
+      "time": 0.783333333333333,
+      "label": "Tambo plays Honey",
+      "played": 3,
+      "steps": []
+    },
+    {
+      "wall": 3.1995,
+      "time": 1.033333333333332,
+      "label": "Tambo plays Honey",
+      "played": 4,
+      "steps": []
+    },
+    {
+      "wall": 3.432,
+      "time": 1.2666666666666646,
+      "label": "Tambo plays Honey",
+      "played": 5,
+      "steps": []
+    },
+    {
+      "wall": 3.6800999999642374,
+      "time": 1.5166666666666637,
+      "label": "Tambo plays Honey",
+      "played": 6,
+      "steps": []
+    },
+    {
+      "wall": 3.916,
+      "time": 1.7499999999999962,
+      "label": "Tambo plays Honey",
+      "played": 7,
+      "steps": []
+    },
+    {
+      "wall": 4.148899999976158,
+      "time": 1.9833333333333287,
+      "label": "Tambo plays Honey",
+      "played": 8,
+      "steps": []
+    },
+    {
+      "wall": 4.399199999988079,
+      "time": 2.233333333333328,
+      "label": "◆ Honey · middle",
+      "played": 9,
+      "steps": []
+    },
+    {
+      "wall": 7.9155,
+      "time": 5.7500000000000755,
+      "label": "◆ Honey · hold middle",
+      "played": 9,
+      "steps": [
+        true
+      ]
+    },
+    {
+      "wall": 8.8355,
+      "time": 6.666666666666788,
+      "label": "◆ Honey · hold middle",
+      "played": 9,
+      "steps": [
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 9.7705,
+      "time": 7.6000000000001675,
+      "label": "◆ Honey · hold middle",
+      "played": 9,
+      "steps": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 10.684599999964238,
+      "time": 8.516666666666824,
+      "label": "◆ Honey · hold middle",
+      "played": 9,
+      "steps": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 11.599800000011921,
+      "time": 9.433333333333438,
+      "label": "◆ Honey · hold middle",
+      "played": 9,
+      "steps": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 12.525599999964237,
+      "time": 10.350000000000053,
+      "label": "◆ Honey · hold middle",
+      "played": 9,
+      "steps": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 13.435399999976157,
+      "time": 11.266666666666667,
+      "label": "◆ Honey · hold middle",
+      "played": 9,
+      "steps": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 14.372899999976157,
+      "time": 12.199999999999948,
+      "label": "8 of 8 notes played",
+      "played": 9,
+      "steps": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "voices": [],
+  "errors": []
+}

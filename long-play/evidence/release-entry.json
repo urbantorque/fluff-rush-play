@@ -1,0 +1,106 @@
+{
+  "method": "Actual final report on loopback. On one new mobile Chromium context, followed Play from the beginning and woke Pip by touch, followed the furnished launcher and opened the earned save, then selected the chaptered reel’s Rose–Mint–Rose button with original audio enabled. This check used independent storage from the played visits.",
+  "hash": "435713e9430f75ddbf70ccfc94a353fba628f854c81c33aae85ce467dafa0ef7",
+  "fresh": {
+    "url": "http://127.0.0.1:4311",
+    "phase": "sleep",
+    "level": "L1",
+    "wallet": 0,
+    "asset": "./assets/index-CCziZ-5V.js",
+    "started": true
+  },
+  "town": {
+    "url": "http://127.0.0.1:4312",
+    "wallet": 8135,
+    "table": "town:bakery-table:yuzu:cart",
+    "song": "town:tune:221",
+    "asset": "./assets/index-CCziZ-5V.js"
+  },
+  "chapter": {
+    "position": 71.031,
+    "rate": 1,
+    "muted": false,
+    "src": "http://127.0.0.1:4310/long-play-reel.webm"
+  },
+  "errors": [],
+  "continuousFinalReel": {
+    "method": "Started the first chapter on the served mobile report and let the player reach its own ended event. No seeking or speed changes.",
+    "duration": 88.93,
+    "playedFrom": 0,
+    "playedTo": 88.93,
+    "ranges": 1,
+    "totalFrames": 2663,
+    "droppedFrames": 0,
+    "audioEnabled": true,
+    "rate": 1,
+    "samples": [
+      {
+        "target": 0,
+        "playingAt": 0,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 8,
+        "playingAt": 8.099253,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 16,
+        "playingAt": 16.071464,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 24,
+        "playingAt": 24.072827,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 31,
+        "playingAt": 31.254,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 39,
+        "playingAt": 39.23545,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 45,
+        "playingAt": 45.068863,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 53,
+        "playingAt": 53.055599,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 58,
+        "playingAt": 58.113868,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 71,
+        "playingAt": 71.150333,
+        "rate": 1,
+        "audible": true
+      },
+      {
+        "target": 85,
+        "playingAt": 85.21687,
+        "rate": 1,
+        "audible": true
+      }
+    ],
+    "wallSeconds": 89.586
+  }
+}

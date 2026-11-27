@@ -1,0 +1,25 @@
+{
+  "method": "Decoded each final WebM in Chromium; checked native dimensions, wall-time match, seekability and energy of each decoded soundtrack channel.",
+  "rows": [
+    {
+      "file": "play-suki-check-wrapper-boat.webm",
+      "bytes": 692625,
+      "sha256": "d1a3c31955180e863adcccf77729782458c25e9bd65f0e60c90094980ca4bbbf",
+      "wallSeconds": 9.134,
+      "duration": 9.133,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 9.12,
+      "channels": [
+        {
+          "rms": 0.02159,
+          "peak": 0.15721
+        },
+        {
+          "rms": 0.02158,
+          "peak": 0.15721
+        }
+      ]
+    }
+  ]
+}

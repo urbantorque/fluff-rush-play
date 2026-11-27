@@ -1,0 +1,45 @@
+{
+  "method": "Reachability and touch-latency diagnostic on an independent earned-save copy. Normal game and wall clocks. Expert steering before and after four real Chromium contact gestures on the first authored Aurora span. Different from voluntary play. Wall times include input dispatch and frame scheduling.",
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "size": [
+    393,
+    852
+  ],
+  "startedAt": "2026-11-27T13:22:59.942Z",
+  "measurements": [
+    {
+      "delta": -285,
+      "from": -74.99999999999997,
+      "to": -106.73210757265173,
+      "dispatchToEnteredMs": 27,
+      "edgeToEdgeMs": 149,
+      "observedTravelSeconds": 0.033
+    },
+    {
+      "delta": 285,
+      "from": -131.99999998916192,
+      "to": 102.11832411866924,
+      "dispatchToEnteredMs": 212,
+      "edgeToEdgeMs": 212,
+      "observedTravelSeconds": 0.083
+    },
+    {
+      "delta": -285,
+      "from": 131.9999999795695,
+      "to": -111.41407214090593,
+      "dispatchToEnteredMs": 166,
+      "edgeToEdgeMs": 216,
+      "observedTravelSeconds": 0.133
+    },
+    {
+      "delta": 285,
+      "from": -131.9999999947064,
+      "to": 102.11832411864441,
+      "dispatchToEnteredMs": 223,
+      "edgeToEdgeMs": 245,
+      "observedTravelSeconds": 0.1
+    }
+  ],
+  "errors": [],
+  "receipt": "14 of 15 colours caught!\n\n4 constellations on your fountain path.\n\nRoad Petals\nIncludes 79 from the Workshop and 30 from Meadow\n+357 \nVillage Board request\n+100 Petals\nRoad report\nSee my constellations\nTown"
+}

@@ -1,0 +1,82 @@
+{
+  "method": "Diagnostic copy after the willing clean stop. Four normal reopens at 393 × 852, 1.1 s for the Square to settle, normal motion, physical tap or focused Enter. No saved values changed.",
+  "rows": [
+    {
+      "mode": "observed tap",
+      "x": 101,
+      "y": 253,
+      "box": {
+        "x": 113.16222381591797,
+        "y": 372.37921142578125,
+        "width": 44.00000762939453,
+        "height": 44
+      },
+      "outcome": [
+        "Breakfast at the fountain",
+        "Bakery · Upgrade 2 of 3",
+        "Build the bread counter",
+        "Now",
+        "After upgrade",
+        "Pip packs one more bun. Start most roads with 4 extra friends instead of 3."
+      ]
+    },
+    {
+      "mode": "centre",
+      "x": 135,
+      "y": 394,
+      "box": {
+        "x": 113.16222381591797,
+        "y": 372.3825988769531,
+        "width": 44.00000762939453,
+        "height": 44
+      },
+      "outcome": [
+        "Petals",
+        "457",
+        "Berry’s table",
+        "One coat dries on the chair. Berry sits down beside the three guests.",
+        "Seat the raincoats",
+        "Make room for the cart"
+      ]
+    },
+    {
+      "mode": "coat near centre",
+      "x": 141,
+      "y": 388,
+      "box": {
+        "x": 113.16222381591797,
+        "y": 372.3810119628906,
+        "width": 44.00000762939453,
+        "height": 44
+      },
+      "outcome": [
+        "Petals",
+        "457",
+        "Berry’s table",
+        "One coat dries on the chair. Berry sits down beside the three guests.",
+        "Seat the raincoats",
+        "Make room for the cart"
+      ]
+    },
+    {
+      "mode": "keyboard",
+      "x": 135,
+      "y": 394,
+      "box": {
+        "x": 113.16222381591797,
+        "y": 372.3810119628906,
+        "width": 44.00000762939453,
+        "height": 44
+      },
+      "outcome": [
+        "Petals",
+        "457",
+        "Berry’s table",
+        "One coat dries on the chair. Berry sits down beside the three guests.",
+        "Seat the raincoats",
+        "Make room for the cart"
+      ]
+    }
+  ],
+  "errors": []
+}

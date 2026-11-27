@@ -1,0 +1,73 @@
+{"utc":"2026-11-27T14:03:33.985Z","event":"open","url":"http://localhost:4173/?level=L30","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T14:03:34.101Z","event":"view","road":"L30","phase":"walk","screen":"","result":false,"crowd":53}
+{"utc":"2026-11-27T14:03:46.882Z","event":"note","text":"Diagnostic only, after 29 real cleared roads on the original campaign fork. This is the first attempt on its Snow Giant. I will watch where the two paws are and see whether a failure leads to something I can practise."}
+{"utc":"2026-11-27T14:03:47.021Z","event":"input","line":"read","ms":138}
+{"utc":"2026-11-27T14:03:47.081Z","event":"view","road":"L30","phase":"pour","screen":"","result":false,"crowd":540}
+{"utc":"2026-11-27T14:03:47.134Z","event":"input","line":"buttons","ms":112}
+{"utc":"2026-11-27T14:03:47.874Z","event":"view","road":"L30","phase":"walk","screen":"","result":false,"crowd":390}
+{"utc":"2026-11-27T14:03:51.415Z","event":"input","line":"right 107","ms":379}
+{"utc":"2026-11-27T14:03:55.688Z","event":"input","line":"watch 4","ms":4272}
+{"utc":"2026-11-27T14:03:55.748Z","event":"input","line":"read","ms":60}
+{"utc":"2026-11-27T14:03:58.990Z","event":"input","line":"tap 194 771","ms":181}
+{"utc":"2026-11-27T14:04:03.046Z","event":"view","road":"L30","phase":"pour","screen":"","result":false,"crowd":3363}
+{"utc":"2026-11-27T14:04:03.518Z","event":"input","line":"watch 4","ms":4527}
+{"utc":"2026-11-27T14:04:03.683Z","event":"input","line":"read","ms":163}
+{"utc":"2026-11-27T14:04:04.068Z","event":"view","road":"L30","phase":"walk","screen":"","result":false,"crowd":2263}
+{"utc":"2026-11-27T14:04:16.536Z","event":"input","line":"read","ms":117}
+{"utc":"2026-11-27T14:04:16.614Z","event":"input","line":"buttons","ms":76}
+{"utc":"2026-11-27T14:04:20.531Z","event":"input","line":"left 245","ms":267}
+{"utc":"2026-11-27T14:04:20.869Z","event":"view","road":"L30","phase":"pour","screen":"","result":false,"crowd":5901}
+{"utc":"2026-11-27T14:04:21.867Z","event":"view","road":"L30","phase":"walk","screen":"","result":false,"crowd":3401}
+{"utc":"2026-11-27T14:04:26.049Z","event":"input","line":"watch 5","ms":5518}
+{"utc":"2026-11-27T14:04:26.218Z","event":"input","line":"read","ms":164}
+{"utc":"2026-11-27T14:04:29.463Z","event":"input","line":"read","ms":80}
+{"utc":"2026-11-27T14:04:29.529Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T14:04:35.003Z","event":"input","line":"right 182","ms":293}
+{"utc":"2026-11-27T14:04:39.265Z","event":"input","line":"watch 4","ms":4261}
+{"utc":"2026-11-27T14:04:39.350Z","event":"input","line":"read","ms":84}
+{"utc":"2026-11-27T14:04:45.825Z","event":"note","text":"Diagnostic. The right paw is awake while left reads 57 of 13,300. I can see what I would change. I will try left for the second paw and then inspect the practice offer if the Giant stays asleep."}
+{"utc":"2026-11-27T14:04:46.115Z","event":"input","line":"left 215","ms":289}
+{"utc":"2026-11-27T14:04:51.361Z","event":"input","line":"watch 5","ms":5245}
+{"utc":"2026-11-27T14:04:51.414Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T14:04:51.415Z","event":"note","text":"Diagnostic correction. The text receipt gives 18,300 for the snowed-under left paw; I misread the small digits in the screenshot. The split was 57 left and 13,682 right."}
+{"utc":"2026-11-27T14:04:51.482Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T14:04:51.548Z","event":"input","line":"buttons","ms":64}
+{"utc":"2026-11-27T14:04:54.676Z","event":"view","road":"L30","phase":"finale","screen":"","result":false,"crowd":13739}
+{"utc":"2026-11-27T14:05:04.908Z","event":"input","line":"watch 8","ms":8491}
+{"utc":"2026-11-27T14:05:05.070Z","event":"input","line":"read","ms":160}
+{"utc":"2026-11-27T14:05:05.244Z","event":"input","line":"buttons","ms":171}
+{"utc":"2026-11-27T14:05:06.889Z","event":"view","road":"L30","phase":"done","screen":"The Snow Giant is awake!","result":true,"crowd":13739}
+{"utc":"2026-11-27T14:05:06.923Z","event":"result","text":"Parade size\n13,739\nFriends woken this run: 15\n15 woken\nParade of 13739 reached the end.\nThe Snow Giant is awake!\n\nThe Snow Giant's Hill\n\nRoad report\nCome home"}
+{"utc":"2026-11-27T14:06:59.647Z","event":"input","line":"read","ms":78}
+{"utc":"2026-11-27T14:06:59.723Z","event":"input","line":"buttons","ms":75}
+{"utc":"2026-11-27T14:07:04.707Z","event":"note","text":"Supplied test. I crossed from right to left between the two paw encounters. Suki rescued 17 sticky friends and brought 13,739 home. The Giant woke and offered Come home, so this run supplies no failed-paw practice evidence. I want to see who is at the reunion once."}
+{"utc":"2026-11-27T14:07:04.775Z","event":"input","line":"click Come home","ms":66}
+{"utc":"2026-11-27T14:07:08.009Z","event":"input","line":"watch 3","ms":3233}
+{"utc":"2026-11-27T14:07:08.075Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T14:07:08.142Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T14:07:09.843Z","event":"view","screen":"","result":false}
+{"utc":"2026-11-27T14:07:10.009Z","event":"input","line":"button Come home","ms":366}
+{"utc":"2026-11-27T14:07:10.142Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T14:07:14.289Z","event":"input","line":"watch 4","ms":4280}
+{"utc":"2026-11-27T14:07:14.339Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T14:07:14.407Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T14:07:19.308Z","event":"input","line":"read","ms":60}
+{"utc":"2026-11-27T14:07:19.371Z","event":"input","line":"buttons","ms":62}
+{"utc":"2026-11-27T14:07:24.174Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:07:24.222Z","event":"input","line":"button Later","ms":174}
+{"utc":"2026-11-27T14:07:26.727Z","event":"input-error","line":"button Hug the Snow Giant","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Hug the Snow Giant', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"hotspot\" data-key=\"snow-guest\" data-cy=\"530.4246168460489\" a"}
+{"utc":"2026-11-27T14:07:30.974Z","event":"input","line":"watch 4","ms":4246}
+{"utc":"2026-11-27T14:07:31.054Z","event":"input","line":"read","ms":79}
+{"utc":"2026-11-27T14:07:31.122Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T14:07:31.174Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T14:07:31.236Z","event":"input","line":"buttons","ms":61}
+{"utc":"2026-11-27T14:07:37.889Z","event":"input","line":"choice The Snow Giant is home","ms":128}
+{"utc":"2026-11-27T14:07:41.088Z","event":"input","line":"watch 3","ms":3199}
+{"utc":"2026-11-27T14:07:41.137Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T14:07:41.188Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T14:07:45.441Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T14:07:45.503Z","event":"input","line":"buttons","ms":61}
+{"utc":"2026-11-27T14:07:55.941Z","event":"note","text":"The reunion said For your paws this time, Pip. I touched the invitation and stayed for the hug. A starfall invitation followed. This is a good ending; I choose to leave it here. Preserve Come home as the primary result."}
+{"utc":"2026-11-27T14:07:55.958Z","event":"save"}
+{"utc":"2026-11-27T14:07:55.974Z","event":"leave"}
+{"utc":"2026-11-27T14:07:55.976Z","event":"quit"}

@@ -1,0 +1,13 @@
+{
+  "method": "Twelve normal-clock seconds in the focused Bakery on an identical full-Town save, 393×852. Chromium rAF on the desktop host, including game drawing. The control ignores the new place flags. This measures this environment only.",
+  "fixture": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+  "heading": "Mochi’s table",
+  "wallet": 8135,
+  "elapsedMs": 12006.600000023842,
+  "frames": 685,
+  "p50": 16.699999999999818,
+  "p95": 33.19999999999891,
+  "p99": 33.399999999999636,
+  "over50": 0,
+  "errors": []
+}

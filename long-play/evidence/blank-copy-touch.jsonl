@@ -1,0 +1,63 @@
+{"utc":"2026-11-27T12:44:45.737Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T12:44:45.946Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:45:03.066Z","event":"note","text":"Diagnosis. Independent fork of the blank tester's 497-Petal stopping state. I am checking the other places a cart could have gone and what a second group would do to the same breakfast."}
+{"utc":"2026-11-27T12:45:03.154Z","event":"input","line":"read","ms":80}
+{"utc":"2026-11-27T12:45:03.323Z","event":"input","line":"buttons","ms":164}
+{"utc":"2026-11-27T12:45:09.168Z","event":"input-error","line":"button Breakfast at the fountain","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Breakfast at the fountain', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:45:09.217Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T12:45:09.282Z","event":"input","line":"buttons","ms":64}
+{"utc":"2026-11-27T12:45:10.551Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T12:45:16.735Z","event":"view","screen":"Breakfast at the fountain","result":false}
+{"utc":"2026-11-27T12:45:16.786Z","event":"input","line":"tap 202 526","ms":335}
+{"utc":"2026-11-27T12:45:16.880Z","event":"input","line":"read","ms":93}
+{"utc":"2026-11-27T12:45:16.990Z","event":"input","line":"buttons","ms":109}
+{"utc":"2026-11-27T12:45:22.652Z","event":"note","text":"Diagnosis. At the fountain I get Fig and the painters have laid out their jam tarts. It does remember that earlier pair. This visit gives me Continue Parade and Stay in Town. I cannot see the cart. I am going back for the hood now because the fork promised another outcome."}
+{"utc":"2026-11-27T12:45:22.782Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:45:22.834Z","event":"input","line":"button Stay in Town","ms":181}
+{"utc":"2026-11-27T12:45:23.279Z","event":"view","screen":"map","result":false}
+{"utc":"2026-11-27T12:45:23.334Z","event":"input","line":"button Parade","ms":499}
+{"utc":"2026-11-27T12:45:23.383Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T12:45:23.433Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T12:45:29.771Z","event":"view","screen":"Drizzle Dell","result":false}
+{"utc":"2026-11-27T12:45:30.044Z","event":"input","line":"tap 90 540","ms":641}
+{"utc":"2026-11-27T12:45:30.279Z","event":"input","line":"read","ms":229}
+{"utc":"2026-11-27T12:45:30.441Z","event":"input","line":"buttons","ms":158}
+{"utc":"2026-11-27T12:45:32.770Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T12:45:32.816Z","event":"input","line":"buttons","ms":43}
+{"utc":"2026-11-27T12:45:36.373Z","event":"view","road":"L4","phase":"walk","screen":"map","result":false,"crowd":11}
+{"utc":"2026-11-27T12:45:36.456Z","event":"input","line":"button Start with Clover","ms":295}
+{"utc":"2026-11-27T12:45:36.744Z","event":"input","line":"right 165","ms":284}
+{"utc":"2026-11-27T12:45:47.984Z","event":"input","line":"watch 11","ms":11235}
+{"utc":"2026-11-27T12:45:48.046Z","event":"input","line":"read","ms":61}
+{"utc":"2026-11-27T12:45:48.101Z","event":"input","line":"read","ms":55}
+{"utc":"2026-11-27T12:45:50.167Z","event":"view","road":"L4","phase":"pour","screen":"map","result":false,"crowd":78}
+{"utc":"2026-11-27T12:45:51.183Z","event":"view","road":"L4","phase":"walk","screen":"map","result":false,"crowd":53}
+{"utc":"2026-11-27T12:45:59.817Z","event":"input","line":"left 268","ms":297}
+{"utc":"2026-11-27T12:45:59.865Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T12:46:07.117Z","event":"input","line":"watch 7","ms":7251}
+{"utc":"2026-11-27T12:46:07.165Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T12:46:08.614Z","event":"view","road":"L4","phase":"finale","screen":"map","result":false,"crowd":1987}
+{"utc":"2026-11-27T12:46:14.710Z","event":"view","road":"L4","phase":"done","screen":"New best · 1,987 home","result":true,"crowd":1987}
+{"utc":"2026-11-27T12:46:14.803Z","event":"result","text":"Parade size\n1,987\nBest streak\n2\nFriends woken this run: 3\n3 woken\nNew best! 1,987 beats 800Parade of 1987 reached the end.\nNew best · 1,987 home\n\nDrizzle Dell\n\nAt gate 6, your crowd grew from 987 to 1,987.\n\n3 stars at 2,150 friends home\n\nTotal Petals\nIncludes 12 from Runaway\n+79 \nRoad report\n\nOn the breakfast cloth: a basket of pears · +18 Petals\n\nView Bakery\nUpgrade cost · 140 Petals\nNext road\nReplay road"}
+{"utc":"2026-11-27T12:46:43.047Z","event":"input","line":"read","ms":174}
+{"utc":"2026-11-27T12:46:43.577Z","event":"input","line":"buttons","ms":526}
+{"utc":"2026-11-27T12:46:51.850Z","event":"note","text":"Diagnosis. Late left turn brought three hoods home and the result added a basket of pears and 18 Petals for both groups. The row marked View Bakery says Upgrade cost 140 Petals. I will follow that to see who is there."}
+{"utc":"2026-11-27T12:46:52.177Z","event":"view","screen":"Build the bread counter","result":false}
+{"utc":"2026-11-27T12:46:52.367Z","event":"input","line":"tap 190 691","ms":478}
+{"utc":"2026-11-27T12:46:52.580Z","event":"input","line":"read","ms":203}
+{"utc":"2026-11-27T12:46:52.793Z","event":"input","line":"buttons","ms":212}
+{"utc":"2026-11-27T12:47:00.134Z","event":"note","text":"Diagnosis. View Bakery opened a purchase sheet. The Bakery is already mine. I am backing out to look at the pears."}
+{"utc":"2026-11-27T12:47:00.266Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:47:00.317Z","event":"input","line":"button Back","ms":180}
+{"utc":"2026-11-27T12:47:01.432Z","event":"input","line":"watch 1","ms":1114}
+{"utc":"2026-11-27T12:47:01.550Z","event":"view","screen":"Breakfast at the fountain","result":false}
+{"utc":"2026-11-27T12:47:01.584Z","event":"input","line":"tap 206 526","ms":151}
+{"utc":"2026-11-27T12:47:01.668Z","event":"input","line":"read","ms":83}
+{"utc":"2026-11-27T12:47:01.772Z","event":"input","line":"buttons","ms":99}
+{"utc":"2026-11-27T12:47:15.132Z","event":"input","line":"read","ms":56}
+{"utc":"2026-11-27T12:47:15.220Z","event":"input","line":"buttons","ms":87}
+{"utc":"2026-11-27T12:47:23.520Z","event":"note","text":"Diagnosis. Pears now sit beside the cup on the small cloth behind the sheet. Opening it still explains Fig and the painters. This is a real earned dish. I want to preserve it while giving the selected guests something visible to do."}
+{"utc":"2026-11-27T12:47:23.717Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:47:23.769Z","event":"input","line":"button Stay in Town","ms":245}
+{"utc":"2026-11-27T12:47:23.827Z","event":"leave"}
+{"utc":"2026-11-27T12:47:23.829Z","event":"quit"}

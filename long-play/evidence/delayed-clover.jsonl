@@ -1,0 +1,74 @@
+{"utc":"2026-11-27T13:58:03.499Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T13:58:03.659Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T13:58:14.925Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T13:58:15.024Z","event":"input","line":"buttons","ms":97}
+{"utc":"2026-11-27T13:58:19.198Z","event":"note","text":"Required delayed reopen of a copy of the stopped 497-Petal blank save. I choose Later on the local-midnight gift. My own unfinished idea is to see the people Clover brought home. I will choose the basket before I choose another road."}
+{"utc":"2026-11-27T13:58:19.429Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:58:19.475Z","event":"input","line":"button Later","ms":274}
+{"utc":"2026-11-27T13:58:20.575Z","event":"input","line":"watch 1","ms":1099}
+{"utc":"2026-11-27T13:58:20.743Z","event":"input","line":"choice Share buns at the Bakery","ms":167}
+{"utc":"2026-11-27T13:58:20.810Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T13:58:20.876Z","event":"input","line":"buttons","ms":65}
+{"utc":"2026-11-27T13:58:22.627Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T13:58:22.695Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T13:58:27.455Z","event":"note","text":"Required reopen. The greeting from 6:34 had already been consumed. The basket now just asks for another bun. I choose the fountain, because it may have kept the cart even when the bakery did not."}
+{"utc":"2026-11-27T13:58:27.610Z","event":"input","line":"button Back to Town","ms":154}
+{"utc":"2026-11-27T13:58:30.125Z","event":"input-error","line":"choice ^Breakfast at the fountain$","error":"locator.boundingBox: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /^Breakfast at the fountain$/i }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T13:58:30.174Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T13:58:30.223Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T13:58:32.740Z","event":"input","line":"read","ms":42}
+{"utc":"2026-11-27T13:58:32.791Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T13:58:39.338Z","event":"view","screen":"Breakfast at the fountain","result":false}
+{"utc":"2026-11-27T13:58:39.377Z","event":"input","line":"tap 192 549","ms":94}
+{"utc":"2026-11-27T13:58:39.446Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T13:58:39.508Z","event":"input","line":"buttons","ms":61}
+{"utc":"2026-11-27T13:59:03.666Z","event":"note","text":"Required reopen. The fountain still names Fig and the painters. I declined Continue Parade and the bread counter. I would quit here, at 497 Petals, rather than spend on a building that does not change where Clover and the riders can sit. This was a prompted return after about eighty minutes away, not a later-day retention observation."}
+{"utc":"2026-11-27T13:59:03.791Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:59:03.841Z","event":"input","line":"button Stay in Town","ms":173}
+{"utc":"2026-11-27T13:59:03.878Z","event":"leave"}
+{"utc":"2026-11-27T13:59:03.881Z","event":"quit"}
+{"utc":"2026-11-27T14:14:05.788Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T14:14:05.874Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T14:14:19.327Z","event":"note","text":"Third opening of the stopped Clover branch. Ten minutes available. Starting the app was supplied. No road, friend or purchase was assigned. I will look at the first thing it offers and decide whether I have an idea."}
+{"utc":"2026-11-27T14:14:19.386Z","event":"input","line":"read","ms":58}
+{"utc":"2026-11-27T14:14:19.469Z","event":"input","line":"buttons","ms":82}
+{"utc":"2026-11-27T14:14:23.169Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:14:23.216Z","event":"input","line":"button Later","ms":250}
+{"utc":"2026-11-27T14:14:23.270Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T14:14:23.352Z","event":"input","line":"buttons","ms":81}
+{"utc":"2026-11-27T14:14:31.355Z","event":"note","text":"I passed on the gift and the 140-Petal bread counter. I can afford the empty Band Stand. Tambo led my painters, and I want to see whether he has a place here before I take another road. I choose the stand."}
+{"utc":"2026-11-27T14:14:31.540Z","event":"input","line":"choice Band Stand, restore","ms":185}
+{"utc":"2026-11-27T14:14:31.553Z","event":"view","screen":"Build Tambo’s Band Stand","result":false}
+{"utc":"2026-11-27T14:14:31.603Z","event":"input","line":"read","ms":61}
+{"utc":"2026-11-27T14:14:31.672Z","event":"input","line":"buttons","ms":68}
+{"utc":"2026-11-27T14:14:35.433Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:14:35.470Z","event":"input","line":"button Build for 180 Petals","ms":146}
+{"utc":"2026-11-27T14:14:40.769Z","event":"input","line":"watch 5","ms":5298}
+{"utc":"2026-11-27T14:14:40.817Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T14:14:40.869Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T14:14:43.153Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T14:14:43.217Z","event":"input","line":"buttons","ms":63}
+{"utc":"2026-11-27T14:14:48.538Z","event":"input","line":"tap 324 366","ms":98}
+{"utc":"2026-11-27T14:14:48.553Z","event":"view","screen":"Raise the music pavilion","result":false}
+{"utc":"2026-11-27T14:14:48.618Z","event":"input","line":"read","ms":80}
+{"utc":"2026-11-27T14:14:48.672Z","event":"input","line":"buttons","ms":52}
+{"utc":"2026-11-27T14:14:53.533Z","event":"input-error","line":"choice Visit or choose a place","error":"locator.boundingBox: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /Visit or choose a place/i }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T14:14:53.587Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T14:14:53.634Z","event":"input","line":"buttons","ms":46}
+{"utc":"2026-11-27T14:14:56.584Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:14:56.635Z","event":"input","line":"tap 228 735","ms":97}
+{"utc":"2026-11-27T14:14:56.684Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T14:14:56.734Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T14:15:01.417Z","event":"input","line":"tap 99 714","ms":93}
+{"utc":"2026-11-27T14:15:01.466Z","event":"input","line":"read","ms":48}
+{"utc":"2026-11-27T14:15:01.517Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T14:15:05.254Z","event":"note","text":"Tambo is sitting at the little unroofed yellow stage with his drum. Touching him offered a 160-Petal upgrade. Visit or choose a place, then Visit Tambo, finally revealed Play together. I choose that. I do not want a larger bonus for improving stars."}
+{"utc":"2026-11-27T14:15:05.402Z","event":"input","line":"button Play together","ms":146}
+{"utc":"2026-11-27T14:15:11.654Z","event":"input","line":"watch 6","ms":6251}
+{"utc":"2026-11-27T14:15:11.701Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T14:15:11.753Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T14:15:12.553Z","event":"input","line":"read","ms":56}
+{"utc":"2026-11-27T14:15:12.603Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T14:15:19.316Z","event":"note","text":"The new stand kept Tambo by his drum. Play together brought me back to the Square, where the main invitation again asks for 160 Petals. I choose to leave with the little stand I bought. I did not take a road. Restoring one affordable building was worth a short visit on this young save; on a full Town this particular choice is gone."}
+{"utc":"2026-11-27T14:15:19.339Z","event":"leave"}
+{"utc":"2026-11-27T14:15:19.340Z","event":"quit"}

@@ -1,0 +1,43 @@
+{
+  "method": "One continuous native-input visit on an earned, furnished Square. Opened the original fountain breakfast, floated Suki’s boat, visited the separate Bakery basket, used the rider, opened the earned market lantern and returned to the four band chairs.",
+  "fixture": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+  "before": {
+    "petals": 8135,
+    "table": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood",
+      "town:bakery-table:yuzu:cart"
+    ],
+    "boat": true,
+    "tune": "town:tune:221"
+  },
+  "places": [
+    {
+      "place": "At the fountain",
+      "text": "Breakfast at the fountain\nFloat it again\n\nBreakfast is served. The friends at the fountain ask for help once a week.\n\nParade map\nStay in Town"
+    },
+    {
+      "place": "At the Bakery",
+      "text": "Mochi’s table\n\nThe rider brings the basket along the cloth. Mochi takes the first bun.\n\nSeat the raincoats\nMake room for the cart\nPass it back\nGo out together\nShare buns\nBack to Town"
+    },
+    {
+      "place": "Market lantern",
+      "text": "The Bakery lantern\n\nFig turns the dough. Pip copies her floury paws.\n\nLight the lane\nLight the table\nBack to buns\nBack to Town"
+    },
+    {
+      "place": "Band Stand",
+      "text": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\nVisit or choose a place\nPlay together\nPlay a road\nBack"
+    }
+  ],
+  "after": {
+    "petals": 8135,
+    "table": [
+      "town:table-welcome:cart",
+      "town:table-welcome:hood",
+      "town:bakery-table:yuzu:cart"
+    ],
+    "boat": true,
+    "tune": "town:tune:221"
+  },
+  "errors": []
+}

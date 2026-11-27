@@ -1,0 +1,773 @@
+{
+  "method": "Scripted reachability, independent earned copies, normal browser and game timing. Expert steering on the approach, native touch for each fixed line, expert steering after it. Left/right/middle are the requested changes in contact, actual lane included. No times in this file count as voluntary play.",
+  "fixedLineSamples": [
+    {
+      "id": "L4-pip-left",
+      "fromX": 131.99999999828526,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 35.51,
+      "final": 1550,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-pip-right",
+      "fromX": 131.99999999890807,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 35.32,
+      "final": 2094,
+      "group": {
+        "hood": 0,
+        "cart": 8
+      }
+    },
+    {
+      "id": "L4-pip-middle",
+      "fromX": 131.99999999828526,
+      "contact": -120.1199999984396,
+      "atChoiceX": -60.55877079854484,
+      "wallSeconds": 35.98,
+      "final": 1322,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-tambo-left",
+      "fromX": 131.9999999986316,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 37.07,
+      "final": 2652,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-tambo-right",
+      "fromX": 131.99999999828526,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 37.29,
+      "final": 2494,
+      "group": {
+        "hood": 0,
+        "cart": 8
+      }
+    },
+    {
+      "id": "L4-tambo-middle",
+      "fromX": 131.9999999986316,
+      "contact": -120.11999999875476,
+      "atChoiceX": -60.55877079854484,
+      "wallSeconds": 37.14,
+      "final": 2312,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-otto-left",
+      "fromX": 93.81899687697009,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 36.8,
+      "final": 1580,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-otto-right",
+      "fromX": 93.81899687697009,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 36.83,
+      "final": 2170,
+      "group": {
+        "hood": 0,
+        "cart": 8
+      }
+    },
+    {
+      "id": "L4-otto-middle",
+      "fromX": 93.81899687697009,
+      "contact": -85.37528715804278,
+      "atChoiceX": -43.04213043648794,
+      "wallSeconds": 36.5,
+      "final": 1334,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-suki-left",
+      "fromX": 131.9999999986316,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 35.35,
+      "final": 1466,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-suki-right",
+      "fromX": 131.9999999986316,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 36.37,
+      "final": 1614,
+      "group": {
+        "hood": 0,
+        "cart": 8
+      }
+    },
+    {
+      "id": "L4-suki-middle",
+      "fromX": 131.9999999986316,
+      "contact": -120.11999999875476,
+      "atChoiceX": -60.55877079854484,
+      "wallSeconds": 36.46,
+      "final": 1248,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-wren-left",
+      "fromX": 131.9999999986316,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 37.54,
+      "final": 1516,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L4-wren-right",
+      "fromX": 131.99999999828526,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 37.46,
+      "final": 1692,
+      "group": {
+        "hood": 0,
+        "cart": 8
+      }
+    },
+    {
+      "id": "L4-wren-middle",
+      "fromX": 131.9999999986316,
+      "contact": -120.11999999875476,
+      "atChoiceX": -60.55877079854484,
+      "wallSeconds": 36.91,
+      "final": 1292,
+      "group": {
+        "hood": 3,
+        "cart": 0
+      }
+    },
+    {
+      "id": "L9-pip-left",
+      "fromX": -0.11173330495391565,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 37.85,
+      "final": 3288,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-pip-right",
+      "fromX": -0.008714198068078556,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 38.47,
+      "final": 3090,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-pip-middle",
+      "fromX": -0.052804149026297556,
+      "contact": 0.04805177561393078,
+      "atChoiceX": -32,
+      "wallSeconds": 38.59,
+      "final": 4014,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-tambo-left",
+      "fromX": 23.392180172167983,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 40.57,
+      "final": 4722,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-tambo-right",
+      "fromX": 23.37793420725448,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 38.92,
+      "final": 4536,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-tambo-middle",
+      "fromX": 23.3700001531985,
+      "contact": -21.266700139410634,
+      "atChoiceX": -10.731156321882278,
+      "wallSeconds": 38.08,
+      "final": 5472,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-otto-left",
+      "fromX": 3.694882042536802,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 39.77,
+      "final": 3936,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-otto-right",
+      "fromX": 3.6948599100158774,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 40.23,
+      "final": 3702,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-otto-middle",
+      "fromX": 3.6948599100158774,
+      "contact": -3.3623225181144485,
+      "atChoiceX": -1.6950970041843045,
+      "wallSeconds": 39.67,
+      "final": 4704,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-suki-left",
+      "fromX": -1.072391449619421,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 42.38,
+      "final": 3282,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-suki-right",
+      "fromX": -1.0409958391475942,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 40.9,
+      "final": 3072,
+      "group": {
+        "raincoats": false,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-suki-middle",
+      "fromX": -1.072391449619421,
+      "contact": 0.9758762191536731,
+      "atChoiceX": 32,
+      "wallSeconds": 40.65,
+      "final": 3834,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-wren-left",
+      "fromX": 15.55357502222836,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 37.6,
+      "final": 3498,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-wren-right",
+      "fromX": 15.55357502222836,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 37.82,
+      "final": 3300,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L9-wren-middle",
+      "fromX": 15.55357502222836,
+      "contact": -14.153753270227808,
+      "atChoiceX": -32,
+      "wallSeconds": 37.56,
+      "final": 4164,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      }
+    },
+    {
+      "id": "L28-pip-left",
+      "fromX": -74.99999999999997,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 39.65,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-pip-right",
+      "fromX": -74.99999999999997,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 60.86,
+      "final": 6974,
+      "span": {
+        "one": 2,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-pip-middle",
+      "fromX": -74.99999999999997,
+      "contact": 68.24999999999997,
+      "atChoiceX": 34.40839694656488,
+      "wallSeconds": 52.65,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-tambo-left",
+      "fromX": -74.99999999999997,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 57.66,
+      "final": 14294,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-tambo-right",
+      "fromX": -74.99999999999997,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 56.83,
+      "final": 13702,
+      "span": {
+        "one": 2,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-tambo-middle",
+      "fromX": -74.99999999999997,
+      "contact": 68.24999999999997,
+      "atChoiceX": 34.40839694656488,
+      "wallSeconds": 70.97,
+      "final": 14294,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-otto-left",
+      "fromX": -74.99999999999997,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 66.25,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-otto-right",
+      "fromX": -74.99999999999997,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 50.12,
+      "final": 6974,
+      "span": {
+        "one": 2,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-otto-middle",
+      "fromX": -74.99999999999997,
+      "contact": 68.24999999999997,
+      "atChoiceX": 34.40839694656488,
+      "wallSeconds": 46.46,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-suki-left",
+      "fromX": -74.99999999999997,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 60.14,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-suki-right",
+      "fromX": -74.99999999999997,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 57.95,
+      "final": 6974,
+      "span": {
+        "one": 2,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-suki-middle",
+      "fromX": -74.99999999999997,
+      "contact": 68.24999999999997,
+      "atChoiceX": 34.40839694656488,
+      "wallSeconds": 62.91,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-wren-left",
+      "fromX": -74.99999999999997,
+      "contact": -288,
+      "atChoiceX": -131.99999999999994,
+      "wallSeconds": 55.02,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-wren-right",
+      "fromX": -74.99999999999997,
+      "contact": 288,
+      "atChoiceX": 131.99999999999994,
+      "wallSeconds": 51.47,
+      "final": 6974,
+      "span": {
+        "one": 2,
+        "two": 7
+      }
+    },
+    {
+      "id": "L28-wren-middle",
+      "fromX": -74.99999999999997,
+      "contact": 68.24999999999997,
+      "atChoiceX": 34.40839694656488,
+      "wallSeconds": 63.47,
+      "final": 7284,
+      "span": {
+        "one": 3,
+        "two": 7
+      }
+    }
+  ],
+  "riverEarlyAndLate": [
+    {
+      "save": "same campaign after L8",
+      "id": "L9-pip-left",
+      "fromX": -46.305870757382344,
+      "contact": -288,
+      "atChoiceX": -77,
+      "wallSeconds": 37.83,
+      "final": 3168,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 168,
+          "of": 192
+        }
+      ]
+    },
+    {
+      "save": "same campaign after L8",
+      "id": "L9-pip-right",
+      "fromX": -43.17360372205722,
+      "contact": 288,
+      "atChoiceX": 77,
+      "wallSeconds": 38.2,
+      "final": 2910,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 22,
+          "of": 182
+        }
+      ]
+    },
+    {
+      "save": "same campaign after L8",
+      "id": "L9-tambo-left",
+      "fromX": 75.00000000000003,
+      "contact": -288,
+      "atChoiceX": -77,
+      "wallSeconds": 48.47,
+      "final": 4470,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 209,
+          "of": 251
+        }
+      ]
+    },
+    {
+      "save": "same campaign after L8",
+      "id": "L9-tambo-right",
+      "fromX": 75.00000000000003,
+      "contact": 288,
+      "atChoiceX": 77,
+      "wallSeconds": 65.7,
+      "final": 4866,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 51,
+          "of": 313
+        }
+      ]
+    },
+    {
+      "save": "older complete Town",
+      "id": "L9-pip-left",
+      "fromX": -68.83204850861813,
+      "contact": -288,
+      "atChoiceX": -77,
+      "wallSeconds": 64.32,
+      "final": 3306,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 183,
+          "of": 214
+        }
+      ]
+    },
+    {
+      "save": "older complete Town",
+      "id": "L9-pip-right",
+      "fromX": -73.62738564947122,
+      "contact": 288,
+      "atChoiceX": 77,
+      "wallSeconds": 41.48,
+      "final": 2940,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 23,
+          "of": 186
+        }
+      ]
+    },
+    {
+      "save": "older complete Town",
+      "id": "L9-tambo-left",
+      "fromX": 75.00000000000003,
+      "contact": -288,
+      "atChoiceX": -77,
+      "wallSeconds": 56.41,
+      "final": 4482,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 211,
+          "of": 253
+        }
+      ]
+    },
+    {
+      "save": "older complete Town",
+      "id": "L9-tambo-right",
+      "fromX": 75.00000000000003,
+      "contact": 288,
+      "atChoiceX": 77,
+      "wallSeconds": 61.24,
+      "final": 4872,
+      "group": {
+        "raincoats": true,
+        "cart": true
+      },
+      "boarding": [
+        {
+          "left": 51,
+          "of": 314
+        }
+      ]
+    }
+  ],
+  "mainOfferWalk": [
+    {
+      "road": "L2",
+      "offer": "Earn the second star on Treat Street",
+      "balance": 8041,
+      "visits": 1
+    },
+    {
+      "road": "L3",
+      "offer": "Earn the third star on Drizzle Dell",
+      "balance": 8355,
+      "visits": 1
+    },
+    {
+      "road": "L4",
+      "offer": "Earn the second star on Mumu's Hill",
+      "balance": 8614,
+      "visits": 1
+    },
+    {
+      "road": "L6",
+      "offer": "Earn the second star on First Lanterns",
+      "balance": 8950,
+      "visits": 1
+    },
+    {
+      "road": "L7",
+      "offer": "Earn the second star on Carousel Lane",
+      "balance": 9240,
+      "visits": 1
+    },
+    {
+      "road": "L8",
+      "offer": "Earn the third star on Lantern River",
+      "balance": 9633,
+      "visits": 1
+    },
+    {
+      "road": "L9",
+      "offer": "Earn the third star on Nap Cat Crossing",
+      "balance": 9940,
+      "visits": 1
+    },
+    {
+      "road": "L10",
+      "offer": "Map",
+      "balance": 10039,
+      "visits": 1
+    },
+    {
+      "road": "L10",
+      "offer": "Map",
+      "balance": 10138,
+      "visits": 2
+    }
+  ],
+  "handsetNotes": [
+    {
+      "utc": "2026-11-27T13:14:22.931Z",
+      "text": "Diagnostic, earned-save continuation. One open visit with all five fountain guests. I want to try the wrapper boat itself and find out if I can move it independently of the cup."
+    },
+    {
+      "utc": "2026-11-27T13:16:24.326Z",
+      "text": "Diagnostic. Suki watches the pink boat beside her cup. Tapping the far left floats the same boat through the middle again. I liked watching it once more and chose Stay in Town. It already works as a short, finished visit."
+    },
+    {
+      "utc": "2026-11-27T13:22:35.618Z",
+      "text": "Diagnostic. The restored stand names Poppy, Mint, Plum and Honey. I choose Play together because it sounds like I can join their arrangement."
+    },
+    {
+      "utc": "2026-11-27T13:23:35.417Z",
+      "text": "Diagnostic. Play together took me back to the square. All four musicians already sit there. I expected to join with my song; there is no part to steer or repeat on that screen. I am happy to leave Suki and the band as I found them."
+    }
+  ]
+}

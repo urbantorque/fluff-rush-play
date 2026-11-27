@@ -1,0 +1,313 @@
+{
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "edition": "candidate",
+  "phrase": "020",
+  "before": 7682,
+  "after": 7682,
+  "next": "Breakfast at the fountain\n\nBand Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\n● ▲ ●\nRose left · Honey middle · Mint right\nVisit or choose a place\nSteer your welcome song\nHear your welcome song\nPlay a road\nBack",
+  "method": "One independent copy of the named earned save per phrase. Actual Lookout buttons and Band Stand at ordinary time. Musical line read through the next available decision.",
+  "lookoutVoices": [
+    {
+      "t": 0.017,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.018,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.018,
+      "hz": 3662.76,
+      "type": "sine"
+    },
+    {
+      "t": 0.251,
+      "hz": 587.33,
+      "type": "triangle"
+    },
+    {
+      "t": 0.251,
+      "hz": 1761.99,
+      "type": "sine"
+    },
+    {
+      "t": 0.254,
+      "hz": 196,
+      "type": "triangle"
+    },
+    {
+      "t": 0.254,
+      "hz": 196,
+      "type": "triangle"
+    },
+    {
+      "t": 0.254,
+      "hz": 246.94,
+      "type": "triangle"
+    },
+    {
+      "t": 0.254,
+      "hz": 293.66,
+      "type": "triangle"
+    },
+    {
+      "t": 0.254,
+      "hz": 82.41,
+      "type": "triangle"
+    },
+    {
+      "t": 0.254,
+      "hz": 164.81,
+      "type": "sine"
+    },
+    {
+      "t": 0.251,
+      "hz": 1567.98,
+      "type": "sine"
+    },
+    {
+      "t": 0.251,
+      "hz": 1567.98,
+      "type": "sine"
+    },
+    {
+      "t": 0.251,
+      "hz": 5487.94,
+      "type": "sine"
+    },
+    {
+      "t": 0.489,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.489,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.489,
+      "hz": 3662.76,
+      "type": "sine"
+    },
+    {
+      "t": 0.629,
+      "hz": 261.63,
+      "type": "sine"
+    },
+    {
+      "t": 0.629,
+      "hz": 261.63,
+      "type": "sine"
+    },
+    {
+      "t": 0.629,
+      "hz": 915.69,
+      "type": "sine"
+    }
+  ],
+  "bandVoices": [
+    {
+      "t": 0.026,
+      "hz": 659.26,
+      "type": "triangle"
+    },
+    {
+      "t": 0.026,
+      "hz": 1977.77,
+      "type": "sine"
+    },
+    {
+      "t": 0.065,
+      "hz": 44.73,
+      "type": "sine"
+    },
+    {
+      "t": 0.065,
+      "hz": 4257.37,
+      "type": "sine"
+    },
+    {
+      "t": 0.172,
+      "hz": 43.91,
+      "type": "sine"
+    },
+    {
+      "t": 0.172,
+      "hz": 4427.67,
+      "type": "sine"
+    },
+    {
+      "t": 0.012,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "t": 0.012,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "t": 0.012,
+      "hz": 2743.97,
+      "type": "sine"
+    },
+    {
+      "t": 0.092,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.092,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.092,
+      "hz": 3662.76,
+      "type": "sine"
+    },
+    {
+      "t": 0.172,
+      "hz": 1318.51,
+      "type": "sine"
+    },
+    {
+      "t": 0.172,
+      "hz": 1318.51,
+      "type": "sine"
+    },
+    {
+      "t": 0.172,
+      "hz": 4614.79,
+      "type": "sine"
+    },
+    {
+      "t": 0.252,
+      "hz": 1567.98,
+      "type": "sine"
+    },
+    {
+      "t": 0.252,
+      "hz": 1567.98,
+      "type": "sine"
+    },
+    {
+      "t": 0.252,
+      "hz": 5487.94,
+      "type": "sine"
+    },
+    {
+      "t": 0.027,
+      "hz": 261.63,
+      "type": "triangle"
+    },
+    {
+      "t": 0.027,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.027,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "t": 0.027,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "t": 0.027,
+      "hz": 1831.38,
+      "type": "sine"
+    },
+    {
+      "t": 0.257,
+      "hz": 392,
+      "type": "triangle"
+    },
+    {
+      "t": 0.257,
+      "hz": 1567.98,
+      "type": "sine"
+    },
+    {
+      "t": 0.257,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "t": 0.257,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "t": 0.257,
+      "hz": 2743.97,
+      "type": "sine"
+    },
+    {
+      "t": 0.388,
+      "hz": 783.99,
+      "type": "triangle"
+    },
+    {
+      "t": 0.388,
+      "hz": 2351.97,
+      "type": "sine"
+    },
+    {
+      "t": 0.388,
+      "hz": 123.47,
+      "type": "triangle"
+    },
+    {
+      "t": 0.388,
+      "hz": 246.94,
+      "type": "sine"
+    },
+    {
+      "t": 0.493,
+      "hz": 261.63,
+      "type": "triangle"
+    },
+    {
+      "t": 0.493,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "t": 0.493,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "t": 0.493,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "t": 0.493,
+      "hz": 1831.38,
+      "type": "sine"
+    },
+    {
+      "t": 0.633,
+      "hz": 261.63,
+      "type": "sine"
+    },
+    {
+      "t": 0.633,
+      "hz": 261.63,
+      "type": "sine"
+    },
+    {
+      "t": 0.633,
+      "hz": 915.69,
+      "type": "sine"
+    }
+  ]
+}

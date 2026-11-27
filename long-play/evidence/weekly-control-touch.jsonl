@@ -1,0 +1,136 @@
+{"utc":"2026-11-27T12:53:26.183Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T12:53:26.531Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:53:43.031Z","event":"note","text":"Diagnosis. Earlier tester's 112-minute checkpoint, 6312 Petals, active six-catch breakfast on Seedfall. Following its existing invitation using ordinary touch to find what the result says after a miss."}
+{"utc":"2026-11-27T12:53:43.172Z","event":"input","line":"read","ms":139}
+{"utc":"2026-11-27T12:53:43.392Z","event":"input","line":"buttons","ms":217}
+{"utc":"2026-11-27T12:53:47.792Z","event":"input","line":"tap 75 90","ms":1230}
+{"utc":"2026-11-27T12:53:49.253Z","event":"input","line":"watch 1","ms":1454}
+{"utc":"2026-11-27T12:53:51.771Z","event":"input-error","line":"choice ^Breakfast at the fountain$","error":"locator.boundingBox: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: /^Breakfast at the fountain$/i }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:53:52.133Z","event":"input","line":"read","ms":358}
+{"utc":"2026-11-27T12:53:52.538Z","event":"input","line":"buttons","ms":399}
+{"utc":"2026-11-27T12:53:52.854Z","event":"input","line":"read","ms":299}
+{"utc":"2026-11-27T12:53:53.143Z","event":"input","line":"buttons","ms":280}
+{"utc":"2026-11-27T12:53:57.943Z","event":"view","screen":"Breakfast at the fountain","result":false}
+{"utc":"2026-11-27T12:53:58.043Z","event":"input","line":"tap 196 524","ms":182}
+{"utc":"2026-11-27T12:53:58.179Z","event":"input","line":"read","ms":134}
+{"utc":"2026-11-27T12:53:58.327Z","event":"input","line":"buttons","ms":147}
+{"utc":"2026-11-27T12:54:01.498Z","event":"view","road":"L5","phase":"walk","screen":"square","result":false,"crowd":15}
+{"utc":"2026-11-27T12:54:01.565Z","event":"input","line":"button Replay Seedfall Road","ms":360}
+{"utc":"2026-11-27T12:54:01.613Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T12:54:01.663Z","event":"input","line":"buttons","ms":49}
+{"utc":"2026-11-27T12:54:04.527Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:54:09.006Z","event":"input","line":"watch 4","ms":4478}
+{"utc":"2026-11-27T12:54:09.099Z","event":"input","line":"read","ms":88}
+{"utc":"2026-11-27T12:54:12.237Z","event":"input","line":"read","ms":243}
+{"utc":"2026-11-27T12:54:17.681Z","event":"input","line":"right 66","ms":389}
+{"utc":"2026-11-27T12:54:17.798Z","event":"input","line":"read","ms":113}
+{"utc":"2026-11-27T12:54:21.574Z","event":"view","road":"L5","phase":"pour","screen":"square","result":false,"crowd":130}
+{"utc":"2026-11-27T12:54:22.596Z","event":"view","road":"L5","phase":"walk","screen":"square","result":false,"crowd":87}
+{"utc":"2026-11-27T12:54:32.509Z","event":"input","line":"watch 9","ms":9586}
+{"utc":"2026-11-27T12:54:32.606Z","event":"input","line":"read","ms":94}
+{"utc":"2026-11-27T12:54:35.496Z","event":"input","line":"read","ms":283}
+{"utc":"2026-11-27T12:54:35.863Z","event":"input","line":"buttons","ms":358}
+{"utc":"2026-11-27T12:54:37.007Z","event":"view","road":"L5","phase":"finale","screen":"square","result":false,"crowd":1076}
+{"utc":"2026-11-27T12:54:39.336Z","event":"input","line":"read","ms":306}
+{"utc":"2026-11-27T12:54:42.500Z","event":"input","line":"read","ms":175}
+{"utc":"2026-11-27T12:54:42.702Z","event":"input","line":"buttons","ms":187}
+{"utc":"2026-11-27T12:54:44.626Z","event":"view","road":"L5","phase":"done","screen":"4 of 8 parachutes caught!","result":true,"crowd":2476}
+{"utc":"2026-11-27T12:54:44.665Z","event":"result","text":"Parade size\n2,476\nCatch six parachute groups on Seedfall Road for breakfast.\nFriends woken this run: 3\n3 woken\nNew best! 2,476 beats 1,968Parade of 2476 reached the end.\n4 of 8 parachutes caught!\n\nSeedfall Road\n\nRoad report\nTry for 5\nTown"}
+{"utc":"2026-11-27T12:54:45.985Z","event":"input","line":"read","ms":127}
+{"utc":"2026-11-27T12:54:46.132Z","event":"input","line":"buttons","ms":142}
+{"utc":"2026-11-27T12:54:50.214Z","event":"note","text":"Diagnosis. Four of eight; the HUD named six for breakfast through the finale. Result asks Try for 5. I choose one diagnostic retry to find whether the original target survives the tap."}
+{"utc":"2026-11-27T12:54:50.482Z","event":"view","road":"L5","phase":"walk","screen":"square","result":false,"crowd":15}
+{"utc":"2026-11-27T12:54:50.565Z","event":"input","line":"button Try for 5","ms":342}
+{"utc":"2026-11-27T12:54:50.633Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T12:54:56.683Z","event":"input","line":"read","ms":61}
+{"utc":"2026-11-27T12:55:03.032Z","event":"input","line":"left 64","ms":262}
+{"utc":"2026-11-27T12:55:04.528Z","event":"input","line":"watch 1","ms":1489}
+{"utc":"2026-11-27T12:55:04.850Z","event":"input","line":"right 63","ms":309}
+{"utc":"2026-11-27T12:55:06.050Z","event":"input","line":"watch 1","ms":1197}
+{"utc":"2026-11-27T12:55:06.297Z","event":"input","line":"right 70","ms":242}
+{"utc":"2026-11-27T12:55:08.462Z","event":"input","line":"watch 2","ms":2164}
+{"utc":"2026-11-27T12:55:08.709Z","event":"input","line":"left 67","ms":246}
+{"utc":"2026-11-27T12:55:08.760Z","event":"input","line":"read","ms":50}
+{"utc":"2026-11-27T12:55:10.461Z","event":"view","road":"L5","phase":"pour","screen":"square","result":false,"crowd":95}
+{"utc":"2026-11-27T12:55:11.496Z","event":"view","road":"L5","phase":"walk","screen":"square","result":false,"crowd":52}
+{"utc":"2026-11-27T12:55:14.905Z","event":"input","line":"read","ms":63}
+{"utc":"2026-11-27T12:55:25.781Z","event":"view","road":"L5","phase":"finale","screen":"square","result":false,"crowd":1344}
+{"utc":"2026-11-27T12:55:28.333Z","event":"view","road":"L5","phase":"done","screen":"3 parachutes this time. You were aiming for 5.","result":true,"crowd":1344}
+{"utc":"2026-11-27T12:55:28.393Z","event":"result","text":"Parade size\n1,344\nCatch six parachute groups on Seedfall Road for breakfast.\nFriends woken this run: 3\n3 woken\nParade of 1344 reached the end.\n3 parachutes this time. You were aiming for 5.\n\nSeedfall Road\n\nRoad report\nTry for 5 again\nTown"}
+{"utc":"2026-11-27T12:55:30.579Z","event":"input","line":"watch 10","ms":10633}
+{"utc":"2026-11-27T12:55:30.804Z","event":"input","line":"read","ms":215}
+{"utc":"2026-11-27T12:55:31.112Z","event":"input","line":"buttons","ms":292}
+{"utc":"2026-11-27T12:55:36.538Z","event":"input","line":"read","ms":297}
+{"utc":"2026-11-27T12:55:36.845Z","event":"input","line":"buttons","ms":298}
+{"utc":"2026-11-27T12:55:40.733Z","event":"note","text":"Diagnosis. At three catches the result now says You were aiming for 5; I had chosen six. I decline Try for 5 again. The written personal goal actually displaced my stated purpose. I choose Town to test the keeper invitation once."}
+{"utc":"2026-11-27T12:55:41.046Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:55:41.206Z","event":"input","line":"button Town","ms":461}
+{"utc":"2026-11-27T12:55:41.472Z","event":"input","line":"read","ms":261}
+{"utc":"2026-11-27T12:55:41.744Z","event":"input","line":"buttons","ms":268}
+{"utc":"2026-11-27T12:55:44.988Z","event":"view","road":"L27","phase":"walk","screen":"square","result":false,"crowd":51}
+{"utc":"2026-11-27T12:55:45.061Z","event":"input","line":"tap 191 746","ms":211}
+{"utc":"2026-11-27T12:55:45.125Z","event":"input","line":"read","ms":63}
+{"utc":"2026-11-27T12:55:45.177Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T12:55:49.257Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:55:58.292Z","event":"input","line":"right 75","ms":275}
+{"utc":"2026-11-27T12:55:58.342Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:56:01.412Z","event":"input","line":"left 169","ms":246}
+{"utc":"2026-11-27T12:56:01.478Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:56:04.895Z","event":"input","line":"read","ms":86}
+{"utc":"2026-11-27T12:56:11.901Z","event":"input","line":"read","ms":147}
+{"utc":"2026-11-27T12:56:15.372Z","event":"input","line":"read","ms":172}
+{"utc":"2026-11-27T12:56:18.837Z","event":"input","line":"read","ms":87}
+{"utc":"2026-11-27T12:56:25.483Z","event":"view","road":"L27","phase":"finale","screen":"square","result":false,"crowd":3780}
+{"utc":"2026-11-27T12:56:26.019Z","event":"input","line":"right 102","ms":396}
+{"utc":"2026-11-27T12:56:26.331Z","event":"input","line":"read","ms":307}
+{"utc":"2026-11-27T12:56:30.044Z","event":"view","road":"L27","phase":"done","screen":"2 of 4 pools lit!","result":true,"crowd":3780}
+{"utc":"2026-11-27T12:56:30.094Z","event":"result","text":"Parade size\n3,780\nThe Runaway got away. Next time!Pool missed. Pools lit 2/4Parade of 3780 reached the end.\n2 of 4 pools lit!\n\nLanterns in the Snow\n\nLight three pools, including the last one with the rear bearer.\n\nTotal Petals\nIncludes 66 from the Workshop and 30 from Meadow\n+160 \nRoad report\nShare warm buns\nLight the picnic lantern\nReplay Lanterns in the Snow"}
+{"utc":"2026-11-27T12:56:32.637Z","event":"note","text":"Diagnosis. Two pools lit. I lost the last bearer by crossing too late. Unlike the bun repeat, I can name a different move. I want one more go; stay central for one, right for the next, left through the ice, then turn towards the final pool as soon as the third lights."}
+{"utc":"2026-11-27T12:56:32.718Z","event":"input","line":"read","ms":74}
+{"utc":"2026-11-27T12:56:32.825Z","event":"input","line":"buttons","ms":105}
+{"utc":"2026-11-27T12:56:37.854Z","event":"view","road":"L27","phase":"walk","screen":"square","result":false,"crowd":51}
+{"utc":"2026-11-27T12:56:37.927Z","event":"input","line":"button Replay Lanterns in the Snow","ms":405}
+{"utc":"2026-11-27T12:56:41.177Z","event":"input","line":"watch 3","ms":3248}
+{"utc":"2026-11-27T12:56:41.462Z","event":"input","line":"right 65","ms":281}
+{"utc":"2026-11-27T12:56:46.168Z","event":"input","line":"watch 4","ms":4703}
+{"utc":"2026-11-27T12:56:46.347Z","event":"input","line":"read","ms":173}
+{"utc":"2026-11-27T12:56:46.459Z","event":"input","line":"read","ms":107}
+{"utc":"2026-11-27T12:56:53.974Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T12:56:58.351Z","event":"input","line":"left 175","ms":332}
+{"utc":"2026-11-27T12:56:58.525Z","event":"view","road":"L27","phase":"pour","screen":"square","result":false,"crowd":62}
+{"utc":"2026-11-27T12:56:58.636Z","event":"input","line":"read","ms":271}
+{"utc":"2026-11-27T12:56:59.558Z","event":"view","road":"L27","phase":"rest","screen":"square","result":false,"crowd":0}
+{"utc":"2026-11-27T12:57:01.061Z","event":"view","road":"L27","phase":"done","screen":"Nap time!","result":true,"crowd":0}
+{"utc":"2026-11-27T12:57:01.076Z","event":"result","text":"Parade size\n0\nLong WayThe parade rests.\nNap time!\n\nThe wall needed 158 more friends.\n\nPetals kept\n30\n\nCrossing practice\n\nAt gate row 2, try ×3 in place of ÷2. That choice was worth 278 more friends there.\n\nRunaway\nTry Lanterns in the Snow again\nMap"}
+{"utc":"2026-11-27T12:57:08.975Z","event":"input","line":"watch 10","ms":10336}
+{"utc":"2026-11-27T12:57:09.042Z","event":"input","line":"read","ms":60}
+{"utc":"2026-11-27T12:57:15.606Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:57:15.707Z","event":"input","line":"buttons","ms":100}
+{"utc":"2026-11-27T12:57:21.975Z","event":"note","text":"Diagnosis. Moving right early got the second pool but committed me to Long Way with 62 friends at its 220 wall. The retry card names the mistaken gate, a concrete change. This next attempt is a required keeper retry."}
+{"utc":"2026-11-27T12:57:22.158Z","event":"view","road":"L27","phase":"walk","screen":"square","result":false,"crowd":51}
+{"utc":"2026-11-27T12:57:22.228Z","event":"input","line":"button Try Lanterns in the Snow again","ms":248}
+{"utc":"2026-11-27T12:57:27.560Z","event":"input","line":"watch 5","ms":5328}
+{"utc":"2026-11-27T12:57:27.895Z","event":"input","line":"right 63","ms":332}
+{"utc":"2026-11-27T12:57:32.257Z","event":"input","line":"watch 4","ms":4357}
+{"utc":"2026-11-27T12:57:32.525Z","event":"input","line":"left 152","ms":267}
+{"utc":"2026-11-27T12:57:41.230Z","event":"input","line":"watch 8","ms":8705}
+{"utc":"2026-11-27T12:57:41.530Z","event":"input","line":"read","ms":297}
+{"utc":"2026-11-27T12:57:46.293Z","event":"input","line":"read","ms":478}
+{"utc":"2026-11-27T12:57:52.622Z","event":"input","line":"read","ms":235}
+{"utc":"2026-11-27T12:57:56.190Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T12:58:00.909Z","event":"input","line":"right 97","ms":417}
+{"utc":"2026-11-27T12:58:00.973Z","event":"input","line":"read","ms":61}
+{"utc":"2026-11-27T12:58:02.121Z","event":"view","road":"L27","phase":"finale","screen":"square","result":false,"crowd":4572}
+{"utc":"2026-11-27T12:58:07.762Z","event":"input","line":"right 69","ms":335}
+{"utc":"2026-11-27T12:58:07.887Z","event":"input","line":"read","ms":124}
+{"utc":"2026-11-27T12:58:08.195Z","event":"view","road":"L27","phase":"done","screen":"New best · 4,572 home","result":true,"crowd":4572}
+{"utc":"2026-11-27T12:58:08.245Z","event":"result","text":"Parade size\n4,572\nNew best! 4,572 beats 3,780Parade of 4572 reached the end.\nNew best · 4,572 home\n\nLanterns in the Snow\n\nAt gate 7, your crowd grew from 2,286 to 4,572.\n\nTotal Petals\nIncludes 66 from the Workshop and 30 from Meadow\n+92 \nRoad report\nShare warm buns\nLight the picnic lantern\nReplay Lanterns in the Snow"}
+{"utc":"2026-11-27T12:58:17.672Z","event":"input","line":"read","ms":180}
+{"utc":"2026-11-27T12:58:17.957Z","event":"input","line":"buttons","ms":270}
+{"utc":"2026-11-27T12:58:26.704Z","event":"note","text":"Diagnosis. A later turn beat my crowd record but did not light the last pool. The next line asks me to do a whole road. I would go for the keeper another time; I choose Share warm buns. This late result actually has the direct Bakery return the early result lacked."}
+{"utc":"2026-11-27T12:58:27.382Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:58:27.596Z","event":"input","line":"button Share warm buns","ms":863}
+{"utc":"2026-11-27T12:58:27.844Z","event":"input","line":"read","ms":245}
+{"utc":"2026-11-27T12:58:28.601Z","event":"input","line":"buttons","ms":741}
+{"utc":"2026-11-27T12:58:28.722Z","event":"leave"}
+{"utc":"2026-11-27T12:58:28.730Z","event":"quit"}

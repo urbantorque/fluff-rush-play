@@ -1,0 +1,378 @@
+{
+  "method": "Matched normal-time, scripted diagnostic. Two independent earned saves and real touch contacts over both original spans. Input patterns supplied to probe what the result actually retains. Expert travel only before the first plank and after the last.",
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "rows": [
+    {
+      "started": "2026-11-27T13:37:25.187Z",
+      "ended": "2026-11-27T13:38:03.799Z",
+      "pattern": [
+        "00100001",
+        "1111111"
+      ],
+      "actual": [
+        "00100001",
+        "1111111"
+      ],
+      "scores": [
+        2,
+        7
+      ],
+      "receipt": "9 of 15 colours caught!\n\nThe Aurora Bridge\n\nRoad report\nTry for 10\nTown",
+      "disclosed": "Road report\n\nPersonal best 9/15.\n\nColours caught\n9 / 15\nLanterns lit\n3 / 5\nTown’s share · 149 Petals\n\nTambo’s best 11,810.\n\n9 / 15 colours caught. Reach the lit planks early and stay until the colour joins you. 3 stars at 13,700 home.\n\nTips & practice\nA gift is ready in Stars!\n\n9 / 15 colours caught · Look for the ribbon at catch 1.\n\n11,810 friends home · 1,890 more for 3 stars (13,700 total)\n\nTotal Petals\nIncludes 69 from the Workshop and 30 from Meadow\n+231 \nLead the duck parade",
+      "inputs": [
+        {
+          "span": 1,
+          "n": 1,
+          "target": 100,
+          "plannedHit": false,
+          "x": -99.96521707832534,
+          "tx": -100,
+          "d": 2857.416666666688,
+          "time": 8.800000000000141,
+          "delta": 124.76190476190476
+        },
+        {
+          "span": 1,
+          "n": 2,
+          "target": 100,
+          "plannedHit": false,
+          "x": 99.99999534056033,
+          "tx": 99.99999534082775,
+          "d": 3288.0833333333776,
+          "time": 10.066666666666736,
+          "delta": 0.0000029064360213786647
+        },
+        {
+          "span": 1,
+          "n": 3,
+          "target": -100,
+          "plannedHit": true,
+          "x": 99.99999534082772,
+          "tx": 99.99999534082775,
+          "d": 3605.416666666728,
+          "time": 11.000000000000016,
+          "delta": -124.76190185546875
+        },
+        {
+          "span": 1,
+          "n": 4,
+          "target": 100,
+          "plannedHit": false,
+          "x": -99.9999998538838,
+          "tx": -100.00000000000006,
+          "d": 3934.083333333412,
+          "time": 11.966666666666628,
+          "delta": 124.7619047619048
+        },
+        {
+          "span": 1,
+          "n": 5,
+          "target": -100,
+          "plannedHit": false,
+          "x": 99.99999446574428,
+          "tx": 99.9999953408277,
+          "d": 4257.083333333404,
+          "time": 12.916666666666574,
+          "delta": -124.76190185546871
+        },
+        {
+          "span": 1,
+          "n": 6,
+          "target": 100,
+          "plannedHit": false,
+          "x": -99.99999944030101,
+          "tx": -100.00000000000011,
+          "d": 4574.416666666703,
+          "time": 13.849999999999854,
+          "delta": 124.76190476190483
+        },
+        {
+          "span": 1,
+          "n": 7,
+          "target": -100,
+          "plannedHit": false,
+          "x": 99.99999511212404,
+          "tx": 99.99999534082764,
+          "d": 4897.416666666669,
+          "time": 14.7999999999998,
+          "delta": -124.76190185546868
+        },
+        {
+          "span": 1,
+          "n": 8,
+          "target": -100,
+          "plannedHit": true,
+          "x": -99.99999964215621,
+          "tx": -100.00000000000017,
+          "d": 5220.416666666634,
+          "time": 15.749999999999746,
+          "delta": 1.0637839815379784e-13
+        },
+        {
+          "span": 2,
+          "n": 1,
+          "target": -100,
+          "plannedHit": true,
+          "x": -100.00000000000014,
+          "tx": -100.00000000000017,
+          "d": 7521.083333333055,
+          "time": 22.51666666666603,
+          "delta": 1.0637839815379784e-13
+        },
+        {
+          "span": 2,
+          "n": 2,
+          "target": 0,
+          "plannedHit": true,
+          "x": -100.00000000000014,
+          "tx": -100.00000000000017,
+          "d": 7957.416666666341,
+          "time": 23.79999999999929,
+          "delta": 62.380952380952486
+        },
+        {
+          "span": 2,
+          "n": 3,
+          "target": 100,
+          "plannedHit": true,
+          "x": -0.000039579582983409196,
+          "tx": -0.0000023295863087469115,
+          "d": 8223.749999999656,
+          "time": 24.58333333333258,
+          "delta": 62.380953834170505
+        },
+        {
+          "span": 2,
+          "n": 4,
+          "target": -100,
+          "plannedHit": true,
+          "x": 99.99995809083082,
+          "tx": 99.99999534082755,
+          "d": 8478.74999999971,
+          "time": 25.333333333332536,
+          "delta": -124.76190185546862
+        },
+        {
+          "span": 2,
+          "n": 5,
+          "target": 0,
+          "plannedHit": true,
+          "x": -99.99999999896357,
+          "tx": -100.00000000000026,
+          "d": 8881.08333333313,
+          "time": 26.516666666665802,
+          "delta": 62.38095238095254
+        },
+        {
+          "span": 2,
+          "n": 6,
+          "target": 100,
+          "plannedHit": true,
+          "x": -0.000017707606271896627,
+          "tx": -0.00000232958639401204,
+          "d": 9153.083333333188,
+          "time": 27.316666666665757,
+          "delta": 62.38095383417056
+        },
+        {
+          "span": 2,
+          "n": 7,
+          "target": -100,
+          "plannedHit": true,
+          "x": 99.99998546861289,
+          "tx": 99.99999534082747,
+          "d": 9425.083333333247,
+          "time": 28.11666666666571,
+          "delta": -124.76190185546857
+        }
+      ],
+      "errors": []
+    },
+    {
+      "started": "2026-11-27T13:38:05.227Z",
+      "ended": "2026-11-27T13:38:43.943Z",
+      "pattern": [
+        "11111001",
+        "0010101"
+      ],
+      "actual": [
+        "11111001",
+        "0010101"
+      ],
+      "scores": [
+        6,
+        3
+      ],
+      "receipt": "9 of 15 colours caught!\n\nThe Aurora Bridge\n\nRoad report\nTry for 10\nTown",
+      "disclosed": "Road report\n\nPersonal best 9/15.\n\nColours caught\n9 / 15\nLanterns lit\n3 / 5\nEvery gate right!\n+35\nTown’s share · 149 Petals\n\nTambo’s best 11,814.\n\n9 / 15 colours caught. Reach the lit planks early and stay until the colour joins you. 3 stars at 13,700 home.\n\nTips & practice\nA gift is ready in Stars!\n\n9 / 15 colours caught · Ribbon caught!\n\n11,814 friends home · 1,886 more for 3 stars (13,700 total)\n\nTotal Petals\nIncludes 69 from the Workshop and 30 from Meadow\n+284 \nLead the duck parade",
+      "inputs": [
+        {
+          "span": 1,
+          "n": 1,
+          "target": -100,
+          "plannedHit": true,
+          "x": -99.97715636126289,
+          "tx": -100,
+          "d": 2863.083333333355,
+          "time": 8.816666666666807,
+          "delta": 0
+        },
+        {
+          "span": 1,
+          "n": 2,
+          "target": 0,
+          "plannedHit": true,
+          "x": -99.99999999999997,
+          "tx": -100,
+          "d": 3282.4166666667106,
+          "time": 10.05000000000007,
+          "delta": 62.38095238095238
+        },
+        {
+          "span": 1,
+          "n": 3,
+          "target": -100,
+          "plannedHit": true,
+          "x": -0.000002508508113543903,
+          "tx": -0.000002329586138216655,
+          "d": 3605.416666666728,
+          "time": 11.000000000000016,
+          "delta": -62.38095092773437
+        },
+        {
+          "span": 1,
+          "n": 4,
+          "target": 0,
+          "plannedHit": true,
+          "x": -99.99999988564824,
+          "tx": -100.00000000000004,
+          "d": 3934.083333333412,
+          "time": 11.966666666666628,
+          "delta": 62.38095238095241
+        },
+        {
+          "span": 1,
+          "n": 5,
+          "target": 100,
+          "plannedHit": true,
+          "x": -0.0000026094357255142717,
+          "tx": -0.000002329586180849219,
+          "d": 4257.083333333404,
+          "time": 12.916666666666574,
+          "delta": 62.380953834170434
+        },
+        {
+          "span": 1,
+          "n": 6,
+          "target": 100,
+          "plannedHit": false,
+          "x": 99.99999506097814,
+          "tx": 99.99999534082768,
+          "d": 4574.416666666703,
+          "time": 13.849999999999854,
+          "delta": 0.0000029064360657029976
+        },
+        {
+          "span": 1,
+          "n": 7,
+          "target": -100,
+          "plannedHit": false,
+          "x": 99.99999534082765,
+          "tx": 99.99999534082768,
+          "d": 4897.416666666669,
+          "time": 14.7999999999998,
+          "delta": -124.76190185546871
+        },
+        {
+          "span": 1,
+          "n": 8,
+          "target": -100,
+          "plannedHit": true,
+          "x": -99.99999964215617,
+          "tx": -100.00000000000013,
+          "d": 5226.0833333333,
+          "time": 15.766666666666412,
+          "delta": 7.978379861534839e-14
+        },
+        {
+          "span": 2,
+          "n": 1,
+          "target": 100,
+          "plannedHit": false,
+          "x": -100.0000000000001,
+          "tx": -100.00000000000013,
+          "d": 7521.083333333055,
+          "time": 22.51666666666603,
+          "delta": 124.76190476190483
+        },
+        {
+          "span": 2,
+          "n": 2,
+          "target": 100,
+          "plannedHit": false,
+          "x": 99.99999534071937,
+          "tx": 99.99999534082762,
+          "d": 7951.749999999675,
+          "time": 23.783333333332624,
+          "delta": 0.0000029064361011624633
+        },
+        {
+          "span": 2,
+          "n": 3,
+          "target": 100,
+          "plannedHit": true,
+          "x": 99.9999953408276,
+          "tx": 99.99999534082762,
+          "d": 8212.41666666632,
+          "time": 24.549999999999248,
+          "delta": 0.0000029064361011624633
+        },
+        {
+          "span": 2,
+          "n": 4,
+          "target": 100,
+          "plannedHit": false,
+          "x": 99.9999953408276,
+          "tx": 99.99999534082762,
+          "d": 8478.74999999971,
+          "time": 25.333333333332536,
+          "delta": 0.0000029064361011624633
+        },
+        {
+          "span": 2,
+          "n": 5,
+          "target": 0,
+          "plannedHit": true,
+          "x": 99.9999953408276,
+          "tx": 99.99999534082762,
+          "d": 8881.08333333313,
+          "time": 26.516666666665802,
+          "delta": -62.38094947451628
+        },
+        {
+          "span": 2,
+          "n": 6,
+          "target": -100,
+          "plannedHit": false,
+          "x": 0.000004004666124061703,
+          "tx": -0.000002329586280325202,
+          "d": 9153.083333333188,
+          "time": 27.316666666665757,
+          "delta": -62.38095092773427
+        },
+        {
+          "span": 2,
+          "n": 7,
+          "target": -100,
+          "plannedHit": true,
+          "x": -99.99994207830825,
+          "tx": -100.00000000000018,
+          "d": 9413.74999999991,
+          "time": 28.08333333333238,
+          "delta": 1.1524326466661434e-13
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

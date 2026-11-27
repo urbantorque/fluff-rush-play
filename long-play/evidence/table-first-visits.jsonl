@@ -1,0 +1,117 @@
+{"utc":"2026-11-27T14:33:23.292Z","event":"open","url":"http://localhost:4173/?town","asset":"./assets/index-DaA67D5F.js"}
+{"utc":"2026-11-27T14:33:23.457Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T14:33:37.548Z","event":"note","text":"Prototype check from the same pre-Drizzle checkpoint. I am starting with Clover and an unused table. I want the yellow hoods under the fold before I try the cart, and I will leave once during a miss to check whether the place stays set."}
+{"utc":"2026-11-27T14:33:37.612Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T14:33:37.714Z","event":"input","line":"buttons","ms":101}
+{"utc":"2026-11-27T14:33:40.620Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:33:40.658Z","event":"input","line":"button Later","ms":269}
+{"utc":"2026-11-27T14:33:40.846Z","event":"input","line":"choice Share buns at the Bakery","ms":187}
+{"utc":"2026-11-27T14:33:43.025Z","event":"input","line":"watch 2","ms":2177}
+{"utc":"2026-11-27T14:33:43.093Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T14:33:43.164Z","event":"input","line":"buttons","ms":71}
+{"utc":"2026-11-27T14:33:50.548Z","event":"input","line":"button Seat the raincoats","ms":206}
+{"utc":"2026-11-27T14:33:52.694Z","event":"input","line":"watch 2","ms":2144}
+{"utc":"2026-11-27T14:33:52.758Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T14:33:52.826Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T14:34:08.778Z","event":"note","text":"Supplied miss. I set the dry corner for the hoods and will take the red cart instead. I expect the riders to get their ordinary breakfast credit and the hoods to keep their empty place."}
+{"utc":"2026-11-27T14:34:08.975Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":11}
+{"utc":"2026-11-27T14:34:09.041Z","event":"input","line":"choice Walk Drizzle Dell","ms":262}
+{"utc":"2026-11-27T14:34:10.140Z","event":"input","line":"watch 1","ms":1098}
+{"utc":"2026-11-27T14:34:10.411Z","event":"input","line":"right 220","ms":270}
+{"utc":"2026-11-27T14:34:22.627Z","event":"view","road":"L4","phase":"pour","screen":"square","result":false,"crowd":78}
+{"utc":"2026-11-27T14:34:22.680Z","event":"input","line":"watch 12","ms":12269}
+{"utc":"2026-11-27T14:34:22.744Z","event":"input","line":"read","ms":63}
+{"utc":"2026-11-27T14:34:23.776Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":53}
+{"utc":"2026-11-27T14:34:38.626Z","event":"view","road":"L4","phase":"finale","screen":"square","result":false,"crowd":792}
+{"utc":"2026-11-27T14:34:38.709Z","event":"input","line":"read","ms":110}
+{"utc":"2026-11-27T14:34:38.792Z","event":"input","line":"buttons","ms":81}
+{"utc":"2026-11-27T14:34:43.089Z","event":"view","road":"L4","phase":"done","screen":"792 friends home!","result":true,"crowd":792}
+{"utc":"2026-11-27T14:34:43.107Z","event":"result","text":"Parade size\n792\nFriends woken this run: 3\n3 woken\nParade of 792 reached the end.\n792 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 20 from Runaway\n+43 \nRoad report\nBack to Clover’s table\nNext road"}
+{"utc":"2026-11-27T14:34:47.607Z","event":"input","line":"watch 4","ms":4263}
+{"utc":"2026-11-27T14:34:47.673Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T14:34:47.743Z","event":"input","line":"buttons","ms":69}
+{"utc":"2026-11-27T14:34:48.504Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T14:34:48.555Z","event":"input","line":"buttons","ms":50}
+{"utc":"2026-11-27T14:34:52.337Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:34:52.388Z","event":"input","line":"button Back to Clover’s table","ms":236}
+{"utc":"2026-11-27T14:34:54.973Z","event":"input","line":"watch 1","ms":2583}
+{"utc":"2026-11-27T14:34:55.041Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T14:34:55.078Z","event":"leave"}
+{"utc":"2026-11-27T14:34:55.528Z","event":"open","url":"http://localhost:4173/?town","asset":"./assets/index-DaA67D5F.js"}
+{"utc":"2026-11-27T14:34:55.542Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T14:34:55.610Z","event":"input","line":"return","ms":528}
+{"utc":"2026-11-27T14:34:56.703Z","event":"input","line":"watch 1","ms":1093}
+{"utc":"2026-11-27T14:34:56.768Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T14:35:20.235Z","event":"input","line":"read","ms":60}
+{"utc":"2026-11-27T14:35:20.336Z","event":"input","line":"buttons","ms":99}
+{"utc":"2026-11-27T14:35:25.300Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:35:25.336Z","event":"input","line":"button Later","ms":215}
+{"utc":"2026-11-27T14:35:25.524Z","event":"input","line":"choice Share buns at the Bakery","ms":186}
+{"utc":"2026-11-27T14:35:25.525Z","event":"note","text":"The cart joined and the result brought me home in one tap. The hood corner stayed empty. I left the app, reopened the basket and found the same place set. I want to see the coats take those chairs. I will cross left for the last hood."}
+{"utc":"2026-11-27T14:35:25.721Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":11}
+{"utc":"2026-11-27T14:35:25.769Z","event":"input","line":"choice Walk Drizzle Dell","ms":242}
+{"utc":"2026-11-27T14:35:26.853Z","event":"input","line":"watch 1","ms":1084}
+{"utc":"2026-11-27T14:35:27.106Z","event":"input","line":"right 180","ms":252}
+{"utc":"2026-11-27T14:35:39.838Z","event":"view","road":"L4","phase":"pour","screen":"square","result":false,"crowd":78}
+{"utc":"2026-11-27T14:35:39.995Z","event":"input","line":"watch 12","ms":12888}
+{"utc":"2026-11-27T14:35:40.857Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":53}
+{"utc":"2026-11-27T14:35:45.250Z","event":"input","line":"watch 5","ms":5249}
+{"utc":"2026-11-27T14:35:45.503Z","event":"input","line":"left 290","ms":253}
+{"utc":"2026-11-27T14:35:51.853Z","event":"input","line":"watch 6","ms":6350}
+{"utc":"2026-11-27T14:35:51.924Z","event":"input","line":"read","ms":70}
+{"utc":"2026-11-27T14:35:55.659Z","event":"view","road":"L4","phase":"finale","screen":"square","result":false,"crowd":2043}
+{"utc":"2026-11-27T14:36:01.734Z","event":"view","road":"L4","phase":"done","screen":"New best · 2,043 home","result":true,"crowd":2043}
+{"utc":"2026-11-27T14:36:01.750Z","event":"result","text":"Parade size\n2,043\nFriends woken this run: 3\n3 woken\nNew best! 2,043 beats 792Parade of 2043 reached the end.\nNew best · 2,043 home\n\nDrizzle Dell\n\nAt gate 6, your crowd grew from 1,043 to 2,043.\n\n3 stars at 2,150 friends home\n\nTotal Petals\nIncludes 9 from Runaway\n+49 \nRoad report\n\nOn the breakfast cloth: a basket of pears · +18 Petals\n\nBack to Clover’s table\nNext road\nReplay road"}
+{"utc":"2026-11-27T14:36:10.123Z","event":"input","line":"read","ms":58}
+{"utc":"2026-11-27T14:36:10.248Z","event":"input","line":"buttons","ms":123}
+{"utc":"2026-11-27T14:36:14.704Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:36:14.833Z","event":"input","line":"button Back to Clover’s table","ms":408}
+{"utc":"2026-11-27T14:36:17.173Z","event":"input","line":"watch 2","ms":2339}
+{"utc":"2026-11-27T14:36:17.257Z","event":"input","line":"read","ms":83}
+{"utc":"2026-11-27T14:36:17.363Z","event":"input","line":"buttons","ms":105}
+{"utc":"2026-11-27T14:36:33.097Z","event":"note","text":"Three coats came home on the late left line. The coat on the chair and the little guest at the far edge read before the caption. Clover still looks almost upright. I want to see the helper move, then choose the cart from the same table."}
+{"utc":"2026-11-27T14:36:33.269Z","event":"input","line":"button Lift the cloth","ms":170}
+{"utc":"2026-11-27T14:36:35.418Z","event":"input","line":"watch 2","ms":2149}
+{"utc":"2026-11-27T14:36:35.468Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T14:37:48.296Z","event":"input","line":"button Make room for the cart","ms":187}
+{"utc":"2026-11-27T14:37:48.349Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T14:37:48.492Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":11}
+{"utc":"2026-11-27T14:37:48.548Z","event":"input","line":"choice Walk Drizzle Dell","ms":198}
+{"utc":"2026-11-27T14:37:49.646Z","event":"input","line":"watch 1","ms":1096}
+{"utc":"2026-11-27T14:37:49.894Z","event":"input","line":"right 220","ms":246}
+{"utc":"2026-11-27T14:38:02.199Z","event":"view","road":"L4","phase":"pour","screen":"square","result":false,"crowd":78}
+{"utc":"2026-11-27T14:38:02.253Z","event":"input","line":"watch 12","ms":12357}
+{"utc":"2026-11-27T14:38:03.398Z","event":"view","road":"L4","phase":"walk","screen":"square","result":false,"crowd":53}
+{"utc":"2026-11-27T14:38:12.533Z","event":"input","line":"watch 10","ms":10279}
+{"utc":"2026-11-27T14:38:12.599Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T14:38:18.711Z","event":"view","road":"L4","phase":"finale","screen":"square","result":false,"crowd":792}
+{"utc":"2026-11-27T14:38:20.715Z","event":"view","road":"L4","phase":"done","screen":"792 friends home!","result":true,"crowd":792}
+{"utc":"2026-11-27T14:38:20.732Z","event":"result","text":"Parade size\n792\nFriends woken this run: 3\n3 woken\nCaught it! Comet: +55 PetalsCrowd recovered.Parade of 792 reached the end.\n792 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right. Last time, your back row reached shelter.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 8 from Runaway\n+40 \nRoad report\nBack to Clover’s table\nNext road\nReplay road"}
+{"utc":"2026-11-27T14:38:41.278Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T14:38:41.326Z","event":"input","line":"buttons","ms":47}
+{"utc":"2026-11-27T14:38:46.866Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:38:46.926Z","event":"input","line":"button Back to Clover’s table","ms":197}
+{"utc":"2026-11-27T14:38:49.115Z","event":"input","line":"watch 2","ms":2187}
+{"utc":"2026-11-27T14:38:49.198Z","event":"input","line":"read","ms":82}
+{"utc":"2026-11-27T14:38:49.402Z","event":"input","line":"button Pass the buns","ms":203}
+{"utc":"2026-11-27T14:38:51.736Z","event":"input","line":"watch 2","ms":2333}
+{"utc":"2026-11-27T14:38:51.928Z","event":"input","line":"read","ms":191}
+{"utc":"2026-11-27T14:39:33.542Z","event":"note","text":"Both groups are now welcomed. I can switch to the hoods without another road. I will leave the hoods sitting here, close the app and see whether their coat and Clover are still together. This is a supplied permanence check, not the open third choice."}
+{"utc":"2026-11-27T14:39:33.764Z","event":"input","line":"button Seat the raincoats","ms":220}
+{"utc":"2026-11-27T14:39:33.802Z","event":"leave"}
+{"utc":"2026-11-27T14:39:34.139Z","event":"open","url":"http://localhost:4173/?town","asset":"./assets/index-DaA67D5F.js"}
+{"utc":"2026-11-27T14:39:34.162Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T14:39:34.281Z","event":"input","line":"return","ms":478}
+{"utc":"2026-11-27T14:39:35.356Z","event":"input","line":"watch 1","ms":1073}
+{"utc":"2026-11-27T14:39:35.391Z","event":"input","line":"read","ms":35}
+{"utc":"2026-11-27T14:41:03.110Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T14:41:03.154Z","event":"input","line":"button Later","ms":206}
+{"utc":"2026-11-27T14:41:03.342Z","event":"input","line":"choice Share buns at the Bakery","ms":188}
+{"utc":"2026-11-27T14:41:04.457Z","event":"input","line":"watch 1","ms":1114}
+{"utc":"2026-11-27T14:41:04.624Z","event":"input","line":"read","ms":163}
+{"utc":"2026-11-27T14:41:04.893Z","event":"input","line":"button Make room for the cart","ms":268}
+{"utc":"2026-11-27T14:41:06.008Z","event":"input","line":"watch 1","ms":1110}
+{"utc":"2026-11-27T14:41:06.076Z","event":"input","line":"read","ms":65}
+{"utc":"2026-11-27T14:41:06.076Z","event":"note","text":"On this required reopen I found the coat where I left it and changed the chairs to the cart with one touch. Both helpers are there. I would finish at this picture; another lap for a party already here adds nothing to this visit."}
+{"utc":"2026-11-27T14:41:06.110Z","event":"leave"}
+{"utc":"2026-11-27T14:41:06.111Z","event":"quit"}

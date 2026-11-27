@@ -1,0 +1,70 @@
+{
+  "method": "Parsed the four public snapshots, compared every top-level save field and counted changes in ordinary road plays. The third visit only changed session bookkeeping.",
+  "deltas": [
+    {
+      "from": "original-earned-evaluation-start.json",
+      "to": "candidate-earned-person-stop-save.json",
+      "startingWallet": 7682,
+      "endingWallet": 7919,
+      "changedKeys": [
+        "lastSeen",
+        "sessions",
+        "petals",
+        "friends",
+        "levels",
+        "ftue",
+        "tips"
+      ],
+      "roadPlays": {
+        "L2": 1,
+        "L9": 1
+      },
+      "flagsAdded": [
+        "town:basket:yuzu",
+        "town:bakery-table:yuzu:cart",
+        "town:bun-outing:yuzu:L9",
+        "town:table-welcome:cart",
+        "town:ring:square",
+        "town:bun-greeted"
+      ],
+      "flagsRemoved": [
+        "town:ring:grove"
+      ]
+    },
+    {
+      "from": "candidate-earned-person-stop-save.json",
+      "to": "candidate-earned-mastery-stop-save.json",
+      "startingWallet": 7919,
+      "endingWallet": 8655,
+      "changedKeys": [
+        "lastSeen",
+        "sessions",
+        "petals",
+        "levels",
+        "ftue",
+        "requests",
+        "tips"
+      ],
+      "roadPlays": {
+        "L9": 3
+      },
+      "flagsAdded": [],
+      "flagsRemoved": [
+        "town:bun-greeted"
+      ]
+    },
+    {
+      "from": "candidate-earned-mastery-stop-save.json",
+      "to": "candidate-earned-open-stop-save.json",
+      "startingWallet": 8655,
+      "endingWallet": 8655,
+      "changedKeys": [
+        "lastSeen",
+        "sessions"
+      ],
+      "roadPlays": {},
+      "flagsAdded": [],
+      "flagsRemoved": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "method": "Separate diagnostic inspired by the freely chosen mastery visit. Each normal-speed road starts with the original 7,682-Petal fixture, seed 317, native touch, Tambo and the same 393 × 852 screen. Drag right 220, then the indicated distance inward five seconds of travel before boarding. Existing 120 and 200 seat caps determine the overflow. Colours, table play and calendar gifts are outside this check. This does not reconstruct the live visit’s timing.",
+  "file": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "rows": [
+    {
+      "inward": 96,
+      "asset": "./assets/index-CCziZ-5V.js",
+      "inputs": [
+        220,
+        -96
+      ],
+      "board": {
+        "left": 194,
+        "right": 125,
+        "total": 319,
+        "pads": 74,
+        "groups": {
+          "raincoats": true,
+          "cart": true
+        },
+        "receipt": "The Lantern River ahead. Your parade boards two rafts, split by where you stand. Left: Raft seats 120, then Gate: times 3. Right: Raft seats 200, then Gate: times 2. Anyone past a raft's seats hops onto the lily pads and misses its lanterns.Both crews are aboard!The parade boards the rafts: 194 on the left, 125 on the right. 74 hop across on the lily pads."
+      },
+      "after": {
+        "petals": 7818,
+        "record": 3595
+      },
+      "errors": []
+    },
+    {
+      "inward": 52,
+      "asset": "./assets/index-CCziZ-5V.js",
+      "inputs": [
+        220,
+        -52
+      ],
+      "board": {
+        "left": 81,
+        "right": 213,
+        "total": 294,
+        "pads": 13,
+        "groups": {
+          "raincoats": true,
+          "cart": true
+        },
+        "receipt": "The Lantern River ahead. Your parade boards two rafts, split by where you stand. Left: Raft seats 120, then Gate: times 3. Right: Raft seats 200, then Gate: times 2. Anyone past a raft's seats hops onto the lily pads and misses its lanterns.Both crews are aboard!The parade boards the rafts: 81 on the left, 213 on the right. 13 hop across on the lily pads."
+      },
+      "after": {
+        "petals": 8089,
+        "record": 5046
+      },
+      "errors": []
+    },
+    {
+      "inward": 67,
+      "asset": "./assets/index-CCziZ-5V.js",
+      "inputs": [
+        220,
+        -67
+      ],
+      "board": {
+        "left": 119,
+        "right": 191,
+        "total": 310,
+        "pads": 0,
+        "groups": {
+          "raincoats": true,
+          "cart": true
+        },
+        "receipt": "The Lantern River ahead. Your parade boards two rafts, split by where you stand. Left: Raft seats 120, then Gate: times 3. Right: Raft seats 200, then Gate: times 2. Anyone past a raft's seats hops onto the lily pads and misses its lanterns.Both crews are aboard!The parade boards the rafts: 119 on the left, 191 on the right."
+      },
+      "after": {
+        "petals": 8088,
+        "record": 5448
+      },
+      "errors": []
+    }
+  ]
+}

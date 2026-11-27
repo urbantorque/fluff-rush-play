@@ -1,0 +1,485 @@
+{
+  "method": "Decoded each final WebM in Chromium; checked native dimensions, wall-time match, seekability and energy of each decoded soundtrack channel.",
+  "rows": [
+    {
+      "file": "play-candidate-cart-home.webm",
+      "bytes": 3546409,
+      "sha256": "c21b80f95957c92f22e3bf34edfc92a675998c2e0235bd1ee9870171c27e53fe",
+      "wallSeconds": 18.196,
+      "duration": 18.2,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 18.18,
+      "channels": [
+        {
+          "rms": 0.02573,
+          "peak": 0.37885
+        },
+        {
+          "rms": 0.02689,
+          "peak": 0.38074
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-compose-020.webm",
+      "bytes": 1019392,
+      "sha256": "1ea17fcb4b65bc89db382a04c3b156f8d67c1e4c01bbde33987f88fb273a8566",
+      "wallSeconds": 7.275,
+      "duration": 7.266,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 7.26,
+      "channels": [
+        {
+          "rms": 0.03835,
+          "peak": 0.33736
+        },
+        {
+          "rms": 0.03838,
+          "peak": 0.33396
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-compose-11111111.webm",
+      "bytes": 1306607,
+      "sha256": "7d2d7e525c7d5c73f1ec290c53bab98216a04d0efcfdacd059bae4a39990098a",
+      "wallSeconds": 11.817,
+      "duration": 11.833,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 11.82,
+      "channels": [
+        {
+          "rms": 0.03596,
+          "peak": 0.28823
+        },
+        {
+          "rms": 0.03592,
+          "peak": 0.28823
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-compose-221.webm",
+      "bytes": 1047111,
+      "sha256": "8231334c1d03113e85a48c5ad3860b5c75634f30ddabea3f72fd4fa5bc169381",
+      "wallSeconds": 7.604,
+      "duration": 7.6,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 7.56,
+      "channels": [
+        {
+          "rms": 0.0375,
+          "peak": 0.31641
+        },
+        {
+          "rms": 0.0375,
+          "peak": 0.31641
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-earned-cart-rider-at-home.webm",
+      "bytes": 407428,
+      "sha256": "7af97d13ed70d06a47c9f13286a743c59c533a4eb3eda62b69408a7c89781a7c",
+      "wallSeconds": 5.74,
+      "duration": 5.733,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 5.7,
+      "channels": [
+        {
+          "rms": 0.02074,
+          "peak": 0.12262
+        },
+        {
+          "rms": 0.02073,
+          "peak": 0.12262
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-earned-first-visit-water-choice.webm",
+      "bytes": 961756,
+      "sha256": "12bd39161623909d76047e7d56f64924a2e4e004864f2354d742fcae17ff4dc1",
+      "wallSeconds": 8.484,
+      "duration": 8.5,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 8.46,
+      "channels": [
+        {
+          "rms": 0.02217,
+          "peak": 0.15033
+        },
+        {
+          "rms": 0.02215,
+          "peak": 0.15033
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-earned-loading-the-rafts.webm",
+      "bytes": 3394406,
+      "sha256": "02c062315977dd5d5aaf54a3acb51faf50d6666df1f39d42de665c4cea1e7215",
+      "wallSeconds": 15.11,
+      "duration": 15.1,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 15.06,
+      "channels": [
+        {
+          "rms": 0.02623,
+          "peak": 0.30908
+        },
+        {
+          "rms": 0.02784,
+          "peak": 0.35315
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-earned-open-choice-boat.webm",
+      "bytes": 584688,
+      "sha256": "3a57fe9dc565bd5be68d0b3436074b3404a17e7ad88d6fbd88ba43af1bb771a1",
+      "wallSeconds": 10.216,
+      "duration": 10.2,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 10.2,
+      "channels": [
+        {
+          "rms": 0.01852,
+          "peak": 0.11343
+        },
+        {
+          "rms": 0.01852,
+          "peak": 0.11343
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-earned-open-choice-fountain.webm",
+      "bytes": 1468501,
+      "sha256": "25d6bba3adbd00767247ee037ee4f3f3bf5f4fd74dc8b68f244e2470dc9cc7f8",
+      "wallSeconds": 19.896,
+      "duration": 19.9,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 19.86,
+      "channels": [
+        {
+          "rms": 0.0199,
+          "peak": 0.13537
+        },
+        {
+          "rms": 0.01991,
+          "peak": 0.13537
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-earned-second-raft-attempt.webm",
+      "bytes": 2364255,
+      "sha256": "b610480be0fed99d4498464db2a7329d0a4f4315e15521dba3eac2c1951cd404",
+      "wallSeconds": 10.783,
+      "duration": 10.766,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 10.74,
+      "channels": [
+        {
+          "rms": 0.0277,
+          "peak": 0.34502
+        },
+        {
+          "rms": 0.02674,
+          "peak": 0.34661
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-earned-third-raft-attempt.webm",
+      "bytes": 2619708,
+      "sha256": "67d7f6c84696952cf741111e8b04be10e3da24a78b384ebe218a16c1e262cb3a",
+      "wallSeconds": 11.779,
+      "duration": 11.766,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 11.76,
+      "channels": [
+        {
+          "rms": 0.02544,
+          "peak": 0.31408
+        },
+        {
+          "rms": 0.02639,
+          "peak": 0.33525
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-fig-first-opening.webm",
+      "bytes": 2042853,
+      "sha256": "c2c783edb39966dfb3110bc4bbf350a8c63c69fc3880b14cb1f0d8219cf98348",
+      "wallSeconds": 30.71,
+      "duration": 30.7,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 30.66,
+      "channels": [
+        {
+          "rms": 0.02085,
+          "peak": 0.16587
+        },
+        {
+          "rms": 0.0208,
+          "peak": 0.13698
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-fresh-fresh-raincoat-invitation.webm",
+      "bytes": 238365,
+      "sha256": "b39f715d587d977d1c67b13d3590172e3debc0d683fe5651a35f897eac0acadb",
+      "wallSeconds": 3.546,
+      "duration": 3.533,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 3.54,
+      "channels": [
+        {
+          "rms": 0.02354,
+          "peak": 0.11959
+        },
+        {
+          "rms": 0.02354,
+          "peak": 0.11959
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-goal-breakfast.webm",
+      "bytes": 2242281,
+      "sha256": "2e5108f20ca82dd4631ec5b0b08722d8f80abfb0af2e11d4cd8719ae19a6e82d",
+      "wallSeconds": 10.736,
+      "duration": 10.733,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 10.68,
+      "channels": [
+        {
+          "rms": 0.03244,
+          "peak": 0.41859
+        },
+        {
+          "rms": 0.03205,
+          "peak": 0.41853
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-goal-telescope.webm",
+      "bytes": 1722771,
+      "sha256": "b032fb3efb5e319985d27dcb0e21036fd318baf79186b687b0f641aec8470622",
+      "wallSeconds": 8.22,
+      "duration": 8.233,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 8.22,
+      "channels": [
+        {
+          "rms": 0.04849,
+          "peak": 0.45112
+        },
+        {
+          "rms": 0.04824,
+          "peak": 0.45112
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-hood-home.webm",
+      "bytes": 3510448,
+      "sha256": "8b47b4c37776cb6ab9f9de125fe57d036b7d2855bfcfc64afdd5d41c63e6dc06",
+      "wallSeconds": 18.279,
+      "duration": 18.266,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 18.24,
+      "channels": [
+        {
+          "rms": 0.02933,
+          "peak": 0.41469
+        },
+        {
+          "rms": 0.02853,
+          "peak": 0.41469
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-miss-waiting.webm",
+      "bytes": 3551763,
+      "sha256": "6a49b095999e23eb48c31b12255d290713632c74882b7660e6d394a9af17bb80",
+      "wallSeconds": 18.319,
+      "duration": 18.333,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 18.3,
+      "channels": [
+        {
+          "rms": 0.0246,
+          "peak": 0.38832
+        },
+        {
+          "rms": 0.02567,
+          "peak": 0.38837
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-mochi-home.webm",
+      "bytes": 1815407,
+      "sha256": "9b8677a02d0ca6f678df25bb1666c390c6d087bb4e281e0bd3b68d88ea4c0869",
+      "wallSeconds": 9.966,
+      "duration": 9.966,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 9.96,
+      "channels": [
+        {
+          "rms": 0.02386,
+          "peak": 0.39691
+        },
+        {
+          "rms": 0.02267,
+          "peak": 0.39067
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-occupied-393x852.webm",
+      "bytes": 1106506,
+      "sha256": "8aa7d55e8bc8900fa0d3f3cb794dabb86c71822027abd0316ce04a46ae45fb38",
+      "wallSeconds": 6.92,
+      "duration": 6.933,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 6.9,
+      "channels": [
+        {
+          "rms": 0.02251,
+          "peak": 0.13503
+        },
+        {
+          "rms": 0.02251,
+          "peak": 0.13503
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-rehearse-020.webm",
+      "bytes": 2272502,
+      "sha256": "27d899ca4fcbd4199f304aea840b17c2bc490cd0f7fdfe5e444807f8c91eae3d",
+      "wallSeconds": 12.443,
+      "duration": 12.433,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 12.42,
+      "channels": [
+        {
+          "rms": 0.02243,
+          "peak": 0.27852
+        },
+        {
+          "rms": 0.02254,
+          "peak": 0.27775
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-rehearse-11111111.webm",
+      "bytes": 3121017,
+      "sha256": "578db430eabea09914202f2c24e61d2b92e820a9f807584c9dd5aeba19e6857e",
+      "wallSeconds": 16.432,
+      "duration": 16.433,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 16.38,
+      "channels": [
+        {
+          "rms": 0.02292,
+          "peak": 0.30014
+        },
+        {
+          "rms": 0.02291,
+          "peak": 0.32245
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-rehearse-221.webm",
+      "bytes": 2107070,
+      "sha256": "d8c7358bf786668a3ec517241afc71dd76ac8d5d8525f9bff4ca677442951c98",
+      "wallSeconds": 11.799,
+      "duration": 11.8,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 11.76,
+      "channels": [
+        {
+          "rms": 0.02244,
+          "peak": 0.28176
+        },
+        {
+          "rms": 0.02249,
+          "peak": 0.28055
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-river-hood.webm",
+      "bytes": 6472165,
+      "sha256": "c1a8079d9726d2031f4041948711f35e3fab347365040f36775991f6496c2c35",
+      "wallSeconds": 31.029,
+      "duration": 31.033,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 31.02,
+      "channels": [
+        {
+          "rms": 0.0291,
+          "peak": 0.38932
+        },
+        {
+          "rms": 0.02812,
+          "peak": 0.38932
+        }
+      ]
+    },
+    {
+      "file": "play-candidate-town.webm",
+      "bytes": 1013047,
+      "sha256": "08ba8c2cafae68b3677388dcce0b6ddca41f9fd3ba8cb724f367a1dfc851dfbd",
+      "wallSeconds": 9.563,
+      "duration": 9.566,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 9.54,
+      "channels": [
+        {
+          "rms": 0.02206,
+          "peak": 0.18186
+        },
+        {
+          "rms": 0.02182,
+          "peak": 0.15433
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "runtime": {
+    "crowd": 8,
+    "startingCrowd": 8,
+    "aurora": {
+      "caught": 3,
+      "of": 3,
+      "swelled": 0,
+      "total": 0
+    },
+    "lastDrumBeat": 8.350000000000167
+  },
+  "spoken": [
+    "Tambo plays your song. Rose left, Honey middle, Mint right.",
+    "Rose, left.",
+    "Mint, right.",
+    "Rose, left.",
+    "3 of 3 notes played."
+  ],
+  "crossings": [
+    {
+      "note": 2,
+      "from": -95.33333333333331,
+      "target": 100,
+      "millisecondsToOppositeLaneCentre": 496,
+      "millisecondsInLaneBeforeFront": 219
+    },
+    {
+      "note": 3,
+      "from": 95.3333333333333,
+      "target": -100,
+      "millisecondsToOppositeLaneCentre": 496,
+      "millisecondsInLaneBeforeFront": 221
+    }
+  ],
+  "fixture": "docs/Fluff-Rush-long-play/evidence/before-rehearsal-020.json",
+  "method": "One normal-clock native-input rehearsal from the actual restored stand. The recorded line specifies each intended hit or miss. Repeats in the same lane used no extra touch. Returned to the same stand. Read-only observation of game input, planks, native audio voices and save. No driver assistance.",
+  "digits": "020",
+  "viewport": {
+    "width": 568,
+    "height": 320
+  },
+  "still": true,
+  "mute": true,
+  "key": true,
+  "demo": [
+    {
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Rose"
+    },
+    {
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Mint"
+    },
+    {
+      "time": 0.783333333333333,
+      "label": "Tambo plays Rose"
+    }
+  ],
+  "bands": [
+    {
+      "note": 0,
+      "x": -100,
+      "start": 1008,
+      "end": 1123.5,
+      "speed": 210,
+      "color": "#FFB8CF"
+    },
+    {
+      "note": 2,
+      "x": 100,
+      "start": 1281,
+      "end": 1396.5,
+      "speed": 210,
+      "color": "#7FE3C8"
+    },
+    {
+      "note": 0,
+      "x": -100,
+      "start": 1554,
+      "end": 1669.5,
+      "speed": 210,
+      "color": "#FFB8CF"
+    }
+  ],
+  "inputs": [
+    {
+      "note": 0,
+      "contact": true,
+      "intendedHit": true,
+      "target": -100,
+      "wall": 6.3995,
+      "time": 4.483333333333346,
+      "from": 0,
+      "x": 0,
+      "dist": 858.375,
+      "delta": -28.444444444444446
+    },
+    {
+      "note": 2,
+      "contact": true,
+      "intendedHit": true,
+      "target": 100,
+      "wall": 7.701100000023842,
+      "time": 5.7833333333334105,
+      "from": -95.33333333333331,
+      "x": -95.3333333333189,
+      "dist": 1131.375,
+      "delta": 55.56148148148148
+    },
+    {
+      "note": 0,
+      "contact": true,
+      "intendedHit": true,
+      "target": -100,
+      "wall": 9.00269999998808,
+      "time": 7.083333333333475,
+      "from": 95.3333333333333,
+      "x": 95.33333333125024,
+      "dist": 1404.375,
+      "delta": -55.56148148148148
+    }
+  ],
+  "actual": [
+    true,
+    true,
+    true
+  ],
+  "receipt": "Your welcome song\n\n●\n▲\n●\n\n3 of 3 notes played.\n\nBack to Band Stand\nChange a note\nSteer it again",
+  "next": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\n● ▲ ●\nRose left · Honey middle · Mint right\nVisit or choose a place\nSteer your welcome song\nHear your welcome song\nPlay a road\nBack",
+  "hubVisible": 0,
+  "before": 7682,
+  "after": 7682,
+  "changed": [],
+  "steps": [
+    {
+      "wall": 2.22,
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Rose",
+      "played": 1,
+      "steps": []
+    },
+    {
+      "wall": 2.466800000011921,
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Mint",
+      "played": 2,
+      "steps": []
+    },
+    {
+      "wall": 2.699,
+      "time": 0.783333333333333,
+      "label": "Tambo plays Rose",
+      "played": 3,
+      "steps": []
+    },
+    {
+      "wall": 2.948699999988079,
+      "time": 1.033333333333332,
+      "label": "● Rose · left",
+      "played": 4,
+      "steps": []
+    },
+    {
+      "wall": 7.6775,
+      "time": 5.7500000000000755,
+      "label": "▲ Mint · cross right",
+      "played": 4,
+      "steps": [
+        true
+      ]
+    },
+    {
+      "wall": 8.968100000023842,
+      "time": 7.05000000000014,
+      "label": "● Rose · cross left",
+      "played": 4,
+      "steps": [
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 10.274,
+      "time": 8.350000000000167,
+      "label": "3 of 3 notes played",
+      "played": 4,
+      "steps": [
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "voices": [],
+  "errors": []
+}

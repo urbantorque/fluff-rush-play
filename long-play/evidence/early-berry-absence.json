@@ -1,0 +1,70 @@
+{
+  "fixture": "docs/Fluff-Rush-long-play/evidence/candidate-fresh-first-stop-save.json",
+  "calendarAnchor": "2026-11-28",
+  "method": "Three independent simulated calendar absences on a copy of the same save. Entered Town, declined the gift and reopened the Bakery with reduced motion. This establishes state correctness only.",
+  "rows": [
+    {
+      "gap": 1,
+      "date": "2026-11-29",
+      "startingWallet": 457,
+      "unchangedWallet": 457,
+      "everOwned": 2,
+      "rememberedFlags": [
+        "town:basket:strawberry",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bakery-table:strawberry:hood",
+        "town:bun-outing:strawberry:L4",
+        "town:table-welcome:hood",
+        "breakfast:guest:hood",
+        "town:bun-greeted"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 7,
+      "date": "2026-12-05",
+      "startingWallet": 457,
+      "unchangedWallet": 457,
+      "everOwned": 2,
+      "rememberedFlags": [
+        "town:basket:strawberry",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bakery-table:strawberry:hood",
+        "town:bun-outing:strawberry:L4",
+        "town:table-welcome:hood",
+        "breakfast:guest:hood",
+        "town:bun-greeted"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 14,
+      "date": "2026-12-12",
+      "startingWallet": 457,
+      "unchangedWallet": 457,
+      "everOwned": 2,
+      "rememberedFlags": [
+        "town:basket:strawberry",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bakery-table:strawberry:hood",
+        "town:bun-outing:strawberry:L4",
+        "town:table-welcome:hood",
+        "breakfast:guest:hood",
+        "town:bun-greeted"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "method": "Same original profiles, normal time, seed 317. Ordinary touch from a pinned fountain host and from the telescope. One +66 px right gesture on the first Seedfall run, no gesture on its retry. Native contacts on both Aurora spans with assisted travel elsewhere. The final host completion is a separate assisted diagnostic.",
+  "rows": [
+    {
+      "route": "breakfast",
+      "file": "docs/Fluff-Rush-long-play/evidence/weekly-pinned.json",
+      "offer": "Breakfast at the fountain\nFloat the boat\n\nCatch six parachute groups on Seedfall Road for breakfast.\n\nReplay Seedfall Road\nStay in Town",
+      "attempts": [
+        {
+          "start": {
+            "id": "L5",
+            "target": null,
+            "purpose": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "cue": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "objective": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "startingWallet": 6312,
+            "pin": "breakfast:hosting:L5:0"
+          },
+          "result": {
+            "receipt": "4 of 8 parachutes caught!\n\nSeedfall Road\n\nRoad report\nTry for 5\nTown",
+            "action": "Try for 5",
+            "hit": 4,
+            "wallet": 6450,
+            "best": 5,
+            "pin": "breakfast:hosting:L5:0"
+          }
+        },
+        {
+          "start": {
+            "id": "L5",
+            "target": 5,
+            "purpose": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "cue": "",
+            "objective": "Target 0 / 5 parachutes",
+            "startingWallet": 6450,
+            "pin": "breakfast:hosting:L5:0"
+          },
+          "result": {
+            "receipt": "4 parachutes this time. You were aiming for 5.\n\nSeedfall Road\n\nRoad report\nTry for 5 again\nTown",
+            "action": "Try for 5 again",
+            "hit": 4,
+            "wallet": 6559,
+            "best": 5,
+            "pin": "breakfast:hosting:L5:0"
+          }
+        },
+        {
+          "start": {
+            "id": "L5",
+            "target": 5,
+            "purpose": "Catch six parachute groups on Seedfall Road for breakfast.",
+            "cue": "",
+            "objective": "Target 0 / 5 parachutes",
+            "startingWallet": 6559,
+            "pin": "breakfast:hosting:L5:0"
+          },
+          "result": {
+            "receipt": "You aimed for 5 and caught 8.\n\n6 daisy lamps on your fountain path.\n\nTotal Petals\nIncludes 45 from the Workshop and 30 from Meadow\n+166 \nRoad report\nSee my daisy lamps\nTown",
+            "action": null,
+            "hit": 8,
+            "wallet": 6741,
+            "best": 8,
+            "pin": null
+          },
+          "assisted": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "telescope",
+      "file": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "offer": "The Lookout telescope\n\nCatch 12 of 15 colours on the Aurora Bridge to bring the Bell and Lantern home.\n\nBack to Town\nPlay Aurora Bridge",
+      "attempts": [
+        {
+          "start": {
+            "id": "L28",
+            "target": null,
+            "purpose": "",
+            "cue": "",
+            "objective": "Colours 0 / 15",
+            "startingWallet": 7682,
+            "pin": null
+          },
+          "result": {
+            "receipt": "9 of 15 colours caught!\n\nThe Aurora Bridge\n\nRoad report\nTry for 10\nTown",
+            "action": "Try for 10",
+            "hit": 9,
+            "wallet": 8139,
+            "best": 9,
+            "pin": null
+          }
+        },
+        {
+          "start": {
+            "id": "L28",
+            "target": 10,
+            "purpose": "",
+            "cue": "",
+            "objective": "Target 0 / 10 colours",
+            "startingWallet": 8139,
+            "pin": null
+          },
+          "stoppedAt": "Verified the chosen target after the first touch on the result."
+        }
+      ],
+      "errors": []
+    },
+    {
+      "route": "ordinary",
+      "file": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "offer": "Hushvale Meadow · Level 5\n\nSeedfall Road\n\nSteer under each parachute before it lands. Take your new friends through the multiplier gates.\n\nTambo · Drum Call\nChange leader\nRoad options\nReplay road\nBack",
+      "attempts": [
+        {
+          "start": {
+            "id": "L5",
+            "target": null,
+            "purpose": "",
+            "cue": "",
+            "objective": "Parachutes 0 / 8",
+            "startingWallet": 7682,
+            "pin": null
+          },
+          "result": {
+            "receipt": "4 of 8 parachutes caught!\n\nSeedfall Road\n\nRoad report\nTry for 5\nTown",
+            "action": "Try for 5",
+            "hit": 4,
+            "wallet": 7791,
+            "best": 8,
+            "pin": null
+          }
+        },
+        {
+          "start": {
+            "id": "L5",
+            "target": 5,
+            "purpose": "",
+            "cue": "",
+            "objective": "Target 0 / 5 parachutes",
+            "startingWallet": 7791,
+            "pin": null
+          },
+          "stoppedAt": "Verified the chosen target after the first touch on the result."
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "fixture": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+  "started": "2026-11-27T15:21:39.757Z",
+  "ended": "2026-11-27T15:21:53.057Z",
+  "viewport": {
+    "width": 568,
+    "height": 320
+  },
+  "keyboard": false,
+  "still": true,
+  "checks": [
+    {
+      "before": {
+        "wallet": 8135,
+        "setting": "town:bakery-table:yuzu:cart",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:yuzu:L9"
+      },
+      "accessible": "Visit Mochi’s table with the cart riders",
+      "entry": ".town-project",
+      "primaryText": "Visit Mochi’s table\nA cart rider carries the buns",
+      "first": "Mochi’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Mochi can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town",
+      "helped": "Mochi’s table\n\nThe rider brings the basket along the cloth. Mochi takes the first bun.\n\nSeat the raincoats\nMake room for the cart\nPass it back\nGo out together\nShare buns\nBack to Town",
+      "changed": {
+        "wallet": 8135,
+        "setting": "town:bakery-table:yuzu:hood",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:yuzu:L9"
+      },
+      "afterRealReopen": {
+        "wallet": 8135,
+        "setting": "town:bakery-table:yuzu:hood",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:yuzu:L9"
+      },
+      "layout": {
+        "panel": [
+          317,
+          19,
+          244,
+          283
+        ],
+        "overflow": false,
+        "headingHit": true,
+        "sceneStill": true,
+        "applicationReducedMotion": true,
+        "settings": {
+          "sfx": false,
+          "music": false,
+          "reducedMotion": true,
+          "hints": true,
+          "quality": "auto",
+          "analytics": true
+        },
+        "title": "Mochi’s table"
+      },
+      "inputs": [
+        "[data-act=later]:visible",
+        ".corner-gear",
+        ".sheet [data-k=\"reducedMotion\"]",
+        ".sheet [data-k=\"sfx\"]",
+        ".sheet [data-k=\"music\"]",
+        ".sheet [data-act=close]",
+        "[data-act=later]:visible",
+        ".town-project",
+        "[data-moment=help-table]",
+        "[data-moment=set-hood]",
+        "[data-moment=close]",
+        "[data-act=later]:visible",
+        "[data-key=bun-basket]"
+      ]
+    }
+  ]
+}

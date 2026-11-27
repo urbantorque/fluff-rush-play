@@ -1,0 +1,9 @@
+{
+  "revision": "60efc4c43052d9d0e1f03ab17809b9ac21506c07",
+  "edition": "web",
+  "sha256": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+  "files": 65,
+  "entry": "assets/index-DvPkCHqF.js",
+  "reproducedReleaseArchive": "e4e26f919ce9cdcdadbcbb344f39975bfd1f6a7ab602bbb5fc4fef6df0834168",
+  "method": "Tree SHA-256 feeds each relative path, NUL byte, then raw file bytes in sorted directory walk. All archived per-file SHA-256 values were compared to the new production build."
+}

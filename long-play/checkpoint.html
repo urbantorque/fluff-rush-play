@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Visit the furnished Town · Fluff Rush</title>
+  <style>
+    *{box-sizing:border-box}body{background:#fbf7ef;color:#382e33;font:17px/1.55 system-ui,sans-serif;margin:0}
+    main{max-width:620px;padding:28px 22px;margin:9vh auto}h1{font:600 clamp(36px,7vw,60px)/1.08 Georgia,serif;margin:0 0 22px}
+    button{background:#773f53;color:#fff9ee;border:0;border-radius:9px;padding:13px 20px;font:700 16px system-ui;cursor:pointer}
+    a{color:#783e50}button:focus-visible,a:focus-visible{outline:3px solid #a76736;outline-offset:4px}
+  </style>
+</head>
+<body><main>
+  <h1>Visit the furnished Town</h1>
+  <p id="description">The Bakery and Band Stand are open. This playable checkpoint comes from an earned save. Touch the Bakery basket to visit the table, or visit the Band Stand in the Square.</p>
+  <p><button type="button" id="enter">Open the earned save</button></p>
+  <p id="status" role="status">This furnished Town keeps your review visits in their own save slot.</p>
+  <p><a id="opening" href="../">Play from the beginning</a> · <a id="report" href="release.html">Release judgement</a></p>
+</main>
+<script>
+  const enter=document.getElementById('enter'),statusLine=document.getElementById('status');
+  const local=location.origin==='http://127.0.0.1:4312';
+  const key=(local?'':'fluff-rush.review.435713e9430f.town.')+'fuzzbud.save.v1';
+  if(local){
+    document.getElementById('opening').href='http://127.0.0.1:4311/';
+    document.getElementById('report').href='http://127.0.0.1:4310/release.html';
+  }
+  if(location.protocol==='file:'){
+    location.replace('https://urbantorque.github.io/fluff-rush-play/long-play/checkpoint.html');
+  }else if(location.origin==='http://127.0.0.1:4310'){
+    location.replace('http://127.0.0.1:4312/checkpoint.html');
+  }else{
+    if(localStorage.getItem(key)){
+      enter.textContent='Continue this save';
+      document.getElementById('description').textContent='Your last visit is saved here. The Square opens where you left it.';
+    }
+    enter.onclick=async()=>{
+      enter.disabled=true;
+      try{
+        if(!localStorage.getItem(key)){
+          const response=await fetch(local?'earned.json':'evidence/review-save.json');
+          if(!response.ok)throw Error('The review save could not be loaded.');
+          const save=await response.json();
+          if(!save.d?.levels?.L30?.stars||!save.d.buildings?.bakery||!save.d.buildings?.band)throw Error('The review save could not be verified.');
+          if(!localStorage.getItem(key))localStorage.setItem(key,JSON.stringify(save));
+        }
+        location.assign(local?'./?town':'game/play.html?town');
+      }catch(error){statusLine.textContent=error.message;enter.disabled=false;}
+    };
+  }
+</script></body></html>

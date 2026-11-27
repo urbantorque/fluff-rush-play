@@ -1,0 +1,45 @@
+{
+  "method": "The same partially furnished save has a pending cart at the Bakery and the fountain’s real raincoat-trio invitation. Tested the explicit letter, a genuine close/reopen to the saved map card, and explicit departure from the table.",
+  "file": ".tmp/long-play/table9-story-with-table/L5-save.json",
+  "rows": [
+    {
+      "intent": "Play from the fountain letter",
+      "invitation": "Invite the raincoat trio\n\nHold left until the last yellow hood reaches the awning.\n\nReplay Drizzle Dell\nKeep this outing",
+      "cue": "Hold left until the last yellow hood reaches the awning.",
+      "wallet": 722,
+      "table": "town:bakery-table:matcha:cart",
+      "picnic": "town:picnic-plan:hoods"
+    },
+    {
+      "intent": "Saved fountain outing from its regular road card after reopening",
+      "card": "Hushvale Meadow · Level 4\n\nDrizzle Dell\n\nInvite the raincoat trio. Hold left until the last yellow hood reaches the awning.\n\nTambo · Drum Call\nChange leader\nRoad options\nStart with Clover\nBack",
+      "cue": "Hold left until the last yellow hood reaches the awning.",
+      "wallet": 722,
+      "table": "town:bakery-table:matcha:cart",
+      "picnic": "town:picnic-plan:hoods"
+    },
+    {
+      "intent": "Took the cart while pursuing the fountain invitation. Both the earned seat and the pending invitation survive.",
+      "receipt": "792 friends home!\n\nDrizzle Dell\n\nHold left until the last yellow hood reaches the awning. Last time, your back row reached shelter.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 8 from Runaway\n+34 \nRoad report\n\nOn the breakfast cloth: a basket of pears · +18 Petals\n\nView Bakery\nUpgrade cost · 140 Petals\nNext road\nReplay Drizzle Dell",
+      "wallet": 792,
+      "group": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 8,
+        "dryCalls": 0
+      },
+      "party": true,
+      "picnic": "town:picnic-plan:hoods"
+    },
+    {
+      "intent": "Choose the cart explicitly at the Bakery on the same save",
+      "cue": "Meet the red cart on the right, past the shower.",
+      "wallet": 792,
+      "table": "town:bakery-table:matcha:cart",
+      "picnic": "town:picnic-plan:hoods"
+    }
+  ],
+  "errors": []
+}

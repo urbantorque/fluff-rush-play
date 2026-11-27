@@ -1,0 +1,26 @@
+{
+  "profile": "docs/Fluff-Rush-long-play/evidence/weekly-pinned.json",
+  "method": "Followed the named host from the fountain, missed on the full road, selected Town on the result, closed the real tab, reopened the same save on the map and chose the named road. Native input and normal time.",
+  "before": {
+    "money": 6312,
+    "pin": "breakfast:hosting:L5:0",
+    "mark": 5,
+    "plays": 11
+  },
+  "receipt": "4 parachutes this time. You were aiming for 6.\n\nSeedfall Road\n\nRoad report\nTry for 6 again\nTown",
+  "after": {
+    "money": 6421,
+    "pin": "breakfast:hosting:L5:0",
+    "mark": 5,
+    "plays": 11
+  },
+  "card": "Hushvale Meadow · Level 5\n\nSeedfall Road\n\nCatch six parachute groups on Seedfall Road for breakfast.\n\nSuki · Treat Toss\nChange leader\nRoad options\nReplay road\nBack",
+  "reopened": {
+    "money": 6421,
+    "pin": "breakfast:hosting:L5:0",
+    "mark": 5,
+    "plays": 11
+  },
+  "target": 6,
+  "errors": []
+}

@@ -1,0 +1,32 @@
+{
+  "method": "Normal-time early Drizzle miss, real optional guest practice, one deliberate final drag in each direction and ordinary stationary touches on Parade map. Separate original save per direction.",
+  "file": "docs/Fluff-Rush-long-play/evidence/blank-stop.json",
+  "rows": [
+    {
+      "sign": -1,
+      "text": "Shelter the back row\n\nYour back row reached the awning. Three friends stepped out!\n\nBring them home on Drizzle Dell to set their place in Town.\n\nReplay Drizzle Dell\nPractise again\nParade map",
+      "wallet": 549,
+      "attempts": [
+        {
+          "attempt": 1,
+          "stillOnResult": false
+        }
+      ],
+      "final": "Welcome back!\n\nYour friends saved these for you.\n\n20\nPetals\nCollect 20 Petals\nLater",
+      "errors": []
+    },
+    {
+      "sign": 1,
+      "text": "Shelter the back row\n\nYour back row reached the awning. Three friends stepped out!\n\nBring them home on Drizzle Dell to set their place in Town.\n\nReplay Drizzle Dell\nPractise again\nParade map",
+      "wallet": 549,
+      "attempts": [
+        {
+          "attempt": 1,
+          "stillOnResult": false
+        }
+      ],
+      "final": "Welcome back!\n\nYour friends saved these for you.\n\n20\nPetals\nCollect 20 Petals\nLater",
+      "errors": []
+    }
+  ]
+}

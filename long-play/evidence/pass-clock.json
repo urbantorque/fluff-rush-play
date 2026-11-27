@@ -1,0 +1,44 @@
+{
+  "method": "Wall time starts at the first deliberate input on the untouched web edition. These are the scheduled work blocks. The assessment ledger and visit journals separately measure actual player time, natural exits and diagnostic work.",
+  "firstInput": "2026-11-27T12:28:36.072Z",
+  "observedThrough": "2026-11-27T18:28:43.398Z",
+  "elapsedWallSeconds": 21607.326,
+  "complete": true,
+  "blocks": [
+    {
+      "activity": "Repetition assessment",
+      "from": "2026-11-27T12:28:36.072Z",
+      "until": "2026-11-27T14:28:36.072Z"
+    },
+    {
+      "activity": "Bakery table",
+      "from": "2026-11-27T14:28:36.072Z",
+      "until": "2026-11-27T15:33:36.072Z"
+    },
+    {
+      "activity": "Band Stand",
+      "from": "2026-11-27T15:33:36.072Z",
+      "until": "2026-11-27T16:23:36.072Z"
+    },
+    {
+      "activity": "Petals and selected goals",
+      "from": "2026-11-27T16:23:36.072Z",
+      "until": "2026-11-27T16:53:36.072Z"
+    },
+    {
+      "activity": "Navigation, picture and sound",
+      "from": "2026-11-27T16:53:36.072Z",
+      "until": "2026-11-27T17:13:36.072Z"
+    },
+    {
+      "activity": "Candidate visit window",
+      "from": "2026-11-27T17:13:36.072Z",
+      "until": "2026-11-27T18:13:36.072Z"
+    },
+    {
+      "activity": "Release judgement",
+      "from": "2026-11-27T18:13:36.072Z",
+      "until": "2026-11-27T18:28:36.072Z"
+    }
+  ]
+}

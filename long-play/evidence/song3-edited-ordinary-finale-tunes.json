@@ -1,0 +1,38 @@
+{
+  "method": "Each fixture was composed on the original Lookout controls. Native touch through normal Sleepy Signs. Sampled the ordinary tree finale and actual Web Audio oscillator pitches at the corresponding moments. No audition or direct sound triggering.",
+  "rows": [
+    {
+      "song": "201",
+      "file": ".tmp/long-play/song-first-play/actual-chosen-201-save.json",
+      "started": "2026-11-27T15:41:43.532Z",
+      "ended": "2026-11-27T15:42:15.346Z",
+      "notes": [
+        2,
+        0,
+        1
+      ],
+      "steps": [
+        {
+          "index": 0,
+          "expectedHz": 783.991,
+          "observedHz": 783.9908719634985,
+          "wall": 28.490899999976158
+        },
+        {
+          "index": 1,
+          "expectedHz": 523.251,
+          "observedHz": 523.2511306011972,
+          "wall": 28.739399999976158
+        },
+        {
+          "index": 2,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 28.972100000023843
+        }
+      ],
+      "stars": 1,
+      "errors": []
+    }
+  ]
+}

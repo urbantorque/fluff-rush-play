@@ -1,0 +1,199 @@
+{
+  "method": "Existing authored, deterministic cue checks. Tests the actual production HUD and Web Audio voice onset for the +750 gate and Tambo response, plus short-landscape Seedfall using timed pointer events and the production steering handler. The timed drum check clicks the production ability button on a chosen update. Test probes are separate from player evidence.",
+  "records": [
+    {
+      "name": "drum-before",
+      "status": 0,
+      "signal": null,
+      "gate": {
+        "type": "gate",
+        "game": 25.74999999999918,
+        "index": 8,
+        "op": "+",
+        "value": 750,
+        "tutorial": false,
+        "clock": 1795787144.1933
+      },
+      "answer": null,
+      "voices": [],
+      "errors": []
+    },
+    {
+      "name": "drum-answer",
+      "status": 0,
+      "signal": null,
+      "gate": {
+        "type": "gate",
+        "game": 25.74999999999918,
+        "index": 9,
+        "op": "+",
+        "value": 750,
+        "tutorial": false,
+        "clock": 1795787184.8257
+      },
+      "answer": {
+        "type": "answer",
+        "game": 25.72499999999918,
+        "index": 8,
+        "friends": 1,
+        "clock": 1795787184.8013
+      },
+      "voices": [
+        {
+          "hz": 758.714139371736,
+          "begin": 31.055666666666667,
+          "end": 31.195666666666668
+        },
+        {
+          "hz": 587.3295358348151,
+          "begin": 31.2715,
+          "end": 31.4065
+        },
+        {
+          "hz": 2349.3181433392606,
+          "begin": 31.2715,
+          "end": 31.343500000000002
+        },
+        {
+          "hz": 783.9908719634985,
+          "begin": 31.401500000000002,
+          "end": 31.5465
+        },
+        {
+          "hz": 3135.963487853994,
+          "begin": 31.401500000000002,
+          "end": 31.477500000000003
+        }
+      ],
+      "errors": []
+    },
+    {
+      "name": "seed-landscape",
+      "status": 0,
+      "signal": null,
+      "evidence": {
+        "trial": 0.45,
+        "anchor": {
+          "game": 7.200000000000148,
+          "clock": 1795787200.0093
+        },
+        "times": {
+          "start": 1795787200.0121999,
+          "end": 1795787216.6592
+        },
+        "swing": {
+          "why": "Move to passenger",
+          "game": 11.008333333333349,
+          "clock": 1795787203.8163002,
+          "x": 6.29509742113488e-16,
+          "target": 100
+        },
+        "actualDelay": -0.04999999999999716,
+        "window": 0.5583333333333016,
+        "pilot": 6,
+        "passenger": true,
+        "nextOrdinary": true,
+        "total": 8,
+        "gate": 0,
+        "fork": 1,
+        "end": {
+          "marks": {
+            "drop0": {
+              "t": 0.09166666666666666,
+              "hit": 0,
+              "x": 0
+            },
+            "drop1": {
+              "t": 6.500000000000113,
+              "hit": 1,
+              "x": -6.635028157304678e-12
+            },
+            "drop2": {
+              "t": 7.31666666666682,
+              "hit": 2,
+              "x": -99.99999972015046
+            },
+            "drop3": {
+              "t": 8.141666666666845,
+              "hit": 3,
+              "x": -2.237765172993749e-7
+            },
+            "drop4": {
+              "t": 8.958333333333465,
+              "hit": 4,
+              "x": 99.99999972015046
+            },
+            "drop5": {
+              "t": 9.458333333333437,
+              "hit": 5,
+              "x": 99.99999999999962
+            },
+            "drop6": {
+              "t": 10.541666666666709,
+              "hit": 6,
+              "x": 2.100909352912053e-10
+            },
+            "held": true,
+            "accent": {
+              "game": 10.550000000000042,
+              "clock": 1795787203.3534,
+              "y": 152.51671549780644
+            },
+            "both": 11.058333333333346,
+            "bothClock": 1795787203.8674,
+            "drop7": {
+              "t": 11.616666666666648,
+              "hit": 7,
+              "x": 99.99911533087426
+            },
+            "drop8": {
+              "t": 12.4416666666666,
+              "hit": 8,
+              "x": 0.000051236679754220504
+            },
+            "gateClock": 1795787215.7428
+          },
+          "state": {
+            "i": 8,
+            "hit": 8,
+            "t": 23.83333333333262,
+            "tx": 84.99999999999994,
+            "x": 84.99999999999991,
+            "scale": 0.4266666666666667,
+            "out": 100,
+            "centre": 0,
+            "both": true,
+            "fork": 1,
+            "gate": 0,
+            "crowd": 756,
+            "whistles": 0
+          },
+          "input": [
+            {
+              "why": "Move to passenger",
+              "game": 11.008333333333349,
+              "clock": 1795787203.8163002,
+              "x": 6.29509742113488e-16,
+              "target": 100
+            },
+            {
+              "why": "Return to ordinary landing",
+              "game": 11.724999999999975,
+              "clock": 1795787204.5356998,
+              "x": 99.99994876331999,
+              "target": 0
+            },
+            {
+              "why": "Choose Wall Path",
+              "game": 12.4416666666666,
+              "clock": 1795787205.2555,
+              "x": 0.000051236679754220504,
+              "target": 85
+            }
+          ]
+        },
+        "errors": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "method": "Opened the served local gallery in a fresh Chromium window, sought both recordings to their named last decision, played at one normal speed with only the original soundtrack selected, and paused both films. Sampled six pairs over real HTTP.",
+  "rows": [
+    {
+      "name": "Eight cart riders",
+      "decision": "Back home",
+      "pair": [
+        {
+          "source": "http://127.0.0.1:4310/clips/play-control-cart-home.webm",
+          "progress": 18.170049,
+          "rate": 1,
+          "muted": false,
+          "playing": true
+        },
+        {
+          "source": "http://127.0.0.1:4310/clips/play-candidate-cart-home.webm",
+          "progress": 16.302457,
+          "rate": 1,
+          "muted": true,
+          "playing": true
+        }
+      ]
+    },
+    {
+      "name": "Three yellow hoods",
+      "decision": "Back home",
+      "pair": [
+        {
+          "source": "http://127.0.0.1:4310/clips/play-control-hood-home.webm",
+          "progress": 18.331723,
+          "rate": 1,
+          "muted": false,
+          "playing": true
+        },
+        {
+          "source": "http://127.0.0.1:4310/clips/play-candidate-hood-home.webm",
+          "progress": 16.376787,
+          "rate": 1,
+          "muted": true,
+          "playing": true
+        }
+      ]
+    },
+    {
+      "name": "Six catches for breakfast",
+      "decision": "The chosen retry",
+      "pair": [
+        {
+          "source": "http://127.0.0.1:4310/clips/play-control-goal-breakfast.webm",
+          "progress": 8.828313,
+          "rate": 1,
+          "muted": false,
+          "playing": true
+        },
+        {
+          "source": "http://127.0.0.1:4310/clips/play-candidate-goal-breakfast.webm",
+          "progress": 8.835494,
+          "rate": 1,
+          "muted": true,
+          "playing": true
+        }
+      ]
+    },
+    {
+      "name": "The first Bakery",
+      "decision": "Choose a bun friend",
+      "pair": [
+        {
+          "source": "http://127.0.0.1:4310/clips/play-control-town.webm",
+          "progress": 6.875778,
+          "rate": 1,
+          "muted": false,
+          "playing": true
+        },
+        {
+          "source": "http://127.0.0.1:4310/clips/play-candidate-town.webm",
+          "progress": 6.913032,
+          "rate": 1,
+          "muted": true,
+          "playing": true
+        }
+      ]
+    },
+    {
+      "name": "Fig on the first clear",
+      "decision": "Berry is ready",
+      "pair": [
+        {
+          "source": "http://127.0.0.1:4310/clips/play-control-fig-first-opening.webm",
+          "progress": 26.358335,
+          "rate": 1,
+          "muted": false,
+          "playing": true
+        },
+        {
+          "source": "http://127.0.0.1:4310/clips/play-candidate-fig-first-opening.webm",
+          "progress": 26.393699,
+          "rate": 1,
+          "muted": true,
+          "playing": true
+        }
+      ]
+    },
+    {
+      "name": "Rose, Mint, Rose",
+      "decision": "At the stand",
+      "pair": [
+        {
+          "source": "http://127.0.0.1:4310/clips/play-control-compose-020.webm",
+          "progress": 5.342115,
+          "rate": 1,
+          "muted": false,
+          "playing": true
+        },
+        {
+          "source": "http://127.0.0.1:4310/clips/play-candidate-compose-020.webm",
+          "progress": 5.374664,
+          "rate": 1,
+          "muted": true,
+          "playing": true
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

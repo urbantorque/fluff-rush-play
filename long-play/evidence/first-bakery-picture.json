@@ -1,0 +1,17 @@
+{
+  "method": "Two source movie frames, each 0.6 seconds after the same first actionable Bakery decision, at native capture size. The metrics describe these particular compressed frames with the game animation running.",
+  "frames": [
+    {
+      "edition": "control",
+      "source": "clips/play-control-town.webm",
+      "time": 7.178
+    },
+    {
+      "edition": "candidate",
+      "source": "clips/play-candidate-town.webm",
+      "time": 7.196
+    }
+  ],
+  "meanAbsoluteRgb": 3.4,
+  "withinThreeMeanRgbPercent": 81.53
+}

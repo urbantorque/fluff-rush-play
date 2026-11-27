@@ -1,0 +1,97 @@
+{
+  "method": "Normal clock, native touch and normal Town entry. Save comparisons span the result or genuine tab close/reopen.",
+  "rows": [
+    {
+      "intent": "No Band Stand",
+      "file": "docs/Fluff-Rush-long-play/evidence/blank-stop.json",
+      "synthetic": false,
+      "method": "Unmodified earned save and ordinary controls.",
+      "wallet": 497,
+      "after": 497,
+      "sheet": "Band Stand · Upgrade 1 of 2\n\nBuild Tambo’s Band Stand\nNow\nAfter upgrade\n\nBeat your best star count on a road and Tambo gives you 20 extra Petals.\n\nCost 180 Petals\nYou have 497\nVisit or choose a place\nBuild for 180 Petals\nBack",
+      "story": [
+        "The normal restoration remains available. No chime or rehearsal invitation."
+      ],
+      "errors": []
+    },
+    {
+      "intent": "First-stage stand, no Lookout",
+      "file": "docs/Fluff-Rush-long-play/evidence/blank-branch-band.json",
+      "synthetic": false,
+      "method": "Unmodified earned save and ordinary controls.",
+      "wallet": 317,
+      "after": 317,
+      "sheet": "Band Stand · Upgrade 2 of 2\n\nRaise the music pavilion\nNow\nAfter upgrade\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nCost 160 Petals\nYou have 317\nVisit or choose a place\nUpgrade for 160 Petals\nBack",
+      "story": [
+        "The normal restoration remains available. No chime or rehearsal invitation."
+      ],
+      "errors": []
+    },
+    {
+      "intent": "Restored Lookout, no song",
+      "file": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "synthetic": false,
+      "method": "Unmodified earned save and ordinary controls.",
+      "wallet": 7682,
+      "after": 7682,
+      "sheet": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\nVisit or choose a place\nMake a song at the Lookout\nPlay together\nPlay a road\nBack",
+      "story": [
+        "One selection reached the real chimes. Two notes did not replace the saved song."
+      ],
+      "errors": []
+    },
+    {
+      "intent": "Older saved song, no Lookout",
+      "file": "docs/Fluff-Rush-long-play/evidence/blank-branch-band.json",
+      "synthetic": true,
+      "method": "Documented compatibility fixture from the named earned save, modified before loading.",
+      "wallet": 317,
+      "after": 317,
+      "sheet": "Band Stand · Upgrade 2 of 2\n\nRaise the music pavilion\nNow\nAfter upgrade\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nCost 160 Petals\nYou have 317\n▲ ▲ ◆\nRose left · Honey middle · Mint right\nSteer your welcome song\nVisit or choose a place\nUpgrade for 160 Petals\nBack",
+      "story": [
+        "The older three-note phrase played at the first-stage stand. The unowned Lookout stayed closed."
+      ],
+      "errors": []
+    },
+    {
+      "intent": "Pause, restart and leave",
+      "file": ".tmp/long-play/phrases/control-020.json",
+      "synthetic": false,
+      "method": "Unmodified earned save and ordinary controls.",
+      "wallet": 7682,
+      "after": 7682,
+      "sheet": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\n● ▲ ●\nRose left · Honey middle · Mint right\nVisit or choose a place\nSteer your welcome song\nHear your welcome song\nPlay a road\nBack",
+      "story": [
+        "The phrase and its note timing stopped during pause, resumed, restarted at its beginning and left for the same Band Stand."
+      ],
+      "errors": []
+    },
+    {
+      "intent": "Interrupt a rehearsal at the result",
+      "file": ".tmp/long-play/phrases/control-221.json",
+      "synthetic": false,
+      "method": "Unmodified earned save and ordinary controls.",
+      "wallet": 7682,
+      "after": 7682,
+      "sheet": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\n▲ ▲ ◆\nRose left · Honey middle · Mint right\nVisit or choose a place\nSteer your welcome song\nHear your welcome song\nPlay a road\nBack",
+      "story": [
+        "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nBack to Band Stand\nChange a note\nSteer it again",
+        "Closed on the result. Reopened at the named stand with the same saved song."
+      ],
+      "errors": []
+    },
+    {
+      "intent": "Invalid old note sequence",
+      "file": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "synthetic": true,
+      "method": "Documented compatibility fixture from the named earned save, modified before loading.",
+      "wallet": 7682,
+      "after": 7682,
+      "sheet": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\nVisit or choose a place\nMake a song at the Lookout\nPlay together\nPlay a road\nBack",
+      "story": [
+        "One selection reached the real chimes. Two notes did not replace the saved song."
+      ],
+      "errors": []
+    }
+  ]
+}

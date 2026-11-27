@@ -1,0 +1,25 @@
+{"utc":"2026-11-27T15:48:21.413Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-BQo1ypDa.js"}
+{"utc":"2026-11-27T15:48:21.579Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T15:48:34.287Z","event":"note","text":"Supplied gentle phrase on a separate copy. I want to see whether I can leave the eight Honey notes as they are, with both hands off, and whether the stand gives me somewhere to finish."}
+{"utc":"2026-11-27T15:48:34.578Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T15:48:34.627Z","event":"input","line":"button Later","ms":338}
+{"utc":"2026-11-27T15:48:34.835Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T15:48:34.925Z","event":"input","line":"choice Band Stand, restoration and visits","ms":292}
+{"utc":"2026-11-27T15:48:35.014Z","event":"input","line":"read","ms":88}
+{"utc":"2026-11-27T15:48:35.262Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T15:48:35.311Z","event":"input","line":"button Hear your welcome song","ms":297}
+{"utc":"2026-11-27T15:48:38.577Z","event":"input","line":"watch 3","ms":3265}
+{"utc":"2026-11-27T15:48:38.756Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T15:48:38.848Z","event":"input","line":"choice Band Stand, restoration and visits","ms":270}
+{"utc":"2026-11-27T15:48:39.279Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T15:48:39.342Z","event":"input","line":"button Steer your welcome song","ms":494}
+{"utc":"2026-11-27T15:48:51.613Z","event":"input","line":"watch 12","ms":12270}
+{"utc":"2026-11-27T15:48:51.680Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T15:48:52.527Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T15:49:25.945Z","event":"input","line":"buttons","ms":52}
+{"utc":"2026-11-27T15:50:00.642Z","event":"note","text":"Eight of eight without a touch. I would keep this gentle song as written and take the band home. On the spoken-status transcript the game queued Played Honey eight times; after the first hold, there was no new instruction in those announcements. I want the hold announced once and every note to remain visible and musical."}
+{"utc":"2026-11-27T15:50:00.777Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T15:50:00.845Z","event":"input","line":"button Back to Band Stand","ms":202}
+{"utc":"2026-11-27T15:50:00.930Z","event":"input","line":"read","ms":84}
+{"utc":"2026-11-27T15:50:00.964Z","event":"leave"}
+{"utc":"2026-11-27T15:50:00.966Z","event":"quit"}

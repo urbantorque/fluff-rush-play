@@ -1,0 +1,110 @@
+{
+  "method": "Native, normal-time rehearsals on six actual saved phrases made through the Lookout. Results compared to the same save at the stand. The eight-Honey phrase used mute and reduced motion. Short landscape and portrait crossings timed at the opposite lane centre.",
+  "rows": [
+    {
+      "notes": "221",
+      "length": 3,
+      "movements": 2,
+      "holds": 1,
+      "played": 3,
+      "crowd": 8,
+      "addedCrowd": 0,
+      "walletChange": 0,
+      "changed": []
+    },
+    {
+      "notes": "0012",
+      "length": 4,
+      "movements": 3,
+      "holds": 1,
+      "played": 4,
+      "crowd": 8,
+      "addedCrowd": 0,
+      "walletChange": 0,
+      "changed": []
+    },
+    {
+      "notes": "01020",
+      "length": 5,
+      "movements": 5,
+      "holds": 0,
+      "played": 5,
+      "crowd": 8,
+      "addedCrowd": 0,
+      "walletChange": 0,
+      "changed": []
+    },
+    {
+      "notes": "001220",
+      "length": 6,
+      "movements": 4,
+      "holds": 2,
+      "played": 6,
+      "crowd": 8,
+      "addedCrowd": 0,
+      "walletChange": 0,
+      "changed": []
+    },
+    {
+      "notes": "2011120",
+      "length": 7,
+      "movements": 5,
+      "holds": 2,
+      "played": 7,
+      "crowd": 8,
+      "addedCrowd": 0,
+      "walletChange": 0,
+      "changed": []
+    },
+    {
+      "notes": "11111111",
+      "length": 8,
+      "movements": 0,
+      "holds": 8,
+      "played": 8,
+      "crowd": 8,
+      "addedCrowd": 0,
+      "walletChange": 0,
+      "changed": []
+    }
+  ],
+  "wide": {
+    "portraitTouch": [
+      {
+        "note": 2,
+        "from": -99.9999976704139,
+        "target": 100,
+        "millisecondsToOppositeLaneCentre": 262,
+        "millisecondsInLaneBeforeFront": 451
+      },
+      {
+        "note": 3,
+        "from": 99.99999767041385,
+        "target": -100,
+        "millisecondsToOppositeLaneCentre": 267,
+        "millisecondsInLaneBeforeFront": 451
+      }
+    ],
+    "landscapeKeys": [
+      {
+        "note": 2,
+        "from": -95.33333333333331,
+        "target": 100,
+        "millisecondsToOppositeLaneCentre": 496,
+        "millisecondsInLaneBeforeFront": 219
+      },
+      {
+        "note": 3,
+        "from": 95.3333333333333,
+        "target": -100,
+        "millisecondsToOppositeLaneCentre": 496,
+        "millisecondsInLaneBeforeFront": 221
+      }
+    ]
+  },
+  "gentleSpeech": [
+    "Tambo plays your song. Rose left, Honey middle, Mint right.",
+    "Hold the middle for 8 Honey notes.",
+    "8 of 8 notes played."
+  ]
+}

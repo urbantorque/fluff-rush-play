@@ -1,0 +1,53 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "readingHoldSeconds": 2.2,
+  "duration": 31.02870011329651,
+  "marks": {
+    "leftBank": 1.035,
+    "boarding": 5.08,
+    "receipt": 27.747,
+    "nextDecision": 28.812
+  },
+  "frames": 1850,
+  "inputs": [
+    {
+      "dx": -290
+    },
+    {
+      "dx": 130
+    }
+  ],
+  "errors": [],
+  "method": "Normal-clock river on a real campaign checkpoint. Steer left four seconds before boarding; move 130 CSS pixels right after both parties board. No automated steering.",
+  "file": "docs/Fluff-Rush-long-play/evidence/before-river-raincoats.json",
+  "split": {
+    "left": 146,
+    "total": 161,
+    "groups": {
+      "raincoats": true,
+      "cart": true
+    }
+  },
+  "receipt": "1,985 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\nRoad report\nBack to Clover’s tableA yellow coat is drying on the chair.\nNext: Nap Cat Crossing",
+  "returned": true,
+  "after": {
+    "wallet": 1474,
+    "flags": [
+      "breakfast:guest:fig",
+      "breakfast:guest:painters",
+      "breakfast:plate:0",
+      "breakfast:guest:cart",
+      "town:bakery-table:matcha:hood",
+      "town:bun-outing:matcha:L9",
+      "town:table-welcome:hood",
+      "breakfast:guest:hood",
+      "breakfast:plate:1"
+    ]
+  },
+  "next": "Petals\n1,474\nClover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town\nParade\nTown"
+}

@@ -1,0 +1,21 @@
+{
+  "method": "Real old saves via the normal Bakery basket. Native touch. Opening the table honours only a matching completed bun outing and a specific recorded last Drizzle group.",
+  "rows": [
+    {
+      "file": "docs/Fluff-Rush-long-play/evidence/blank-stop.json",
+      "hasOuting": true,
+      "first": "Clover’s table\n\nEight riders pull up with their red cart. There’s room at the end of the cloth.\n\nSeat the raincoats\nMake room for the cart\nShare buns\nBack to Town",
+      "returned": "Clover’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Clover can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town",
+      "wallet": 497,
+      "errors": []
+    },
+    {
+      "file": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "hasOuting": false,
+      "first": "Warm buns for everyone\n\nTap a neighbour to share a bun.\n\nBerry\nClover\nMochi\nMarket lantern\nBack to Town",
+      "returned": "",
+      "wallet": 7682,
+      "errors": []
+    }
+  ]
+}

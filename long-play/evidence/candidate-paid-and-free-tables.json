@@ -1,0 +1,134 @@
+{
+  "method": "Separate furnished test. Used the occupied Bakery before and after buying, replacing and reselecting the existing Tea Umbrella Table in the ordinary Decorate panel. Actual purchase, regular controls and genuine tab closure. No rewards claimed.",
+  "fixture": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+  "before": {
+    "petals": 8135,
+    "decor": {
+      "owned": [
+        "bench",
+        "swing"
+      ],
+      "slots": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "bench",
+        "swing"
+      ]
+    },
+    "table": [
+      "town:bakery-table:yuzu:cart",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "free": {
+    "petals": 8135,
+    "decor": {
+      "owned": [
+        "bench",
+        "swing"
+      ],
+      "slots": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "bench",
+        "swing"
+      ]
+    },
+    "table": [
+      "town:bakery-table:yuzu:hood",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "price": "Tea Umbrella Table\nPlace · 1,000 Petals",
+  "bought": {
+    "petals": 7135,
+    "decor": {
+      "owned": [
+        "bench",
+        "swing",
+        "teatable"
+      ],
+      "slots": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "teatable",
+        "swing"
+      ]
+    },
+    "table": [
+      "town:bakery-table:yuzu:hood",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "afterPurchaseReload": {
+    "petals": 7135,
+    "decor": {
+      "owned": [
+        "bench",
+        "swing",
+        "teatable"
+      ],
+      "slots": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "teatable",
+        "swing"
+      ]
+    },
+    "table": [
+      "town:bakery-table:yuzu:hood",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "afterSwitch": {
+    "petals": 7135,
+    "decor": {
+      "owned": [
+        "bench",
+        "swing",
+        "teatable"
+      ],
+      "slots": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "teatable",
+        "swing"
+      ]
+    },
+    "table": [
+      "town:bakery-table:yuzu:cart",
+      "town:table-welcome:cart",
+      "town:table-welcome:hood"
+    ]
+  },
+  "replace": "Bench\nPlace bench",
+  "reselect": "Tea Umbrella Table\nPlace tea umbrella table",
+  "raincoats": "Mochi’s table\n\nThe littlest guest tucks in under the cloth. Mochi takes a sip.\n\nSeat the raincoats\nMake room for the cart\nLower the cloth\nGo out together\nShare buns\nBack to Town",
+  "restored": "Mochi’s table\n\nOne coat dries on the chair. Mochi sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+  "carts": "Mochi’s table\n\nThe rider brings the basket along the cloth. Mochi takes the first bun.\n\nSeat the raincoats\nMake room for the cart\nPass it back\nGo out together\nShare buns\nBack to Town",
+  "errors": []
+}

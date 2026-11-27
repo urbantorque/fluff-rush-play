@@ -1,0 +1,63 @@
+{
+  "fixture": "docs/Fluff-Rush-long-play/evidence/blank-stop.json",
+  "method": "Three independent simulated calendar absences on a copy of the same save. Entered Town, declined the gift and reopened the Bakery with reduced motion. This establishes state correctness only.",
+  "rows": [
+    {
+      "gap": 1,
+      "date": "2026-11-28",
+      "startingWallet": 497,
+      "unchangedWallet": 497,
+      "everOwned": 2,
+      "rememberedFlags": [
+        "town:basket:matcha",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bun-outing:matcha:L4",
+        "breakfast:guest:cart",
+        "town:bun-greeted"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Warm buns for everyone\n\nTap a neighbour to share a bun.\n\nBerry\nClover\nMochi\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 7,
+      "date": "2026-12-04",
+      "startingWallet": 497,
+      "unchangedWallet": 497,
+      "everOwned": 2,
+      "rememberedFlags": [
+        "town:basket:matcha",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bun-outing:matcha:L4",
+        "breakfast:guest:cart",
+        "town:bun-greeted"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Warm buns for everyone\n\nTap a neighbour to share a bun.\n\nBerry\nClover\nMochi\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 14,
+      "date": "2026-12-11",
+      "startingWallet": 497,
+      "unchangedWallet": 497,
+      "everOwned": 2,
+      "rememberedFlags": [
+        "town:basket:matcha",
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:painters",
+        "town:bun-outing:matcha:L4",
+        "breakfast:guest:cart",
+        "town:bun-greeted"
+      ],
+      "giftOffered": "Collect 20 Petals",
+      "place": "Warm buns for everyone\n\nTap a neighbour to share a bun.\n\nBerry\nClover\nMochi\nBack to Town",
+      "errors": []
+    }
+  ]
+}

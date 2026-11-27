@@ -1,0 +1,27 @@
+{
+  "method": "Separate assisted progression through 29 ordinary roads with an occupied table. Cleared the first Snow Giant at normal speed using expert diagnostic steering. From the real result chose Come home, accepted the cup with native touch, then revisited the Bakery.",
+  "fixture": ".tmp/long-play/table9-story-with-table/L29-save.json",
+  "before": {
+    "wallet": 6654,
+    "table": [
+      "town:bakery-table:matcha:hood",
+      "town:table-welcome:hood"
+    ],
+    "giant": false,
+    "hug": false
+  },
+  "first": "The Snow Giant is awake!\n\nThe Snow Giant's Hill\n\nRoad report\nCome home",
+  "greeting": "The Snow Giant is home\n“For your paws this time, Pip.”",
+  "reply": "The Snow Giant is home\n“You saved me a place.”",
+  "home": {
+    "wallet": 6962,
+    "table": [
+      "town:bakery-table:matcha:hood",
+      "town:table-welcome:hood"
+    ],
+    "giant": true,
+    "hug": true
+  },
+  "room": "Clover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+  "errors": []
+}

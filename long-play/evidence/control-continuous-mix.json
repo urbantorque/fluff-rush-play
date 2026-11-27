@@ -1,0 +1,1072 @@
+{
+  "events": [
+    {
+      "name": "Map",
+      "time": 0.000900000035762627
+    },
+    {
+      "name": "L14 starts",
+      "time": 0.8509000000357627
+    },
+    {
+      "name": "L14 results",
+      "time": 39.93180000001192,
+      "road": "L14",
+      "leader": "tambo",
+      "clear": true,
+      "count": 5644,
+      "rows": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "calls": 8,
+      "callTimes": [
+        {
+          "game": 0.4416666666666672,
+          "recording": 1.1941999999880788
+        },
+        {
+          "game": 2.4083333333333274,
+          "recording": 3.1598000000119213
+        },
+        {
+          "game": 5.366666666666723,
+          "recording": 6.108100000023843
+        },
+        {
+          "game": 8.166666666666844,
+          "recording": 8.91069999998808
+        },
+        {
+          "game": 13.558333333333204,
+          "recording": 14.309699999988078
+        },
+        {
+          "game": 16.36666666666638,
+          "recording": 17.108300000011923
+        },
+        {
+          "game": 25.599999999999188,
+          "recording": 26.341100000023843
+        },
+        {
+          "game": 28.40833333333236,
+          "recording": 29.158
+        }
+      ],
+      "cueTimes": [
+        {
+          "cue": "recruit contact",
+          "game": 0.442,
+          "recording": 1.193,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 0.442,
+          "recording": 1.193,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 0.442,
+          "recording": 1.193,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 0.442,
+          "recording": 1.193,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.158,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.159,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.159,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.159,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.159,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.159,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.159,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 2.408,
+          "recording": 3.159,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 5.367,
+          "recording": 6.108,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 5.367,
+          "recording": 6.108,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 5.367,
+          "recording": 6.108,
+          "drum": false
+        },
+        {
+          "cue": "gate",
+          "game": 7.8,
+          "recording": 8.543,
+          "op": "+",
+          "value": 78
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.909,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 8.167,
+          "recording": 8.91,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 13.558,
+          "recording": 14.308,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 13.558,
+          "recording": 14.308,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 13.558,
+          "recording": 14.308,
+          "drum": false
+        },
+        {
+          "cue": "gate",
+          "game": 15.95,
+          "recording": 16.692,
+          "op": "+",
+          "value": 220
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 16.367,
+          "recording": 17.108,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 25.6,
+          "recording": 26.341,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 25.6,
+          "recording": 26.341,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 25.6,
+          "recording": 26.341,
+          "drum": false
+        },
+        {
+          "cue": "gate",
+          "game": 25.75,
+          "recording": 26.491,
+          "op": "+",
+          "value": 750
+        },
+        {
+          "cue": "gate",
+          "game": 27.95,
+          "recording": 28.691,
+          "op": "x",
+          "value": 3
+        },
+        {
+          "cue": "recruit contact",
+          "game": 28.408,
+          "recording": 29.158,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 28.408,
+          "recording": 29.158,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 28.408,
+          "recording": 29.158,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 28.408,
+          "recording": 29.158,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 28.408,
+          "recording": 29.158,
+          "drum": true
+        },
+        {
+          "cue": "recruit contact",
+          "game": 28.408,
+          "recording": 29.158,
+          "drum": false
+        },
+        {
+          "cue": "recruit contact",
+          "game": 28.408,
+          "recording": 29.158,
+          "drum": false
+        }
+      ]
+    },
+    {
+      "name": "L21 starts",
+      "time": 41.855
+    },
+    {
+      "name": "L21 results",
+      "time": 70.33380000001192,
+      "road": "L21",
+      "leader": "tambo",
+      "clear": true,
+      "count": 9153,
+      "booths": 12,
+      "rows": [
+        0,
+        0,
+        0
+      ],
+      "calls": 0,
+      "callTimes": [],
+      "cueTimes": [
+        {
+          "cue": "gate",
+          "game": 3.6,
+          "recording": 45.375,
+          "op": "+",
+          "value": 50
+        },
+        {
+          "cue": "booth lit",
+          "game": 6.7,
+          "recording": 48.475,
+          "booth": 1,
+          "chain": 0
+        },
+        {
+          "cue": "booth lit",
+          "game": 7.317,
+          "recording": 49.091,
+          "booth": 2,
+          "chain": 1
+        },
+        {
+          "cue": "booth lit",
+          "game": 7.942,
+          "recording": 49.724,
+          "booth": 3,
+          "chain": 2
+        },
+        {
+          "cue": "booth lit",
+          "game": 8.558,
+          "recording": 50.34,
+          "booth": 4,
+          "chain": 3
+        },
+        {
+          "cue": "booth lit",
+          "game": 9.183,
+          "recording": 50.957,
+          "booth": 5,
+          "chain": 4
+        },
+        {
+          "cue": "booth lit",
+          "game": 9.8,
+          "recording": 51.573,
+          "booth": 6,
+          "chain": 5
+        },
+        {
+          "cue": "gate",
+          "game": 12,
+          "recording": 53.774,
+          "op": "x",
+          "value": 3
+        },
+        {
+          "cue": "booth lit",
+          "game": 16.167,
+          "recording": 57.939,
+          "booth": 1,
+          "chain": 0
+        },
+        {
+          "cue": "booth lit",
+          "game": 16.867,
+          "recording": 58.639,
+          "booth": 2,
+          "chain": 1
+        },
+        {
+          "cue": "booth lit",
+          "game": 17.567,
+          "recording": 59.347,
+          "booth": 3,
+          "chain": 2
+        },
+        {
+          "cue": "booth lit",
+          "game": 17.967,
+          "recording": 59.739,
+          "booth": 4,
+          "chain": 3
+        },
+        {
+          "cue": "booth lit",
+          "game": 18.667,
+          "recording": 60.439,
+          "booth": 5,
+          "chain": 4
+        },
+        {
+          "cue": "booth lit",
+          "game": 19.367,
+          "recording": 61.139,
+          "booth": 6,
+          "chain": 5
+        },
+        {
+          "cue": "gate",
+          "game": 21.567,
+          "recording": 63.34,
+          "op": "x",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Town Square settles",
+      "time": 70.619
+    },
+    {
+      "name": "End of quiet Town sample",
+      "time": 90.63630000001191
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "duration": 90.6,
+    "sampleRate": 48000,
+    "channels": 2,
+    "windows": [
+      {
+        "sec": 0,
+        "peak": 0.1207275390625,
+        "rms": 0.013275804868455176,
+        "nearClip": 0
+      },
+      {
+        "sec": 1,
+        "peak": 0.20123291015625,
+        "rms": 0.027391550838528986,
+        "nearClip": 0
+      },
+      {
+        "sec": 2,
+        "peak": 0.095828115940094,
+        "rms": 0.02102095308998241,
+        "nearClip": 0
+      },
+      {
+        "sec": 3,
+        "peak": 0.17584228515625,
+        "rms": 0.031266812647455886,
+        "nearClip": 0
+      },
+      {
+        "sec": 4,
+        "peak": 0.090789794921875,
+        "rms": 0.01844303373564594,
+        "nearClip": 0
+      },
+      {
+        "sec": 5,
+        "peak": 0.07806396484375,
+        "rms": 0.01964122677376003,
+        "nearClip": 0
+      },
+      {
+        "sec": 6,
+        "peak": 0.20770896971225739,
+        "rms": 0.038130823657206825,
+        "nearClip": 0
+      },
+      {
+        "sec": 7,
+        "peak": 0.10434278100728989,
+        "rms": 0.018952876996716408,
+        "nearClip": 0
+      },
+      {
+        "sec": 8,
+        "peak": 0.20819091796875,
+        "rms": 0.028830534168797328,
+        "nearClip": 0
+      },
+      {
+        "sec": 9,
+        "peak": 0.1846923828125,
+        "rms": 0.025476982205787604,
+        "nearClip": 0
+      },
+      {
+        "sec": 10,
+        "peak": 0.079864501953125,
+        "rms": 0.01888877098789207,
+        "nearClip": 0
+      },
+      {
+        "sec": 11,
+        "peak": 0.10141300410032272,
+        "rms": 0.016072153762965214,
+        "nearClip": 0
+      },
+      {
+        "sec": 12,
+        "peak": 0.255401611328125,
+        "rms": 0.029033328535539107,
+        "nearClip": 0
+      },
+      {
+        "sec": 13,
+        "peak": 0.06848353147506714,
+        "rms": 0.013913716220818747,
+        "nearClip": 0
+      },
+      {
+        "sec": 14,
+        "peak": 0.16802978515625,
+        "rms": 0.026117075003889132,
+        "nearClip": 0
+      },
+      {
+        "sec": 15,
+        "peak": 0.09857478737831116,
+        "rms": 0.01934110516891494,
+        "nearClip": 0
+      },
+      {
+        "sec": 16,
+        "peak": 0.2143314927816391,
+        "rms": 0.02744763218929937,
+        "nearClip": 0
+      },
+      {
+        "sec": 17,
+        "peak": 0.188507080078125,
+        "rms": 0.028685901723952443,
+        "nearClip": 0
+      },
+      {
+        "sec": 18,
+        "peak": 0.09976501017808914,
+        "rms": 0.019812030393009796,
+        "nearClip": 0
+      },
+      {
+        "sec": 19,
+        "peak": 0.08471938222646713,
+        "rms": 0.017590200709471853,
+        "nearClip": 0
+      },
+      {
+        "sec": 20,
+        "peak": 0.2298348993062973,
+        "rms": 0.028190488072053148,
+        "nearClip": 0
+      },
+      {
+        "sec": 21,
+        "peak": 0.09820856153964996,
+        "rms": 0.01986624224339012,
+        "nearClip": 0
+      },
+      {
+        "sec": 22,
+        "peak": 0.09271523356437683,
+        "rms": 0.017292450051683447,
+        "nearClip": 0
+      },
+      {
+        "sec": 23,
+        "peak": 0.14737388491630554,
+        "rms": 0.017145674713448075,
+        "nearClip": 0
+      },
+      {
+        "sec": 24,
+        "peak": 0.09845270961523056,
+        "rms": 0.01721933935527358,
+        "nearClip": 0
+      },
+      {
+        "sec": 25,
+        "peak": 0.1106601133942604,
+        "rms": 0.017552279102239367,
+        "nearClip": 0
+      },
+      {
+        "sec": 26,
+        "peak": 0.24188970029354095,
+        "rms": 0.033040618576692875,
+        "nearClip": 0
+      },
+      {
+        "sec": 27,
+        "peak": 0.07678456604480743,
+        "rms": 0.012839417724173378,
+        "nearClip": 0
+      },
+      {
+        "sec": 28,
+        "peak": 0.33640551567077637,
+        "rms": 0.04012531243509655,
+        "nearClip": 0
+      },
+      {
+        "sec": 29,
+        "peak": 0.18524169921875,
+        "rms": 0.030856838045047894,
+        "nearClip": 0
+      },
+      {
+        "sec": 30,
+        "peak": 0.081268310546875,
+        "rms": 0.01892134545160413,
+        "nearClip": 0
+      },
+      {
+        "sec": 31,
+        "peak": 0.0936279296875,
+        "rms": 0.019923096942295864,
+        "nearClip": 0
+      },
+      {
+        "sec": 32,
+        "peak": 0.09421063959598541,
+        "rms": 0.018833546886917758,
+        "nearClip": 0
+      },
+      {
+        "sec": 33,
+        "peak": 0.09490966796875,
+        "rms": 0.020545704633375468,
+        "nearClip": 0
+      },
+      {
+        "sec": 34,
+        "peak": 0.2775963544845581,
+        "rms": 0.04139755094355759,
+        "nearClip": 0
+      },
+      {
+        "sec": 35,
+        "peak": 0.166656494140625,
+        "rms": 0.02753171818301399,
+        "nearClip": 0
+      },
+      {
+        "sec": 36,
+        "peak": 0.39886474609375,
+        "rms": 0.05661541381990155,
+        "nearClip": 0
+      },
+      {
+        "sec": 37,
+        "peak": 0.098785400390625,
+        "rms": 0.01557037657772163,
+        "nearClip": 0
+      },
+      {
+        "sec": 38,
+        "peak": 0.44781494140625,
+        "rms": 0.06827528576392293,
+        "nearClip": 0
+      },
+      {
+        "sec": 39,
+        "peak": 0.31379130482673645,
+        "rms": 0.04572150708768307,
+        "nearClip": 0
+      },
+      {
+        "sec": 40,
+        "peak": 0.279937744140625,
+        "rms": 0.031002365233485582,
+        "nearClip": 0
+      },
+      {
+        "sec": 41,
+        "peak": 0.126224547624588,
+        "rms": 0.01612117549898681,
+        "nearClip": 0
+      },
+      {
+        "sec": 42,
+        "peak": 0.07071138918399811,
+        "rms": 0.015980947101111854,
+        "nearClip": 0
+      },
+      {
+        "sec": 43,
+        "peak": 0.0795617550611496,
+        "rms": 0.017468274518544158,
+        "nearClip": 0
+      },
+      {
+        "sec": 44,
+        "peak": 0.10129093378782272,
+        "rms": 0.019705610593263357,
+        "nearClip": 0
+      },
+      {
+        "sec": 45,
+        "peak": 0.186920166015625,
+        "rms": 0.030872273570772813,
+        "nearClip": 0
+      },
+      {
+        "sec": 46,
+        "peak": 0.1265602558851242,
+        "rms": 0.021942999174876503,
+        "nearClip": 0
+      },
+      {
+        "sec": 47,
+        "peak": 0.130157470703125,
+        "rms": 0.024931343105477555,
+        "nearClip": 0
+      },
+      {
+        "sec": 48,
+        "peak": 0.19293801486492157,
+        "rms": 0.028340751676466193,
+        "nearClip": 0
+      },
+      {
+        "sec": 49,
+        "peak": 0.162933349609375,
+        "rms": 0.02784712364986529,
+        "nearClip": 0
+      },
+      {
+        "sec": 50,
+        "peak": 0.15081787109375,
+        "rms": 0.017671087670611322,
+        "nearClip": 0
+      },
+      {
+        "sec": 51,
+        "peak": 0.17404705286026,
+        "rms": 0.028165818088826025,
+        "nearClip": 0
+      },
+      {
+        "sec": 52,
+        "peak": 0.21829889714717865,
+        "rms": 0.03480132128627784,
+        "nearClip": 0
+      },
+      {
+        "sec": 53,
+        "peak": 0.35496076941490173,
+        "rms": 0.05430678041605443,
+        "nearClip": 0
+      },
+      {
+        "sec": 54,
+        "peak": 0.19903564453125,
+        "rms": 0.03442787776653175,
+        "nearClip": 0
+      },
+      {
+        "sec": 55,
+        "peak": 0.134674072265625,
+        "rms": 0.01943100403357039,
+        "nearClip": 0
+      },
+      {
+        "sec": 56,
+        "peak": 0.13299560546875,
+        "rms": 0.023554772195141956,
+        "nearClip": 0
+      },
+      {
+        "sec": 57,
+        "peak": 0.21484375,
+        "rms": 0.023576455260178455,
+        "nearClip": 0
+      },
+      {
+        "sec": 58,
+        "peak": 0.16455078125,
+        "rms": 0.025590232221316813,
+        "nearClip": 0
+      },
+      {
+        "sec": 59,
+        "peak": 0.10681478679180145,
+        "rms": 0.017562135725571342,
+        "nearClip": 0
+      },
+      {
+        "sec": 60,
+        "peak": 0.19458600878715515,
+        "rms": 0.024306159837045125,
+        "nearClip": 0
+      },
+      {
+        "sec": 61,
+        "peak": 0.2138126790523529,
+        "rms": 0.028374461620372816,
+        "nearClip": 0
+      },
+      {
+        "sec": 62,
+        "peak": 0.22000794112682343,
+        "rms": 0.03968892651579932,
+        "nearClip": 0
+      },
+      {
+        "sec": 63,
+        "peak": 0.3493148684501648,
+        "rms": 0.05424538696354546,
+        "nearClip": 0
+      },
+      {
+        "sec": 64,
+        "peak": 0.18613238632678986,
+        "rms": 0.023927420765630366,
+        "nearClip": 0
+      },
+      {
+        "sec": 65,
+        "peak": 0.129974365234375,
+        "rms": 0.01857099454885387,
+        "nearClip": 0
+      },
+      {
+        "sec": 66,
+        "peak": 0.46612548828125,
+        "rms": 0.10335691007425168,
+        "nearClip": 0
+      },
+      {
+        "sec": 67,
+        "peak": 0.38006591796875,
+        "rms": 0.06173675621764603,
+        "nearClip": 0
+      },
+      {
+        "sec": 68,
+        "peak": 0.125640869140625,
+        "rms": 0.020132665650929235,
+        "nearClip": 0
+      },
+      {
+        "sec": 69,
+        "peak": 0.2083740234375,
+        "rms": 0.025915055277881016,
+        "nearClip": 0
+      },
+      {
+        "sec": 70,
+        "peak": 0.39971923828125,
+        "rms": 0.054354667598417734,
+        "nearClip": 0
+      },
+      {
+        "sec": 71,
+        "peak": 0.09039582312107086,
+        "rms": 0.020959921538391477,
+        "nearClip": 0
+      },
+      {
+        "sec": 72,
+        "peak": 0.100616455078125,
+        "rms": 0.02476231479585658,
+        "nearClip": 0
+      },
+      {
+        "sec": 73,
+        "peak": 0.099029541015625,
+        "rms": 0.02199380540334208,
+        "nearClip": 0
+      },
+      {
+        "sec": 74,
+        "peak": 0.15314188599586487,
+        "rms": 0.02319356976205902,
+        "nearClip": 0
+      },
+      {
+        "sec": 75,
+        "peak": 0.1451416015625,
+        "rms": 0.02700578945809053,
+        "nearClip": 0
+      },
+      {
+        "sec": 76,
+        "peak": 0.08935819566249847,
+        "rms": 0.017606513221635218,
+        "nearClip": 0
+      },
+      {
+        "sec": 77,
+        "peak": 0.1029999703168869,
+        "rms": 0.022620336889900217,
+        "nearClip": 0
+      },
+      {
+        "sec": 78,
+        "peak": 0.07501220703125,
+        "rms": 0.022993659977417057,
+        "nearClip": 0
+      },
+      {
+        "sec": 79,
+        "peak": 0.10016174614429474,
+        "rms": 0.015557284475932012,
+        "nearClip": 0
+      },
+      {
+        "sec": 80,
+        "peak": 0.12884521484375,
+        "rms": 0.022286392045690072,
+        "nearClip": 0
+      },
+      {
+        "sec": 81,
+        "peak": 0.06607257574796677,
+        "rms": 0.02086318807887179,
+        "nearClip": 0
+      },
+      {
+        "sec": 82,
+        "peak": 0.11236914992332458,
+        "rms": 0.016429739199707867,
+        "nearClip": 0
+      },
+      {
+        "sec": 83,
+        "peak": 0.1083984375,
+        "rms": 0.024418851156504124,
+        "nearClip": 0
+      },
+      {
+        "sec": 84,
+        "peak": 0.08075197786092758,
+        "rms": 0.019891687665817916,
+        "nearClip": 0
+      },
+      {
+        "sec": 85,
+        "peak": 0.10556352138519287,
+        "rms": 0.01796634398365066,
+        "nearClip": 0
+      },
+      {
+        "sec": 86,
+        "peak": 0.08868408203125,
+        "rms": 0.024976602161546627,
+        "nearClip": 0
+      },
+      {
+        "sec": 87,
+        "peak": 0.1031220406293869,
+        "rms": 0.020238569785128828,
+        "nearClip": 0
+      },
+      {
+        "sec": 88,
+        "peak": 0.07293701171875,
+        "rms": 0.01801341706179419,
+        "nearClip": 0
+      },
+      {
+        "sec": 89,
+        "peak": 0.10782189667224884,
+        "rms": 0.025393037718957883,
+        "nearClip": 0
+      },
+      {
+        "sec": 90,
+        "peak": 0.07806634902954102,
+        "rms": 0.01865702922400069,
+        "nearClip": 0
+      }
+    ]
+  },
+  "fixture": ".tmp/refine-753/delivery-journey/journal.json",
+  "method": "Normal-clock float and Grand Bazaar using the original authored audio regression, including its expert driver. Original stereo mix captured through the ordinary game audio output. Quiet Town follows the roads. Independent of the player visit journal.",
+  "peak": 0.46612548828125,
+  "nearClipSamples": 0
+}

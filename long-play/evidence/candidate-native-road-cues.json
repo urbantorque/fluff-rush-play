@@ -1,0 +1,40 @@
+{
+  "method": "The authored cue fixtures with real browser-level input. On Seedfall at 568×320 a released native CDP drag aims for the passenger after the pilot, and a second drag returns to the following group. On Taffy Float at 393×852 a native touchscreen tap selects Tambo’s actual ability control just before the +750 gate. Both retain the original fixtures’ assisted approaches. These are diagnostic contacts rather than voluntary play.",
+  "rows": [
+    {
+      "name": "passenger",
+      "contact": {
+        "t": 11.150000000000007,
+        "done": 11.33333333333333,
+        "dx": 28.444444444444457
+      },
+      "actualDelay": 0.09166666666666146,
+      "window": 0.5583333333333016,
+      "passenger": true,
+      "nextOrdinary": true,
+      "total": 8,
+      "gate": 0
+    },
+    {
+      "name": "bell",
+      "dispatched": 25.616666666665854,
+      "gate": {
+        "type": "gate",
+        "game": 25.74999999999918,
+        "index": 9,
+        "op": "+",
+        "value": 750,
+        "tutorial": false,
+        "clock": 1795799219.7863
+      },
+      "answer": {
+        "type": "answer",
+        "game": 25.72499999999918,
+        "index": 8,
+        "friends": 1,
+        "clock": 1795799219.7656999
+      },
+      "voices": 5
+    }
+  ]
+}

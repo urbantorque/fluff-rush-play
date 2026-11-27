@@ -1,0 +1,142 @@
+{
+  "method": "Real-time excerpts from original stereo recordings. The only silent frames are the labeled chapter cards. Original Opus audio packets retained across the edit.",
+  "duration": 88.93,
+  "sha256": "eb9d980cff8f7f1148b7d32a216c151fd6e4f145ede15df9021925a9279c9d54",
+  "chapters": [
+    {
+      "title": "The first Bakery",
+      "edition": "Original edition",
+      "source": "play-control-town",
+      "sourceStart": 0.358,
+      "card": 0,
+      "game": 1.4,
+      "duration": 7.033
+    },
+    {
+      "title": "The same first Bakery",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-town",
+      "sourceStart": 0.363,
+      "card": 8.433,
+      "game": 9.833,
+      "duration": 7.033
+    },
+    {
+      "title": "Eight catch the cart",
+      "edition": "Original edition",
+      "source": "play-control-cart-home",
+      "sourceStart": 1.216,
+      "card": 16.866,
+      "game": 18.266,
+      "duration": 3.433
+    },
+    {
+      "title": "play-control-cart-home",
+      "edition": "Original edition",
+      "source": "play-control-cart-home",
+      "sourceStart": 17.568,
+      "card": 21.699,
+      "game": 21.699,
+      "duration": 2.2
+    },
+    {
+      "title": "Room for the cart",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-cart-home",
+      "sourceStart": 1.228,
+      "card": 23.899,
+      "game": 25.299,
+      "duration": 3.433
+    },
+    {
+      "title": "play-candidate-cart-home",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-cart-home",
+      "sourceStart": 15.68,
+      "card": 28.732,
+      "game": 28.732,
+      "duration": 2.2
+    },
+    {
+      "title": "The rear yellow hood",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-hood-home",
+      "sourceStart": 1.2,
+      "card": 30.932,
+      "game": 32.332,
+      "duration": 4.5
+    },
+    {
+      "title": "play-candidate-hood-home",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-hood-home",
+      "sourceStart": 15.767,
+      "card": 36.832,
+      "game": 36.832,
+      "duration": 2.2
+    },
+    {
+      "title": "By water",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-river-hood",
+      "sourceStart": 4.43,
+      "card": 39.032,
+      "game": 40.432,
+      "duration": 2
+    },
+    {
+      "title": "play-candidate-river-hood",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-river-hood",
+      "sourceStart": 28.512,
+      "card": 42.432,
+      "game": 42.432,
+      "duration": 2.2
+    },
+    {
+      "title": "Visit after reopening",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-occupied-393x852",
+      "sourceStart": 0,
+      "card": 44.632,
+      "game": 46.032,
+      "duration": 6.933
+    },
+    {
+      "title": "The original stand",
+      "edition": "Original edition",
+      "source": "play-control-compose-221",
+      "sourceStart": 2.742,
+      "card": 52.965,
+      "game": 54.365,
+      "duration": 3.466
+    },
+    {
+      "title": "Mint, Mint, Honey",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-rehearse-221",
+      "sourceStart": 0,
+      "card": 57.831,
+      "game": 59.231,
+      "duration": 11.8
+    },
+    {
+      "title": "Rose, Mint, Rose",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-rehearse-020",
+      "sourceStart": 0,
+      "card": 71.031,
+      "game": 72.431,
+      "duration": 12.433
+    },
+    {
+      "title": "Eight Honeys",
+      "edition": "Long-play candidate",
+      "source": "play-candidate-rehearse-11111111",
+      "sourceStart": 4.694,
+      "card": 84.864,
+      "game": 86.264,
+      "duration": 2.666
+    }
+  ]
+}

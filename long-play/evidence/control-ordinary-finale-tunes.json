@@ -1,0 +1,139 @@
+{
+  "method": "Each fixture was composed on the original Lookout controls. Native touch through normal Sleepy Signs. Sampled the ordinary tree finale and actual Web Audio oscillator pitches at the corresponding moments. No audition or direct sound triggering.",
+  "rows": [
+    {
+      "song": "221",
+      "file": ".tmp/long-play/phrases/control-221.json",
+      "started": "2026-11-27T14:19:13.195Z",
+      "ended": "2026-11-27T14:19:45.008Z",
+      "notes": [
+        2,
+        2,
+        1
+      ],
+      "steps": [
+        {
+          "index": 0,
+          "expectedHz": 783.991,
+          "observedHz": 783.9908719634985,
+          "wall": 28.52810000002384
+        },
+        {
+          "index": 1,
+          "expectedHz": 783.991,
+          "observedHz": 783.9908719634985,
+          "wall": 28.753900000035763
+        },
+        {
+          "index": 2,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 29.01380000001192
+        }
+      ],
+      "stars": 1,
+      "errors": []
+    },
+    {
+      "song": "020",
+      "file": ".tmp/long-play/phrases/control-020.json",
+      "started": "2026-11-27T14:19:45.196Z",
+      "ended": "2026-11-27T14:20:16.893Z",
+      "notes": [
+        0,
+        2,
+        0
+      ],
+      "steps": [
+        {
+          "index": 0,
+          "expectedHz": 523.251,
+          "observedHz": 523.2511306011972,
+          "wall": 28.50909999996424
+        },
+        {
+          "index": 1,
+          "expectedHz": 783.991,
+          "observedHz": 783.9908719634985,
+          "wall": 28.73669999998808
+        },
+        {
+          "index": 2,
+          "expectedHz": 523.251,
+          "observedHz": 523.2511306011972,
+          "wall": 28.987
+        }
+      ],
+      "stars": 1,
+      "errors": []
+    },
+    {
+      "song": "11111111",
+      "file": ".tmp/long-play/phrases/control-11111111.json",
+      "started": "2026-11-27T14:20:17.070Z",
+      "ended": "2026-11-27T14:20:48.793Z",
+      "notes": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "steps": [
+        {
+          "index": 0,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 28.4915
+        },
+        {
+          "index": 1,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 28.713099999964236
+        },
+        {
+          "index": 2,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 28.960800000011922
+        },
+        {
+          "index": 3,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 29.19739999997616
+        },
+        {
+          "index": 4,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 29.446
+        },
+        {
+          "index": 5,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 29.677099999964238
+        },
+        {
+          "index": 6,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 29.91080000001192
+        },
+        {
+          "index": 7,
+          "expectedHz": 659.255,
+          "observedHz": 659.2551138257398,
+          "wall": 30.16130000001192
+        }
+      ],
+      "stars": 1,
+      "errors": []
+    }
+  ]
+}

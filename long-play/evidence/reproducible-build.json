@@ -1,0 +1,15 @@
+{
+  "method": "TypeScript checked the normal web edition with no emit. A fresh Vite build ran into a separate output directory and was packaged independently. The 65 individual file hashes, the asset-tree hash and the ZIP bytes matched the served package.",
+  "source": "60efc4c43052d9d0e1f03ab17809b9ac21506c07",
+  "assetTree": "435713e9430f75ddbf70ccfc94a353fba628f854c81c33aae85ce467dafa0ef7",
+  "archive": "d0832ac5bcd1caf275c4e2372833c314dde44479f2f4d870d3138eaec8b7dd3f",
+  "files": 65,
+  "checkedAt": "2026-11-27T16:55:16.049Z",
+  "finalAcceptance": {
+    "at": "2026-11-27T18:17:19.137Z",
+    "typescript": "passed",
+    "individualFilesCompared": 65,
+    "archiveByteIdentical": true,
+    "sha256": "d0832ac5bcd1caf275c4e2372833c314dde44479f2f4d870d3138eaec8b7dd3f"
+  }
+}

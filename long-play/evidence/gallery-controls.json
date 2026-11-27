@@ -1,0 +1,391 @@
+{
+  "method": "Opened the delivered local comparison gallery, loaded both native videos, sought to the same named event, switched the audible edition, ran both at actual 1× and paused them. Checked four viewport sizes.",
+  "rows": [
+    {
+      "width": 320,
+      "height": 568,
+      "checks": [
+        {
+          "title": "Eight cart riders",
+          "points": [
+            "Start",
+            "Approach",
+            "Last steering input",
+            "At the awning",
+            "Road result",
+            "Back home"
+          ],
+          "playhead": [
+            17.747999,
+            15.86
+          ],
+          "sources": [
+            "clips/play-control-cart-home.webm",
+            "clips/play-candidate-cart-home.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Eight Honeys",
+          "points": [
+            "Start",
+            "First note",
+            "Saved phrase",
+            "Band response",
+            "At the stand"
+          ],
+          "playhead": [
+            9.379,
+            9.468
+          ],
+          "sources": [
+            "clips/play-control-compose-11111111.webm",
+            "clips/play-candidate-compose-11111111.webm"
+          ],
+          "wide": false
+        }
+      ],
+      "audible": [
+        true,
+        false
+      ],
+      "errors": []
+    },
+    {
+      "width": 393,
+      "height": 852,
+      "checks": [
+        {
+          "title": "Eight cart riders",
+          "points": [
+            "Start",
+            "Approach",
+            "Last steering input",
+            "At the awning",
+            "Road result",
+            "Back home"
+          ],
+          "playhead": [
+            17.747999,
+            15.86
+          ],
+          "sources": [
+            "clips/play-control-cart-home.webm",
+            "clips/play-candidate-cart-home.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Three yellow hoods",
+          "points": [
+            "Start",
+            "Approach",
+            "Last steering input",
+            "At the awning",
+            "Road result",
+            "Back home"
+          ],
+          "playhead": [
+            17.929,
+            15.947
+          ],
+          "sources": [
+            "clips/play-control-hood-home.webm",
+            "clips/play-candidate-hood-home.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "An empty place",
+          "points": [
+            "Start",
+            "Approach",
+            "Last steering input",
+            "At the awning",
+            "Road result",
+            "Back home"
+          ],
+          "playhead": [
+            18.119999,
+            15.982
+          ],
+          "sources": [
+            "clips/play-control-miss-unoccupied.webm",
+            "clips/play-candidate-miss-waiting.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Mochi on Sleepy Signs",
+          "points": [
+            "Start",
+            "Road result",
+            "Back at the basket"
+          ],
+          "playhead": [
+            8.708,
+            7.616
+          ],
+          "sources": [
+            "clips/play-control-mochi-home.webm",
+            "clips/play-candidate-mochi-home.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Both rafts",
+          "points": [
+            "Start",
+            "Left bank",
+            "Boarding",
+            "Road result",
+            "Back home"
+          ],
+          "playhead": [
+            27.913999,
+            28.692
+          ],
+          "sources": [
+            "clips/play-control-river-both.webm",
+            "clips/play-candidate-river-hood.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Six catches for breakfast",
+          "points": [
+            "Start",
+            "Finale",
+            "Road result",
+            "The chosen retry"
+          ],
+          "playhead": [
+            8.415,
+            8.411
+          ],
+          "sources": [
+            "clips/play-control-goal-breakfast.webm",
+            "clips/play-candidate-goal-breakfast.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Twelve for the telescope",
+          "points": [
+            "Start",
+            "Finale",
+            "Road result",
+            "The chosen retry"
+          ],
+          "playhead": [
+            5.675,
+            5.887
+          ],
+          "sources": [
+            "clips/play-control-goal-telescope.webm",
+            "clips/play-candidate-goal-telescope.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "The first Bakery",
+          "points": [
+            "Start",
+            "Restore the Bakery",
+            "Choose a bun friend"
+          ],
+          "playhead": [
+            6.458,
+            6.476
+          ],
+          "sources": [
+            "clips/play-control-town.webm",
+            "clips/play-candidate-town.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Fig on the first clear",
+          "points": [
+            "Start",
+            "Fig comes home",
+            "Reopen the Bakery",
+            "Share the first bun",
+            "Berry is ready"
+          ],
+          "playhead": [
+            25.947,
+            25.956
+          ],
+          "sources": [
+            "clips/play-control-fig-first-opening.webm",
+            "clips/play-candidate-fig-first-opening.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Mint, Mint, Honey",
+          "points": [
+            "Start",
+            "First note",
+            "Saved phrase",
+            "Band response",
+            "At the stand"
+          ],
+          "playhead": [
+            4.913,
+            5.248
+          ],
+          "sources": [
+            "clips/play-control-compose-221.webm",
+            "clips/play-candidate-compose-221.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Rose, Mint, Rose",
+          "points": [
+            "Start",
+            "First note",
+            "Saved phrase",
+            "Band response",
+            "At the stand"
+          ],
+          "playhead": [
+            4.93,
+            4.933
+          ],
+          "sources": [
+            "clips/play-control-compose-020.webm",
+            "clips/play-candidate-compose-020.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Eight Honeys",
+          "points": [
+            "Start",
+            "First note",
+            "Saved phrase",
+            "Band response",
+            "At the stand"
+          ],
+          "playhead": [
+            9.379,
+            9.468
+          ],
+          "sources": [
+            "clips/play-control-compose-11111111.webm",
+            "clips/play-candidate-compose-11111111.webm"
+          ],
+          "wide": false
+        }
+      ],
+      "audible": [
+        true,
+        false
+      ],
+      "errors": []
+    },
+    {
+      "width": 568,
+      "height": 320,
+      "checks": [
+        {
+          "title": "Eight cart riders",
+          "points": [
+            "Start",
+            "Approach",
+            "Last steering input",
+            "At the awning",
+            "Road result",
+            "Back home"
+          ],
+          "playhead": [
+            17.747999,
+            15.86
+          ],
+          "sources": [
+            "clips/play-control-cart-home.webm",
+            "clips/play-candidate-cart-home.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Eight Honeys",
+          "points": [
+            "Start",
+            "First note",
+            "Saved phrase",
+            "Band response",
+            "At the stand"
+          ],
+          "playhead": [
+            9.379,
+            9.468
+          ],
+          "sources": [
+            "clips/play-control-compose-11111111.webm",
+            "clips/play-candidate-compose-11111111.webm"
+          ],
+          "wide": false
+        }
+      ],
+      "audible": [
+        true,
+        false
+      ],
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "checks": [
+        {
+          "title": "Eight cart riders",
+          "points": [
+            "Start",
+            "Approach",
+            "Last steering input",
+            "At the awning",
+            "Road result",
+            "Back home"
+          ],
+          "playhead": [
+            17.747999,
+            15.86
+          ],
+          "sources": [
+            "clips/play-control-cart-home.webm",
+            "clips/play-candidate-cart-home.webm"
+          ],
+          "wide": false
+        },
+        {
+          "title": "Eight Honeys",
+          "points": [
+            "Start",
+            "First note",
+            "Saved phrase",
+            "Band response",
+            "At the stand"
+          ],
+          "playhead": [
+            9.379,
+            9.468
+          ],
+          "sources": [
+            "clips/play-control-compose-11111111.webm",
+            "clips/play-candidate-compose-11111111.webm"
+          ],
+          "wide": false
+        }
+      ],
+      "audible": [
+        true,
+        false
+      ],
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "method": "Diagnostic copy of the furnished local-review checkpoint. Twelve real-time returns from the Square to an occupied Bakery, one change of seating and one hosting action, then a hands-off three-note rehearsal through its normal result back to the Square. Genuine tab close and reopen halfway and at the end. Checked ordinary run history, projects, wallet, Daily, album, trials, tune, bounded hosting flags and visible UI at each closed screen.",
+  "file": "docs/Fluff-Rush-long-play/evidence/review-save.json",
+  "begin": "2026-11-27T17:38:13.581Z",
+  "end": "2026-11-27T17:40:40.898Z",
+  "cycles": [
+    {
+      "cycle": 1,
+      "party": "hood",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:hood"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:38:25.056Z"
+    },
+    {
+      "cycle": 2,
+      "party": "cart",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:cart"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:38:37.220Z"
+    },
+    {
+      "cycle": 3,
+      "party": "hood",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:hood"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:38:49.367Z"
+    },
+    {
+      "cycle": 4,
+      "party": "cart",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:cart"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:39:01.631Z"
+    },
+    {
+      "cycle": 5,
+      "party": "hood",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:hood"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:39:13.822Z"
+    },
+    {
+      "cycle": 6,
+      "party": "cart",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:cart"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:39:25.937Z"
+    },
+    {
+      "cycle": 7,
+      "party": "hood",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:hood"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:39:38.296Z"
+    },
+    {
+      "cycle": 8,
+      "party": "cart",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:cart"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:39:50.424Z"
+    },
+    {
+      "cycle": 9,
+      "party": "hood",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:hood"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:40:02.488Z"
+    },
+    {
+      "cycle": 10,
+      "party": "cart",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:cart"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:40:14.820Z"
+    },
+    {
+      "cycle": 11,
+      "party": "hood",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:hood"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:40:27.139Z"
+    },
+    {
+      "cycle": 12,
+      "party": "cart",
+      "receipt": "Your welcome song\n\n▲\n▲\n◆\n\n1 of 3 notes played.\n\nHold on the right through the repeated Mint notes.\n\nBack to Band Stand\nChange a note\nSteer it again",
+      "setting": [
+        "town:bakery-table:yuzu:cart"
+      ],
+      "wallet": 8135,
+      "utc": "2026-11-27T17:40:39.250Z"
+    }
+  ],
+  "errors": []
+}

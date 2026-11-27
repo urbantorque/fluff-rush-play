@@ -1,0 +1,17 @@
+{
+  "method": "Reopened the real earned checkpoint directly after Fig’s rescue, declined the calendar gift and touched the Bakery basket. Normal game at 393×852 with native touch.",
+  "file": ".tmp/long-play/fresh/fig-home-save.json",
+  "before": {
+    "wallet": 151,
+    "fig": [
+      "town:fig-at-bakery",
+      "breakfast:last:L1:fig",
+      "town:fig-cloth-return"
+    ],
+    "levels": [
+      "L1"
+    ]
+  },
+  "greeting": "Warm buns for everyone\n\nTap a neighbour to share a bun.\n\nBerry\nClover\nMochi\nBack to Town",
+  "errors": []
+}

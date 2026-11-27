@@ -1,0 +1,225 @@
+{"utc":"2026-11-27T12:36:19.736Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T12:36:20.180Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:36:31.173Z","event":"note","text":"Diagnosis. Separate copy of the previous two-hour save. I am looking for cart riders already living in Town and want to try the welcome song before deciding whether rehearsal has a reason to exist."}
+{"utc":"2026-11-27T12:36:31.241Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:36:31.415Z","event":"input","line":"buttons","ms":174}
+{"utc":"2026-11-27T12:36:36.879Z","event":"input-error","line":"button Square","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Square', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:36:36.943Z","event":"input","line":"read","ms":63}
+{"utc":"2026-11-27T12:36:37.025Z","event":"input","line":"buttons","ms":81}
+{"utc":"2026-11-27T12:36:37.489Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T12:36:37.557Z","event":"input","line":"buttons","ms":67}
+{"utc":"2026-11-27T12:36:43.567Z","event":"input","line":"tap 79 90","ms":323}
+{"utc":"2026-11-27T12:36:43.678Z","event":"input","line":"read","ms":110}
+{"utc":"2026-11-27T12:36:43.757Z","event":"input","line":"buttons","ms":78}
+{"utc":"2026-11-27T12:36:49.071Z","event":"view","screen":"Breakfast at the fountain","result":false}
+{"utc":"2026-11-27T12:36:49.159Z","event":"input","line":"button Breakfast at the fountain","ms":266}
+{"utc":"2026-11-27T12:36:49.250Z","event":"input","line":"read","ms":90}
+{"utc":"2026-11-27T12:36:49.372Z","event":"input","line":"buttons","ms":119}
+{"utc":"2026-11-27T12:36:58.709Z","event":"input-error","line":"button Float the boat","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Float the boat', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:37:00.894Z","event":"input","line":"watch 2","ms":2183}
+{"utc":"2026-11-27T12:37:01.024Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:37:01.078Z","event":"input","line":"button Stay in Town","ms":183}
+{"utc":"2026-11-27T12:37:01.226Z","event":"input","line":"tap 152 86","ms":146}
+{"utc":"2026-11-27T12:37:01.311Z","event":"input","line":"read","ms":84}
+{"utc":"2026-11-27T12:37:01.391Z","event":"input","line":"buttons","ms":78}
+{"utc":"2026-11-27T12:37:01.474Z","event":"input","line":"read","ms":82}
+{"utc":"2026-11-27T12:37:01.543Z","event":"input","line":"buttons","ms":69}
+{"utc":"2026-11-27T12:37:03.460Z","event":"input","line":"read","ms":68}
+{"utc":"2026-11-27T12:37:03.542Z","event":"input","line":"buttons","ms":80}
+{"utc":"2026-11-27T12:37:06.994Z","event":"input","line":"tap 233 90","ms":117}
+{"utc":"2026-11-27T12:37:07.106Z","event":"view","screen":"Lantern Glade","result":false}
+{"utc":"2026-11-27T12:37:07.195Z","event":"input","line":"tap 180 506","ms":199}
+{"utc":"2026-11-27T12:37:07.273Z","event":"input","line":"read","ms":76}
+{"utc":"2026-11-27T12:37:07.371Z","event":"input","line":"buttons","ms":98}
+{"utc":"2026-11-27T12:37:10.139Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:37:10.189Z","event":"input","line":"button Back","ms":223}
+{"utc":"2026-11-27T12:37:12.702Z","event":"input-error","line":"button Open the Starlight Lookout. Restoration and visits","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Open the Starlight Lookout. Restoration and visits', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"hotspot\" data-key=\"town:look"}
+{"utc":"2026-11-27T12:37:12.769Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:37:12.825Z","event":"input","line":"buttons","ms":55}
+{"utc":"2026-11-27T12:37:12.884Z","event":"input","line":"read","ms":58}
+{"utc":"2026-11-27T12:37:12.938Z","event":"input","line":"buttons","ms":53}
+{"utc":"2026-11-27T12:37:15.822Z","event":"input","line":"tap 178 499","ms":106}
+{"utc":"2026-11-27T12:37:15.923Z","event":"input","line":"read","ms":100}
+{"utc":"2026-11-27T12:37:15.989Z","event":"input","line":"buttons","ms":66}
+{"utc":"2026-11-27T12:37:21.602Z","event":"input","line":"tap 173 550","ms":88}
+{"utc":"2026-11-27T12:37:21.607Z","event":"view","screen":"Lookout","result":false}
+{"utc":"2026-11-27T12:37:21.652Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:37:21.703Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T12:37:26.791Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:37:26.849Z","event":"input","line":"button Make a song","ms":173}
+{"utc":"2026-11-27T12:37:26.882Z","event":"input","line":"read","ms":33}
+{"utc":"2026-11-27T12:37:26.918Z","event":"input","line":"buttons","ms":35}
+{"utc":"2026-11-27T12:37:30.596Z","event":"note","text":"Diagnosis. The telescope card gave me two things to do. I choose Make a song. I want to try a rising phrase that falls back a step: Rose, Honey, Mint, Honey."}
+{"utc":"2026-11-27T12:37:33.111Z","event":"input-error","line":"button Rose","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Rose', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:37:35.625Z","event":"input-error","line":"button Honey","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Honey', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:37:38.129Z","event":"input-error","line":"button Mint","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Mint', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:37:40.641Z","event":"input-error","line":"button Honey","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Honey', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T12:37:40.704Z","event":"input","line":"read","ms":59}
+{"utc":"2026-11-27T12:37:40.748Z","event":"input","line":"buttons","ms":44}
+{"utc":"2026-11-27T12:37:40.781Z","event":"input","line":"read","ms":33}
+{"utc":"2026-11-27T12:37:40.848Z","event":"input","line":"tap 85 618","ms":67}
+{"utc":"2026-11-27T12:37:40.917Z","event":"input","line":"tap 194 618","ms":68}
+{"utc":"2026-11-27T12:37:40.982Z","event":"input","line":"tap 299 618","ms":63}
+{"utc":"2026-11-27T12:37:41.048Z","event":"input","line":"tap 194 618","ms":67}
+{"utc":"2026-11-27T12:37:41.088Z","event":"input","line":"read","ms":39}
+{"utc":"2026-11-27T12:37:43.504Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T12:37:43.552Z","event":"input","line":"buttons","ms":47}
+{"utc":"2026-11-27T12:37:46.621Z","event":"input","line":"tap 194 618","ms":88}
+{"utc":"2026-11-27T12:37:46.671Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:37:50.917Z","event":"note","text":"Diagnosis. Four quick touch inputs became only Rose and Mint. Pausing, I added Honey. I want to hear the version the game kept."}
+{"utc":"2026-11-27T12:37:50.923Z","event":"sound-start"}
+{"utc":"2026-11-27T12:37:51.101Z","event":"input","line":"button Listen","ms":178}
+{"utc":"2026-11-27T12:37:53.251Z","event":"input","line":"watch 2","ms":2149}
+{"utc":"2026-11-27T12:37:53.388Z","event":"input","line":"button Keep this song","ms":137}
+{"utc":"2026-11-27T12:37:53.573Z","event":"input","line":"button Hear it at the Band Stand","ms":184}
+{"utc":"2026-11-27T12:37:56.805Z","event":"input","line":"watch 3","ms":3231}
+{"utc":"2026-11-27T12:37:56.889Z","event":"input","line":"read","ms":83}
+{"utc":"2026-11-27T12:37:56.987Z","event":"input","line":"buttons","ms":97}
+{"utc":"2026-11-27T12:37:57.007Z","event":"sound-stop","path":".tmp/long-play/earned-control/original-mix-1795783077007.webm"}
+{"utc":"2026-11-27T12:38:06.840Z","event":"input","line":"read","ms":56}
+{"utc":"2026-11-27T12:38:06.923Z","event":"input","line":"buttons","ms":83}
+{"utc":"2026-11-27T12:38:14.229Z","event":"note","text":"Diagnosis. I came back to the stand with Rose Mint Honey. I want to correct the missing Honey in that tune without losing the rest. The stand only plays it. I'm going back to the same chimes to put the skipped note in."}
+{"utc":"2026-11-27T12:38:14.357Z","event":"input","line":"tap 234 89","ms":127}
+{"utc":"2026-11-27T12:38:16.520Z","event":"input","line":"watch 2","ms":2162}
+{"utc":"2026-11-27T12:38:16.667Z","event":"view","screen":"Lookout","result":false}
+{"utc":"2026-11-27T12:38:16.669Z","event":"input","line":"tap 176 550","ms":148}
+{"utc":"2026-11-27T12:38:17.050Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:38:17.084Z","event":"input","line":"button Make a song","ms":414}
+{"utc":"2026-11-27T12:38:17.140Z","event":"input","line":"read","ms":56}
+{"utc":"2026-11-27T12:38:26.734Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T12:38:33.649Z","event":"input","line":"tap 86 617","ms":110}
+{"utc":"2026-11-27T12:38:34.741Z","event":"input","line":"watch 1","ms":1091}
+{"utc":"2026-11-27T12:38:34.836Z","event":"input","line":"tap 198 617","ms":94}
+{"utc":"2026-11-27T12:38:35.932Z","event":"input","line":"watch 1","ms":1095}
+{"utc":"2026-11-27T12:38:36.016Z","event":"input","line":"tap 301 617","ms":84}
+{"utc":"2026-11-27T12:38:37.116Z","event":"input","line":"watch 1","ms":1099}
+{"utc":"2026-11-27T12:38:37.203Z","event":"input","line":"tap 198 617","ms":86}
+{"utc":"2026-11-27T12:38:37.252Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T12:38:37.369Z","event":"input","line":"button Keep this song","ms":116}
+{"utc":"2026-11-27T12:38:37.536Z","event":"input","line":"button Hear it at the Band Stand","ms":167}
+{"utc":"2026-11-27T12:38:39.721Z","event":"input","line":"watch 2","ms":2183}
+{"utc":"2026-11-27T12:38:39.801Z","event":"input","line":"read","ms":80}
+{"utc":"2026-11-27T12:38:52.069Z","event":"input","line":"read","ms":85}
+{"utc":"2026-11-27T12:38:52.150Z","event":"input","line":"buttons","ms":80}
+{"utc":"2026-11-27T12:38:57.336Z","event":"note","text":"Diagnosis. I corrected the phrase by playing four separate notes. The new phrase reaches the band. Now I want to test the telescope's twelve-colour invitation on this control."}
+{"utc":"2026-11-27T12:38:57.452Z","event":"input","line":"tap 235 90","ms":114}
+{"utc":"2026-11-27T12:38:58.569Z","event":"input","line":"watch 1","ms":1116}
+{"utc":"2026-11-27T12:38:58.636Z","event":"view","screen":"The Lookout telescope","result":false}
+{"utc":"2026-11-27T12:38:58.686Z","event":"input","line":"tap 177 744","ms":116}
+{"utc":"2026-11-27T12:38:58.752Z","event":"input","line":"read","ms":64}
+{"utc":"2026-11-27T12:38:58.835Z","event":"input","line":"buttons","ms":82}
+{"utc":"2026-11-27T12:39:00.460Z","event":"input","line":"read","ms":127}
+{"utc":"2026-11-27T12:39:00.537Z","event":"input","line":"buttons","ms":76}
+{"utc":"2026-11-27T12:39:03.487Z","event":"view","road":"L28","phase":"walk","screen":"square","result":false,"crowd":52}
+{"utc":"2026-11-27T12:39:03.549Z","event":"input","line":"button Play Aurora Bridge","ms":243}
+{"utc":"2026-11-27T12:39:03.599Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:39:03.648Z","event":"input","line":"buttons","ms":48}
+{"utc":"2026-11-27T12:39:09.001Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:39:14.665Z","event":"input","line":"read","ms":53}
+{"utc":"2026-11-27T12:39:20.951Z","event":"input","line":"right 75","ms":281}
+{"utc":"2026-11-27T12:39:21.031Z","event":"input","line":"read","ms":79}
+{"utc":"2026-11-27T12:39:23.955Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T12:39:30.050Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:39:36.142Z","event":"input","line":"left 125","ms":471}
+{"utc":"2026-11-27T12:39:36.273Z","event":"input","line":"read","ms":129}
+{"utc":"2026-11-27T12:39:38.634Z","event":"input","line":"right 57","ms":277}
+{"utc":"2026-11-27T12:39:38.702Z","event":"input","line":"read","ms":67}
+{"utc":"2026-11-27T12:39:39.716Z","event":"view","road":"L28","phase":"finale","screen":"square","result":false,"crowd":7444}
+{"utc":"2026-11-27T12:39:44.311Z","event":"view","road":"L28","phase":"done","screen":"5 of 15 colours caught!","result":true,"crowd":7444}
+{"utc":"2026-11-27T12:39:44.318Z","event":"result","text":"Parade size\n7,444\nBest streak\n2\nParade of 7444 reached the end.\n5 of 15 colours caught!\n\nThe Aurora Bridge\n\nRoad report\nTry for 6\nTown"}
+{"utc":"2026-11-27T12:39:44.583Z","event":"input","line":"read","ms":59}
+{"utc":"2026-11-27T12:39:44.682Z","event":"input","line":"buttons","ms":99}
+{"utc":"2026-11-27T12:39:50.840Z","event":"note","text":"Diagnosis. Five colours, 7444 home. I chose a target of twelve at the telescope, but the result now says Try for 6. I decline that wording. I wanted to rehearse the late reversal, not drive to the bridge again. I will open the report to look for that span."}
+{"utc":"2026-11-27T12:39:50.901Z","event":"view","road":"L28","phase":"done","screen":"square","result":true,"crowd":7444}
+{"utc":"2026-11-27T12:39:50.918Z","event":"result","text":"Parade size\n7,444\nBest streak\n2\nRoad report\n\nPersonal best 9/15.\n\nColours caught\n5 / 15\nLanterns lit\n2 / 5\nTown’s share · 77 Petals\n\nTambo’s best 7,444.\n\n5 / 15 colours caught. Reach the lit planks early and stay until the colour joins you. 2 stars at 10,500 home.\n\nTips & practice\nReturn reward · 95 Petals before bonuses. Improve your stars for 25 extra\n½ more star to a gift\n\n5 / 15 colours caught · Look for the ribbon at catch 1.\n\n7,444 friends home · 3,056 more for 2 stars (10,500 total)\n\nTotal Petals\nIncludes 47 from the Workshop and 30 from Meadow\n+172 \nLead the duck parade"}
+{"utc":"2026-11-27T12:39:50.964Z","event":"input","line":"tap 119 720","ms":98}
+{"utc":"2026-11-27T12:39:51.014Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T12:39:51.066Z","event":"input","line":"buttons","ms":52}
+{"utc":"2026-11-27T12:39:56.520Z","event":"input","line":"tap 111 419","ms":159}
+{"utc":"2026-11-27T12:39:56.601Z","event":"input","line":"read","ms":78}
+{"utc":"2026-11-27T12:39:56.753Z","event":"input","line":"buttons","ms":147}
+{"utc":"2026-11-27T12:40:16.679Z","event":"note","text":"Diagnosis. Tips and practice opens Review gate 1. The road report knows I missed catch 1 and gives no button for a span. I would leave this road. Next I am testing whether the existing weekly breakfast remembers the actual cart guests."}
+{"utc":"2026-11-27T12:40:16.714Z","event":"leave"}
+{"utc":"2026-11-27T12:40:17.244Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T12:40:17.471Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:40:17.578Z","event":"input","line":"return","ms":849}
+{"utc":"2026-11-27T12:40:17.703Z","event":"input","line":"read","ms":123}
+{"utc":"2026-11-27T12:40:17.852Z","event":"input","line":"buttons","ms":148}
+{"utc":"2026-11-27T12:40:32.718Z","event":"input","line":"read","ms":62}
+{"utc":"2026-11-27T12:40:32.795Z","event":"input","line":"buttons","ms":75}
+{"utc":"2026-11-27T12:40:37.365Z","event":"note","text":"Diagnosis. After one bridge trip the wallet is 7854. My next idea is a seat near the basket for the cart riders. I will try a decor spot to see whether I can already do this."}
+{"utc":"2026-11-27T12:40:37.751Z","event":"input","line":"tap 78 87","ms":382}
+{"utc":"2026-11-27T12:40:40.318Z","event":"input","line":"watch 2","ms":2564}
+{"utc":"2026-11-27T12:40:42.833Z","event":"input-error","line":"button Empty decor spot 3","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Empty decor spot 3', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button data-key=\"d:2\" class=\"hotspot\" data-cy=\"468.4407099109736\" aria-lab"}
+{"utc":"2026-11-27T12:40:42.899Z","event":"input","line":"read","ms":66}
+{"utc":"2026-11-27T12:40:42.983Z","event":"input","line":"buttons","ms":83}
+{"utc":"2026-11-27T12:41:20.507Z","event":"input","line":"read","ms":156}
+{"utc":"2026-11-27T12:41:20.693Z","event":"input","line":"buttons","ms":184}
+{"utc":"2026-11-27T12:41:27.258Z","event":"view","screen":"Decorate","result":false}
+{"utc":"2026-11-27T12:41:27.347Z","event":"input","line":"tap 116 579","ms":171}
+{"utc":"2026-11-27T12:41:27.434Z","event":"input","line":"read","ms":85}
+{"utc":"2026-11-27T12:41:27.515Z","event":"input","line":"buttons","ms":79}
+{"utc":"2026-11-27T12:41:35.385Z","event":"note","text":"Diagnosis. The existing Tea Umbrella Table costs 1000 and has the right shape. I choose to buy it to see whether anyone can sit with me. I would leave the carousel in the shop."}
+{"utc":"2026-11-27T12:41:35.467Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:41:35.564Z","event":"input","line":"tap 113 686","ms":178}
+{"utc":"2026-11-27T12:41:35.698Z","event":"input","line":"read","ms":133}
+{"utc":"2026-11-27T12:41:35.783Z","event":"input","line":"buttons","ms":83}
+{"utc":"2026-11-27T12:41:43.279Z","event":"input","line":"watch 4","ms":4801}
+{"utc":"2026-11-27T12:41:43.380Z","event":"view","screen":"Decorate","result":false}
+{"utc":"2026-11-27T12:41:43.592Z","event":"input","line":"tap 118 578","ms":312}
+{"utc":"2026-11-27T12:41:43.813Z","event":"input","line":"read","ms":220}
+{"utc":"2026-11-27T12:41:44.036Z","event":"input","line":"buttons","ms":221}
+{"utc":"2026-11-27T12:41:47.728Z","event":"input","line":"read","ms":174}
+{"utc":"2026-11-27T12:41:47.970Z","event":"input","line":"buttons","ms":241}
+{"utc":"2026-11-27T12:41:51.459Z","event":"note","text":"Diagnosis. The table replaced my bench; touching it opens Decorate again. There is no seating choice. I have spent 1000 of my own accord on this diagnostic copy. I would not buy a second table to make the first one usable."}
+{"utc":"2026-11-27T12:41:51.885Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:41:52.123Z","event":"input","line":"button Done","ms":661}
+{"utc":"2026-11-27T12:41:52.764Z","event":"input","line":"button Share buns at the Bakery","ms":603}
+{"utc":"2026-11-27T12:41:53.059Z","event":"input","line":"read","ms":294}
+{"utc":"2026-11-27T12:41:55.624Z","event":"input","line":"read","ms":313}
+{"utc":"2026-11-27T12:42:00.551Z","event":"input","line":"button Market lantern","ms":1085}
+{"utc":"2026-11-27T12:42:00.974Z","event":"input","line":"read","ms":410}
+{"utc":"2026-11-27T12:42:01.561Z","event":"input","line":"buttons","ms":568}
+{"utc":"2026-11-27T12:42:02.640Z","event":"input","line":"read","ms":308}
+{"utc":"2026-11-27T12:42:06.040Z","event":"input","line":"button Light the table","ms":464}
+{"utc":"2026-11-27T12:42:08.981Z","event":"input","line":"watch 2","ms":2936}
+{"utc":"2026-11-27T12:42:09.572Z","event":"input","line":"read","ms":587}
+{"utc":"2026-11-27T12:42:10.161Z","event":"input","line":"buttons","ms":575}
+{"utc":"2026-11-27T12:42:16.313Z","event":"note","text":"Diagnosis. The Market lantern already gives me a free, saved choice: Fig turns dough with Pip when I light the table. Keep this separate from any seating choice. I will pack Mochi on the earned-save control to test the previous report."}
+{"utc":"2026-11-27T12:42:16.690Z","event":"input","line":"button Back to buns","ms":375}
+{"utc":"2026-11-27T12:42:17.104Z","event":"input","line":"button Mochi","ms":413}
+{"utc":"2026-11-27T12:42:17.442Z","event":"view","screen":"Sleepy Signs","result":false}
+{"utc":"2026-11-27T12:42:17.624Z","event":"input","line":"button Take Mochi along","ms":519}
+{"utc":"2026-11-27T12:42:17.821Z","event":"input","line":"read","ms":195}
+{"utc":"2026-11-27T12:42:18.029Z","event":"input","line":"buttons","ms":207}
+{"utc":"2026-11-27T12:42:19.722Z","event":"input","line":"read","ms":136}
+{"utc":"2026-11-27T12:42:24.009Z","event":"view","road":"L2","phase":"walk","screen":"square","result":false,"crowd":10}
+{"utc":"2026-11-27T12:42:24.098Z","event":"input","line":"button Start with Mochi","ms":681}
+{"utc":"2026-11-27T12:42:24.423Z","event":"input","line":"left 135","ms":322}
+{"utc":"2026-11-27T12:42:33.004Z","event":"input","line":"watch 8","ms":8580}
+{"utc":"2026-11-27T12:42:33.304Z","event":"input","line":"read","ms":293}
+{"utc":"2026-11-27T12:42:39.321Z","event":"view","road":"L2","phase":"pour","screen":"square","result":false,"crowd":40}
+{"utc":"2026-11-27T12:42:39.409Z","event":"input","line":"read","ms":170}
+{"utc":"2026-11-27T12:42:39.530Z","event":"input","line":"buttons","ms":120}
+{"utc":"2026-11-27T12:42:40.222Z","event":"view","road":"L2","phase":"walk","screen":"square","result":false,"crowd":28}
+{"utc":"2026-11-27T12:42:46.817Z","event":"input","line":"read","ms":238}
+{"utc":"2026-11-27T12:42:53.632Z","event":"view","road":"L2","phase":"finale","screen":"square","result":false,"crowd":244}
+{"utc":"2026-11-27T12:42:56.126Z","event":"input","line":"watch 8","ms":9307}
+{"utc":"2026-11-27T12:42:56.366Z","event":"input","line":"read","ms":232}
+{"utc":"2026-11-27T12:42:57.660Z","event":"view","road":"L2","phase":"done","screen":"244 friends home!","result":true,"crowd":244}
+{"utc":"2026-11-27T12:42:57.694Z","event":"result","text":"Parade size\n244\nFriends woken this run: 3\n3 woken\nParade of 244 reached the end.\n244 friends home!\n\nSleepy Signs\n\nThree sign painters came through the little gate.\n\n2 stars at 700 friends home\n\nTotal Petals\nIncludes 21 from the Workshop, 30 from Meadow and 8 from Golden Rush\n+78 \nRoad report\nMap\nReplay road\nTown"}
+{"utc":"2026-11-27T12:43:03.662Z","event":"input","line":"read","ms":54}
+{"utc":"2026-11-27T12:43:03.721Z","event":"input","line":"buttons","ms":58}
+{"utc":"2026-11-27T12:43:07.001Z","event":"note","text":"Diagnosis. This late result has Town; the early cart result did not. I decline Replay road. I want the Bakery greeting on this exact save."}
+{"utc":"2026-11-27T12:43:07.176Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T12:43:07.259Z","event":"input","line":"button Town","ms":257}
+{"utc":"2026-11-27T12:43:07.330Z","event":"input","line":"read","ms":70}
+{"utc":"2026-11-27T12:43:07.461Z","event":"input","line":"buttons","ms":129}
+{"utc":"2026-11-27T12:43:15.636Z","event":"input","line":"button Share buns at the Bakery","ms":507}
+{"utc":"2026-11-27T12:43:15.841Z","event":"input","line":"read","ms":203}
+{"utc":"2026-11-27T12:43:16.055Z","event":"input","line":"buttons","ms":212}
+{"utc":"2026-11-27T12:43:29.125Z","event":"input","line":"read","ms":171}
+{"utc":"2026-11-27T12:43:29.347Z","event":"input","line":"buttons","ms":218}
+{"utc":"2026-11-27T12:44:37.102Z","event":"note","text":"Diagnosis. Mochi's late greeting uses the same sentence as Clover's two early ones. The group choice currently has no effect on the Bakery room. I have a separate question for the fresh save: whether the cart appeared at the fountain instead."}
+{"utc":"2026-11-27T12:44:37.195Z","event":"leave"}
+{"utc":"2026-11-27T12:44:37.199Z","event":"quit"}

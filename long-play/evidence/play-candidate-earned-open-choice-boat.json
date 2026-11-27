@@ -1,0 +1,25 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "readingHoldSeconds": 0,
+  "duration": 10.21619987487793,
+  "marks": {
+    "before_launch": 0.015,
+    "natural_stop": 7.999
+  },
+  "frames": 615,
+  "inputs": [
+    {
+      "line": "tap 290 653",
+      "seconds": 0.153
+    }
+  ],
+  "errors": [],
+  "profile": "candidate-earned",
+  "asset": "./assets/index-CCziZ-5V.js",
+  "method": "Separately recorded hands-on visit. The tester chose the actions at the ordinary game controls. Input commands and times are also in the profile journal."
+}

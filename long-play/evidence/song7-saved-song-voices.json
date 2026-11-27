@@ -1,0 +1,621 @@
+{
+  "method": "Exact same saved phrase through separate native selections. Observed oscillator pitch, type and timing inside the actual game mix. An original sample at each pitch is required in sequence. This is a technical sound check.",
+  "file": ".tmp/long-play/song-first-play/actual-chosen-201-save.json",
+  "rows": [
+    {
+      "kind": "stand",
+      "notes": [
+        2,
+        0,
+        1
+      ],
+      "tested": [
+        {
+          "note": 2,
+          "hz": 392,
+          "type": "triangle",
+          "relativeToFirst": 0
+        },
+        {
+          "note": 0,
+          "hz": 261.63,
+          "type": "triangle",
+          "relativeToFirst": 0.235
+        },
+        {
+          "note": 1,
+          "hz": 329.63,
+          "type": "triangle",
+          "relativeToFirst": 0.491
+        }
+      ],
+      "bells": [
+        true,
+        true,
+        true
+      ],
+      "voices": [
+        {
+          "t": 0.005,
+          "hz": 780,
+          "type": "sine"
+        },
+        {
+          "t": 0.005,
+          "hz": 1872,
+          "type": "sine"
+        },
+        {
+          "t": 0.006,
+          "hz": 783.99,
+          "type": "sine"
+        },
+        {
+          "t": 0.006,
+          "hz": 783.99,
+          "type": "sine"
+        },
+        {
+          "t": 0.006,
+          "hz": 2743.97,
+          "type": "sine"
+        },
+        {
+          "t": 0.086,
+          "hz": 1046.5,
+          "type": "sine"
+        },
+        {
+          "t": 0.086,
+          "hz": 1046.5,
+          "type": "sine"
+        },
+        {
+          "t": 0.086,
+          "hz": 3662.76,
+          "type": "sine"
+        },
+        {
+          "t": 0.167,
+          "hz": 1318.51,
+          "type": "sine"
+        },
+        {
+          "t": 0.167,
+          "hz": 1318.51,
+          "type": "sine"
+        },
+        {
+          "t": 0.167,
+          "hz": 4614.79,
+          "type": "sine"
+        },
+        {
+          "t": 0.247,
+          "hz": 1567.98,
+          "type": "sine"
+        },
+        {
+          "t": 0.247,
+          "hz": 1567.98,
+          "type": "sine"
+        },
+        {
+          "t": 0.247,
+          "hz": 5487.94,
+          "type": "sine"
+        },
+        {
+          "t": 0.019,
+          "hz": 392,
+          "type": "triangle"
+        },
+        {
+          "t": 0.019,
+          "hz": 1567.98,
+          "type": "sine"
+        },
+        {
+          "t": 0.019,
+          "hz": 783.99,
+          "type": "sine"
+        },
+        {
+          "t": 0.019,
+          "hz": 783.99,
+          "type": "sine"
+        },
+        {
+          "t": 0.019,
+          "hz": 2743.97,
+          "type": "sine"
+        },
+        {
+          "t": 0.254,
+          "hz": 261.63,
+          "type": "triangle"
+        },
+        {
+          "t": 0.254,
+          "hz": 1046.5,
+          "type": "sine"
+        },
+        {
+          "t": 0.254,
+          "hz": 523.25,
+          "type": "sine"
+        },
+        {
+          "t": 0.254,
+          "hz": 523.25,
+          "type": "sine"
+        },
+        {
+          "t": 0.254,
+          "hz": 1831.38,
+          "type": "sine"
+        },
+        {
+          "t": 0.444,
+          "hz": 659.26,
+          "type": "triangle"
+        },
+        {
+          "t": 0.444,
+          "hz": 1977.77,
+          "type": "sine"
+        },
+        {
+          "t": 0.445,
+          "hz": 130.81,
+          "type": "triangle"
+        },
+        {
+          "t": 0.445,
+          "hz": 261.63,
+          "type": "sine"
+        },
+        {
+          "t": 0.51,
+          "hz": 329.63,
+          "type": "triangle"
+        },
+        {
+          "t": 0.51,
+          "hz": 1318.51,
+          "type": "sine"
+        },
+        {
+          "t": 0.51,
+          "hz": 659.26,
+          "type": "sine"
+        },
+        {
+          "t": 0.51,
+          "hz": 659.26,
+          "type": "sine"
+        },
+        {
+          "t": 0.51,
+          "hz": 2307.39,
+          "type": "sine"
+        },
+        {
+          "t": 0.65,
+          "hz": 329.63,
+          "type": "sine"
+        },
+        {
+          "t": 0.65,
+          "hz": 329.63,
+          "type": "sine"
+        },
+        {
+          "t": 0.65,
+          "hz": 1153.7,
+          "type": "sine"
+        },
+        {
+          "t": 1.152,
+          "hz": 523.25,
+          "type": "triangle"
+        },
+        {
+          "t": 1.153,
+          "hz": 1569.75,
+          "type": "sine"
+        }
+      ],
+      "before": 7682,
+      "after": 7682,
+      "errors": []
+    },
+    {
+      "kind": "chimes",
+      "notes": [
+        2,
+        0,
+        1
+      ],
+      "tested": [
+        {
+          "note": 2,
+          "hz": 1567.98,
+          "type": "sine",
+          "relativeToFirst": 0
+        },
+        {
+          "note": 0,
+          "hz": 1046.5,
+          "type": "sine",
+          "relativeToFirst": 0.233
+        },
+        {
+          "note": 1,
+          "hz": 1318.51,
+          "type": "sine",
+          "relativeToFirst": 0.468
+        }
+      ],
+      "bells": [],
+      "voices": [
+        {
+          "t": 0.019,
+          "hz": 1567.98,
+          "type": "sine"
+        },
+        {
+          "t": 0.019,
+          "hz": 1567.98,
+          "type": "sine"
+        },
+        {
+          "t": 0.019,
+          "hz": 5487.94,
+          "type": "sine"
+        },
+        {
+          "t": 0.268,
+          "hz": 659.26,
+          "type": "triangle"
+        },
+        {
+          "t": 0.268,
+          "hz": 1977.77,
+          "type": "sine"
+        },
+        {
+          "t": 0.265,
+          "hz": 130.81,
+          "type": "triangle"
+        },
+        {
+          "t": 0.265,
+          "hz": 261.63,
+          "type": "sine"
+        },
+        {
+          "t": 0.252,
+          "hz": 1046.5,
+          "type": "sine"
+        },
+        {
+          "t": 0.252,
+          "hz": 1046.5,
+          "type": "sine"
+        },
+        {
+          "t": 0.252,
+          "hz": 3662.76,
+          "type": "sine"
+        },
+        {
+          "t": 0.486,
+          "hz": 1318.51,
+          "type": "sine"
+        },
+        {
+          "t": 0.486,
+          "hz": 1318.51,
+          "type": "sine"
+        },
+        {
+          "t": 0.486,
+          "hz": 4614.79,
+          "type": "sine"
+        },
+        {
+          "t": 0.627,
+          "hz": 329.63,
+          "type": "sine"
+        },
+        {
+          "t": 0.627,
+          "hz": 329.63,
+          "type": "sine"
+        },
+        {
+          "t": 0.627,
+          "hz": 1153.7,
+          "type": "sine"
+        },
+        {
+          "t": 0.99,
+          "hz": 523.25,
+          "type": "triangle"
+        },
+        {
+          "t": 0.99,
+          "hz": 1569.75,
+          "type": "sine"
+        },
+        {
+          "t": 1.698,
+          "hz": 587.33,
+          "type": "triangle"
+        },
+        {
+          "t": 1.698,
+          "hz": 1761.99,
+          "type": "sine"
+        },
+        {
+          "t": 1.698,
+          "hz": 196,
+          "type": "triangle"
+        },
+        {
+          "t": 1.698,
+          "hz": 196,
+          "type": "triangle"
+        },
+        {
+          "t": 1.698,
+          "hz": 246.94,
+          "type": "triangle"
+        },
+        {
+          "t": 1.698,
+          "hz": 293.66,
+          "type": "triangle"
+        },
+        {
+          "t": 1.698,
+          "hz": 82.41,
+          "type": "triangle"
+        },
+        {
+          "t": 1.698,
+          "hz": 164.81,
+          "type": "sine"
+        }
+      ],
+      "before": 7682,
+      "after": 7682,
+      "errors": []
+    },
+    {
+      "kind": "rehearsal",
+      "notes": [
+        2,
+        0,
+        1
+      ],
+      "tested": [
+        {
+          "note": 2,
+          "hz": 392,
+          "type": "triangle",
+          "relativeToFirst": 0
+        },
+        {
+          "note": 0,
+          "hz": 261.63,
+          "type": "triangle",
+          "relativeToFirst": 0.251
+        },
+        {
+          "note": 1,
+          "hz": 329.63,
+          "type": "triangle",
+          "relativeToFirst": 0.483
+        }
+      ],
+      "bells": [
+        true,
+        true,
+        true
+      ],
+      "voices": [
+        {
+          "t": 0.005,
+          "hz": 780,
+          "type": "sine"
+        },
+        {
+          "t": 0.005,
+          "hz": 1872,
+          "type": "sine"
+        },
+        {
+          "t": 0.062,
+          "hz": 1174.66,
+          "type": "triangle"
+        },
+        {
+          "t": 0.26,
+          "hz": 659.26,
+          "type": "triangle"
+        },
+        {
+          "t": 0.26,
+          "hz": 1977.77,
+          "type": "sine"
+        },
+        {
+          "t": 0.258,
+          "hz": 130.81,
+          "type": "triangle"
+        },
+        {
+          "t": 0.258,
+          "hz": 261.63,
+          "type": "sine"
+        },
+        {
+          "t": 0.388,
+          "hz": 30,
+          "type": "sine"
+        },
+        {
+          "t": 0.389,
+          "hz": 4196.55,
+          "type": "square"
+        },
+        {
+          "t": 0.62,
+          "hz": 30,
+          "type": "sine"
+        },
+        {
+          "t": 0.62,
+          "hz": 4196.55,
+          "type": "square"
+        },
+        {
+          "t": 0.895,
+          "hz": 30,
+          "type": "sine"
+        },
+        {
+          "t": 0.895,
+          "hz": 4196.55,
+          "type": "square"
+        },
+        {
+          "t": 1.17,
+          "hz": 30,
+          "type": "sine"
+        },
+        {
+          "t": 1.17,
+          "hz": 4196.55,
+          "type": "square"
+        },
+        {
+          "t": 0.293,
+          "hz": 392,
+          "type": "triangle"
+        },
+        {
+          "t": 0.294,
+          "hz": 1567.98,
+          "type": "sine"
+        },
+        {
+          "t": 0.294,
+          "hz": 783.99,
+          "type": "sine"
+        },
+        {
+          "t": 0.294,
+          "hz": 783.99,
+          "type": "sine"
+        },
+        {
+          "t": 0.294,
+          "hz": 2743.97,
+          "type": "sine"
+        },
+        {
+          "t": 0.427,
+          "hz": 1318.51,
+          "type": "triangle"
+        },
+        {
+          "t": 0.544,
+          "hz": 261.63,
+          "type": "triangle"
+        },
+        {
+          "t": 0.544,
+          "hz": 1046.5,
+          "type": "sine"
+        },
+        {
+          "t": 0.545,
+          "hz": 523.25,
+          "type": "sine"
+        },
+        {
+          "t": 0.545,
+          "hz": 523.25,
+          "type": "sine"
+        },
+        {
+          "t": 0.545,
+          "hz": 1831.38,
+          "type": "sine"
+        },
+        {
+          "t": 0.777,
+          "hz": 329.63,
+          "type": "triangle"
+        },
+        {
+          "t": 0.777,
+          "hz": 1318.51,
+          "type": "sine"
+        },
+        {
+          "t": 0.777,
+          "hz": 659.26,
+          "type": "sine"
+        },
+        {
+          "t": 0.777,
+          "hz": 659.26,
+          "type": "sine"
+        },
+        {
+          "t": 0.777,
+          "hz": 2307.39,
+          "type": "sine"
+        },
+        {
+          "t": 0.967,
+          "hz": 523.25,
+          "type": "triangle"
+        },
+        {
+          "t": 0.967,
+          "hz": 1569.75,
+          "type": "sine"
+        },
+        {
+          "t": 1.461,
+          "hz": 1174.66,
+          "type": "triangle"
+        },
+        {
+          "t": 1.689,
+          "hz": 523.25,
+          "type": "triangle"
+        },
+        {
+          "t": 1.689,
+          "hz": 1569.75,
+          "type": "sine"
+        },
+        {
+          "t": 1.745,
+          "hz": 1318.51,
+          "type": "triangle"
+        }
+      ],
+      "before": 7682,
+      "after": 7682,
+      "errors": []
+    }
+  ]
+}

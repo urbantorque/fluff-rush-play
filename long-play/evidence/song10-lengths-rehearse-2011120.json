@@ -1,0 +1,692 @@
+{
+  "runtime": {
+    "crowd": 8,
+    "startingCrowd": 8,
+    "aurora": {
+      "caught": 7,
+      "of": 7,
+      "swelled": 0,
+      "total": 0
+    },
+    "lastDrumBeat": 12.03333333333329
+  },
+  "spoken": [
+    "Tambo plays your song. Rose left, Honey middle, Mint right.",
+    "Mint, right.",
+    "Rose, left.",
+    "Hold the middle for 3 Honey notes.",
+    "Mint, right.",
+    "Rose, left.",
+    "7 of 7 notes played."
+  ],
+  "crossings": [
+    {
+      "note": 2,
+      "from": 99.9999976704139,
+      "target": -100,
+      "millisecondsToOppositeLaneCentre": 261,
+      "millisecondsInLaneBeforeFront": 419
+    },
+    {
+      "note": 7,
+      "from": 99.9999976704139,
+      "target": -100,
+      "millisecondsToOppositeLaneCentre": 265,
+      "millisecondsInLaneBeforeFront": 435
+    }
+  ],
+  "fixture": ".tmp/long-play/phrases/song5-2011120.json",
+  "method": "One normal-clock native-input rehearsal from the actual restored stand. The recorded line specifies each intended hit or miss. Repeats in the same lane used no extra touch. Returned to the same stand. Read-only observation of game input, planks, native audio voices and save. No driver assistance.",
+  "digits": "2011120",
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "still": false,
+  "mute": false,
+  "key": false,
+  "demo": [
+    {
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Mint"
+    },
+    {
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Rose"
+    },
+    {
+      "time": 0.783333333333333,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.033333333333332,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.2666666666666646,
+      "label": "Tambo plays Honey"
+    },
+    {
+      "time": 1.5166666666666637,
+      "label": "Tambo plays Mint"
+    },
+    {
+      "time": 1.7499999999999962,
+      "label": "Tambo plays Rose"
+    }
+  ],
+  "bands": [
+    {
+      "note": 2,
+      "x": 100,
+      "start": 1008,
+      "end": 1123.5,
+      "speed": 210,
+      "color": "#7FE3C8"
+    },
+    {
+      "note": 0,
+      "x": -100,
+      "start": 1281,
+      "end": 1396.5,
+      "speed": 210,
+      "color": "#FFB8CF"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1474.2,
+      "end": 1589.7,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1667.4,
+      "end": 1782.9,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 1,
+      "x": 0,
+      "start": 1860.6000000000001,
+      "end": 1976.1000000000001,
+      "speed": 210,
+      "color": "#FFE066"
+    },
+    {
+      "note": 2,
+      "x": 100,
+      "start": 2053.8,
+      "end": 2169.3,
+      "speed": 210,
+      "color": "#7FE3C8"
+    },
+    {
+      "note": 0,
+      "x": -100,
+      "start": 2326.8,
+      "end": 2442.3,
+      "speed": 210,
+      "color": "#FFB8CF"
+    }
+  ],
+  "inputs": [
+    {
+      "note": 2,
+      "contact": true,
+      "intendedHit": true,
+      "target": 100,
+      "wall": 6.622599999964237,
+      "time": 4.483333333333346,
+      "from": 0,
+      "x": 0,
+      "dist": 858.375,
+      "delta": 62.38095238095238
+    },
+    {
+      "note": 0,
+      "contact": true,
+      "intendedHit": true,
+      "target": -100,
+      "wall": 7.954199999988079,
+      "time": 5.8166666666667455,
+      "from": 99.9999976704139,
+      "x": 99.99999767041248,
+      "dist": 1138.375,
+      "delta": -124.76190330868677
+    },
+    {
+      "note": 1,
+      "contact": true,
+      "intendedHit": true,
+      "target": 0,
+      "wall": 9.204099999964237,
+      "time": 7.066666666666808,
+      "from": -99.9999976704139,
+      "x": -99.99999767038605,
+      "dist": 1400.875,
+      "delta": 62.38095092773438
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "intendedHit": true,
+      "target": 0,
+      "wall": 10.136799999952316,
+      "time": 8.000000000000187,
+      "from": 0,
+      "x": -7.305812352074822e-8,
+      "dist": 1596.875,
+      "delta": 0
+    },
+    {
+      "note": 1,
+      "contact": false,
+      "intendedHit": true,
+      "target": 0,
+      "wall": 11.05319999998808,
+      "time": 8.916666666666801,
+      "from": 0,
+      "x": -1.0501007283354852e-18,
+      "dist": 1789.375,
+      "delta": 0
+    },
+    {
+      "note": 2,
+      "contact": true,
+      "intendedHit": true,
+      "target": 100,
+      "wall": 11.97,
+      "time": 9.833333333333416,
+      "from": 0,
+      "x": -1.1260713980380867e-29,
+      "dist": 1981.875,
+      "delta": 62.38095238095238
+    },
+    {
+      "note": 0,
+      "contact": true,
+      "intendedHit": true,
+      "target": -100,
+      "wall": 12.920099999964238,
+      "time": 10.783333333333362,
+      "from": 99.9999976704139,
+      "x": 99.9999976237538,
+      "dist": 2181.375,
+      "delta": -124.76190330868677
+    }
+  ],
+  "actual": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "receipt": "Your welcome song\n\n▲\n●\n◆\n◆\n◆\n▲\n●\n\n7 of 7 notes played.\n\nBack to Band Stand\nChange a note\nSteer it again",
+  "next": "Band Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\n▲ ● ◆ ◆ ◆ ▲ ●\nRose left · Honey middle · Mint right\nVisit or choose a place\nSteer your welcome song\nHear your welcome song\nPlay a road\nBack",
+  "hubVisible": 0,
+  "before": 7682,
+  "after": 7682,
+  "changed": [],
+  "steps": [
+    {
+      "wall": 2.4362999999523165,
+      "time": 0.3000000000000001,
+      "label": "Tambo plays Mint",
+      "played": 1,
+      "steps": []
+    },
+    {
+      "wall": 2.680699999988079,
+      "time": 0.5500000000000005,
+      "label": "Tambo plays Rose",
+      "played": 2,
+      "steps": []
+    },
+    {
+      "wall": 2.9135,
+      "time": 0.783333333333333,
+      "label": "Tambo plays Honey",
+      "played": 3,
+      "steps": []
+    },
+    {
+      "wall": 3.17,
+      "time": 1.033333333333332,
+      "label": "Tambo plays Honey",
+      "played": 4,
+      "steps": []
+    },
+    {
+      "wall": 3.399599999964237,
+      "time": 1.2666666666666646,
+      "label": "Tambo plays Honey",
+      "played": 5,
+      "steps": []
+    },
+    {
+      "wall": 3.652199999988079,
+      "time": 1.5166666666666637,
+      "label": "Tambo plays Mint",
+      "played": 6,
+      "steps": []
+    },
+    {
+      "wall": 3.8905,
+      "time": 1.7499999999999962,
+      "label": "Tambo plays Rose",
+      "played": 7,
+      "steps": []
+    },
+    {
+      "wall": 4.120199999988079,
+      "time": 1.9833333333333287,
+      "label": "▲ Mint · right",
+      "played": 8,
+      "steps": []
+    },
+    {
+      "wall": 7.894599999964237,
+      "time": 5.7500000000000755,
+      "label": "● Rose · cross left",
+      "played": 8,
+      "steps": [
+        true
+      ]
+    },
+    {
+      "wall": 9.186699999988079,
+      "time": 7.05000000000014,
+      "label": "◆ Honey · middle",
+      "played": 8,
+      "steps": [
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 10.104599999964238,
+      "time": 7.966666666666852,
+      "label": "◆ Honey · hold middle",
+      "played": 8,
+      "steps": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 11.042899999976159,
+      "time": 8.900000000000135,
+      "label": "◆ Honey · hold middle",
+      "played": 8,
+      "steps": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 11.954,
+      "time": 9.81666666666675,
+      "label": "▲ Mint · right",
+      "played": 8,
+      "steps": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 12.879899999976159,
+      "time": 10.733333333333364,
+      "label": "● Rose · cross left",
+      "played": 8,
+      "steps": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "wall": 14.178799999952316,
+      "time": 12.03333333333329,
+      "label": "7 of 7 notes played",
+      "played": 8,
+      "steps": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "voices": [
+    {
+      "time": 0.005,
+      "hz": 780,
+      "type": "sine"
+    },
+    {
+      "time": 0.005,
+      "hz": 1872,
+      "type": "sine"
+    },
+    {
+      "time": 0.062,
+      "hz": 1567.98,
+      "type": "triangle"
+    },
+    {
+      "time": 0.294,
+      "hz": 392,
+      "type": "triangle"
+    },
+    {
+      "time": 0.294,
+      "hz": 1567.98,
+      "type": "sine"
+    },
+    {
+      "time": 0.294,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "time": 0.294,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "time": 0.294,
+      "hz": 2743.97,
+      "type": "sine"
+    },
+    {
+      "time": 0.455,
+      "hz": 659.26,
+      "type": "triangle"
+    },
+    {
+      "time": 0.455,
+      "hz": 1977.77,
+      "type": "sine"
+    },
+    {
+      "time": 0.459,
+      "hz": 130.81,
+      "type": "triangle"
+    },
+    {
+      "time": 0.459,
+      "hz": 261.63,
+      "type": "sine"
+    },
+    {
+      "time": 0.428,
+      "hz": 1760,
+      "type": "triangle"
+    },
+    {
+      "time": 0.545,
+      "hz": 261.63,
+      "type": "triangle"
+    },
+    {
+      "time": 0.545,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "time": 0.545,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "time": 0.545,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "time": 0.545,
+      "hz": 1831.38,
+      "type": "sine"
+    },
+    {
+      "time": 0.688,
+      "hz": 30,
+      "type": "sine"
+    },
+    {
+      "time": 0.688,
+      "hz": 4181.48,
+      "type": "square"
+    },
+    {
+      "time": 0.942,
+      "hz": 30,
+      "type": "sine"
+    },
+    {
+      "time": 0.942,
+      "hz": 4181.48,
+      "type": "square"
+    },
+    {
+      "time": 1.2,
+      "hz": 30,
+      "type": "sine"
+    },
+    {
+      "time": 1.2,
+      "hz": 4181.48,
+      "type": "square"
+    },
+    {
+      "time": 1.453,
+      "hz": 30,
+      "type": "sine"
+    },
+    {
+      "time": 1.453,
+      "hz": 4181.48,
+      "type": "square"
+    },
+    {
+      "time": 0.778,
+      "hz": 329.63,
+      "type": "triangle"
+    },
+    {
+      "time": 0.778,
+      "hz": 1318.51,
+      "type": "sine"
+    },
+    {
+      "time": 0.778,
+      "hz": 659.26,
+      "type": "sine"
+    },
+    {
+      "time": 0.778,
+      "hz": 659.26,
+      "type": "sine"
+    },
+    {
+      "time": 0.778,
+      "hz": 2307.39,
+      "type": "sine"
+    },
+    {
+      "time": 1.028,
+      "hz": 329.63,
+      "type": "triangle"
+    },
+    {
+      "time": 1.028,
+      "hz": 1318.51,
+      "type": "sine"
+    },
+    {
+      "time": 1.028,
+      "hz": 659.26,
+      "type": "sine"
+    },
+    {
+      "time": 1.028,
+      "hz": 659.26,
+      "type": "sine"
+    },
+    {
+      "time": 1.028,
+      "hz": 2307.39,
+      "type": "sine"
+    },
+    {
+      "time": 1.17,
+      "hz": 523.25,
+      "type": "triangle"
+    },
+    {
+      "time": 1.17,
+      "hz": 1569.75,
+      "type": "sine"
+    },
+    {
+      "time": 1.262,
+      "hz": 329.63,
+      "type": "triangle"
+    },
+    {
+      "time": 1.262,
+      "hz": 1318.51,
+      "type": "sine"
+    },
+    {
+      "time": 1.262,
+      "hz": 659.26,
+      "type": "sine"
+    },
+    {
+      "time": 1.262,
+      "hz": 659.26,
+      "type": "sine"
+    },
+    {
+      "time": 1.262,
+      "hz": 2307.39,
+      "type": "sine"
+    },
+    {
+      "time": 1.462,
+      "hz": 1567.98,
+      "type": "triangle"
+    },
+    {
+      "time": 1.511,
+      "hz": 392,
+      "type": "triangle"
+    },
+    {
+      "time": 1.511,
+      "hz": 1567.98,
+      "type": "sine"
+    },
+    {
+      "time": 1.511,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "time": 1.511,
+      "hz": 783.99,
+      "type": "sine"
+    },
+    {
+      "time": 1.511,
+      "hz": 2743.97,
+      "type": "sine"
+    },
+    {
+      "time": 1.745,
+      "hz": 261.63,
+      "type": "triangle"
+    },
+    {
+      "time": 1.745,
+      "hz": 1046.5,
+      "type": "sine"
+    },
+    {
+      "time": 1.745,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "time": 1.745,
+      "hz": 523.25,
+      "type": "sine"
+    },
+    {
+      "time": 1.745,
+      "hz": 1831.38,
+      "type": "sine"
+    },
+    {
+      "time": 1.746,
+      "hz": 1567.98,
+      "type": "triangle"
+    },
+    {
+      "time": 1.888,
+      "hz": 523.25,
+      "type": "triangle"
+    },
+    {
+      "time": 1.888,
+      "hz": 1569.75,
+      "type": "sine"
+    },
+    {
+      "time": 2.165,
+      "hz": 659.26,
+      "type": "triangle"
+    },
+    {
+      "time": 2.165,
+      "hz": 1977.77,
+      "type": "sine"
+    },
+    {
+      "time": 2.446,
+      "hz": 783.99,
+      "type": "triangle"
+    },
+    {
+      "time": 2.446,
+      "hz": 2351.97,
+      "type": "sine"
+    },
+    {
+      "time": 2.562,
+      "hz": 1567.98,
+      "type": "triangle"
+    }
+  ],
+  "errors": []
+}

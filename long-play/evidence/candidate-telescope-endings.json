@@ -1,0 +1,72 @@
+{
+  "method": "Restored Lookout and actual telescope controls. Full mastery came from a normal-time expert diagnostic on an untouched copy of the earned save. The missing-mark example is an expressly synthetic compatibility branch.",
+  "rows": [
+    {
+      "scenario": "Completed all 15 on the full bridge",
+      "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "compatibilityChange": null,
+      "first": {
+        "reading": "The Lookout telescope\n\nCatch 12 of 15 colours on the Aurora Bridge to bring the Bell and Lantern home.\n\nBack to Town\nPlay Aurora Bridge",
+        "target": 12
+      },
+      "settled": {
+        "record": {
+          "stars": 3,
+          "best": 20930,
+          "plays": 8,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 5,
+            "leaders": {
+              "wren": {
+                "best": 3965,
+                "stars": 1,
+                "last": 3965,
+                "plays": 1
+              },
+              "suki": {
+                "best": 5078,
+                "stars": 1,
+                "last": 4554,
+                "previous": 4970,
+                "plays": 6
+              },
+              "tambo": {
+                "best": 20930,
+                "stars": 3,
+                "last": 20930,
+                "plays": 1
+              }
+            }
+          },
+          "auroraColours": 63,
+          "replayMark": {
+            "hit": 15,
+            "of": 15,
+            "revision": 5,
+            "at": 1795796826214
+          }
+        },
+        "wallet": 8139,
+        "receipt": "You aimed for 12 and caught 15.\n\n6 constellations on your fountain path.\n\nRoad Petals\nIncludes 79 from the Workshop and 30 from Meadow\n+349 \nVillage Board request\n+100 Petals\nRoad report\nSee my constellations\nTown"
+      },
+      "reopened": {
+        "reading": "The Lookout telescope\n\nAll six constellations shine on your fountain path.\n\nBack to Town\nPlay Aurora Bridge",
+        "target": null
+      },
+      "errors": []
+    },
+    {
+      "scenario": "Legacy save without a replay mark",
+      "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "compatibilityChange": "Removed only the optional replay mark before loading the old-format example.",
+      "first": {
+        "reading": "The Lookout telescope\n\nCatch 8 of 15 colours on the Aurora Bridge to bring the Loaf and Cup home.\n\nBack to Town\nPlay Aurora Bridge",
+        "target": 8
+      },
+      "errors": []
+    }
+  ]
+}

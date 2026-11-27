@@ -1,0 +1,589 @@
+{
+  "method": "Diagnostic copy of Berry’s separate fresh stop. Each case loads the candidate through the normal entry. Read the centre of the live table target for 1.45 seconds from its first observed attachment, then tapped it with a native touch. The only fixture variation is the exposed reduced-motion preference.",
+  "rows": [
+    {
+      "width": 320,
+      "height": 568,
+      "reducedMotion": false,
+      "track": [
+        {
+          "ms": 0,
+          "x": 110.7,
+          "y": 228.8,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 95,
+          "x": 110.7,
+          "y": 241.8,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 151,
+          "x": 110.7,
+          "y": 245.6,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 257,
+          "x": 110.7,
+          "y": 250.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 406,
+          "x": 110.7,
+          "y": 253.3,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 556,
+          "x": 110.7,
+          "y": 254.2,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 806,
+          "x": 110.7,
+          "y": 254.6,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1107,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1461,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 406,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "reducedMotion": true,
+      "track": [
+        {
+          "ms": 0,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 85,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 161,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 257,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 412,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 553,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 802,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1104,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1468,
+          "x": 110.7,
+          "y": 254.7,
+          "w": 44,
+          "h": 44
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 0,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "width": 393,
+      "height": 852,
+      "reducedMotion": false,
+      "track": [
+        {
+          "ms": 0,
+          "x": 135.2,
+          "y": 365.8,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 82,
+          "x": 135.2,
+          "y": 378.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 163,
+          "x": 135.2,
+          "y": 385.5,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 252,
+          "x": 135.2,
+          "y": 389.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 409,
+          "x": 135.2,
+          "y": 392.8,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 559,
+          "x": 135.2,
+          "y": 393.9,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 810,
+          "x": 135.2,
+          "y": 394.3,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1103,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1460,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 409,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "width": 393,
+      "height": 852,
+      "reducedMotion": true,
+      "track": [
+        {
+          "ms": 0,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 85,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 152,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 266,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 410,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 559,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 805,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1111,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1451,
+          "x": 135.2,
+          "y": 394.4,
+          "w": 44,
+          "h": 44
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 0,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "width": 568,
+      "height": 320,
+      "reducedMotion": false,
+      "track": [
+        {
+          "ms": 0,
+          "x": 254.4,
+          "y": 130.6,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 86,
+          "x": 254.4,
+          "y": 136.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 154,
+          "x": 254.4,
+          "y": 139.6,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 250,
+          "x": 254.4,
+          "y": 142,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 412,
+          "x": 254.4,
+          "y": 143.7,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 553,
+          "x": 254.4,
+          "y": 144.1,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 813,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1101,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1451,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 412,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "width": 568,
+      "height": 320,
+      "reducedMotion": true,
+      "track": [
+        {
+          "ms": 0,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 88,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 154,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 254,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 402,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 554,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 803,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1104,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        },
+        {
+          "ms": 1451,
+          "x": 254.4,
+          "y": 144.4,
+          "w": 44,
+          "h": 44
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 0,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "reducedMotion": false,
+      "track": [
+        {
+          "ms": 13,
+          "x": 547,
+          "y": 328.1,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 87,
+          "x": 547,
+          "y": 343.2,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 154,
+          "x": 547,
+          "y": 350.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 253,
+          "x": 547,
+          "y": 356.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 403,
+          "x": 547,
+          "y": 360.3,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 552,
+          "x": 547,
+          "y": 361.7,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 802,
+          "x": 547,
+          "y": 362.3,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 1104,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 1455,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 552,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "reducedMotion": true,
+      "track": [
+        {
+          "ms": 13,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 86,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 156,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 253,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 404,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 553,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 804,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 1107,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        },
+        {
+          "ms": 1453,
+          "x": 547,
+          "y": 362.4,
+          "w": 47.8,
+          "h": 47.8
+        }
+      ],
+      "firstObservedWithinTwoPixelsMs": 13,
+      "greeting": "Berry’s table\n\nOne coat dries on the chair. Berry sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "readingHoldSeconds": 2.2,
+  "duration": 7.269500017166138,
+  "marks": {
+    "beginPhrase": 0.001,
+    "songSaved": 1.271,
+    "bandAnswer": 4.451,
+    "nextDecision": 5.05
+  },
+  "frames": 436,
+  "inputs": [
+    {
+      "note": 0
+    },
+    {
+      "note": 2
+    },
+    {
+      "note": 0
+    }
+  ],
+  "errors": [],
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "edition": "control",
+  "phrase": "020",
+  "before": 7682,
+  "after": 7682,
+  "next": "Breakfast at the fountain\n\nBand Stand · Fully restored\n\nBand Stand\nHome\n\nBeat your best star count on a road and Tambo gives you 50 extra Petals.\n\nPoppy, Mint, Plum, Honey at the Band Stand\n\nHear the band\nVisit or choose a place\nPlay together\nPlay a road\nBack",
+  "method": "One independent copy of the named earned save per phrase. Actual Lookout buttons and Band Stand at ordinary time. Musical line read through the next available decision."
+}

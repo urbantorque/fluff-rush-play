@@ -1,0 +1,215 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "readingHoldSeconds": 2.2,
+  "duration": 8.220499992370605,
+  "marks": {
+    "finale": 0.011,
+    "receipt": 5.463,
+    "nextDecision": 6.007
+  },
+  "frames": 494,
+  "inputs": [
+    {
+      "span": 1,
+      "n": 1,
+      "target": -100,
+      "plannedHit": true,
+      "x": -99.94715617881799,
+      "tx": -100,
+      "d": 2851.750000000021,
+      "time": 8.783333333333475,
+      "delta": 0
+    },
+    {
+      "span": 1,
+      "n": 2,
+      "target": 0,
+      "plannedHit": true,
+      "x": -99.99999999999997,
+      "tx": -100,
+      "d": 3282.4166666667106,
+      "time": 10.05000000000007,
+      "delta": 62.38095238095238
+    },
+    {
+      "span": 1,
+      "n": 3,
+      "target": 100,
+      "plannedHit": false,
+      "x": -0.0000024026442617374036,
+      "tx": -0.000002329586138216655,
+      "d": 3605.416666666728,
+      "time": 11.000000000000016,
+      "delta": 62.380953834170406
+    },
+    {
+      "span": 1,
+      "n": 4,
+      "target": 100,
+      "plannedHit": false,
+      "x": 99.9999952677696,
+      "tx": 99.99999534082772,
+      "d": 3928.416666666745,
+      "time": 11.949999999999962,
+      "delta": 0.0000029064360391083984
+    },
+    {
+      "span": 1,
+      "n": 5,
+      "target": -100,
+      "plannedHit": false,
+      "x": 99.9999953408277,
+      "tx": 99.99999534082772,
+      "d": 4251.416666666738,
+      "time": 12.899999999999908,
+      "delta": -124.76190185546874
+    },
+    {
+      "span": 1,
+      "n": 6,
+      "target": 100,
+      "plannedHit": false,
+      "x": -99.99999990667985,
+      "tx": -100.00000000000009,
+      "d": 4574.416666666703,
+      "time": 13.849999999999854,
+      "delta": 124.76190476190482
+    },
+    {
+      "span": 1,
+      "n": 7,
+      "target": -100,
+      "plannedHit": false,
+      "x": 99.99999524750743,
+      "tx": 99.99999534082767,
+      "d": 4897.416666666669,
+      "time": 14.7999999999998,
+      "delta": -124.7619018554687
+    },
+    {
+      "span": 1,
+      "n": 8,
+      "target": 100,
+      "plannedHit": false,
+      "x": -99.9999999066799,
+      "tx": -100.00000000000014,
+      "d": 5220.416666666634,
+      "time": 15.749999999999746,
+      "delta": 124.76190476190486
+    },
+    {
+      "span": 2,
+      "n": 1,
+      "target": -100,
+      "plannedHit": true,
+      "x": 99.99999534082758,
+      "tx": 99.99999534082761,
+      "d": 7521.083333333055,
+      "time": 22.51666666666603,
+      "delta": -124.76190185546865
+    },
+    {
+      "span": 2,
+      "n": 2,
+      "target": 0,
+      "plannedHit": true,
+      "x": -99.99999999998248,
+      "tx": -100.0000000000002,
+      "d": 7951.749999999675,
+      "time": 23.783333333332624,
+      "delta": 62.3809523809525
+    },
+    {
+      "span": 2,
+      "n": 3,
+      "target": 100,
+      "plannedHit": true,
+      "x": -0.000012201800921565882,
+      "tx": -0.000002329586337168621,
+      "d": 8212.41666666632,
+      "time": 24.549999999999248,
+      "delta": 62.380953834170526
+    },
+    {
+      "span": 2,
+      "n": 4,
+      "target": -100,
+      "plannedHit": true,
+      "x": 99.99998900657513,
+      "tx": 99.99999534082752,
+      "d": 8478.74999999971,
+      "time": 25.333333333332536,
+      "delta": -124.7619018554686
+    },
+    {
+      "span": 2,
+      "n": 5,
+      "target": 0,
+      "plannedHit": true,
+      "x": -99.99999999973286,
+      "tx": -100.00000000000028,
+      "d": 8881.08333333313,
+      "time": 26.516666666665802,
+      "delta": 62.38095238095256
+    },
+    {
+      "span": 2,
+      "n": 6,
+      "target": 100,
+      "plannedHit": true,
+      "x": -0.000006391710735007063,
+      "tx": -0.0000023295864224337492,
+      "d": 9147.41666666652,
+      "time": 27.29999999999909,
+      "delta": 62.380953834170576
+    },
+    {
+      "span": 2,
+      "n": 7,
+      "target": -100,
+      "plannedHit": true,
+      "x": 99.99998900657503,
+      "tx": 99.99999534082744,
+      "d": 9413.74999999991,
+      "time": 28.08333333333238,
+      "delta": -124.76190185546854
+    }
+  ],
+  "errors": [],
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+  "offer": "The Lookout telescope\n\nCatch 12 of 15 colours on the Aurora Bridge to bring the Bell and Lantern home.\n\nBack to Town\nPlay Aurora Bridge",
+  "first": {
+    "id": "L28",
+    "target": 12,
+    "purpose": "",
+    "cue": "",
+    "objective": "Target 0 / 12 colours",
+    "startingWallet": 7682,
+    "pin": null
+  },
+  "receipt": "9 colours this time. You were aiming for 12.\n\nThe Aurora Bridge\n\nRoad report\nTry for 12 again\nTown",
+  "settled": {
+    "receipt": "9 colours this time. You were aiming for 12.\n\nThe Aurora Bridge\n\nRoad report\nTry for 12 again\nTown",
+    "action": "Try for 12 again",
+    "hit": 9,
+    "wallet": 8139,
+    "best": 9,
+    "pin": null
+  },
+  "next": {
+    "id": "L28",
+    "target": 12,
+    "purpose": "",
+    "cue": "",
+    "objective": "Target 0 / 12 colours",
+    "startingWallet": 8139,
+    "pin": null
+  },
+  "outcome": 9,
+  "method": "Normal-speed result and the chosen retry. Same fresh copy of the original profile, same road, native catch inputs and same original sound. Full crossing code is ordinary gameplay. The separate target check continues to completion."
+}

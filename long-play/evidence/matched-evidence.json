@@ -1,0 +1,207 @@
+{
+  "method": "Normal-speed captures through the first actionable decision. Fixed seed, 393×852, same accessibility settings, same original mix and matched native drag distances. Each arrangement was set through the real basket. Original and comparison saves agree on starting wallet, road progress, buildings, leader and settings. Town visits add session bookkeeping and the chosen place. No gameplay clock acceleration.",
+  "result": [
+    {
+      "intent": "town",
+      "seed": 317,
+      "viewport": {
+        "width": 393,
+        "height": 852
+      },
+      "inputs": [],
+      "control": "clips/play-control-town.webm",
+      "candidate": "clips/play-candidate-town.webm",
+      "beforeSeconds": 9.53,
+      "afterSeconds": 9.56,
+      "beforeNext": "Petals\n20\nWarm buns for everyone\n\nTap a neighbour to share a bun.\n\nBerry\nClover\nMochi\nBack to Town\nParade\nTown",
+      "afterNext": "Petals\n20\nWarm buns for everyone\n\nTap a neighbour to share a bun.\n\nBerry\nClover\nMochi\nBack to Town\nParade\nTown",
+      "beforePurchase": 120,
+      "price": 100,
+      "afterPurchase": 20
+    },
+    {
+      "intent": "cart",
+      "seed": 317,
+      "viewport": {
+        "width": 393,
+        "height": 852
+      },
+      "inputs": [
+        185,
+        32
+      ],
+      "control": "clips/play-control-cart-home.webm",
+      "candidate": "clips/play-candidate-cart-home.webm",
+      "beforeSeconds": 20.08,
+      "afterSeconds": 18.2,
+      "beforeNext": "Petals\n497\nWarm buns for everyone\n\nClover pats the basket. “Remember our bun on Drizzle Dell?”\n\nBerry\nClover\nMochi\nBack to Town\nParade\nTown",
+      "afterNext": "Petals\n497\nClover’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Clover can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town\nParade\nTown",
+      "startingWallet": 377,
+      "settledWallet": 497,
+      "home": 792,
+      "group": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 8,
+        "dryCalls": 0
+      },
+      "controlActions": [
+        "next",
+        "town",
+        "open-basket"
+      ],
+      "candidateActions": [
+        "bakery-table"
+      ]
+    },
+    {
+      "intent": "hood",
+      "seed": 317,
+      "viewport": {
+        "width": 393,
+        "height": 852
+      },
+      "inputs": [
+        185,
+        -285
+      ],
+      "control": "clips/play-control-hood-home.webm",
+      "candidate": "clips/play-candidate-hood-home.webm",
+      "beforeSeconds": 20.27,
+      "afterSeconds": 18.28,
+      "beforeNext": "Petals\n497\nWarm buns for everyone\n\nClover pats the basket. “Remember our bun on Drizzle Dell?”\n\nBerry\nClover\nMochi\nBack to Town\nParade\nTown",
+      "afterNext": "Petals\n497\nClover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town\nParade\nTown",
+      "startingWallet": 377,
+      "settledWallet": 497,
+      "home": 1976,
+      "group": {
+        "scene": "awning",
+        "joined": 3,
+        "total": 3,
+        "called": 0,
+        "cart": 0,
+        "dryCalls": 0
+      },
+      "controlActions": [
+        "next",
+        "town",
+        "open-basket"
+      ],
+      "candidateActions": [
+        "bakery-table"
+      ]
+    },
+    {
+      "intent": "miss",
+      "seed": 317,
+      "viewport": {
+        "width": 393,
+        "height": 852
+      },
+      "inputs": [
+        185,
+        -82
+      ],
+      "control": "clips/play-control-miss-unoccupied.webm",
+      "candidate": "clips/play-candidate-miss-waiting.webm",
+      "beforeSeconds": 20.45,
+      "afterSeconds": 18.32,
+      "beforeNext": "Petals\n477\nWarm buns for everyone\n\nClover pats the basket. “Remember our bun on Drizzle Dell?”\n\nBerry\nClover\nMochi\nBack to Town\nParade\nTown",
+      "afterNext": "Petals\n477\nClover’s table\n\nThe dry corner is set for three yellow raincoats.\n\nSeat the raincoats\nMake room for the cart\nWalk Drizzle Dell\nKeep the last yellow hood under the left awning.\nShare buns\nBack to Town\nParade\nTown",
+      "startingWallet": 377,
+      "settledWallet": 477,
+      "home": 834,
+      "group": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 0,
+        "dryCalls": 0
+      },
+      "controlActions": [
+        "next",
+        "town",
+        "open-basket"
+      ],
+      "candidateActions": [
+        "bakery-table"
+      ]
+    },
+    {
+      "intent": "mochi",
+      "seed": 317,
+      "viewport": {
+        "width": 393,
+        "height": 852
+      },
+      "inputs": [
+        -135
+      ],
+      "control": "clips/play-control-mochi-home.webm",
+      "candidate": "clips/play-candidate-mochi-home.webm",
+      "beforeSeconds": 11.04,
+      "afterSeconds": 9.97,
+      "beforeNext": "Petals\n7,783\nWarm buns for everyone\n\nMochi pats the basket. “Remember our bun on Sleepy Signs?”\n\nBerry\nClover\nMochi\nMarket lantern\nBack to Town\nParade\nTown",
+      "afterNext": "Petals\n7,710\nMochi’s table\n\nHome from Sleepy Signs, Mochi lays out the buns. Who’s coming?\n\nSeat the raincoats\nMake room for the cart\nShare buns\nBack to Town\nParade\nTown",
+      "startingWallet": 7682,
+      "settledWallet": 7783,
+      "home": 244,
+      "controlActions": [
+        "[data-act=later]:visible",
+        "[data-ring=square]:visible",
+        ".hotspot[data-key=bun-basket]",
+        "[data-moment=\"2\"]:visible",
+        "[data-moment=parade]:visible",
+        ".lc-sheet [data-act=go]",
+        ".results [data-act=meta]:visible",
+        "[data-ring=square]:visible",
+        ".hotspot[data-key=bun-basket]"
+      ],
+      "candidateActions": [
+        "[data-act=later]:visible",
+        "[data-ring=square]:visible",
+        ".hotspot[data-key=bun-basket]",
+        "[data-moment=\"2\"]:visible",
+        "[data-moment=parade]:visible",
+        ".lc-sheet [data-act=go]",
+        "[data-act=bakery-table]:visible"
+      ]
+    },
+    {
+      "intent": "river",
+      "seed": 317,
+      "viewport": {
+        "width": 393,
+        "height": 852
+      },
+      "inputs": [
+        -290,
+        130
+      ],
+      "control": "clips/play-control-river-both.webm",
+      "candidate": "clips/play-candidate-river-hood.webm",
+      "beforeSeconds": 30.27,
+      "afterSeconds": 31.03,
+      "beforeNext": "Parade size\n1,985\nParade of 1985 reached the end.\n1,985 friends home!\n\nLantern River\n\nBoth rafts made it. The raincoats waved to the cart riders across the water.\n\nRoad report\nNext: Nap Cat Crossing\nMeet the ducks",
+      "afterNext": "Petals\n1,474\nClover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town\nParade\nTown",
+      "startingWallet": 1326,
+      "settledWallet": 1474,
+      "home": 1985,
+      "group": {
+        "left": 146,
+        "total": 161,
+        "groups": {
+          "raincoats": true,
+          "cart": true
+        }
+      },
+      "controlActions": [],
+      "candidateActions": [
+        "bakery-table"
+      ]
+    }
+  ]
+}

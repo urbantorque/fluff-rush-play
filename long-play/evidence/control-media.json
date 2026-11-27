@@ -1,0 +1,245 @@
+{
+  "method": "Decoded each final WebM in Chromium; checked native dimensions, wall-time match, seekability and energy of each decoded soundtrack channel.",
+  "rows": [
+    {
+      "file": "play-control-cart-home.webm",
+      "bytes": 3794312,
+      "sha256": "fd0032f68bef17392d8c5cf59593ff91f5d1fa0edd30762259b08689f1743bad",
+      "wallSeconds": 20.083,
+      "duration": 20.066,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 20.04,
+      "channels": [
+        {
+          "rms": 0.02584,
+          "peak": 0.37012
+        },
+        {
+          "rms": 0.02678,
+          "peak": 0.37012
+        }
+      ]
+    },
+    {
+      "file": "play-control-compose-020.webm",
+      "bytes": 948654,
+      "sha256": "dcdc3464b15228ee7d055eb73cbb315c23cf0f14ff6b429ee92e37a941c76326",
+      "wallSeconds": 7.27,
+      "duration": 7.266,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 7.26,
+      "channels": [
+        {
+          "rms": 0.03853,
+          "peak": 0.31866
+        },
+        {
+          "rms": 0.03865,
+          "peak": 0.31866
+        }
+      ]
+    },
+    {
+      "file": "play-control-compose-11111111.webm",
+      "bytes": 1316121,
+      "sha256": "b22b5405d2b20adbf63cbc2cd2906a4c056a8ec0526dba91cef69a530aee81a2",
+      "wallSeconds": 11.718,
+      "duration": 11.733,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 11.7,
+      "channels": [
+        {
+          "rms": 0.03622,
+          "peak": 0.31255
+        },
+        {
+          "rms": 0.03615,
+          "peak": 0.30433
+        }
+      ]
+    },
+    {
+      "file": "play-control-compose-221.webm",
+      "bytes": 948220,
+      "sha256": "8e7c5d5effe065e91d4a7b49d2b5acf0fe3243e1fc958e1d713501fb8aea974c",
+      "wallSeconds": 7.251,
+      "duration": 7.266,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 7.2,
+      "channels": [
+        {
+          "rms": 0.03831,
+          "peak": 0.30362
+        },
+        {
+          "rms": 0.03821,
+          "peak": 0.29925
+        }
+      ]
+    },
+    {
+      "file": "play-control-fig-first-opening.webm",
+      "bytes": 2030657,
+      "sha256": "e3a161e925c3ece6154b536e679310dcecbe07ff4711e1d8171b3657df55867d",
+      "wallSeconds": 30.714,
+      "duration": 30.7,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 30.66,
+      "channels": [
+        {
+          "rms": 0.02071,
+          "peak": 0.16911
+        },
+        {
+          "rms": 0.02065,
+          "peak": 0.14476
+        }
+      ]
+    },
+    {
+      "file": "play-control-goal-breakfast.webm",
+      "bytes": 2246641,
+      "sha256": "3538a0c35645d9d4a8b397467b4019476c6ba2bcb0f34b202154be3ebf4cfc27",
+      "wallSeconds": 10.747,
+      "duration": 10.733,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 10.74,
+      "channels": [
+        {
+          "rms": 0.03227,
+          "peak": 0.41631
+        },
+        {
+          "rms": 0.03194,
+          "peak": 0.41604
+        }
+      ]
+    },
+    {
+      "file": "play-control-goal-telescope.webm",
+      "bytes": 1717669,
+      "sha256": "a9a7726ab3f53715a833fb412361587c841f4918304a30bb5a20ef72fbca65a9",
+      "wallSeconds": 8,
+      "duration": 8,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 7.98,
+      "channels": [
+        {
+          "rms": 0.04934,
+          "peak": 0.45289
+        },
+        {
+          "rms": 0.04909,
+          "peak": 0.45192
+        }
+      ]
+    },
+    {
+      "file": "play-control-hood-home.webm",
+      "bytes": 3806606,
+      "sha256": "bfe59ffe8febead5b4b17069f7b20e62cc60d53954f477e2e23d2b1f790a34de",
+      "wallSeconds": 20.267,
+      "duration": 20.266,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 20.22,
+      "channels": [
+        {
+          "rms": 0.02897,
+          "peak": 0.45188
+        },
+        {
+          "rms": 0.02831,
+          "peak": 0.4516
+        }
+      ]
+    },
+    {
+      "file": "play-control-miss-unoccupied.webm",
+      "bytes": 3836949,
+      "sha256": "9dbb3699dc20f33ceee81d298ce9248c4013ed07ef8d6dab706bc52def09585f",
+      "wallSeconds": 20.454,
+      "duration": 20.466,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 20.4,
+      "channels": [
+        {
+          "rms": 0.02455,
+          "peak": 0.39207
+        },
+        {
+          "rms": 0.02541,
+          "peak": 0.39228
+        }
+      ]
+    },
+    {
+      "file": "play-control-mochi-home.webm",
+      "bytes": 2103220,
+      "sha256": "e2eb044721072f2274d3ac6c8215c8b8b1065d6464ba02241cf2b998248b1d87",
+      "wallSeconds": 11.043,
+      "duration": 11.033,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 11.04,
+      "channels": [
+        {
+          "rms": 0.02307,
+          "peak": 0.36937
+        },
+        {
+          "rms": 0.02209,
+          "peak": 0.36924
+        }
+      ]
+    },
+    {
+      "file": "play-control-river-both.webm",
+      "bytes": 6167307,
+      "sha256": "93be97435da1d99c1067ebb5104bf54fb8d14018c34f4f680bf355f71ad2e8f5",
+      "wallSeconds": 30.267,
+      "duration": 30.266,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 30.24,
+      "channels": [
+        {
+          "rms": 0.029,
+          "peak": 0.39111
+        },
+        {
+          "rms": 0.028,
+          "peak": 0.39111
+        }
+      ]
+    },
+    {
+      "file": "play-control-town.webm",
+      "bytes": 1009639,
+      "sha256": "d80f84a442c170c856017a9c50455a25d71703434616b27a83389aab4372c31c",
+      "wallSeconds": 9.527,
+      "duration": 9.533,
+      "width": 393,
+      "height": 852,
+      "audioDuration": 9.48,
+      "channels": [
+        {
+          "rms": 0.0219,
+          "peak": 0.20086
+        },
+        {
+          "rms": 0.02166,
+          "peak": 0.17657
+        }
+      ]
+    }
+  ]
+}

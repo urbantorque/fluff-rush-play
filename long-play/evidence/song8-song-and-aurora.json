@@ -1,0 +1,216 @@
+{
+  "method": "A single continuous copy of the earned save. Played an eight-Honey rehearsal, opened the real telescope from its restored Lookout and took the full authored Aurora Bridge. Native contacts on all 15 planks; diagnostic expert travel on the rest of the full road. Reopened the same save and played the personal phrase again.",
+  "file": ".tmp/long-play/phrases/control-11111111.json",
+  "start": {
+    "wallet": 7682,
+    "best": 5078,
+    "stars": 1,
+    "plays": 7,
+    "mark": 9,
+    "colours": 63,
+    "song": "town:tune:11111111"
+  },
+  "first": "Your welcome song\n\n◆\n◆\n◆\n◆\n◆\n◆\n◆\n◆\n\n8 of 8 notes played.\n\nBack to Band Stand\nChange a note\nSteer it again",
+  "afterFirst": {
+    "wallet": 7682,
+    "best": 5078,
+    "stars": 1,
+    "plays": 7,
+    "mark": 9,
+    "colours": 63,
+    "song": "town:tune:11111111"
+  },
+  "telescope": "The Lookout telescope\n\nCatch 12 of 15 colours on the Aurora Bridge to bring the Bell and Lantern home.\n\nBack to Town\nPlay Aurora Bridge",
+  "pattern": [
+    "11111100",
+    "1111110"
+  ],
+  "moves": [
+    {
+      "span": 1,
+      "n": 1,
+      "target": -100,
+      "plannedHit": true,
+      "x": -99.94715617881799,
+      "tx": -100,
+      "d": 2851.750000000021,
+      "time": 8.783333333333475,
+      "delta": 0
+    },
+    {
+      "span": 1,
+      "n": 2,
+      "target": 0,
+      "plannedHit": true,
+      "x": -99.99999999999997,
+      "tx": -100,
+      "d": 3282.4166666667106,
+      "time": 10.05000000000007,
+      "delta": 62.38095238095238
+    },
+    {
+      "span": 1,
+      "n": 3,
+      "target": -100,
+      "plannedHit": true,
+      "x": -0.0000024439379372239846,
+      "tx": -0.000002329586138216655,
+      "d": 3605.416666666728,
+      "time": 11.000000000000016,
+      "delta": -62.38095092773437
+    },
+    {
+      "span": 1,
+      "n": 4,
+      "target": 0,
+      "plannedHit": true,
+      "x": -99.99999995333994,
+      "tx": -100.00000000000004,
+      "d": 3928.416666666745,
+      "time": 11.949999999999962,
+      "delta": 62.38095238095241
+    },
+    {
+      "span": 1,
+      "n": 5,
+      "target": 100,
+      "plannedHit": true,
+      "x": -0.0000023762463006754737,
+      "tx": -0.000002329586180849219,
+      "d": 4251.416666666738,
+      "time": 12.899999999999908,
+      "delta": 62.380953834170434
+    },
+    {
+      "span": 1,
+      "n": 6,
+      "target": 0,
+      "plannedHit": true,
+      "x": 99.99999529416758,
+      "tx": 99.99999534082768,
+      "d": 4574.416666666703,
+      "time": 13.849999999999854,
+      "delta": -62.380949474516314
+    },
+    {
+      "span": 1,
+      "n": 7,
+      "target": -100,
+      "plannedHit": false,
+      "x": -0.0000022152344244747195,
+      "tx": -0.0000023295862234817832,
+      "d": 4897.416666666669,
+      "time": 14.7999999999998,
+      "delta": -62.38095092773431
+    },
+    {
+      "span": 1,
+      "n": 8,
+      "target": 100,
+      "plannedHit": false,
+      "x": -99.99999988564834,
+      "tx": -100.00000000000013,
+      "d": 5220.416666666634,
+      "time": 15.749999999999746,
+      "delta": 124.76190476190483
+    },
+    {
+      "span": 2,
+      "n": 1,
+      "target": -100,
+      "plannedHit": true,
+      "x": 99.9999953408276,
+      "tx": 99.99999534082762,
+      "d": 7521.083333333055,
+      "time": 22.51666666666603,
+      "delta": -124.76190185546868
+    },
+    {
+      "span": 2,
+      "n": 2,
+      "target": 0,
+      "plannedHit": true,
+      "x": -99.99999999995639,
+      "tx": -100.00000000000018,
+      "d": 7951.749999999675,
+      "time": 23.783333333332624,
+      "delta": 62.38095238095249
+    },
+    {
+      "span": 2,
+      "n": 3,
+      "target": 100,
+      "plannedHit": true,
+      "x": -0.000017707606200842567,
+      "tx": -0.0000023295863229577662,
+      "d": 8212.41666666632,
+      "time": 24.549999999999248,
+      "delta": 62.38095383417052
+    },
+    {
+      "span": 2,
+      "n": 4,
+      "target": -100,
+      "plannedHit": true,
+      "x": 99.99998546861298,
+      "tx": 99.99999534082754,
+      "d": 8478.74999999971,
+      "time": 25.333333333332536,
+      "delta": -124.7619018554686
+    },
+    {
+      "span": 2,
+      "n": 5,
+      "target": 0,
+      "plannedHit": true,
+      "x": -99.99999999973285,
+      "tx": -100.00000000000027,
+      "d": 8881.08333333313,
+      "time": 26.516666666665802,
+      "delta": 62.38095238095255
+    },
+    {
+      "span": 2,
+      "n": 6,
+      "target": 100,
+      "plannedHit": true,
+      "x": -0.000008663838812609678,
+      "tx": -0.0000023295864082228945,
+      "d": 9147.41666666652,
+      "time": 27.29999999999909,
+      "delta": 62.380953834170576
+    },
+    {
+      "span": 2,
+      "n": 7,
+      "target": 100,
+      "plannedHit": false,
+      "x": 99.99998546861288,
+      "tx": 99.99999534082745,
+      "d": 9413.74999999991,
+      "time": 28.08333333333238,
+      "delta": 0.000002906436207540862
+    }
+  ],
+  "receipt": "12 of 15 colours caught!\n\n4 constellations on your fountain path.\n\nRoad Petals\nIncludes 79 from the Workshop and 30 from Meadow\n+296 \nVillage Board request\n+100 Petals\nRoad report\nSee my constellations\nTown",
+  "full": {
+    "wallet": 8099,
+    "best": 14952,
+    "stars": 3,
+    "plays": 8,
+    "mark": 12,
+    "colours": 63,
+    "song": "town:tune:11111111"
+  },
+  "second": "Your welcome song\n\n◆\n◆\n◆\n◆\n◆\n◆\n◆\n◆\n\n8 of 8 notes played.\n\nBack to Band Stand\nChange a note\nSteer it again",
+  "final": {
+    "wallet": 8099,
+    "best": 14952,
+    "stars": 3,
+    "plays": 8,
+    "mark": 12,
+    "colours": 63,
+    "song": "town:tune:11111111"
+  },
+  "errors": []
+}

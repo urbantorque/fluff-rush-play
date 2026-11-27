@@ -1,0 +1,49 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "readingHoldSeconds": 2.2,
+  "duration": 18.196199893951416,
+  "marks": {
+    "approach": 0.01,
+    "planInput": 1.728,
+    "group": 3.904,
+    "receipt": 14.693,
+    "nextDecision": 15.98
+  },
+  "frames": 1085,
+  "inputs": [
+    {
+      "delta": 185,
+      "time": 0.18333333333333332,
+      "d": 1.7157660590277768,
+      "x": 53.87808182329905
+    },
+    {
+      "delta": 32,
+      "time": 22.39999999999937,
+      "d": 5221.499999999896,
+      "x": 131.99999999999994
+    }
+  ],
+  "errors": [],
+  "method": "Native touch at normal speed. Entry via map node. Seed 317, full playable road. Distance only schedules the matched inputs and starts recording.",
+  "file": "docs/Fluff-Rush-long-play/evidence/before-drizzle-cart.json",
+  "cardText": "Hushvale Meadow · Level 4\n\nDrizzle Dell\n\nClover is saving the wide end. Meet the red cart on the right, past the shower.\n\nTambo · Drum Call\nChange leader\nRoad options\nStart with Clover\nBack",
+  "actions": [
+    "bakery-table"
+  ],
+  "group": {
+    "scene": "awning",
+    "joined": 0,
+    "total": 3,
+    "called": 0,
+    "cart": 8,
+    "dryCalls": 0
+  },
+  "roadReceipt": "Parade size\n792\nFriends woken this run: 3\n3 woken\nParade of 792 reached the end.\n792 friends home!\n\nDrizzle Dell\n\nEight cart riders caught a lift on the right.\n\n2 stars at 1,900 friends home\n\nTotal Petals\nIncludes 20 from Runaway\n+120 \nRoad report\nBack to Clover’s table\nA rider has the bun basket.\nNext road",
+  "next": "Petals\n497\nClover’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Clover can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town\nParade\nTown"
+}

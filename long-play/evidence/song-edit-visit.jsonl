@@ -1,0 +1,99 @@
+{"utc":"2026-11-27T15:35:21.642Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-UDL1HUoU.js"}
+{"utc":"2026-11-27T15:35:21.919Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T15:35:34.674Z","event":"note","text":"Supplied first rehearsal. I kept Mint Mint Honey at the original Lookout. I want to hear Tambo play it, hold right through the two triangles, then come back to the middle."}
+{"utc":"2026-11-27T15:35:34.749Z","event":"input","line":"read","ms":73}
+{"utc":"2026-11-27T15:35:34.921Z","event":"input","line":"buttons","ms":170}
+{"utc":"2026-11-27T15:35:38.796Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T15:35:38.860Z","event":"input","line":"button Later","ms":326}
+{"utc":"2026-11-27T15:35:39.145Z","event":"input","line":"choice Band Stand, restoration and visits","ms":285}
+{"utc":"2026-11-27T15:35:39.177Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T15:35:39.227Z","event":"input","line":"read","ms":81}
+{"utc":"2026-11-27T15:35:39.360Z","event":"input","line":"buttons","ms":133}
+{"utc":"2026-11-27T15:35:56.976Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T15:35:57.040Z","event":"input","line":"button Steer your welcome song","ms":299}
+{"utc":"2026-11-27T15:35:57.307Z","event":"input","line":"right 135","ms":266}
+{"utc":"2026-11-27T15:36:01.557Z","event":"input","line":"watch 4","ms":4250}
+{"utc":"2026-11-27T15:36:01.823Z","event":"input","line":"left 100","ms":265}
+{"utc":"2026-11-27T15:36:05.490Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T15:36:06.039Z","event":"input","line":"watch 4","ms":4216}
+{"utc":"2026-11-27T15:36:06.089Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T15:36:11.088Z","event":"input","line":"buttons","ms":46}
+{"utc":"2026-11-27T15:36:43.917Z","event":"note","text":"One of three. I could see two triangles on the bridge but the Square buttons covered the song cue and I crossed before the second triangle had reached me. I want to replay this with the actual rehearsal HUD, then see if keeping a note requires another push."}
+{"utc":"2026-11-27T15:36:43.933Z","event":"leave"}
+{"utc":"2026-11-27T15:36:43.935Z","event":"quit"}
+{"utc":"2026-11-27T15:36:50.282Z","event":"open","url":"http://localhost:4173/","asset":"./assets/index-CtydRvpd.js"}
+{"utc":"2026-11-27T15:36:50.438Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T15:37:02.886Z","event":"input","line":"read","ms":75}
+{"utc":"2026-11-27T15:37:08.510Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T15:37:08.560Z","event":"input","line":"button Later","ms":472}
+{"utc":"2026-11-27T15:37:08.797Z","event":"input","line":"choice Band Stand, restoration and visits","ms":235}
+{"utc":"2026-11-27T15:37:08.798Z","event":"note","text":"I will stay in the right lane an extra beat. I want the held Mint to play before I cross for Honey."}
+{"utc":"2026-11-27T15:37:09.180Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T15:37:09.321Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T15:37:09.373Z","event":"input","line":"button Steer your welcome song","ms":573}
+{"utc":"2026-11-27T15:37:09.656Z","event":"input","line":"right 72","ms":282}
+{"utc":"2026-11-27T15:37:15.961Z","event":"input","line":"watch 6","ms":6304}
+{"utc":"2026-11-27T15:37:16.262Z","event":"input","line":"left 68","ms":301}
+{"utc":"2026-11-27T15:37:17.798Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T15:37:19.468Z","event":"input","line":"watch 3","ms":3205}
+{"utc":"2026-11-27T15:37:19.522Z","event":"input","line":"read","ms":52}
+{"utc":"2026-11-27T15:37:25.088Z","event":"input","line":"buttons","ms":72}
+{"utc":"2026-11-27T15:37:33.179Z","event":"note","text":"All three landed. The second triangle was a hold. I do not need to repeat these two movements for their own sake. I will take the supplied third run, then change the middle Mint to Rose to give the same three notes a crossing."}
+{"utc":"2026-11-27T15:37:33.319Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T15:37:33.373Z","event":"input","line":"button Steer it again","ms":193}
+{"utc":"2026-11-27T15:37:33.674Z","event":"input","line":"right 72","ms":300}
+{"utc":"2026-11-27T15:37:40.007Z","event":"input","line":"watch 6","ms":6332}
+{"utc":"2026-11-27T15:37:40.273Z","event":"input","line":"left 68","ms":266}
+{"utc":"2026-11-27T15:37:42.152Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T15:37:43.508Z","event":"input","line":"watch 3","ms":3234}
+{"utc":"2026-11-27T15:37:43.572Z","event":"input","line":"read","ms":63}
+{"utc":"2026-11-27T15:37:43.729Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T15:37:43.771Z","event":"input","line":"button Change a note","ms":199}
+{"utc":"2026-11-27T15:37:43.822Z","event":"input","line":"read","ms":51}
+{"utc":"2026-11-27T15:37:43.896Z","event":"input","line":"buttons","ms":73}
+{"utc":"2026-11-27T15:38:13.589Z","event":"input","line":"buttons","ms":69}
+{"utc":"2026-11-27T15:38:35.134Z","event":"input","line":"button Change note 2, Mint","ms":117}
+{"utc":"2026-11-27T15:38:37.640Z","event":"input-error","line":"button Rose","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Rose', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T15:38:40.153Z","event":"input-error","line":"button Listen","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Listen', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T15:38:41.252Z","event":"input","line":"watch 1","ms":1098}
+{"utc":"2026-11-27T15:38:43.768Z","event":"input-error","line":"button Keep this song","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Keep this song', exact: true }).last()\u001b[22m\n"}
+{"utc":"2026-11-27T15:38:43.817Z","event":"input","line":"read","ms":47}
+{"utc":"2026-11-27T15:38:43.825Z","event":"note","text":"I changed only the second triangle to a Rose. I expect a hard right to left turn instead of staying still, then a short move to Honey. I choose to play this version."}
+{"utc":"2026-11-27T15:38:43.974Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T15:38:44.015Z","event":"input","line":"button Steer it with Tambo","ms":169}
+{"utc":"2026-11-27T15:38:44.284Z","event":"input","line":"right 72","ms":268}
+{"utc":"2026-11-27T15:38:49.501Z","event":"input","line":"watch 5","ms":5217}
+{"utc":"2026-11-27T15:38:49.802Z","event":"input","line":"left 143","ms":301}
+{"utc":"2026-11-27T15:38:50.926Z","event":"input","line":"watch 1","ms":1123}
+{"utc":"2026-11-27T15:38:51.205Z","event":"input","line":"right 72","ms":278}
+{"utc":"2026-11-27T15:38:52.584Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T15:38:54.400Z","event":"input","line":"watch 3","ms":3194}
+{"utc":"2026-11-27T15:38:54.450Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T15:39:07.734Z","event":"input","line":"buttons","ms":51}
+{"utc":"2026-11-27T15:39:21.222Z","event":"note","text":"That attempt still played the old phrase. The text button named Rose was visible, but its accessible name included the drawn circle. I did not save an edit. I will set the middle note visibly and check its shape before steering."}
+{"utc":"2026-11-27T15:39:21.336Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T15:39:21.382Z","event":"input","line":"button Change a note","ms":159}
+{"utc":"2026-11-27T15:39:21.516Z","event":"input","line":"button Change note 2, Mint","ms":133}
+{"utc":"2026-11-27T15:39:21.616Z","event":"input","line":"choice ^.*Rose$","ms":99}
+{"utc":"2026-11-27T15:39:21.666Z","event":"input","line":"read","ms":49}
+{"utc":"2026-11-27T15:39:25.899Z","event":"input","line":"button Listen","ms":146}
+{"utc":"2026-11-27T15:39:26.982Z","event":"input","line":"watch 1","ms":1083}
+{"utc":"2026-11-27T15:39:27.102Z","event":"input","line":"button Keep this song","ms":120}
+{"utc":"2026-11-27T15:39:27.117Z","event":"note","text":"The middle shape is a circle now, between a triangle and a diamond. I saved it, and will cross after the first landing."}
+{"utc":"2026-11-27T15:39:27.271Z","event":"view","road":"rehearsal:welcome-song","phase":"walk","screen":"square","result":false,"crowd":8}
+{"utc":"2026-11-27T15:39:27.316Z","event":"input","line":"button Steer it with Tambo","ms":184}
+{"utc":"2026-11-27T15:39:27.609Z","event":"input","line":"right 72","ms":292}
+{"utc":"2026-11-27T15:39:32.833Z","event":"input","line":"watch 5","ms":5223}
+{"utc":"2026-11-27T15:39:33.102Z","event":"input","line":"left 143","ms":268}
+{"utc":"2026-11-27T15:39:34.273Z","event":"input","line":"watch 1","ms":1170}
+{"utc":"2026-11-27T15:39:34.531Z","event":"input","line":"right 72","ms":257}
+{"utc":"2026-11-27T15:39:36.184Z","event":"view","road":"rehearsal:welcome-song","phase":"done","screen":"Your welcome song","result":false,"crowd":8}
+{"utc":"2026-11-27T15:39:37.682Z","event":"input","line":"watch 3","ms":3150}
+{"utc":"2026-11-27T15:39:37.729Z","event":"input","line":"read","ms":46}
+{"utc":"2026-11-27T15:40:03.033Z","event":"input","line":"buttons","ms":64}
+{"utc":"2026-11-27T15:40:51.332Z","event":"note","text":"Three of three with the saved 201. The circle needed a wide turn at the point where the old tune let me stay still. I have heard my answer. I choose the Band Stand and will leave the song here. The unprompted final visit on the release will begin from the original earned save."}
+{"utc":"2026-11-27T15:40:51.564Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T15:40:51.661Z","event":"input","line":"button Back to Band Stand","ms":327}
+{"utc":"2026-11-27T15:40:51.786Z","event":"input","line":"read","ms":125}
+{"utc":"2026-11-27T15:40:51.806Z","event":"leave"}
+{"utc":"2026-11-27T15:40:51.806Z","event":"quit"}

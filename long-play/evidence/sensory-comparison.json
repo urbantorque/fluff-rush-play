@@ -1,0 +1,295 @@
+{
+  "method": "Independent before/after normal web builds, actual production controls and native rendered output. Leader calls have a deterministic test clock. Frame sampling ran on otherwise unloaded local Chromium with video capture off. These are desktop-host timings.",
+  "forms": [
+    {
+      "size": "393x852",
+      "screens": [
+        "map",
+        "daily",
+        "wardrobe",
+        "album",
+        "settings",
+        "storybook",
+        "drizzle-card",
+        "leader",
+        "road-hud",
+        "pause",
+        "bakery-upgrade",
+        "basket",
+        "back-to-town"
+      ],
+      "errors": [],
+      "horizontalOverflow": []
+    },
+    {
+      "size": "568x320",
+      "screens": [
+        "map",
+        "daily",
+        "wardrobe",
+        "album",
+        "settings",
+        "storybook",
+        "drizzle-card",
+        "leader",
+        "road-hud",
+        "pause",
+        "bakery-upgrade",
+        "basket",
+        "back-to-town"
+      ],
+      "errors": [],
+      "horizontalOverflow": []
+    },
+    {
+      "size": "1280x800",
+      "screens": [
+        "map",
+        "daily",
+        "wardrobe",
+        "album",
+        "settings",
+        "storybook",
+        "drizzle-card",
+        "leader",
+        "road-hud",
+        "pause",
+        "bakery-upgrade",
+        "basket",
+        "back-to-town"
+      ],
+      "errors": [],
+      "horizontalOverflow": []
+    }
+  ],
+  "leaders": [
+    {
+      "leader": "pip",
+      "ability": "huddle",
+      "calls": 1
+    },
+    {
+      "leader": "tambo",
+      "ability": "drum",
+      "calls": 1
+    },
+    {
+      "leader": "otto",
+      "ability": "umbrella",
+      "calls": 1
+    },
+    {
+      "leader": "suki",
+      "ability": "treats",
+      "calls": 1
+    },
+    {
+      "leader": "wren",
+      "ability": "lantern",
+      "calls": 1
+    }
+  ],
+  "cues": {
+    "earlyDrumAnswer": null,
+    "answerFriends": 1,
+    "answerVoiceCount": 5,
+    "gate": 750,
+    "seedfallPilot": 6,
+    "seedfallPassenger": true,
+    "nextOrdinaryCue": true
+  },
+  "bazaar": [
+    {
+      "text": "×1.25",
+      "screenX": 219.1,
+      "screenY": 497.3,
+      "fontCssPixels": 15,
+      "gameSeconds": 16.25
+    },
+    {
+      "text": "×1.5",
+      "screenX": 170,
+      "screenY": 499.8,
+      "fontCssPixels": 15,
+      "gameSeconds": 16.97
+    },
+    {
+      "text": "×1.75",
+      "screenX": 266,
+      "screenY": 589.1,
+      "fontCssPixels": 15,
+      "gameSeconds": 8.53
+    }
+  ],
+  "baselines": {
+    "mix": {
+      "seconds": 90.6,
+      "channels": 2,
+      "peak": 0.46612548828125,
+      "nearClipSamples": 0
+    },
+    "crowdedRoad": [
+      {
+        "side": "left",
+        "afterFork": 4301,
+        "homeSegmentEnd": 14500,
+        "frames": 771,
+        "frameP95Ms": 33.3,
+        "paintP95Ms": 14.4,
+        "over50Ms": 10
+      },
+      {
+        "side": "right",
+        "afterFork": 6662,
+        "homeSegmentEnd": 22544,
+        "frames": 801,
+        "frameP95Ms": 16.8,
+        "paintP95Ms": 13.1,
+        "over50Ms": 0
+      },
+      {
+        "side": "right",
+        "afterFork": 6662,
+        "homeSegmentEnd": 22544,
+        "frames": 764,
+        "frameP95Ms": 33.3,
+        "paintP95Ms": 14.5,
+        "over50Ms": 2
+      },
+      {
+        "side": "left",
+        "afterFork": 4301,
+        "homeSegmentEnd": 14500,
+        "frames": 810,
+        "frameP95Ms": 16.8,
+        "paintP95Ms": 13,
+        "over50Ms": 0
+      }
+    ]
+  },
+  "candidate": {
+    "mix": {
+      "seconds": 90.9,
+      "channels": 2,
+      "peak": 0.4923245906829834,
+      "nearClipSamples": 0
+    },
+    "crowdedRoad": [
+      {
+        "side": "left",
+        "afterFork": 4301,
+        "homeSegmentEnd": 14500,
+        "frames": 834,
+        "frameP95Ms": 16.8,
+        "paintP95Ms": 10.6,
+        "over50Ms": 0
+      },
+      {
+        "side": "right",
+        "afterFork": 6662,
+        "homeSegmentEnd": 22544,
+        "frames": 835,
+        "frameP95Ms": 16.8,
+        "paintP95Ms": 10.3,
+        "over50Ms": 0
+      },
+      {
+        "side": "right",
+        "afterFork": 6662,
+        "homeSegmentEnd": 22544,
+        "frames": 834,
+        "frameP95Ms": 16.7,
+        "paintP95Ms": 10.4,
+        "over50Ms": 0
+      },
+      {
+        "side": "left",
+        "afterFork": 4301,
+        "homeSegmentEnd": 14500,
+        "frames": 833,
+        "frameP95Ms": 16.7,
+        "paintP95Ms": 10.8,
+        "over50Ms": 0
+      }
+    ]
+  },
+  "bakeryInSilence": {
+    "music": false,
+    "soundEffects": false,
+    "reducedMotion": true
+  },
+  "staticSong": [
+    {
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "keys": false,
+      "muted": true,
+      "reducedMotion": true,
+      "hits": [
+        true,
+        true,
+        true
+      ],
+      "contacts": 3,
+      "oppositeLaneMs": [
+        265,
+        266
+      ],
+      "spareMs": [
+        467,
+        447
+      ],
+      "ordinarySaveKeysChanged": []
+    },
+    {
+      "viewport": {
+        "width": 568,
+        "height": 320
+      },
+      "keys": true,
+      "muted": true,
+      "reducedMotion": true,
+      "hits": [
+        true,
+        true,
+        true
+      ],
+      "contacts": 3,
+      "oppositeLaneMs": [
+        498,
+        495
+      ],
+      "spareMs": [
+        218,
+        215
+      ],
+      "ordinarySaveKeysChanged": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "keys": false,
+      "muted": true,
+      "reducedMotion": true,
+      "hits": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "contacts": 0,
+      "oppositeLaneMs": [],
+      "spareMs": [],
+      "ordinarySaveKeysChanged": []
+    }
+  ],
+  "listeningJudgement": "Human listening fatigue was unassessed. The source music and effects are available in the reel, separate films and continuous capture."
+}

@@ -1,0 +1,93 @@
+{
+  "fixture": ".tmp/long-play/table-journeys/prototype4-late-settled.json",
+  "method": "Three independent simulated calendar absences on a copy of the same save. Entered Town, declined the gift and reopened the Bakery with reduced motion. This establishes state correctness only.",
+  "rows": [
+    {
+      "gap": 1,
+      "date": "2026-11-28",
+      "startingWallet": 8135,
+      "unchangedWallet": 8135,
+      "everOwned": 9,
+      "rememberedFlags": [
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:hood",
+        "town:river-lily:2",
+        "breakfast:guest:cart",
+        "town:river-lily:0",
+        "breakfast:guest:wade",
+        "breakfast:guest:drum",
+        "breakfast:guest:painters",
+        "town:bakery-lamp:table",
+        "town:river-lily:1",
+        "town:basket:yuzu",
+        "town:table-welcome:cart",
+        "town:table-welcome:hood",
+        "town:bun-outing:yuzu:L9",
+        "town:bun-greeted",
+        "town:bakery-table:yuzu:cart"
+      ],
+      "giftOffered": "Collect 40 Petals",
+      "place": "Mochi’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Mochi can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 7,
+      "date": "2026-12-04",
+      "startingWallet": 8135,
+      "unchangedWallet": 8135,
+      "everOwned": 9,
+      "rememberedFlags": [
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:hood",
+        "town:river-lily:2",
+        "breakfast:guest:cart",
+        "town:river-lily:0",
+        "breakfast:guest:wade",
+        "breakfast:guest:drum",
+        "breakfast:guest:painters",
+        "town:bakery-lamp:table",
+        "town:river-lily:1",
+        "town:basket:yuzu",
+        "town:table-welcome:cart",
+        "town:table-welcome:hood",
+        "town:bun-outing:yuzu:L9",
+        "town:bun-greeted",
+        "town:bakery-table:yuzu:cart"
+      ],
+      "giftOffered": "Collect 40 Petals",
+      "place": "Mochi’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Mochi can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    },
+    {
+      "gap": 14,
+      "date": "2026-12-11",
+      "startingWallet": 8135,
+      "unchangedWallet": 8135,
+      "everOwned": 9,
+      "rememberedFlags": [
+        "town:bakery-departure",
+        "breakfast:guest:fig",
+        "breakfast:guest:hood",
+        "town:river-lily:2",
+        "breakfast:guest:cart",
+        "town:river-lily:0",
+        "breakfast:guest:wade",
+        "breakfast:guest:drum",
+        "breakfast:guest:painters",
+        "town:bakery-lamp:table",
+        "town:river-lily:1",
+        "town:basket:yuzu",
+        "town:table-welcome:cart",
+        "town:table-welcome:hood",
+        "town:bun-outing:yuzu:L9",
+        "town:bun-greeted",
+        "town:bakery-table:yuzu:cart"
+      ],
+      "giftOffered": "Collect 40 Petals",
+      "place": "Mochi’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Mochi can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town",
+      "errors": []
+    }
+  ]
+}

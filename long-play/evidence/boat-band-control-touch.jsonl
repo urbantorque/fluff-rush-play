@@ -1,0 +1,52 @@
+{"utc":"2026-11-27T13:14:21.291Z","event":"open","url":"http://localhost:4173/?town","asset":"./assets/index-DvPkCHqF.js"}
+{"utc":"2026-11-27T13:14:22.756Z","event":"view","screen":"Welcome back!","result":false}
+{"utc":"2026-11-27T13:14:22.931Z","event":"note","text":"Diagnostic, earned-save continuation. One open visit with all five fountain guests. I want to try the wrapper boat itself and find out if I can move it independently of the cup."}
+{"utc":"2026-11-27T13:14:27.003Z","event":"input","line":"read","ms":3461}
+{"utc":"2026-11-27T13:14:30.472Z","event":"input","line":"buttons","ms":3201}
+{"utc":"2026-11-27T13:15:03.587Z","event":"input","line":"buttons","ms":1201}
+{"utc":"2026-11-27T13:15:15.655Z","event":"input-error","line":"button Later","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Later', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"btn\" data-act=\"later\">Later</button>\u001b[22m\n\u001b[2m  - attempting tap action\u001b["}
+{"utc":"2026-11-27T13:15:17.515Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:15:19.922Z","event":"view","screen":"Breakfast at the fountain","result":false}
+{"utc":"2026-11-27T13:15:24.452Z","event":"input-error","line":"choice ^Breakfast at the fountain$","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:15:31.936Z","event":"input-error","line":"read","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:15:38.842Z","event":"input-error","line":"buttons","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:15:41.819Z","event":"input","line":"read","ms":2976}
+{"utc":"2026-11-27T13:15:49.466Z","event":"input","line":"choice Float the boat","ms":2997}
+{"utc":"2026-11-27T13:15:54.593Z","event":"input","line":"watch 3","ms":5119}
+{"utc":"2026-11-27T13:15:55.938Z","event":"input","line":"read","ms":1339}
+{"utc":"2026-11-27T13:15:57.525Z","event":"input","line":"buttons","ms":1553}
+{"utc":"2026-11-27T13:16:03.940Z","event":"input","line":"read","ms":3380}
+{"utc":"2026-11-27T13:16:20.340Z","event":"input-error","line":"tap 68 647","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:16:24.321Z","event":"input-error","line":"watch 2","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n"}
+{"utc":"2026-11-27T13:16:24.326Z","event":"note","text":"Diagnostic. Suki watches the pink boat beside her cup. Tapping the far left floats the same boat through the middle again. I liked watching it once more and chose Stay in Town. It already works as a short, finished visit."}
+{"utc":"2026-11-27T13:16:27.189Z","event":"input-error","line":"button Stay in Town","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Stay in Town', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"btn\" data-act=\"back\">Stay in Town</button>\u001b[22m\n"}
+{"utc":"2026-11-27T13:16:31.088Z","event":"input-error","line":"watch 2","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n"}
+{"utc":"2026-11-27T13:16:35.659Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:16:39.148Z","event":"input-error","line":"choice Band Stand, restoration and visits","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n"}
+{"utc":"2026-11-27T13:16:43.189Z","event":"input-error","line":"read","error":"page.screenshot: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - taking page screenshot\u001b[22m\n\u001b[2m  - waiting for fonts to load...\u001b[22m\n\u001b[2m  - fonts loaded\u001b[22m\n"}
+{"utc":"2026-11-27T13:16:46.185Z","event":"input","line":"buttons","ms":2939}
+{"utc":"2026-11-27T13:22:06.758Z","event":"input","line":"read","ms":351}
+{"utc":"2026-11-27T13:22:07.248Z","event":"input","line":"buttons","ms":472}
+{"utc":"2026-11-27T13:22:09.238Z","event":"view","screen":"Band Stand","result":false}
+{"utc":"2026-11-27T13:22:09.606Z","event":"input","line":"tap 276 363","ms":648}
+{"utc":"2026-11-27T13:22:11.106Z","event":"input","line":"watch 1","ms":1467}
+{"utc":"2026-11-27T13:22:11.407Z","event":"input","line":"read","ms":298}
+{"utc":"2026-11-27T13:22:11.888Z","event":"input","line":"buttons","ms":472}
+{"utc":"2026-11-27T13:22:32.259Z","event":"input","line":"read","ms":2116}
+{"utc":"2026-11-27T13:22:35.618Z","event":"note","text":"Diagnostic. The restored stand names Poppy, Mint, Plum and Honey. I choose Play together because it sounds like I can join their arrangement."}
+{"utc":"2026-11-27T13:22:38.343Z","event":"input-error","line":"button Play together","error":"locator.tap: Timeout 2500ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Play together', exact: true }).last()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"btn primary\" data-act=\"visit-band\">Play together</button>\u001b[22m\n\u001b["}
+{"utc":"2026-11-27T13:22:48.698Z","event":"input","line":"watch 3","ms":10317}
+{"utc":"2026-11-27T13:22:49.917Z","event":"input","line":"read","ms":1177}
+{"utc":"2026-11-27T13:22:51.003Z","event":"input","line":"buttons","ms":1060}
+{"utc":"2026-11-27T13:22:51.842Z","event":"input","line":"read","ms":805}
+{"utc":"2026-11-27T13:22:54.278Z","event":"input","line":"buttons","ms":2422}
+{"utc":"2026-11-27T13:22:57.129Z","event":"view","screen":"square","result":false}
+{"utc":"2026-11-27T13:22:57.716Z","event":"input","line":"tap 144 743","ms":1374}
+{"utc":"2026-11-27T13:23:04.260Z","event":"input","line":"watch 4","ms":6506}
+{"utc":"2026-11-27T13:23:05.060Z","event":"input","line":"read","ms":771}
+{"utc":"2026-11-27T13:23:05.692Z","event":"input","line":"buttons","ms":605}
+{"utc":"2026-11-27T13:23:31.556Z","event":"input","line":"read","ms":466}
+{"utc":"2026-11-27T13:23:32.248Z","event":"input","line":"buttons","ms":678}
+{"utc":"2026-11-27T13:23:35.417Z","event":"note","text":"Diagnostic. Play together took me back to the square. All four musicians already sit there. I expected to join with my song; there is no part to steer or repeat on that screen. I am happy to leave Suki and the band as I found them."}
+{"utc":"2026-11-27T13:23:35.675Z","event":"leave"}
+{"utc":"2026-11-27T13:23:35.681Z","event":"quit"}

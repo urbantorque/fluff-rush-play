@@ -1,0 +1,116 @@
+{
+  "method": "Additional existing suites selected after the player used the ordinary raft route for mastery. Same Node runtime, test scripts read from the original revision for control, original source in a separate directory, revision and production source for candidate. Both sets use the same installed dependencies.",
+  "base": "60efc4c43052d9d0e1f03ab17809b9ac21506c07",
+  "rows": [
+    {
+      "file": "scripts/test-road-rhythm.ts",
+      "control": {
+        "exit": 0,
+        "output": "PASS: both directions on every story fork, legacy route gifts, three river approaches and unique persistent flowers.\nPASS: authored rhythms, runtime catch geometry, unchanged star lines, every leader viable, legacy records preserved, linked encounters."
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "PASS: both directions on every story fork, legacy route gifts, three river approaches and unique persistent flowers.\nPASS: authored rhythms, runtime catch geometry, unchanged star lines, every leader viable, legacy records preserved, linked encounters."
+      }
+    },
+    {
+      "file": "scripts/test-parade-decision.ts",
+      "control": {
+        "exit": 0,
+        "output": "Parade decisions: twelve contrasting intentions, exact branches/gates/hazards, readable whistle choices, once-only pennants and verified feedback passed"
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Parade decisions: twelve contrasting intentions, exact branches/gates/hazards, readable whistle choices, once-only pennants and verified feedback passed"
+      }
+    },
+    {
+      "file": "scripts/test-parade-skills.ts",
+      "control": {
+        "exit": 0,
+        "output": "Parade skill feedback: actual contact, final losses, clean chains, quiet limits and musical pacing pass.\n\n(node:25484) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)"
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Parade skill feedback: actual contact, final losses, clean chains, quiet limits and musical pacing pass.\n\n(node:14400) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)"
+      }
+    },
+    {
+      "file": "scripts/test-parade-overhaul.ts",
+      "control": {
+        "exit": 0,
+        "output": "Parade overhaul: 10–144 FPS steering, momentum/bridge bounds and 602 deterministic roadside places verified."
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Parade overhaul: 10–144 FPS steering, momentum/bridge bounds and 602 deterministic roadside places verified."
+      }
+    },
+    {
+      "file": "scripts/test-parade-polish.ts",
+      "control": {
+        "exit": 0,
+        "output": "Parade polish: keyboard/pointer wake, selective forecasts, complete fork decisions, fair L26 finish, leader/light/Echo rules, input buffering and authored routes passed\n\n(node:14820) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)"
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Parade polish: keyboard/pointer wake, selective forecasts, complete fork decisions, fair L26 finish, leader/light/Echo rules, input buffering and authored routes passed\n\n(node:19000) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)"
+      }
+    },
+    {
+      "file": "scripts/test-parade-third.ts",
+      "control": {
+        "exit": 0,
+        "output": "Parade third pass: eight fair roads, imperfect clears, skill growth, returning mechanics, five keeper leaders/Encore rules, preserved ownership and live call cues pass."
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Parade third pass: eight fair roads, imperfect clears, skill growth, returning mechanics, five keeper leaders/Encore rules, preserved ownership and live call cues pass."
+      }
+    },
+    {
+      "file": "scripts/test-parade-trials.ts",
+      "control": {
+        "exit": 0,
+        "output": "Parade trials passed: hedge 4970 vs centre 3430, light 3200 vs early 4000, 3.9s gate spacing; bounded actual records.\n\n(node:30456) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)"
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Parade trials passed: hedge 4970 vs centre 3430, light 3200 vs early 4000, 3.9s gate spacing; bounded actual records.\n\n(node:22356) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time\n(Use `node --trace-warnings ...` to show where the warning was created)"
+      }
+    },
+    {
+      "file": "scripts/test-fourth-pass-parade.ts",
+      "control": {
+        "exit": 0,
+        "output": "Fourth-pass Parade contracts passed: six route orders, old progress, actual crossing observations, isolation and objective records."
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Fourth-pass Parade contracts passed: six route orders, old progress, actual crossing observations, isolation and objective records."
+      }
+    },
+    {
+      "file": "scripts/test-parade-sound.mjs",
+      "control": {
+        "exit": 0,
+        "output": "Parade sound: foreground priority, recovery, dense-minute voice requests, five welcomes and truthful help responses pass."
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Parade sound: foreground priority, recovery, dense-minute voice requests, five welcomes and truthful help responses pass."
+      }
+    },
+    {
+      "file": "scripts/test-homecoming.ts",
+      "control": {
+        "exit": 0,
+        "output": "Homecoming, legacy walk experience, bounded replay supplies, legacy contributions and no double spending pass."
+      },
+      "candidate": {
+        "exit": 0,
+        "output": "Homecoming, legacy walk experience, bounded replay supplies, legacy contributions and no double spending pass."
+      }
+    }
+  ]
+}

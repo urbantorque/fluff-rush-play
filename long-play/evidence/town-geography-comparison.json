@@ -1,0 +1,405 @@
+{
+  "method": "The existing scripts/test-town-world-view.ts fails at line 10 in both a git archive of unmodified 60efc4c4 and the candidate. Its assertion expects just the Square. The current ring code intentionally reveals the next closed sign. The same eight real reducer states have identical visible geography, open lanes, first-visit scenery and bounds in both revisions.",
+  "original": [
+    {
+      "when": "Blank save",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": true
+    },
+    {
+      "when": "28 roads, no repairs, as in original geography test",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "bakery restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "band restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "workshop restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "Meadow lane opens",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": true
+        },
+        {
+          "id": "grove",
+          "open": false
+        }
+      ],
+      "links": [
+        true,
+        false
+      ],
+      "bounds": {
+        "left": -310,
+        "right": 720,
+        "top": -290,
+        "bottom": 755
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "Meadow restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": true
+        },
+        {
+          "id": "grove",
+          "open": false
+        }
+      ],
+      "links": [
+        true,
+        false
+      ],
+      "bounds": {
+        "left": -310,
+        "right": 720,
+        "top": -290,
+        "bottom": 755
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "Grove lane opens",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": true
+        },
+        {
+          "id": "grove",
+          "open": true
+        }
+      ],
+      "links": [
+        true,
+        true
+      ],
+      "bounds": {
+        "left": -310,
+        "right": 720,
+        "top": -290,
+        "bottom": 755
+      },
+      "firstScenery": false
+    }
+  ],
+  "candidate": [
+    {
+      "when": "Blank save",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": true
+    },
+    {
+      "when": "28 roads, no repairs, as in original geography test",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "bakery restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "band restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "workshop restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": false
+        }
+      ],
+      "links": [
+        false
+      ],
+      "bounds": {
+        "left": -275,
+        "right": 720,
+        "top": -290,
+        "bottom": 405
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "Meadow lane opens",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": true
+        },
+        {
+          "id": "grove",
+          "open": false
+        }
+      ],
+      "links": [
+        true,
+        false
+      ],
+      "bounds": {
+        "left": -310,
+        "right": 720,
+        "top": -290,
+        "bottom": 755
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "Meadow restored",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": true
+        },
+        {
+          "id": "grove",
+          "open": false
+        }
+      ],
+      "links": [
+        true,
+        false
+      ],
+      "bounds": {
+        "left": -310,
+        "right": 720,
+        "top": -290,
+        "bottom": 755
+      },
+      "firstScenery": false
+    },
+    {
+      "when": "Grove lane opens",
+      "areas": [
+        {
+          "id": "square",
+          "open": true
+        },
+        {
+          "id": "meadow",
+          "open": true
+        },
+        {
+          "id": "grove",
+          "open": true
+        }
+      ],
+      "links": [
+        true,
+        true
+      ],
+      "bounds": {
+        "left": -310,
+        "right": 720,
+        "top": -290,
+        "bottom": 755
+      },
+      "firstScenery": false
+    }
+  ]
+}

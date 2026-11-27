@@ -1,0 +1,411 @@
+{
+  "method": "Ordinary L4 at 1x on independent copies. Native rightward contact. Close the actual tab at three boundaries, then open Town twice in the same browser storage. No forced save or storage writes during the runs.",
+  "file": ".tmp/long-play/table-plans/prototype-early-cart.json",
+  "rows": [
+    {
+      "stop": "after-meeting",
+      "started": "2026-11-27T14:55:06.581Z",
+      "ended": "2026-11-27T14:55:32.871Z",
+      "passengers": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 8,
+        "dryCalls": 0
+      },
+      "before": {
+        "petals": 377,
+        "road": {
+          "stars": 0,
+          "best": 0,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0
+        },
+        "buildings": {
+          "bakery": 1,
+          "band": 0,
+          "workshop": 0,
+          "tea": 0
+        },
+        "flags": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:plate:0",
+          "town:bakery-table:matcha:cart",
+          "town:bun-outing:matcha:L3"
+        ]
+      },
+      "whenClosed": {
+        "petals": 377,
+        "road": {
+          "stars": 0,
+          "best": 0,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0
+        },
+        "buildings": {
+          "bakery": 1,
+          "band": 0,
+          "workshop": 0,
+          "tea": 0
+        },
+        "flags": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:plate:0",
+          "town:bakery-table:matcha:cart",
+          "town:bun-outing:matcha:L3"
+        ]
+      },
+      "reopens": [
+        {
+          "petals": 377,
+          "road": {
+            "stars": 0,
+            "best": 0,
+            "plays": 1,
+            "fails": 0,
+            "failStreak": 0
+          },
+          "buildings": {
+            "bakery": 1,
+            "band": 0,
+            "workshop": 0,
+            "tea": 0
+          },
+          "flags": [
+            "breakfast:guest:fig",
+            "breakfast:guest:painters",
+            "breakfast:plate:0",
+            "town:bakery-table:matcha:cart",
+            "town:bun-outing:matcha:L3"
+          ]
+        },
+        {
+          "petals": 377,
+          "road": {
+            "stars": 0,
+            "best": 0,
+            "plays": 1,
+            "fails": 0,
+            "failStreak": 0
+          },
+          "buildings": {
+            "bakery": 1,
+            "band": 0,
+            "workshop": 0,
+            "tea": 0
+          },
+          "flags": [
+            "breakfast:guest:fig",
+            "breakfast:guest:painters",
+            "breakfast:plate:0",
+            "town:bakery-table:matcha:cart",
+            "town:bun-outing:matcha:L3"
+          ]
+        }
+      ]
+    },
+    {
+      "stop": "first-result-frame",
+      "started": "2026-11-27T14:55:33.034Z",
+      "ended": "2026-11-27T14:56:08.299Z",
+      "passengers": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 8,
+        "dryCalls": 0
+      },
+      "before": {
+        "petals": 377,
+        "road": {
+          "stars": 0,
+          "best": 0,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0
+        },
+        "buildings": {
+          "bakery": 1,
+          "band": 0,
+          "workshop": 0,
+          "tea": 0
+        },
+        "flags": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:plate:0",
+          "town:bakery-table:matcha:cart",
+          "town:bun-outing:matcha:L3"
+        ]
+      },
+      "whenClosed": {
+        "petals": 497,
+        "road": {
+          "stars": 1,
+          "best": 792,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 9,
+            "leaders": {
+              "tambo": {
+                "best": 792,
+                "stars": 1,
+                "last": 792,
+                "plays": 1
+              }
+            }
+          }
+        },
+        "buildings": {
+          "bakery": 1,
+          "band": 0,
+          "workshop": 0,
+          "tea": 0
+        },
+        "flags": [
+          "breakfast:guest:cart",
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:plate:0",
+          "town:bakery-table:matcha:cart",
+          "town:bun-outing:matcha:L4",
+          "town:table-welcome:cart"
+        ]
+      },
+      "reopens": [
+        {
+          "petals": 497,
+          "road": {
+            "stars": 1,
+            "best": 792,
+            "plays": 1,
+            "fails": 0,
+            "failStreak": 0,
+            "eased": [],
+            "paradeRecords": {
+              "revision": 9,
+              "leaders": {
+                "tambo": {
+                  "best": 792,
+                  "stars": 1,
+                  "last": 792,
+                  "plays": 1
+                }
+              }
+            }
+          },
+          "buildings": {
+            "bakery": 1,
+            "band": 0,
+            "workshop": 0,
+            "tea": 0
+          },
+          "flags": [
+            "breakfast:guest:cart",
+            "breakfast:guest:fig",
+            "breakfast:guest:painters",
+            "breakfast:plate:0",
+            "town:bakery-table:matcha:cart",
+            "town:bun-outing:matcha:L4",
+            "town:table-welcome:cart"
+          ]
+        },
+        {
+          "petals": 497,
+          "road": {
+            "stars": 1,
+            "best": 792,
+            "plays": 1,
+            "fails": 0,
+            "failStreak": 0,
+            "eased": [],
+            "paradeRecords": {
+              "revision": 9,
+              "leaders": {
+                "tambo": {
+                  "best": 792,
+                  "stars": 1,
+                  "last": 792,
+                  "plays": 1
+                }
+              }
+            }
+          },
+          "buildings": {
+            "bakery": 1,
+            "band": 0,
+            "workshop": 0,
+            "tea": 0
+          },
+          "flags": [
+            "breakfast:guest:cart",
+            "breakfast:guest:fig",
+            "breakfast:guest:painters",
+            "breakfast:plate:0",
+            "town:bakery-table:matcha:cart",
+            "town:bun-outing:matcha:L4",
+            "town:table-welcome:cart"
+          ]
+        }
+      ]
+    },
+    {
+      "stop": "after-tally",
+      "started": "2026-11-27T14:56:08.459Z",
+      "ended": "2026-11-27T14:56:45.385Z",
+      "passengers": {
+        "scene": "awning",
+        "joined": 0,
+        "total": 3,
+        "called": 0,
+        "cart": 8,
+        "dryCalls": 0
+      },
+      "before": {
+        "petals": 377,
+        "road": {
+          "stars": 0,
+          "best": 0,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0
+        },
+        "buildings": {
+          "bakery": 1,
+          "band": 0,
+          "workshop": 0,
+          "tea": 0
+        },
+        "flags": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:plate:0",
+          "town:bakery-table:matcha:cart",
+          "town:bun-outing:matcha:L3"
+        ]
+      },
+      "whenClosed": {
+        "petals": 497,
+        "road": {
+          "stars": 1,
+          "best": 792,
+          "plays": 1,
+          "fails": 0,
+          "failStreak": 0,
+          "eased": [],
+          "paradeRecords": {
+            "revision": 9,
+            "leaders": {
+              "tambo": {
+                "best": 792,
+                "stars": 1,
+                "last": 792,
+                "plays": 1
+              }
+            }
+          }
+        },
+        "buildings": {
+          "bakery": 1,
+          "band": 0,
+          "workshop": 0,
+          "tea": 0
+        },
+        "flags": [
+          "breakfast:guest:cart",
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:plate:0",
+          "town:bakery-table:matcha:cart",
+          "town:bun-outing:matcha:L4",
+          "town:table-welcome:cart"
+        ]
+      },
+      "reopens": [
+        {
+          "petals": 497,
+          "road": {
+            "stars": 1,
+            "best": 792,
+            "plays": 1,
+            "fails": 0,
+            "failStreak": 0,
+            "eased": [],
+            "paradeRecords": {
+              "revision": 9,
+              "leaders": {
+                "tambo": {
+                  "best": 792,
+                  "stars": 1,
+                  "last": 792,
+                  "plays": 1
+                }
+              }
+            }
+          },
+          "buildings": {
+            "bakery": 1,
+            "band": 0,
+            "workshop": 0,
+            "tea": 0
+          },
+          "flags": [
+            "breakfast:guest:cart",
+            "breakfast:guest:fig",
+            "breakfast:guest:painters",
+            "breakfast:plate:0",
+            "town:bakery-table:matcha:cart",
+            "town:bun-outing:matcha:L4",
+            "town:table-welcome:cart"
+          ]
+        },
+        {
+          "petals": 497,
+          "road": {
+            "stars": 1,
+            "best": 792,
+            "plays": 1,
+            "fails": 0,
+            "failStreak": 0,
+            "eased": [],
+            "paradeRecords": {
+              "revision": 9,
+              "leaders": {
+                "tambo": {
+                  "best": 792,
+                  "stars": 1,
+                  "last": 792,
+                  "plays": 1
+                }
+              }
+            }
+          },
+          "buildings": {
+            "bakery": 1,
+            "band": 0,
+            "workshop": 0,
+            "tea": 0
+          },
+          "flags": [
+            "breakfast:guest:cart",
+            "breakfast:guest:fig",
+            "breakfast:guest:painters",
+            "breakfast:plate:0",
+            "town:bakery-table:matcha:cart",
+            "town:bun-outing:matcha:L4",
+            "town:table-welcome:cart"
+          ]
+        }
+      ]
+    }
+  ]
+}

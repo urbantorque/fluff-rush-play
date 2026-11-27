@@ -1,0 +1,642 @@
+{
+  "controlRevision": "60efc4c43052d9d0e1f03ab17809b9ac21506c07",
+  "firstInput": "2026-11-27T12:28:36.072Z",
+  "asOf": "2026-11-27T14:28:49.260Z",
+  "method": "Informed agent tester on emulated touch, 393×852, no time acceleration. Intervals >30 seconds without tester read/input or observation are idle. Blank save closed voluntarily and left untouched. Separate hands-on diagnostics and assisted runs may overlap; the diagnostic union counts those intervals once. Build, analysis, setup and capture outside these clocks receive no player minutes.",
+  "voluntarySeconds": {
+    "new play": 123.31,
+    "chosen practice": 46.47,
+    "character or Town": 127.97,
+    "forced repetition": 31.17,
+    "searching": 65.02,
+    "claiming": 0,
+    "idle": 0
+  },
+  "intentions": [
+    {
+      "at": 0,
+      "utc": "2026-11-27T12:28:36.072Z",
+      "category": "new play",
+      "note": "New play. Pip and Bakery are the assigned opening. I want the baker at the window. I will look for Fig before the first wall."
+    },
+    {
+      "at": 17.143,
+      "utc": "2026-11-27T12:28:53.215Z",
+      "category": "forced repetition",
+      "note": "Forced repeat. I got Fig on the left but the wall needed one more. I will use the right +5 before crossing back for her."
+    },
+    {
+      "at": 48.314,
+      "utc": "2026-11-27T12:29:24.386Z",
+      "category": "character or Town",
+      "note": "Town. The empty plate names the miss. I want to see the Bakery open before deciding whether to go back for Fig."
+    },
+    {
+      "at": 68.985,
+      "utc": "2026-11-27T12:29:45.057Z",
+      "category": "character or Town",
+      "note": "Town. The basket is already out. I choose to touch it before Next road. I expect Fig to be missing."
+    },
+    {
+      "at": 74.45,
+      "utc": "2026-11-27T12:29:50.522Z",
+      "category": "character or Town",
+      "note": "Town. Clover is closest to the basket. I choose her to see whether she can come get Fig with me."
+    },
+    {
+      "at": 81.614,
+      "utc": "2026-11-27T12:29:57.686Z",
+      "category": "searching",
+      "note": "Searching. Take Clover along chose Sleepy Signs for me. I wanted Pip's first road to collect Fig with her. I will use Back to look for it."
+    },
+    {
+      "at": 101.999,
+      "utc": "2026-11-27T12:30:18.071Z",
+      "category": "chosen practice",
+      "note": "Chosen practice. Clover stayed packed when I picked road one on the map. The Bakery lends three starters. I will hold left from the start for Fig and see if that is enough."
+    },
+    {
+      "at": 118.02,
+      "utc": "2026-11-27T12:30:34.092Z",
+      "category": "chosen practice",
+      "note": "Chosen practice. Clover shared her bun even when the wall stopped us. Held left through the first gate again. I will take +5 and cross immediately this time."
+    },
+    {
+      "at": 148.467,
+      "utc": "2026-11-27T12:31:04.539Z",
+      "category": "character or Town",
+      "note": "Town. I can see Fig feeding Pip in the result picture, but the two buttons both send me to another road. I want the window and Clover. I will try Next road then Back."
+    },
+    {
+      "at": 164.184,
+      "utc": "2026-11-27T12:31:20.256Z",
+      "category": "character or Town",
+      "note": "Town. Clover ate a bun on the failed road. At the basket I get Tap a neighbour and Clover shared a bun again. I want to discover whether finishing a road changes this."
+    },
+    {
+      "at": 207.718,
+      "utc": "2026-11-27T12:32:03.790Z",
+      "category": "searching",
+      "note": "Searching. All three painters are home and I want to see who received the bun. The only visible button is Try Tambo on Treat Street. I open the report looking for a way home."
+    },
+    {
+      "at": 252.355,
+      "utc": "2026-11-27T12:32:48.427Z",
+      "category": "character or Town",
+      "note": "Town. Fig is outside with her loaf. Clover pats the basket and names Sleepy Signs. I decline Berry and Mochi here: sharing the same bun again offers no different thing to do with my hands. I do want to see the three painters on Treat Street. I choose that next."
+    },
+    {
+      "at": 258.749,
+      "utc": "2026-11-27T12:32:54.821Z",
+      "category": "new play",
+      "note": "New play. The road card names the painters I just brought in. I choose to try Tambo at their flags."
+    },
+    {
+      "at": 313.489,
+      "utc": "2026-11-27T12:33:49.561Z",
+      "category": "new play",
+      "note": "New play. 2599 arrived; the painters rinse their brushes while Fig cuts bread. I can see both my earlier detours together. I want to look at the next road choice."
+    },
+    {
+      "at": 320.548,
+      "utc": "2026-11-27T12:33:56.620Z",
+      "category": "new play",
+      "note": "New play. I choose Drizzle over Seedfall because the fork picture shows a cart outside in the rain. I want to see where it ends up. I will steer right for it."
+    },
+    {
+      "at": 364.92,
+      "utc": "2026-11-27T12:34:40.992Z",
+      "category": "character or Town",
+      "note": "Town. Eight riders caught a lift. I want to find the cart in Town. The result offers Next road. I will examine the report once."
+    },
+    {
+      "at": 393.901,
+      "utc": "2026-11-27T12:35:09.973Z",
+      "category": "character or Town",
+      "note": "Voluntary stop. Clover names Drizzle Dell exactly as she named Sleepy Signs. I looked for the eight cart riders and found no cart at her basket. I decline sharing with Berry or Mochi to run the same errand. I would close here. Next time I would like to seat the people I brought, or try the other side if the hoods come home somewhere I can find."
+    }
+  ],
+  "periods": [
+    {
+      "scheduledMinutes": [
+        0,
+        30
+      ],
+      "voluntarySeconds": {
+        "new play": 123.31,
+        "chosen practice": 46.47,
+        "character or Town": 127.97,
+        "forced repetition": 31.17,
+        "searching": 65.02,
+        "claiming": 0,
+        "idle": 0
+      },
+      "voluntaryCumulativeSeconds": {
+        "new play": 123.31,
+        "chosen practice": 46.47,
+        "character or Town": 127.97,
+        "forced repetition": 31.17,
+        "searching": 65.02,
+        "claiming": 0,
+        "idle": 0
+      },
+      "diagnosticIntentSeconds": {
+        "new play": 117.87,
+        "chosen practice": 156.33,
+        "character or Town": 130.09,
+        "forced repetition": 115.25,
+        "searching": 251.24,
+        "claiming": 0,
+        "idle": 0
+      },
+      "diagnosticHandSeconds": 770.78,
+      "diagnosticAssistedSeconds": 1267.67,
+      "anyDiagnosticSeconds": 1353.52,
+      "outsideMeasuredPlaySeconds": 52.54
+    },
+    {
+      "scheduledMinutes": [
+        30,
+        60
+      ],
+      "voluntarySeconds": {
+        "new play": 0,
+        "chosen practice": 0,
+        "character or Town": 0,
+        "forced repetition": 0,
+        "searching": 0,
+        "claiming": 0,
+        "idle": 0
+      },
+      "voluntaryCumulativeSeconds": {
+        "new play": 123.31,
+        "chosen practice": 46.47,
+        "character or Town": 127.97,
+        "forced repetition": 31.17,
+        "searching": 65.02,
+        "claiming": 0,
+        "idle": 0
+      },
+      "diagnosticIntentSeconds": {
+        "new play": 0,
+        "chosen practice": 0,
+        "character or Town": 487.15,
+        "forced repetition": 0,
+        "searching": 0,
+        "claiming": 12.8,
+        "idle": 0
+      },
+      "diagnosticHandSeconds": 499.95,
+      "diagnosticAssistedSeconds": 1767.97,
+      "anyDiagnosticSeconds": 1778.06,
+      "outsideMeasuredPlaySeconds": 21.94
+    },
+    {
+      "scheduledMinutes": [
+        60,
+        90
+      ],
+      "voluntarySeconds": {
+        "new play": 0,
+        "chosen practice": 0,
+        "character or Town": 0,
+        "forced repetition": 0,
+        "searching": 0,
+        "claiming": 0,
+        "idle": 0
+      },
+      "voluntaryCumulativeSeconds": {
+        "new play": 123.31,
+        "chosen practice": 46.47,
+        "character or Town": 127.97,
+        "forced repetition": 31.17,
+        "searching": 65.02,
+        "claiming": 0,
+        "idle": 0
+      },
+      "diagnosticIntentSeconds": {
+        "new play": 58.06,
+        "chosen practice": 144.73,
+        "character or Town": 175.31,
+        "forced repetition": 0,
+        "searching": 12.89,
+        "claiming": 0,
+        "idle": 0
+      },
+      "diagnosticHandSeconds": 390.99,
+      "diagnosticAssistedSeconds": 144.62,
+      "anyDiagnosticSeconds": 529.36,
+      "outsideMeasuredPlaySeconds": 1270.64
+    },
+    {
+      "scheduledMinutes": [
+        90,
+        120
+      ],
+      "voluntarySeconds": {
+        "new play": 0,
+        "chosen practice": 0,
+        "character or Town": 0,
+        "forced repetition": 0,
+        "searching": 0,
+        "claiming": 0,
+        "idle": 0
+      },
+      "voluntaryCumulativeSeconds": {
+        "new play": 123.31,
+        "chosen practice": 46.47,
+        "character or Town": 127.97,
+        "forced repetition": 31.17,
+        "searching": 65.02,
+        "claiming": 0,
+        "idle": 0
+      },
+      "diagnosticIntentSeconds": {
+        "new play": 58.94,
+        "chosen practice": 24.56,
+        "character or Town": 85.4,
+        "forced repetition": 0,
+        "searching": 53.68,
+        "claiming": 0,
+        "idle": 0
+      },
+      "diagnosticHandSeconds": 222.59,
+      "diagnosticAssistedSeconds": 667.08,
+      "anyDiagnosticSeconds": 811.67,
+      "outsideMeasuredPlaySeconds": 988.33
+    }
+  ],
+  "diagnosticMethod": "Hands-on diagnostic intent uses the recorded intention at each change, and attributes any overlapping time to the most recent contact or observation. Other activity, including camera setup and technical waits, is excluded. Assisted steering is reported separately.",
+  "diagnosticNotes": [
+    {
+      "profile": "earned-control",
+      "notes": [
+        {
+          "at": 475.101,
+          "utc": "2026-11-27T12:36:31.173Z",
+          "category": "searching",
+          "note": "Diagnosis. Separate copy of the previous two-hour save. I am looking for cart riders already living in Town and want to try the welcome song before deciding whether rehearsal has a reason to exist."
+        },
+        {
+          "at": 534.524,
+          "utc": "2026-11-27T12:37:30.596Z",
+          "category": "character or Town",
+          "note": "Diagnosis. The telescope card gave me two things to do. I choose Make a song. I want to try a rising phrase that falls back a step: Rose, Honey, Mint, Honey."
+        },
+        {
+          "at": 554.845,
+          "utc": "2026-11-27T12:37:50.917Z",
+          "category": "character or Town",
+          "note": "Diagnosis. Four quick touch inputs became only Rose and Mint. Pausing, I added Honey. I want to hear the version the game kept."
+        },
+        {
+          "at": 578.157,
+          "utc": "2026-11-27T12:38:14.229Z",
+          "category": "character or Town",
+          "note": "Diagnosis. I came back to the stand with Rose Mint Honey. I want to correct the missing Honey in that tune without losing the rest. The stand only plays it. I'm going back to the same chimes to put the skipped note in."
+        },
+        {
+          "at": 621.264,
+          "utc": "2026-11-27T12:38:57.336Z",
+          "category": "chosen practice",
+          "note": "Diagnosis. I corrected the phrase by playing four separate notes. The new phrase reaches the band. Now I want to test the telescope's twelve-colour invitation on this control."
+        },
+        {
+          "at": 674.768,
+          "utc": "2026-11-27T12:39:50.840Z",
+          "category": "searching",
+          "note": "Diagnosis. Five colours, 7444 home. I chose a target of twelve at the telescope, but the result now says Try for 6. I decline that wording. I wanted to rehearse the late reversal, not drive to the bridge again. I will open the report to look for that span."
+        },
+        {
+          "at": 700.607,
+          "utc": "2026-11-27T12:40:16.679Z",
+          "category": "searching",
+          "note": "Diagnosis. Tips and practice opens Review gate 1. The road report knows I missed catch 1 and gives no button for a span. I would leave this road. Next I am testing whether the existing weekly breakfast remembers the actual cart guests."
+        },
+        {
+          "at": 721.293,
+          "utc": "2026-11-27T12:40:37.365Z",
+          "category": "searching",
+          "note": "Diagnosis. After one bridge trip the wallet is 7854. My next idea is a seat near the basket for the cart riders. I will try a decor spot to see whether I can already do this."
+        },
+        {
+          "at": 779.313,
+          "utc": "2026-11-27T12:41:35.385Z",
+          "category": "character or Town",
+          "note": "Diagnosis. The existing Tea Umbrella Table costs 1000 and has the right shape. I choose to buy it to see whether anyone can sit with me. I would leave the carousel in the shop."
+        },
+        {
+          "at": 795.387,
+          "utc": "2026-11-27T12:41:51.459Z",
+          "category": "character or Town",
+          "note": "Diagnosis. The table replaced my bench; touching it opens Decorate again. There is no seating choice. I have spent 1000 of my own accord on this diagnostic copy. I would not buy a second table to make the first one usable."
+        },
+        {
+          "at": 820.241,
+          "utc": "2026-11-27T12:42:16.313Z",
+          "category": "new play",
+          "note": "Diagnosis. The Market lantern already gives me a free, saved choice: Fig turns dough with Pip when I light the table. Keep this separate from any seating choice. I will pack Mochi on the earned-save control to test the previous report."
+        },
+        {
+          "at": 870.929,
+          "utc": "2026-11-27T12:43:07.001Z",
+          "category": "searching",
+          "note": "Diagnosis. This late result has Town; the early cart result did not. I decline Replay road. I want the Bakery greeting on this exact save."
+        },
+        {
+          "at": 961.03,
+          "utc": "2026-11-27T12:44:37.102Z",
+          "category": "character or Town",
+          "note": "Diagnosis. Mochi's late greeting uses the same sentence as Clover's two early ones. The group choice currently has no effect on the Bakery room. I have a separate question for the fresh save: whether the cart appeared at the fountain instead."
+        }
+      ]
+    },
+    {
+      "profile": "blank-diagnostic",
+      "notes": [
+        {
+          "at": 986.994,
+          "utc": "2026-11-27T12:45:03.066Z",
+          "category": "searching",
+          "note": "Diagnosis. Independent fork of the blank tester's 497-Petal stopping state. I am checking the other places a cart could have gone and what a second group would do to the same breakfast."
+        },
+        {
+          "at": 1006.58,
+          "utc": "2026-11-27T12:45:22.652Z",
+          "category": "chosen practice",
+          "note": "Diagnosis. At the fountain I get Fig and the painters have laid out their jam tarts. It does remember that earlier pair. This visit gives me Continue Parade and Stay in Town. I cannot see the cart. I am going back for the hood now because the fork promised another outcome."
+        },
+        {
+          "at": 1095.778,
+          "utc": "2026-11-27T12:46:51.850Z",
+          "category": "searching",
+          "note": "Diagnosis. Late left turn brought three hoods home and the result added a basket of pears and 18 Petals for both groups. The row marked View Bakery says Upgrade cost 140 Petals. I will follow that to see who is there."
+        },
+        {
+          "at": 1104.062,
+          "utc": "2026-11-27T12:47:00.134Z",
+          "category": "searching",
+          "note": "Diagnosis. View Bakery opened a purchase sheet. The Bakery is already mine. I am backing out to look at the pears."
+        },
+        {
+          "at": 1127.448,
+          "utc": "2026-11-27T12:47:23.520Z",
+          "category": "character or Town",
+          "note": "Diagnosis. Pears now sit beside the cup on the small cloth behind the sheet. Opening it still explains Fig and the painters. This is a real earned dish. I want to preserve it while giving the selected guests something visible to do."
+        }
+      ]
+    },
+    {
+      "profile": "campaign-hour-two",
+      "notes": [
+        {
+          "at": 1916.125,
+          "utc": "2026-11-27T13:00:32.197Z",
+          "category": "character or Town",
+          "note": "Diagnosis. This fork of the blank save now has 30 campaign clears from the real-clock expert continuation. The Bakery is my only purchase. I am following the musician and story-reunion controls from partial ownership. These are assigned diagnostics."
+        },
+        {
+          "at": 1950.876,
+          "utc": "2026-11-27T13:01:06.948Z",
+          "category": "character or Town",
+          "note": "Diagnosis. Poppy, Mint, Plum and Honey already sit on the unbuilt plinth. Its card offers Hear the band before I pay anything. I choose to hear what the four have already earned."
+        },
+        {
+          "at": 1991.007,
+          "utc": "2026-11-27T13:01:47.079Z",
+          "category": "character or Town",
+          "note": "Diagnosis. Paying 180 left 6707 and changed the plinth. No chimes exist on this save yet. I want to find what it would take to make the song from here."
+        },
+        {
+          "at": 2372.127,
+          "utc": "2026-11-27T13:08:08.199Z",
+          "category": "character or Town",
+          "note": "Diagnostic. Three restoration purchases made real progress toward Meadow Walk. I want to see what is available with the Band Stand restored before a chime song exists. Park this copy during the route survey."
+        },
+        {
+          "at": 3515.777,
+          "utc": "2026-11-27T13:27:11.849Z",
+          "category": "claiming",
+          "note": "Diagnostic second sitting on the campaign copy of the original blank save. The calendar changed at local midnight. I choose to collect the 20 saved Petals and find out what the Band Stand offers before the Lookout exists."
+        },
+        {
+          "at": 3562.226,
+          "utc": "2026-11-27T13:27:58.298Z",
+          "category": "character or Town",
+          "note": "Diagnostic. The roster can be full before the Grove or any saved tune exists. Hear the band and Play together are available here. Keeping the existing quartet playable matters on a partially built Town."
+        },
+        {
+          "at": 3598.725,
+          "utc": "2026-11-27T13:28:34.797Z",
+          "category": "character or Town",
+          "note": "Diagnostic. Buying the last 180-Petal workshop flower opened Meadow immediately. I want the ducks to have somewhere to land on Lantern River, so I choose to visit Meadow and look for the pond."
+        },
+        {
+          "at": 3687.512,
+          "utc": "2026-11-27T13:30:03.584Z",
+          "category": "chosen practice",
+          "note": "Diagnostic. A lilac lily already grows at Sunny bank from my earlier river clear before owning the pond. That is the kind of acknowledgement I wanted from the cart. I choose Reeds, then Lantern River to see whether the same old road now has a new destination."
+        },
+        {
+          "at": 3789.491,
+          "utc": "2026-11-27T13:31:45.563Z",
+          "category": "chosen practice",
+          "note": "Diagnostic. Both crews boarded, 146 left and 16 right, but I missed my chosen reed-bed flower. The result says to meet the ducks beside the flower beyond the last gate. I choose one more try for the already chosen reeds and will look past the last gate rather than holding left throughout."
+        },
+        {
+          "at": 3835.244,
+          "utc": "2026-11-27T13:32:31.316Z",
+          "category": "character or Town",
+          "note": "Diagnostic. This time I crossed back after the rafts and made two small left adjustments near the last gate. The ducks brought a lily home. The river result still describes both groups. The meaningful repeat was lining up for the flower, which changed the place I had picked in town."
+        }
+      ]
+    },
+    {
+      "profile": "mastery-control",
+      "notes": [
+        {
+          "at": 1506.959,
+          "utc": "2026-11-27T12:53:43.031Z",
+          "category": "new play",
+          "note": "Diagnosis. Earlier tester's 112-minute checkpoint, 6312 Petals, active six-catch breakfast on Seedfall. Following its existing invitation using ordinary touch to find what the result says after a miss."
+        },
+        {
+          "at": 1574.142,
+          "utc": "2026-11-27T12:54:50.214Z",
+          "category": "forced repetition",
+          "note": "Diagnosis. Four of eight; the HUD named six for breakfast through the finale. Result asks Try for 5. I choose one diagnostic retry to find whether the original target survives the tap."
+        },
+        {
+          "at": 1624.661,
+          "utc": "2026-11-27T12:55:40.733Z",
+          "category": "searching",
+          "note": "Diagnosis. At three catches the result now says You were aiming for 5; I had chosen six. I decline Try for 5 again. The written personal goal actually displaced my stated purpose. I choose Town to test the keeper invitation once."
+        },
+        {
+          "at": 1676.565,
+          "utc": "2026-11-27T12:56:32.637Z",
+          "category": "chosen practice",
+          "note": "Diagnosis. Two pools lit. I lost the last bearer by crossing too late. Unlike the bun repeat, I can name a different move. I want one more go; stay central for one, right for the next, left through the ice, then turn towards the final pool as soon as the third lights."
+        },
+        {
+          "at": 1725.903,
+          "utc": "2026-11-27T12:57:21.975Z",
+          "category": "forced repetition",
+          "note": "Diagnosis. Moving right early got the second pool but committed me to Long Way with 62 friends at its 220 wall. The retry card names the mistaken gate, a concrete change. This next attempt is a required keeper retry."
+        },
+        {
+          "at": 1790.632,
+          "utc": "2026-11-27T12:58:26.704Z",
+          "category": "character or Town",
+          "note": "Diagnosis. A later turn beat my crowd record but did not light the last pool. The next line asks me to do a whole road. I would go for the keeper another time; I choose Share warm buns. This late result actually has the direct Bakery return the early result lacked."
+        }
+      ]
+    },
+    {
+      "profile": "control-visits",
+      "notes": [
+        {
+          "at": 2746.859,
+          "utc": "2026-11-27T13:14:22.931Z",
+          "category": "character or Town",
+          "note": "Diagnostic, earned-save continuation. One open visit with all five fountain guests. I want to try the wrapper boat itself and find out if I can move it independently of the cup."
+        },
+        {
+          "at": 2868.254,
+          "utc": "2026-11-27T13:16:24.326Z",
+          "category": "character or Town",
+          "note": "Diagnostic. Suki watches the pink boat beside her cup. Tapping the far left floats the same boat through the middle again. I liked watching it once more and chose Stay in Town. It already works as a short, finished visit."
+        },
+        {
+          "at": 3239.546,
+          "utc": "2026-11-27T13:22:35.618Z",
+          "category": "character or Town",
+          "note": "Diagnostic. The restored stand names Poppy, Mint, Plum and Honey. I choose Play together because it sounds like I can join their arrangement."
+        },
+        {
+          "at": 3299.345,
+          "utc": "2026-11-27T13:23:35.417Z",
+          "category": "character or Town",
+          "note": "Diagnostic. Play together took me back to the square. All four musicians already sit there. I expected to join with my song; there is no part to steer or repeat on that screen. I am happy to leave Suki and the band as I found them."
+        }
+      ]
+    },
+    {
+      "profile": "missing-mint-control",
+      "notes": [
+        {
+          "at": 3878.727,
+          "utc": "2026-11-27T13:33:14.799Z",
+          "category": "character or Town",
+          "note": "Control, supplied historical save at 112 active minutes with one chair empty. I want to see who is missing by looking at the actual Band Stand, then follow her road. This test is supplied."
+        },
+        {
+          "at": 3907.633,
+          "utc": "2026-11-27T13:33:43.705Z",
+          "category": "new play",
+          "note": "Diagnostic. The empty chair names Mint. Replay Taffy Float for Mint opened the right road card in one selection. Its instruction is to steer beside the float at each bell. I keep Suki for the first try."
+        },
+        {
+          "at": 3996.081,
+          "utc": "2026-11-27T13:35:12.153Z",
+          "category": "chosen practice",
+          "note": "Diagnostic. I missed Mint while I followed the cart down the centre. I can name the retry: collect her on the right and meet the float at her bell on the left. I want to try that line, then see who fills the fourth chair."
+        },
+        {
+          "at": 4025.087,
+          "utc": "2026-11-27T13:35:41.159Z",
+          "category": "character or Town",
+          "note": "Diagnostic. Mint aboard appeared after I took the right-hand group and crossed left to the bell. I am leaving the steering alone now to see whether the intended fourth seat is the thing the result sends me back to."
+        },
+        {
+          "at": 4071.206,
+          "utc": "2026-11-27T13:36:27.278Z",
+          "category": "character or Town",
+          "note": "Diagnostic. The result actually said Hear Mint play. All four names are now present on the stand. I would keep this two-selection trip, the right-to-left pickup and the result handoff intact."
+        }
+      ]
+    },
+    {
+      "profile": "return-to-clover",
+      "notes": [
+        {
+          "at": 5383.126,
+          "utc": "2026-11-27T13:58:19.198Z",
+          "category": "character or Town",
+          "note": "Required delayed reopen of a copy of the stopped 497-Petal blank save. I choose Later on the local-midnight gift. My own unfinished idea is to see the people Clover brought home. I will choose the basket before I choose another road."
+        },
+        {
+          "at": 5391.383,
+          "utc": "2026-11-27T13:58:27.455Z",
+          "category": "searching",
+          "note": "Required reopen. The greeting from 6:34 had already been consumed. The basket now just asks for another bun. I choose the fountain, because it may have kept the cart even when the bakery did not."
+        },
+        {
+          "at": 5427.594,
+          "utc": "2026-11-27T13:59:03.666Z",
+          "category": "character or Town",
+          "note": "Required reopen. The fountain still names Fig and the painters. I declined Continue Parade and the bread counter. I would quit here, at 497 Petals, rather than spend on a building that does not change where Clover and the riders can sit. This was a prompted return after about eighty minutes away, not a later-day retention observation."
+        },
+        {
+          "at": 6343.255,
+          "utc": "2026-11-27T14:14:19.327Z",
+          "category": "searching",
+          "note": "Third opening of the stopped Clover branch. Ten minutes available. Starting the app was supplied. No road, friend or purchase was assigned. I will look at the first thing it offers and decide whether I have an idea."
+        },
+        {
+          "at": 6355.283,
+          "utc": "2026-11-27T14:14:31.355Z",
+          "category": "character or Town",
+          "note": "I passed on the gift and the 140-Petal bread counter. I can afford the empty Band Stand. Tambo led my painters, and I want to see whether he has a place here before I take another road. I choose the stand."
+        },
+        {
+          "at": 6389.182,
+          "utc": "2026-11-27T14:15:05.254Z",
+          "category": "searching",
+          "note": "Tambo is sitting at the little unroofed yellow stage with his drum. Touching him offered a 160-Petal upgrade. Visit or choose a place, then Visit Tambo, finally revealed Play together. I choose that. I do not want a larger bonus for improving stars."
+        },
+        {
+          "at": 6403.244,
+          "utc": "2026-11-27T14:15:19.316Z",
+          "category": "character or Town",
+          "note": "The new stand kept Tambo by his drum. Play together brought me back to the Square, where the main invitation again asks for 160 Petals. I choose to leave with the little stand I bought. I did not take a road. Restoring one affordable building was worth a short visit on this young save; on a full Town this particular choice is gone."
+        }
+      ]
+    },
+    {
+      "profile": "giant-control",
+      "notes": [
+        {
+          "at": 5710.81,
+          "utc": "2026-11-27T14:03:46.882Z",
+          "category": "new play",
+          "note": "Diagnostic only, after 29 real cleared roads on the original campaign fork. This is the first attempt on its Snow Giant. I will watch where the two paws are and see whether a failure leads to something I can practise."
+        },
+        {
+          "at": 5769.753,
+          "utc": "2026-11-27T14:04:45.825Z",
+          "category": "chosen practice",
+          "note": "Diagnostic. The right paw is awake while left reads 57 of 13,300. I can see what I would change. I will try left for the second paw and then inspect the practice offer if the Giant stays asleep."
+        },
+        {
+          "at": 5775.343,
+          "utc": "2026-11-27T14:04:51.415Z",
+          "category": "chosen practice",
+          "note": "Diagnostic correction. The text receipt gives 18,300 for the snowed-under left paw; I misread the small digits in the screenshot. The split was 57 left and 13,682 right."
+        },
+        {
+          "at": 5908.635,
+          "utc": "2026-11-27T14:07:04.707Z",
+          "category": "character or Town",
+          "note": "Supplied test. I crossed from right to left between the two paw encounters. Suki rescued 17 sticky friends and brought 13,739 home. The Giant woke and offered Come home, so this run supplies no failed-paw practice evidence. I want to see who is at the reunion once."
+        },
+        {
+          "at": 5959.869,
+          "utc": "2026-11-27T14:07:55.941Z",
+          "category": "character or Town",
+          "note": "The reunion said For your paws this time, Pip. I touched the invitation and stayed for the hug. A starfall invitation followed. This is a good ending; I choose to leave it here. Preserve Come home as the primary result."
+        }
+      ]
+    }
+  ]
+}

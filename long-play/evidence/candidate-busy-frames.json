@@ -1,0 +1,114 @@
+{
+  "method": "Normal-time Chromium with real touch and no video capture. Each sample uses the existing festival checkpoint, seed 317 and the same input schedule on L23. Paint time is measured around production render; rAF includes host scheduling. Local browser, not device performance.",
+  "fixture": "docs/Fluff-Rush-directors-pass/evidence/festival-save.json",
+  "rows": [
+    {
+      "side": "left",
+      "started": "2026-11-27T16:57:06.360Z",
+      "ended": "2026-11-27T16:57:20.327Z",
+      "start": 2341,
+      "split": 4301,
+      "end": 14500,
+      "render": {
+        "frames": 834,
+        "p50": 7.5,
+        "p95": 10.6,
+        "p99": 14.7,
+        "maximum": 27.8,
+        "over25": 2,
+        "over50": 0
+      },
+      "raf": {
+        "frames": 834,
+        "p50": 16.7,
+        "p95": 16.8,
+        "p99": 16.8,
+        "maximum": 33.3,
+        "over25": 2,
+        "over50": 0
+      },
+      "errors": []
+    },
+    {
+      "side": "right",
+      "started": "2026-11-27T16:57:39.308Z",
+      "ended": "2026-11-27T16:57:53.273Z",
+      "start": 2341,
+      "split": 6662,
+      "end": 22544,
+      "render": {
+        "frames": 835,
+        "p50": 7.1,
+        "p95": 10.3,
+        "p99": 14.2,
+        "maximum": 27.8,
+        "over25": 1,
+        "over50": 0
+      },
+      "raf": {
+        "frames": 835,
+        "p50": 16.7,
+        "p95": 16.8,
+        "p99": 16.8,
+        "maximum": 16.8,
+        "over25": 0,
+        "over50": 0
+      },
+      "errors": []
+    },
+    {
+      "side": "right",
+      "started": "2026-11-27T16:58:12.234Z",
+      "ended": "2026-11-27T16:58:26.187Z",
+      "start": 2341,
+      "split": 6662,
+      "end": 22544,
+      "render": {
+        "frames": 834,
+        "p50": 7.3,
+        "p95": 10.4,
+        "p99": 15.9,
+        "maximum": 29,
+        "over25": 3,
+        "over50": 0
+      },
+      "raf": {
+        "frames": 834,
+        "p50": 16.7,
+        "p95": 16.7,
+        "p99": 16.8,
+        "maximum": 33.3,
+        "over25": 1,
+        "over50": 0
+      },
+      "errors": []
+    },
+    {
+      "side": "left",
+      "started": "2026-11-27T16:58:45.133Z",
+      "ended": "2026-11-27T16:58:59.105Z",
+      "start": 2341,
+      "split": 4301,
+      "end": 14500,
+      "render": {
+        "frames": 833,
+        "p50": 7.5,
+        "p95": 10.8,
+        "p99": 12.5,
+        "maximum": 33.4,
+        "over25": 3,
+        "over50": 0
+      },
+      "raf": {
+        "frames": 833,
+        "p50": 16.7,
+        "p95": 16.7,
+        "p99": 16.8,
+        "maximum": 33.3,
+        "over25": 3,
+        "over50": 0
+      },
+      "errors": []
+    }
+  ]
+}

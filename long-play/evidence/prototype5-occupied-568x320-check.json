@@ -1,0 +1,82 @@
+{
+  "fixture": ".tmp/long-play/table-prototype/both-hood-home-save.json",
+  "started": "2026-11-27T14:48:32.729Z",
+  "ended": "2026-11-27T14:48:45.093Z",
+  "viewport": {
+    "width": 568,
+    "height": 320
+  },
+  "keyboard": false,
+  "still": true,
+  "checks": [
+    {
+      "before": {
+        "wallet": 662,
+        "setting": "town:bakery-table:matcha:hood",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:matcha:L4"
+      },
+      "accessible": "Visit Clover’s table with the raincoats",
+      "first": "Clover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "helped": "Clover’s table\n\nThe littlest guest tucks in under the cloth. Clover takes a sip.\n\nSeat the raincoats\nMake room for the cart\nLower the cloth\nGo out together\nShare buns\nBack to Town",
+      "changed": {
+        "wallet": 662,
+        "setting": "town:bakery-table:matcha:cart",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:matcha:L4"
+      },
+      "afterRealReopen": {
+        "wallet": 662,
+        "setting": "town:bakery-table:matcha:cart",
+        "welcome": [
+          "town:table-welcome:cart",
+          "town:table-welcome:hood"
+        ],
+        "host": "town:bun-outing:matcha:L4"
+      },
+      "layout": {
+        "panel": [
+          317,
+          19,
+          244,
+          283
+        ],
+        "overflow": false,
+        "headingHit": true,
+        "sceneStill": true,
+        "applicationReducedMotion": true,
+        "settings": {
+          "sfx": false,
+          "music": false,
+          "reducedMotion": true,
+          "hints": true,
+          "quality": "auto",
+          "analytics": true
+        },
+        "title": "Clover’s table"
+      },
+      "inputs": [
+        "[data-act=later]:visible",
+        "[data-ring=square]:visible",
+        ".corner-gear",
+        ".sheet [data-k=\"reducedMotion\"]",
+        ".sheet [data-k=\"sfx\"]",
+        ".sheet [data-k=\"music\"]",
+        ".sheet [data-act=close]",
+        "[data-act=later]:visible",
+        "[data-key=bun-basket]",
+        "[data-moment=help-table]",
+        "[data-moment=set-cart]",
+        "[data-moment=close]",
+        "[data-act=later]:visible",
+        "[data-key=bun-basket]"
+      ]
+    }
+  ]
+}

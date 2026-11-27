@@ -1,0 +1,200 @@
+{
+  "edition": "candidate",
+  "opening": {
+    "actualPurchase": {
+      "branch": "opening",
+      "failedRun": 12,
+      "outcome": {
+        "base": 100,
+        "total": 108,
+        "bonus": 0,
+        "perfect": 0,
+        "garden": 0,
+        "gold": 0,
+        "welcome": [
+          "Pip's welcome gift +8"
+        ],
+        "stars": 1,
+        "count": 102
+      },
+      "before": 120,
+      "price": 100,
+      "after": 20,
+      "offer": "Bakery · Reopening\n\nReopen the Bakery\nNow\nAfter reopening\n\nPip packs the buns. Start most roads with 3 extra friends.\n\nCost 100 Petals\nYou have 120\nVisit or choose a place\nReopen for 100 Petals\nBack",
+      "errors": []
+    },
+    "start": 0,
+    "failed": 12,
+    "firstClearBase": 100,
+    "clearCredit": 108,
+    "welcomeGift": 8,
+    "roadFinds": 0,
+    "price": 100,
+    "walletAfter": 20,
+    "desiredNext": {
+      "name": "Band Stand",
+      "price": 180,
+      "affordableOn": "Sleepy Signs first clear",
+      "secondsFromBakeryPurchase": 139
+    },
+    "voluntaryMinutes": 6.57,
+    "repeatsPurelyForPetals": 0,
+    "stopBalance": 497
+  },
+  "irregular": {
+    "start": 200,
+    "oneDayGift": 37,
+    "sevenDayGift": 37,
+    "nextDesiredPrice": 260,
+    "shortAfterGift": 23,
+    "firstAffordableAfterSeconds": 49.98,
+    "tracks": [
+      {
+        "when": "catchup",
+        "track": "gentle",
+        "previousStars": 0,
+        "stars": 2,
+        "starsPaid": 9,
+        "firstDailyClear": 0,
+        "finds": 2,
+        "board": 60,
+        "total": 71,
+        "wallet": 308,
+        "duplicate": 0
+      },
+      {
+        "when": "catchup",
+        "track": "gentle",
+        "previousStars": 2,
+        "stars": 3,
+        "starsPaid": 1,
+        "firstDailyClear": 0,
+        "finds": 0,
+        "board": 0,
+        "total": 1,
+        "wallet": 309,
+        "duplicate": 0
+      },
+      {
+        "when": "today",
+        "track": "gentle",
+        "previousStars": 0,
+        "stars": 2,
+        "starsPaid": 23,
+        "firstDailyClear": 12,
+        "finds": 3,
+        "board": 50,
+        "total": 88,
+        "wallet": 397,
+        "duplicate": 0
+      },
+      {
+        "when": "today",
+        "track": "gentle",
+        "previousStars": 2,
+        "stars": 3,
+        "starsPaid": 3,
+        "firstDailyClear": 0,
+        "finds": 0,
+        "board": 0,
+        "total": 3,
+        "wallet": 400,
+        "duplicate": 0
+      },
+      {
+        "when": "today",
+        "track": "gentle",
+        "previousStars": 3,
+        "stars": 3,
+        "starsPaid": 0,
+        "firstDailyClear": 0,
+        "finds": 0,
+        "board": 0,
+        "total": 0,
+        "wallet": 400,
+        "duplicate": 0
+      },
+      {
+        "when": "today",
+        "track": "grand",
+        "previousStars": 0,
+        "stars": 2,
+        "starsPaid": 31,
+        "firstDailyClear": 0,
+        "finds": 2,
+        "board": 0,
+        "total": 33,
+        "wallet": 433,
+        "duplicate": 0
+      }
+    ],
+    "ordinary": {
+      "paid": 128,
+      "wallet": 561,
+      "sourceReducer": {
+        "stars": 3,
+        "base": 77,
+        "town": [
+          {
+            "name": "Workshop",
+            "petals": 38
+          },
+          {
+            "name": "Meadow · welcome home",
+            "petals": 13
+          }
+        ]
+      }
+    },
+    "actualPurchase": {
+      "project": "Lily Pond",
+      "price": "Build for 260 Petals",
+      "before": 561,
+      "after": 301
+    },
+    "replaysPurelyForFunds": 0,
+    "method": "The first catch-up clear made the pond affordable. Later test replays exercised settled rewards and were not needed to buy it."
+  },
+  "furnished": {
+    "directPurchase": {
+      "branch": "furnished",
+      "source": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "offer": "Tea Umbrella Table\nPlace · 1,000 Petals",
+      "slot": 6,
+      "replaced": "bench",
+      "before": 7682,
+      "price": 1000,
+      "after": 6682,
+      "paidAgain": 0,
+      "reopened": {
+        "cash": 6682,
+        "owned": [
+          "bench",
+          "swing",
+          "teatable"
+        ],
+        "slots": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          "teatable",
+          "swing"
+        ]
+      },
+      "errors": []
+    },
+    "start": 7682,
+    "afterAurora": 7854,
+    "chosenCosmetic": "Tea Umbrella Table",
+    "cost": 1000,
+    "afterPurchase": 6854,
+    "afterMochiOuting": 6955,
+    "secondsToAfford": 0,
+    "replaysForFunds": 0,
+    "evidence": "Historical two-hour profile copied for this pass; paid purchase and actual result on the control. Any additional candidate care is free."
+  },
+  "method": "Starting save balances and ordinary on-screen purchases, plus current actual payout functions applied to the saved star records. All values are Petals. Repeat tests and voluntary decisions are identified separately."
+}

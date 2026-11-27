@@ -1,0 +1,57 @@
+{
+  "method": "Independent ordinary purchases using native gestures and existing controls. On the clean save the first road failed, the fresh retry earned one star and Daily was skipped. Separate furnished 7,682-Petal start with every project owned. Read-only source breakdown taken when the ordinary result was displayed.",
+  "rows": [
+    {
+      "branch": "opening",
+      "failedRun": 12,
+      "outcome": {
+        "base": 100,
+        "total": 108,
+        "bonus": 0,
+        "perfect": 0,
+        "garden": 0,
+        "gold": 0,
+        "welcome": [
+          "Pip's welcome gift +8"
+        ],
+        "stars": 1,
+        "count": 102
+      },
+      "before": 120,
+      "price": 100,
+      "after": 20,
+      "offer": "Bakery · Reopening\n\nReopen the Bakery\nNow\nAfter reopening\n\nPip packs the buns. Start most roads with 3 extra friends.\n\nCost 100 Petals\nYou have 120\nVisit or choose a place\nReopen for 100 Petals\nBack",
+      "errors": []
+    },
+    {
+      "branch": "furnished",
+      "source": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+      "offer": "Tea Umbrella Table\nPlace · 1,000 Petals",
+      "slot": 6,
+      "replaced": "bench",
+      "before": 7682,
+      "price": 1000,
+      "after": 6682,
+      "paidAgain": 0,
+      "reopened": {
+        "cash": 6682,
+        "owned": [
+          "bench",
+          "swing",
+          "teatable"
+        ],
+        "slots": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          "teatable",
+          "swing"
+        ]
+      },
+      "errors": []
+    }
+  ]
+}

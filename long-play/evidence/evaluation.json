@@ -1,0 +1,623 @@
+{
+  "method": "One informed agent tester, native touch contacts and actual game time. An intentional road or Town observation is active. Gaps over 30 seconds between input or notes are idle, matching the original assessment. Closed tabs, video encoding, parallel technical work and the unused part of the open-choice window receive no player minutes. The required opening Mochi comparison is timed separately.",
+  "windows": {
+    "clean": {
+      "from": "2026-11-27T17:13:36.072Z",
+      "until": "2026-11-27T17:23:36.072Z"
+    },
+    "furnished": {
+      "from": "2026-11-27T17:23:36.072Z",
+      "until": "2026-11-27T18:13:36.072Z"
+    },
+    "openChoice": {
+      "from": "2026-11-27T18:03:36.072Z",
+      "until": "2026-11-27T18:13:36.072Z",
+      "scheduledSeconds": 600,
+      "activitySuggested": false,
+      "openingRequested": true,
+      "closed": "2026-11-27T18:04:32.760Z"
+    }
+  },
+  "phases": {
+    "candidate-fresh": {
+      "name": "candidate-fresh",
+      "visits": [
+        {
+          "opened": "2026-11-27T17:13:31.776Z",
+          "secondsByIntent": {
+            "new play": 147.25,
+            "chosen practice": 0,
+            "character or Town": 42.92,
+            "forced repetition": 0,
+            "searching": 0,
+            "claiming": 0,
+            "idle": 75.57,
+            "supplied comparison": 0
+          },
+          "captureWorkSeconds": 0.271,
+          "intentions": [
+            {
+              "utc": "2026-11-27T17:13:46.658Z",
+              "category": "new play",
+              "text": "New play. The supplied opening is Pip and the Bakery. This time I want to bring Fig on the first clear. I will take the larger first gate and cross for her loaf."
+            },
+            {
+              "utc": "2026-11-27T17:14:20.444Z",
+              "category": "character or Town",
+              "text": "Town. Fig made it home with 174 and pointed out her Bakery window. I want to see her there before I do anything else."
+            },
+            {
+              "utc": "2026-11-27T17:14:37.818Z",
+              "category": "character or Town",
+              "text": "Town. With Fig already here the Bakery says Share the first bun. I choose that over the next road."
+            },
+            {
+              "utc": "2026-11-27T17:14:45.270Z",
+              "category": "character or Town",
+              "text": "Town. Fig has her loaf, and Berry is the pink friend I passed over on the original save. I want one trip with Berry to the painters."
+            },
+            {
+              "utc": "2026-11-27T17:14:49.657Z",
+              "category": "new play",
+              "text": "New play. Three painters can put a face to this trip. I will stay left for them."
+            },
+            {
+              "utc": "2026-11-27T17:15:34.043Z",
+              "category": "new play",
+              "text": "New play. I brought all three painters home with Berry. The result offers Tambo on Treat Street. I want to use his drum at their flags before I go looking for Berry at home."
+            },
+            {
+              "utc": "2026-11-27T17:17:02.235Z",
+              "category": "character or Town",
+              "text": "Town. Berry came back with the painters. I chose her named table to see who was there, passing up Choose road."
+            },
+            {
+              "utc": "2026-11-27T17:17:05.275Z",
+              "category": "character or Town",
+              "text": "Town. I want to see the raincoats together. The word seat makes me wonder where their little feet go."
+            },
+            {
+              "utc": "2026-11-27T17:17:09.122Z",
+              "category": "new play",
+              "text": "New play. I want to walk the last yellow hood home with Berry. This gives me a reason to choose the left awning."
+            },
+            {
+              "utc": "2026-11-27T17:17:48.394Z",
+              "category": "new play",
+              "text": "New play. I saw the rear row reach the awning and the message counted three. I am staying left for home; the runaway can get away."
+            },
+            {
+              "utc": "2026-11-27T17:18:05.576Z",
+              "category": "character or Town",
+              "text": "Town. I am 84 short of the third star. I pass on trying Drizzle again for the number. The wet coat is waiting on the chair and I want to see that."
+            },
+            {
+              "utc": "2026-11-27T17:18:12.651Z",
+              "category": "character or Town",
+              "text": "Town. Berry gets to sit down and the coat shelters the small one. I am done here. I am passing on Go out together and the unfilled cart seat. I would like to find this picture when I next open Town."
+            }
+          ],
+          "assets": [
+            "./assets/index-CCziZ-5V.js"
+          ],
+          "closed": "2026-11-27T17:18:12.667Z",
+          "secondsOpen": 280.891
+        },
+        {
+          "opened": "2026-11-27T17:18:39.124Z",
+          "secondsByIntent": {
+            "new play": 0,
+            "chosen practice": 0,
+            "character or Town": 12.08,
+            "forced repetition": 0,
+            "searching": 3.33,
+            "claiming": 0,
+            "idle": 0,
+            "supplied comparison": 0
+          },
+          "captureWorkSeconds": 0,
+          "intentions": [
+            {
+              "utc": "2026-11-27T17:18:39.240Z",
+              "category": "character or Town",
+              "text": "Town. First reopen in the supplied clean-profile window. At my stop I wanted to see Berry and the little guest again. I want to see how many taps get me back to them."
+            },
+            {
+              "utc": "2026-11-27T17:18:43.954Z",
+              "category": "character or Town",
+              "text": "Town. At the Square the big invitation is breakfast. The two little yellow caps beside the Bakery are the place I remember."
+            },
+            {
+              "utc": "2026-11-27T17:18:51.282Z",
+              "category": "searching",
+              "text": "Searching. Touching the painted table opened the bread-counter purchase. I want to visit, so I am opening Visit or choose a place."
+            },
+            {
+              "utc": "2026-11-27T17:18:54.616Z",
+              "category": "character or Town",
+              "text": "Town. The three raincoats were still there and Berry was sitting down. I want to leave them there. The cart can wait."
+            }
+          ],
+          "assets": [
+            "./assets/index-CCziZ-5V.js"
+          ],
+          "closed": "2026-11-27T17:18:54.651Z",
+          "secondsOpen": 15.527
+        }
+      ],
+      "totals": {
+        "new play": 147.25,
+        "chosen practice": 0,
+        "character or Town": 55,
+        "forced repetition": 0,
+        "searching": 3.33,
+        "claiming": 0,
+        "idle": 75.57,
+        "supplied comparison": 0
+      },
+      "allNotes": [
+        {
+          "utc": "2026-11-27T17:13:46.658Z",
+          "category": "new play",
+          "text": "New play. The supplied opening is Pip and the Bakery. This time I want to bring Fig on the first clear. I will take the larger first gate and cross for her loaf."
+        },
+        {
+          "utc": "2026-11-27T17:14:20.444Z",
+          "category": "character or Town",
+          "text": "Town. Fig made it home with 174 and pointed out her Bakery window. I want to see her there before I do anything else."
+        },
+        {
+          "utc": "2026-11-27T17:14:37.818Z",
+          "category": "character or Town",
+          "text": "Town. With Fig already here the Bakery says Share the first bun. I choose that over the next road."
+        },
+        {
+          "utc": "2026-11-27T17:14:45.270Z",
+          "category": "character or Town",
+          "text": "Town. Fig has her loaf, and Berry is the pink friend I passed over on the original save. I want one trip with Berry to the painters."
+        },
+        {
+          "utc": "2026-11-27T17:14:49.657Z",
+          "category": "new play",
+          "text": "New play. Three painters can put a face to this trip. I will stay left for them."
+        },
+        {
+          "utc": "2026-11-27T17:15:34.043Z",
+          "category": "new play",
+          "text": "New play. I brought all three painters home with Berry. The result offers Tambo on Treat Street. I want to use his drum at their flags before I go looking for Berry at home."
+        },
+        {
+          "utc": "2026-11-27T17:17:02.235Z",
+          "category": "character or Town",
+          "text": "Town. Berry came back with the painters. I chose her named table to see who was there, passing up Choose road."
+        },
+        {
+          "utc": "2026-11-27T17:17:05.275Z",
+          "category": "character or Town",
+          "text": "Town. I want to see the raincoats together. The word seat makes me wonder where their little feet go."
+        },
+        {
+          "utc": "2026-11-27T17:17:09.122Z",
+          "category": "new play",
+          "text": "New play. I want to walk the last yellow hood home with Berry. This gives me a reason to choose the left awning."
+        },
+        {
+          "utc": "2026-11-27T17:17:48.394Z",
+          "category": "new play",
+          "text": "New play. I saw the rear row reach the awning and the message counted three. I am staying left for home; the runaway can get away."
+        },
+        {
+          "utc": "2026-11-27T17:18:05.576Z",
+          "category": "character or Town",
+          "text": "Town. I am 84 short of the third star. I pass on trying Drizzle again for the number. The wet coat is waiting on the chair and I want to see that."
+        },
+        {
+          "utc": "2026-11-27T17:18:12.651Z",
+          "category": "character or Town",
+          "text": "Town. Berry gets to sit down and the coat shelters the small one. I am done here. I am passing on Go out together and the unfilled cart seat. I would like to find this picture when I next open Town."
+        },
+        {
+          "utc": "2026-11-27T17:18:39.240Z",
+          "category": "character or Town",
+          "text": "Town. First reopen in the supplied clean-profile window. At my stop I wanted to see Berry and the little guest again. I want to see how many taps get me back to them."
+        },
+        {
+          "utc": "2026-11-27T17:18:43.954Z",
+          "category": "character or Town",
+          "text": "Town. At the Square the big invitation is breakfast. The two little yellow caps beside the Bakery are the place I remember."
+        },
+        {
+          "utc": "2026-11-27T17:18:51.282Z",
+          "category": "searching",
+          "text": "Searching. Touching the painted table opened the bread-counter purchase. I want to visit, so I am opening Visit or choose a place."
+        },
+        {
+          "utc": "2026-11-27T17:18:54.616Z",
+          "category": "character or Town",
+          "text": "Town. The three raincoats were still there and Berry was sitting down. I want to leave them there. The cart can wait."
+        }
+      ],
+      "startingState": "New browser storage, 0 Petals",
+      "checkpoints": [
+        {
+          "stop": "first-stop",
+          "file": "candidate-fresh-first-stop-save.json",
+          "image": "candidate-fresh-first-stop.jpg",
+          "frameUtc": "2026-11-27T17:18:12.634Z",
+          "sha256": "7e6a4ae9c2a029200dd9d071a9031a3907297d5da4e17fa8b7b0a6851bf02d7f",
+          "petals": 457,
+          "table": [
+            "town:bakery-table:strawberry:hood",
+            "town:table-welcome:hood"
+          ]
+        },
+        {
+          "stop": "end",
+          "file": "candidate-fresh-end-save.json",
+          "image": "candidate-fresh-end.jpg",
+          "frameUtc": "2026-11-27T17:18:54.614Z",
+          "sha256": "4a7f42524685a5a7c1115bcf64ce85353dc30ee9fbc8cf7171b762e61bb5e488",
+          "petals": 457,
+          "table": [
+            "town:bakery-table:strawberry:hood",
+            "town:table-welcome:hood"
+          ]
+        }
+      ]
+    },
+    "candidate-earned": {
+      "name": "candidate-earned",
+      "visits": [
+        {
+          "opened": "2026-11-27T17:23:30.555Z",
+          "secondsByIntent": {
+            "new play": 0,
+            "chosen practice": 44.32,
+            "character or Town": 15.36,
+            "forced repetition": 0,
+            "searching": 0,
+            "claiming": 0,
+            "idle": 0,
+            "supplied comparison": 49.12
+          },
+          "captureWorkSeconds": 1.06,
+          "intentions": [
+            {
+              "utc": "2026-11-27T17:23:42.320Z",
+              "category": "supplied comparison",
+              "text": "Town. The supplied person visit asks for the same Mochi and Sleepy Signs trip as the original control. I am leaving the calendar gift for later and going to her basket."
+            },
+            {
+              "utc": "2026-11-27T17:23:52.326Z",
+              "category": "supplied comparison",
+              "text": "Chosen practice. Same left crossing as the comparison, then I will let the road settle. The choice after her return is mine."
+            },
+            {
+              "utc": "2026-11-27T17:24:31.440Z",
+              "category": "character or Town",
+              "text": "Town. Free choice begins. I want to make room for the cart. On Berry’s save I already walked the coats back through the rain. This time I want to bring riders home by water if the table will let me."
+            },
+            {
+              "utc": "2026-11-27T17:24:36.062Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. I picked the river. I will move right to board the cart party and see whether the other raft gets anyone."
+            },
+            {
+              "utc": "2026-11-27T17:24:54.222Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. The right raft is full at 244. I want to leave the cart riders that boat and bring some of the others too, so I am easing inward from the right."
+            },
+            {
+              "utc": "2026-11-27T17:25:21.057Z",
+              "category": "character or Town",
+              "text": "Town. Both rafts made it and 3349 came home. I am passing on Earn the second star on Sleepy Signs. I just did Sleepy Signs and I would rather see who takes the basket from Mochi."
+            },
+            {
+              "utc": "2026-11-27T17:25:32.131Z",
+              "category": "character or Town",
+              "text": "Town. Pass it back would reset the same exchange. I do not want to repeat it now. I am leaving the rider carrying the basket, with the raincoats still to be hosted. The meal feels finished."
+            }
+          ],
+          "assets": [
+            "./assets/index-CCziZ-5V.js"
+          ],
+          "closed": "2026-11-27T17:25:32.185Z",
+          "secondsOpen": 121.63
+        },
+        {
+          "opened": "2026-11-27T17:30:56.794Z",
+          "secondsByIntent": {
+            "new play": 16.98,
+            "chosen practice": 132.2,
+            "character or Town": 0.04,
+            "forced repetition": 0,
+            "searching": 4.35,
+            "claiming": 0,
+            "idle": 0,
+            "supplied comparison": 0
+          },
+          "captureWorkSeconds": 4.129,
+          "intentions": [
+            {
+              "utc": "2026-11-27T17:30:57.001Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. This opening supplies mastery only. I want to see whether I can bring that same 291 to Lantern River without overfilling the right raft. The 244 over 200 on the last trip is the thing I remember. I want to keep Mochi’s cart riders."
+            },
+            {
+              "utc": "2026-11-27T17:31:25.692Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. I arrived with 355 this time. The two boats seat 320, so 35 cannot get seats. I want the left boat filled instead of letting most of it sail empty."
+            },
+            {
+              "utc": "2026-11-27T17:31:30.385Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. The live board has changed to 195 left and 125 right. I overshot across the middle. I am correcting right toward 120 and 200."
+            },
+            {
+              "utc": "2026-11-27T17:31:40.096Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. My right correction was late. The receipt counted 195 left and 125 right, with 75 on the lily pads. I want one more try nearer the middle of my two previous approaches."
+            },
+            {
+              "utc": "2026-11-27T17:31:52.770Z",
+              "category": "searching",
+              "text": "Searching. The result shows a new crowd best but my own goal is the boats. I am looking in Road report for a direct replay or practice."
+            },
+            {
+              "utc": "2026-11-27T17:31:57.124Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. Replay to meet the ducks gets me back to the boats. The ducks can stay where they are. I will use a smaller move left before boarding."
+            },
+            {
+              "utc": "2026-11-27T17:32:16.994Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. Eleven on the lily pads, down from 75. Now I know which way and roughly how far to move. I want one more try to see zero. I will stay middle after the river this time."
+            },
+            {
+              "utc": "2026-11-27T17:32:45.024Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. I am deliberately taking the same duck replay for my own split. This time slightly farther inward before the rail."
+            },
+            {
+              "utc": "2026-11-27T17:33:03.913Z",
+              "category": "chosen practice",
+              "text": "Chosen practice. The signs show 114 on the left and 197 on the right. They all fit. I am leaving my finger off until the boats have landed."
+            },
+            {
+              "utc": "2026-11-27T17:33:17.683Z",
+              "category": "new play",
+              "text": "New play. At boarding it was 118 and 191, both under capacity. That settles the problem for me. Since the duck flower is still ahead on this very run, I will take a look at the right bank after the last gate."
+            },
+            {
+              "utc": "2026-11-27T17:33:34.657Z",
+              "category": "character or Town",
+              "text": "Town. The duck turn was late and the result offers Replay to meet the ducks again. I am declining it. I saw everyone board, my best is 5448, and that is the picture I want to stop with."
+            }
+          ],
+          "assets": [
+            "./assets/index-CCziZ-5V.js"
+          ],
+          "closed": "2026-11-27T17:33:34.698Z",
+          "secondsOpen": 157.904
+        },
+        {
+          "opened": "2026-11-27T18:03:39.113Z",
+          "secondsByIntent": {
+            "new play": 0,
+            "chosen practice": 0,
+            "character or Town": 34.89,
+            "forced repetition": 0,
+            "searching": 16.95,
+            "claiming": 0,
+            "idle": 0,
+            "supplied comparison": 0
+          },
+          "captureWorkSeconds": 1.6139999999999999,
+          "intentions": [
+            {
+              "utc": "2026-11-27T18:03:39.308Z",
+              "category": "searching",
+              "text": "Searching. Third opening. I have ten minutes if I want them. The opening was requested and no activity has been suggested."
+            },
+            {
+              "utc": "2026-11-27T18:03:44.318Z",
+              "category": "searching",
+              "text": "Searching. The same 40-Petal envelope is first again. I am passing on it. I want to look around the Square."
+            },
+            {
+              "utc": "2026-11-27T18:03:56.256Z",
+              "category": "character or Town",
+              "text": "Town. Town offers Mochi’s cart. I remember the hoods waving from the other raft. I can see yellow hoods down by the fountain. I want to visit them there and see who is sharing the second cup."
+            },
+            {
+              "utc": "2026-11-27T18:04:10.310Z",
+              "category": "character or Town",
+              "text": "Town. The yellow hoods did not open their own greeting. The breakfast card shows Suki, the Giant and a pink boat by their cups. After all those passengers I like the idea of sending this one little boat out. I want to float it once."
+            },
+            {
+              "utc": "2026-11-27T18:04:29.960Z",
+              "category": "character or Town",
+              "text": "Town. The pink boat is afloat between the cups and I got the picture I came for. I am passing on Float it again, Parade map and another Bakery outing. I would close on this picture."
+            }
+          ],
+          "assets": [
+            "./assets/index-CCziZ-5V.js"
+          ],
+          "closed": "2026-11-27T18:04:32.760Z",
+          "secondsOpen": 53.647
+        }
+      ],
+      "totals": {
+        "new play": 16.98,
+        "chosen practice": 176.52,
+        "character or Town": 50.29,
+        "forced repetition": 0,
+        "searching": 21.3,
+        "claiming": 0,
+        "idle": 0,
+        "supplied comparison": 49.12
+      },
+      "allNotes": [
+        {
+          "utc": "2026-11-27T17:23:42.320Z",
+          "category": "supplied comparison",
+          "text": "Town. The supplied person visit asks for the same Mochi and Sleepy Signs trip as the original control. I am leaving the calendar gift for later and going to her basket."
+        },
+        {
+          "utc": "2026-11-27T17:23:52.326Z",
+          "category": "supplied comparison",
+          "text": "Chosen practice. Same left crossing as the comparison, then I will let the road settle. The choice after her return is mine."
+        },
+        {
+          "utc": "2026-11-27T17:24:31.440Z",
+          "category": "character or Town",
+          "text": "Town. Free choice begins. I want to make room for the cart. On Berry’s save I already walked the coats back through the rain. This time I want to bring riders home by water if the table will let me."
+        },
+        {
+          "utc": "2026-11-27T17:24:36.062Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. I picked the river. I will move right to board the cart party and see whether the other raft gets anyone."
+        },
+        {
+          "utc": "2026-11-27T17:24:54.222Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. The right raft is full at 244. I want to leave the cart riders that boat and bring some of the others too, so I am easing inward from the right."
+        },
+        {
+          "utc": "2026-11-27T17:25:21.057Z",
+          "category": "character or Town",
+          "text": "Town. Both rafts made it and 3349 came home. I am passing on Earn the second star on Sleepy Signs. I just did Sleepy Signs and I would rather see who takes the basket from Mochi."
+        },
+        {
+          "utc": "2026-11-27T17:25:32.131Z",
+          "category": "character or Town",
+          "text": "Town. Pass it back would reset the same exchange. I do not want to repeat it now. I am leaving the rider carrying the basket, with the raincoats still to be hosted. The meal feels finished."
+        },
+        {
+          "utc": "2026-11-27T17:30:57.001Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. This opening supplies mastery only. I want to see whether I can bring that same 291 to Lantern River without overfilling the right raft. The 244 over 200 on the last trip is the thing I remember. I want to keep Mochi’s cart riders."
+        },
+        {
+          "utc": "2026-11-27T17:31:25.692Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. I arrived with 355 this time. The two boats seat 320, so 35 cannot get seats. I want the left boat filled instead of letting most of it sail empty."
+        },
+        {
+          "utc": "2026-11-27T17:31:30.385Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. The live board has changed to 195 left and 125 right. I overshot across the middle. I am correcting right toward 120 and 200."
+        },
+        {
+          "utc": "2026-11-27T17:31:40.096Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. My right correction was late. The receipt counted 195 left and 125 right, with 75 on the lily pads. I want one more try nearer the middle of my two previous approaches."
+        },
+        {
+          "utc": "2026-11-27T17:31:52.770Z",
+          "category": "searching",
+          "text": "Searching. The result shows a new crowd best but my own goal is the boats. I am looking in Road report for a direct replay or practice."
+        },
+        {
+          "utc": "2026-11-27T17:31:57.124Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. Replay to meet the ducks gets me back to the boats. The ducks can stay where they are. I will use a smaller move left before boarding."
+        },
+        {
+          "utc": "2026-11-27T17:32:16.994Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. Eleven on the lily pads, down from 75. Now I know which way and roughly how far to move. I want one more try to see zero. I will stay middle after the river this time."
+        },
+        {
+          "utc": "2026-11-27T17:32:45.024Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. I am deliberately taking the same duck replay for my own split. This time slightly farther inward before the rail."
+        },
+        {
+          "utc": "2026-11-27T17:33:03.913Z",
+          "category": "chosen practice",
+          "text": "Chosen practice. The signs show 114 on the left and 197 on the right. They all fit. I am leaving my finger off until the boats have landed."
+        },
+        {
+          "utc": "2026-11-27T17:33:17.683Z",
+          "category": "new play",
+          "text": "New play. At boarding it was 118 and 191, both under capacity. That settles the problem for me. Since the duck flower is still ahead on this very run, I will take a look at the right bank after the last gate."
+        },
+        {
+          "utc": "2026-11-27T17:33:34.657Z",
+          "category": "character or Town",
+          "text": "Town. The duck turn was late and the result offers Replay to meet the ducks again. I am declining it. I saw everyone board, my best is 5448, and that is the picture I want to stop with."
+        },
+        {
+          "utc": "2026-11-27T18:03:39.308Z",
+          "category": "searching",
+          "text": "Searching. Third opening. I have ten minutes if I want them. The opening was requested and no activity has been suggested."
+        },
+        {
+          "utc": "2026-11-27T18:03:44.318Z",
+          "category": "searching",
+          "text": "Searching. The same 40-Petal envelope is first again. I am passing on it. I want to look around the Square."
+        },
+        {
+          "utc": "2026-11-27T18:03:56.256Z",
+          "category": "character or Town",
+          "text": "Town. Town offers Mochi’s cart. I remember the hoods waving from the other raft. I can see yellow hoods down by the fountain. I want to visit them there and see who is sharing the second cup."
+        },
+        {
+          "utc": "2026-11-27T18:04:10.310Z",
+          "category": "character or Town",
+          "text": "Town. The yellow hoods did not open their own greeting. The breakfast card shows Suki, the Giant and a pink boat by their cups. After all those passengers I like the idea of sending this one little boat out. I want to float it once."
+        },
+        {
+          "utc": "2026-11-27T18:04:29.960Z",
+          "category": "character or Town",
+          "text": "Town. The pink boat is afloat between the cups and I got the picture I came for. I am passing on Float it again, Parade map and another Bakery outing. I would close on this picture."
+        }
+      ],
+      "startingState": {
+        "fixture": "docs/Fluff-Rush-directors-pass/evidence/earned-two-hours.json",
+        "servedStart": "original-earned-evaluation-start.json",
+        "wallet": 7682,
+        "sha256": "89f8584f653baa6af15bf16d72b9aed62712a62391aad3f6b6e1cac9e36fc8e8"
+      },
+      "checkpoints": [
+        {
+          "stop": "person-stop",
+          "file": "candidate-earned-person-stop-save.json",
+          "image": "candidate-earned-person-stop.jpg",
+          "frameUtc": "2026-11-27T17:25:27.183Z",
+          "sha256": "226a5666ee0416c054cdde6e0ccad3029ca786f550a4eb9b5cf5d608b825bd19",
+          "petals": 7919,
+          "table": [
+            "town:bakery-table:yuzu:cart",
+            "town:table-welcome:cart"
+          ]
+        },
+        {
+          "stop": "mastery-stop",
+          "file": "candidate-earned-mastery-stop-save.json",
+          "image": "candidate-earned-mastery-stop.jpg",
+          "frameUtc": "2026-11-27T17:33:32.379Z",
+          "sha256": "3a3101fc0b25399636e463107749c78be6f608b5f53f9a258bc2b093dc72cb18",
+          "petals": 8655,
+          "table": [
+            "town:bakery-table:yuzu:cart",
+            "town:table-welcome:cart"
+          ]
+        },
+        {
+          "stop": "open-stop",
+          "file": "candidate-earned-open-stop-save.json",
+          "image": "candidate-earned-open-stop.jpg",
+          "frameUtc": "2026-11-27T18:04:32.158Z",
+          "sha256": "9348edf38b36b47958475b050e9d2d5c606cfbcdc806951fe46e456e0fb0ac86",
+          "petals": 8655,
+          "table": [
+            "town:bakery-table:yuzu:cart",
+            "town:table-welcome:cart"
+          ]
+        }
+      ]
+    }
+  }
+}

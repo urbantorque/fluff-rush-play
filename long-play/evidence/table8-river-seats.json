@@ -1,0 +1,175 @@
+{
+  "method": "Four independent copies of the same 1,326-Petal earned profile. Selected Pip on the regular card, made a native drag four seconds before boarding and used Huddle 1.15 seconds before it. Native centreward drag after boarding. Normal clock to the receipt and the actual table.",
+  "rows": [
+    {
+      "fixture": ".tmp/long-play/table-plans/prototype-river-hood.json",
+      "party": "hood",
+      "side": "hood",
+      "before": {
+        "wallet": 1326,
+        "table": "town:bakery-table:matcha:hood",
+        "welcomes": [],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart"
+        ]
+      },
+      "roadCard": "Lantern Marsh · Level 9\n\nLantern River\n\nClover is saving the dry corner. Bring the yellow hoods on the left raft.\n\nOtto · Umbrella\nCover 3.6 seconds of rain. Reach a bridge under cover and the back row crosses safely.\nChange leader\nRoad options\nStart with Clover\nBack",
+      "boarded": {
+        "leader": "pip",
+        "call": 1,
+        "left": 161,
+        "total": 161,
+        "passengers": {
+          "raincoats": true,
+          "cart": false
+        },
+        "cue": "Bring the yellow hoods on the left raft."
+      },
+      "receipt": "1,949 friends home!\n\nLantern River\n\nThe raincoats crossed on the left raft.\n\nRoad report\nBack to Clover’s table\nA yellow coat is drying on the chair.\nNext: Nap Cat Crossing",
+      "after": {
+        "wallet": 1474,
+        "table": "town:bakery-table:matcha:hood",
+        "welcomes": [
+          "town:table-welcome:hood"
+        ],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart",
+          "breakfast:guest:hood"
+        ]
+      },
+      "home": "Clover’s table\n\nOne coat dries on the chair. Clover sits down beside the three guests.\n\nSeat the raincoats\nMake room for the cart\nLift the cloth\nGo out together\nShare buns\nBack to Town",
+      "started": "2026-11-27T14:58:26.760Z",
+      "ended": "2026-11-27T14:59:06.851Z"
+    },
+    {
+      "fixture": ".tmp/long-play/table-plans/prototype-river-hood.json",
+      "party": "hood",
+      "side": "cart",
+      "before": {
+        "wallet": 1326,
+        "table": "town:bakery-table:matcha:hood",
+        "welcomes": [],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart"
+        ]
+      },
+      "roadCard": "Lantern Marsh · Level 9\n\nLantern River\n\nClover is saving the dry corner. Bring the yellow hoods on the left raft.\n\nOtto · Umbrella\nCover 3.6 seconds of rain. Reach a bridge under cover and the back row crosses safely.\nChange leader\nRoad options\nStart with Clover\nBack",
+      "boarded": {
+        "leader": "pip",
+        "call": 1,
+        "left": 0,
+        "total": 161,
+        "passengers": {
+          "raincoats": false,
+          "cart": true
+        },
+        "cue": "Bring the yellow hoods on the left raft."
+      },
+      "receipt": "2,508 friends home!\n\nLantern River\n\nThe cart riders crossed on the right raft.\n\nRoad report\nBack to Clover’s table\nThe dry corner is still set.\nNext: Nap Cat Crossing",
+      "after": {
+        "wallet": 1514,
+        "table": "town:bakery-table:matcha:hood",
+        "welcomes": [],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart"
+        ]
+      },
+      "home": "Clover’s table\n\nThe dry corner is set for three yellow raincoats.\n\nSeat the raincoats\nMake room for the cart\nWalk Drizzle Dell\nKeep the last yellow hood under the left awning.\nTake Lantern River\nBring the yellow hoods on the left raft.\nShare buns\nBack to Town",
+      "started": "2026-11-27T14:59:07.098Z",
+      "ended": "2026-11-27T14:59:46.687Z"
+    },
+    {
+      "fixture": ".tmp/long-play/table-plans/prototype-river-cart.json",
+      "party": "cart",
+      "side": "hood",
+      "before": {
+        "wallet": 1326,
+        "table": "town:bakery-table:matcha:cart",
+        "welcomes": [],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart"
+        ]
+      },
+      "roadCard": "Lantern Marsh · Level 9\n\nLantern River\n\nClover is saving the wide end. Bring the cart riders on the right raft.\n\nOtto · Umbrella\nCover 3.6 seconds of rain. Reach a bridge under cover and the back row crosses safely.\nChange leader\nRoad options\nStart with Clover\nBack",
+      "boarded": {
+        "leader": "pip",
+        "call": 1,
+        "left": 161,
+        "total": 161,
+        "passengers": {
+          "raincoats": true,
+          "cart": false
+        },
+        "cue": "Bring the cart riders on the right raft."
+      },
+      "receipt": "1,949 friends home!\n\nLantern River\n\nThe raincoats crossed on the left raft.\n\nRoad report\nBack to Clover’s table\nThe wide end is still clear.\nNext: Nap Cat Crossing",
+      "after": {
+        "wallet": 1474,
+        "table": "town:bakery-table:matcha:cart",
+        "welcomes": [],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart",
+          "breakfast:guest:hood"
+        ]
+      },
+      "home": "Clover’s table\n\nThe wide end stays clear for the red cart.\n\nSeat the raincoats\nMake room for the cart\nWalk Drizzle Dell\nMeet the red cart on the right, past the shower.\nTake Lantern River\nBring the cart riders on the right raft.\nShare buns\nBack to Town",
+      "started": "2026-11-27T14:59:46.846Z",
+      "ended": "2026-11-27T15:00:25.897Z"
+    },
+    {
+      "fixture": ".tmp/long-play/table-plans/prototype-river-cart.json",
+      "party": "cart",
+      "side": "cart",
+      "before": {
+        "wallet": 1326,
+        "table": "town:bakery-table:matcha:cart",
+        "welcomes": [],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart"
+        ]
+      },
+      "roadCard": "Lantern Marsh · Level 9\n\nLantern River\n\nClover is saving the wide end. Bring the cart riders on the right raft.\n\nOtto · Umbrella\nCover 3.6 seconds of rain. Reach a bridge under cover and the back row crosses safely.\nChange leader\nRoad options\nStart with Clover\nBack",
+      "boarded": {
+        "leader": "pip",
+        "call": 1,
+        "left": 0,
+        "total": 161,
+        "passengers": {
+          "raincoats": false,
+          "cart": true
+        },
+        "cue": "Bring the cart riders on the right raft."
+      },
+      "receipt": "2,508 friends home!\n\nLantern River\n\nThe cart riders crossed on the right raft.\n\nRoad report\nBack to Clover’s table\nA rider has the bun basket.\nNext: Nap Cat Crossing",
+      "after": {
+        "wallet": 1514,
+        "table": "town:bakery-table:matcha:cart",
+        "welcomes": [
+          "town:table-welcome:cart"
+        ],
+        "guests": [
+          "breakfast:guest:fig",
+          "breakfast:guest:painters",
+          "breakfast:guest:cart"
+        ]
+      },
+      "home": "Clover’s table\n\nThe cloth reaches onto the cart. A rider takes the basket so Clover can sit.\n\nSeat the raincoats\nMake room for the cart\nPass the buns\nGo out together\nShare buns\nBack to Town",
+      "started": "2026-11-27T15:00:26.055Z",
+      "ended": "2026-11-27T15:01:05.286Z"
+    }
+  ]
+}

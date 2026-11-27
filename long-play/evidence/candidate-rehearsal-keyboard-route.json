@@ -1,0 +1,90 @@
+{
+  "fixture": "docs/Fluff-Rush-long-play/evidence/edited-song-201.json",
+  "method": "Desktop keyboard on a genuinely edited save. From the restored Band Stand, allow the song to finish hands off, cycle result focus, return, play again and visit the editor. Normal clock. No pointer, driver assistance or score writes.",
+  "stops": [
+    {
+      "entry": {
+        "tag": "DIV",
+        "text": "Tambo plays your song. Rose left, Honey middle, ",
+        "name": "Tambo’s rehearsal",
+        "inResult": false
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "act": "band",
+      "text": "Back to Band Stand",
+      "name": null,
+      "inResult": true
+    },
+    {
+      "key": "Shift+Tab",
+      "tag": "BUTTON",
+      "act": "again",
+      "text": "Steer it again",
+      "name": null,
+      "inResult": true
+    },
+    {
+      "key": "Tab",
+      "tag": "BUTTON",
+      "act": "band",
+      "text": "Back to Band Stand",
+      "name": null,
+      "inResult": true
+    },
+    {
+      "key": "Tab",
+      "tag": "BUTTON",
+      "act": "edit",
+      "text": "Change a note",
+      "name": null,
+      "inResult": true
+    },
+    {
+      "key": "Tab",
+      "tag": "BUTTON",
+      "act": "again",
+      "text": "Steer it again",
+      "name": null,
+      "inResult": true
+    },
+    {
+      "key": "Tab",
+      "tag": "BUTTON",
+      "act": "band",
+      "text": "Back to Band Stand",
+      "name": null,
+      "inResult": true
+    },
+    {
+      "key": "Escape",
+      "tag": "BUTTON",
+      "act": "band",
+      "text": "Back to Band Stand",
+      "name": null,
+      "inResult": true
+    },
+    {
+      "returned": {
+        "tag": "BUTTON",
+        "act": "song",
+        "text": "Steer your welcome song",
+        "name": null,
+        "inResult": false
+      }
+    },
+    {
+      "edit": {
+        "tag": "BUTTON",
+        "text": "Rose",
+        "name": "Rose",
+        "inResult": false
+      },
+      "panel": "Make a welcome song\n\nTouch a symbol to change that note, or start a new song with a chime.\n\nRose\nHoney\nMint\n▲\n●\n◆\nHear your song\nSong saved\nHear it at the Band Stand\nSteer it with Tambo\nBack to Town"
+    }
+  ],
+  "receipt": "Your welcome song\n\n▲\n●\n◆\n\n1 of 3 notes played.\n\nStart on the right for Mint.\n\nBack to Band Stand\nChange a note\nSteer it again",
+  "wallet": 7682,
+  "errors": []
+}
