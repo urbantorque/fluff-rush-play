@@ -1,0 +1,34 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "duration": 6.0971999168396,
+  "marks": {
+    "chooseInvitation": 1.301,
+    "tapAgain": 1.951,
+    "openLetter": 3.747,
+    "accept": 5.115,
+    "steering": 5.237
+  },
+  "frames": 363,
+  "inputs": [
+    {
+      "delta": -260,
+      "t": 9.075000000000125,
+      "d": 2299.979166666656,
+      "x": 5.305189510554381
+    }
+  ],
+  "errors": [],
+  "mark": {
+    "hit": 4,
+    "of": 8,
+    "revision": 6,
+    "at": 1795746917659,
+    "missed": 4
+  },
+  "result": "Parade size\n2,198\nBest streak\n2\nFriends woken this run: 3\n3 woken\nParade of 2198 reached the end.\n4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path. A picnic letter waits there.\n\n2,198 friends home · 202 more for 2 stars (2,400 total)\n\nTotal Petals\n+100 \nRoad report\nSee my daisy lamps\nNext road"
+}

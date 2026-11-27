@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Fluff Rush · Two-hour save</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#fbf7ee;color:#382e33;font:17px/1.55 system-ui,sans-serif}main{max-width:40rem;margin:10vh auto;padding:1.5rem}h1{font:600 clamp(2rem,7vw,3.3rem)/1.08 Georgia,serif;margin:.5rem 0 1.2rem}p{margin:.7rem 0 1rem}button{background:#70364c;color:white;padding:12px 20px;border:0;border-radius:7px;font:600 1rem system-ui;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid #a24e22;outline-offset:4px}a{color:#70364c}
+</style></head><body><main>
+<h1>Return to the valley</h1>
+<p id="description">The four musicians are home. The telescope in Grove shows the Loaf and Cup. Take the saved parade back to Festival of Sweets, or see what else the Square remembers.</p>
+<p><button id="play" type="button">Play the two-hour save</button></p>
+<p id="message" role="status">This copy has its own save slot.</p>
+<p><a id="main-game" href="../">Play your usual game</a> · <a id="notes" href="release.html">Release judgement</a></p>
+</main><script>
+const button=document.getElementById('play'),description=document.getElementById('description'),statusLine=document.getElementById('message');
+const starts={
+  'two-hours':{port:'4282',file:'earned-two-hours',title:'Return to the valley',label:'Play the two-hour save',road:'L30',query:''},
+  festival:{port:'4283',file:'festival-save',title:'Bring the pennant',label:'Play Festival of Sweets',road:'L22',query:'level=L23',description:'The second Sharing Hedge has a sleeping wall on the left and a multiplier on the right. Bring 600 to the wall if you want to carry the pennant to Gobbo.'},
+  breakfast:{port:'4284',file:'breakfast-save',title:'Breakfast with Suki',label:'Visit Town',road:'L30',query:'town',description:'The Giant has come home. Select Square and touch the breakfast table below the fountain. Let the Tea House visit finish if Suki has the pot.'},
+  seedfall:{port:'4285',file:'seedfall-save',title:'The yellow raincoats',label:'Play Seedfall Road',road:'L4',query:'level=L5',description:'Follow the parachute shadows. A four-of-eight clear lights two daisy lamps and puts the raincoat invitation on your result.'},
+};
+const local=location.hostname==='127.0.0.1' && ['4280','4282','4283','4284','4285'].includes(location.port);
+const requested=new URLSearchParams(location.search).get('scene');
+const current=Object.keys(starts).find(key=>starts[key].port===location.port);
+const scene=requested==='opening' || Object.hasOwn(starts,requested) ? requested : (local && current || 'two-hours');
+const start=starts[scene];
+if(local){
+  document.getElementById('main-game').href='http://127.0.0.1:4281/';
+  document.getElementById('notes').href='http://127.0.0.1:4280/release.html';
+}
+if(location.protocol==='file:'){
+  location.replace('https://urbantorque.github.io/fluff-rush-play/directors-pass/checkpoint.html?scene='+scene);
+}else if(scene==='opening'){
+  location.replace(document.getElementById('main-game').href);
+}else if(local && start.port!==location.port){
+  location.replace('http://127.0.0.1:'+start.port+'/checkpoint.html');
+}else{
+  const saveKey=(local?'':'fluff-rush.review.c8b5302f32d2.'+scene+'.')+'fuzzbud.save.v1';
+  const resume=local?'/':'game/play.html?scene='+scene;
+  document.title='Fluff Rush · '+start.title;
+  document.querySelector('h1').textContent=start.title;
+  button.textContent=start.label;
+  if(start.description)description.textContent=start.description;
+  if(localStorage.getItem(saveKey)){
+    button.textContent='Continue this save';
+    description.textContent='Your review visit is saved here. Return to the road or Town where you left it.';
+  }
+  button.onclick=async()=>{
+    button.disabled=true;
+    try{
+      let entry=resume;
+      if(!localStorage.getItem(saveKey)){
+        const response=await fetch(local?'earned.json':'evidence/'+start.file+'.json');
+        if(!response.ok)throw Error('The earned save could not be loaded.');
+        const state=await response.json();
+        if(!state.d?.levels?.[start.road]?.stars)throw Error('The earned save could not be verified.');
+        if(!localStorage.getItem(saveKey)){
+          localStorage.setItem(saveKey,JSON.stringify(state));
+          if(start.query)entry+=(local?'?':'&')+start.query;
+        }
+      }
+      location.assign(entry);
+    }catch(error){
+      statusLine.textContent=error.message;
+      button.disabled=false;
+    }
+  };
+}
+</script></body></html>

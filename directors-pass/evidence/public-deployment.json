@@ -1,0 +1,357 @@
+{
+  "checkedAt": "2026-11-27T11:21:38.210Z",
+  "url": "https://urbantorque.github.io/fluff-rush-play/",
+  "commit": "f747dcb25b1ed9d196e80a8a0ee59c9a361ad4eb",
+  "archive": "Fluff-Rush-c8b5302f32d2.zip",
+  "archiveSha256": "e4e26f919ce9cdcdadbcbb344f39975bfd1f6a7ab602bbb5fc4fef6df0834168",
+  "liveTreeSha256": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+  "publicMarker": {
+    "sourceCommit": "ec29b4d0",
+    "sourceDirty": true,
+    "buildHash": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+    "buildId": "c8b5302f32d2",
+    "entries": [
+      "index.html",
+      "garden.html"
+    ],
+    "archiveSha256": "e4e26f919ce9cdcdadbcbb344f39975bfd1f6a7ab602bbb5fc4fef6df0834168"
+  },
+  "rootMatchesArchive": true,
+  "matchedFiles": 65,
+  "verified": [
+    {
+      "path": "assets/bridge-CLoep9UJ.js",
+      "bytes": 4106,
+      "sha256": "116cee1bf420396a0c8b289b912a2741e0bd7cc469d2402bfec008132749e155"
+    },
+    {
+      "path": "assets/companions-CMU9WMdr.js",
+      "bytes": 14951,
+      "sha256": "c96e8fcb7ffa73934d76612232f269d42dbe3d6e2d27a12400a17ea3d6fa51ab"
+    },
+    {
+      "path": "assets/debug-WtDryvf1.js",
+      "bytes": 3043,
+      "sha256": "14b2fa686676295fb98baf3112eb41baf72b6cb549f12ae54f65f13204201184"
+    },
+    {
+      "path": "assets/dist-CixD3Ru4.js",
+      "bytes": 7752,
+      "sha256": "934366d59579b3b3848b5085582118d39e1940b1c45aeaa317ff2c82abd8b025"
+    },
+    {
+      "path": "assets/esm-BR8_iZQ4.js",
+      "bytes": 1386,
+      "sha256": "72714a703ee5cff3c5f19d91392831acfe0846cde91f985ec3fabb4b38648425"
+    },
+    {
+      "path": "assets/esm-CfMuq0nh.js",
+      "bytes": 342,
+      "sha256": "5a8b159d7e79e453c1dd55264144da104e7b1be3b51ff62915942007ac4cd482"
+    },
+    {
+      "path": "assets/esm-CK_sOZr9.js",
+      "bytes": 551,
+      "sha256": "8bf19d840a7e8937562d6e85a16ff4e2daf1ba7e7629037fcf5d11310da84fe2"
+    },
+    {
+      "path": "assets/esm-CYLMMuAH.js",
+      "bytes": 600,
+      "sha256": "4cbed7bf9af24ac8a780c1c1f43f5cf16827f85624fa0b328e33a5a2cc7a2020"
+    },
+    {
+      "path": "assets/esm-Dqj7liYu.js",
+      "bytes": 336,
+      "sha256": "5849a230cb76cc6e851162ad280924aae2235b0c34fc1a2718d500dcf10b2e7b"
+    },
+    {
+      "path": "assets/esm-vukujIJM.js",
+      "bytes": 360,
+      "sha256": "5c4250d37cd638a772cae0278257064ca2a2fdb758fa97c9f755ed450f37b7e7"
+    },
+    {
+      "path": "assets/fountainBreakfast-B0WIAzRU.css",
+      "bytes": 13297,
+      "sha256": "c105784f8a479c1a031b4c9a652afdfcdd3ace879477261c6efa43287c393298"
+    },
+    {
+      "path": "assets/fountainBreakfast-CeSDNPmr.js",
+      "bytes": 197507,
+      "sha256": "32537048f284b9edd8ea7bb086542afda622ff8d56b18be7300d84963a648e9a"
+    },
+    {
+      "path": "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "bytes": 16468,
+      "sha256": "b62f2898de150f019961f4884a49f83dcd2ce74375be5e0992c594ebb8f30294"
+    },
+    {
+      "path": "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+      "bytes": 20380,
+      "sha256": "ca6f7ba0a393960b2a3036754726529ddd19b8a20be3faeb8cfabad3882b888a"
+    },
+    {
+      "path": "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "bytes": 15900,
+      "sha256": "ee61b48acab42fcfee4e1c398b03bbae7e09d1be8471779c440a97dc85118c16"
+    },
+    {
+      "path": "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+      "bytes": 19812,
+      "sha256": "931dcf080063f94fcf3db314e09a0fa3238fe612cc1ccb6d0af1c2e68ac13b62"
+    },
+    {
+      "path": "assets/hub-C8bkb0t-.css",
+      "bytes": 83699,
+      "sha256": "32159c066ee4bd0643ce1629b60cd589db149987f562389008dee579486afba1"
+    },
+    {
+      "path": "assets/hub-DqiX2ESX.js",
+      "bytes": 222968,
+      "sha256": "68d427c384502ac078bfbe4edcedf684237d78f8387e533f725c00d8e5d8a973"
+    },
+    {
+      "path": "assets/index-BCO201tk.css",
+      "bytes": 34774,
+      "sha256": "8e26b4991d1d8b368825343f1b436de8a8d7837130894b10fbc4b9f8eba8d89b"
+    },
+    {
+      "path": "assets/index-DvPkCHqF.js",
+      "bytes": 3481,
+      "sha256": "ddef1f30d08a5bcc26e5ec3a3c9fdeba26ad27909214e24a5da6bb4bd515b988"
+    },
+    {
+      "path": "assets/main-B6pSjAku.js",
+      "bytes": 783844,
+      "sha256": "c123c00d88af9ab4603e61db072656811055a0100e92cb7ae94721340fede365"
+    },
+    {
+      "path": "assets/main-DKeEY1Yv.css",
+      "bytes": 23578,
+      "sha256": "f4386e7f6b15fa526437ca44fa38d08607f3149862f63a4e9dcb5afb91c6c9cb"
+    },
+    {
+      "path": "assets/mochiy-pop-one-latin-400-normal-B-XEkQuZ.woff2",
+      "bytes": 18284,
+      "sha256": "5b66adb405feda34a6bf45eadc404aebedcf0858873805fd6a4ba71f12396a63"
+    },
+    {
+      "path": "assets/mochiy-pop-one-latin-400-normal-D7_dByCQ.woff",
+      "bytes": 22780,
+      "sha256": "75a0ba92d3c25d37753fb2f5a88b7be32938d89f193dfb929a5e946e1123af33"
+    },
+    {
+      "path": "assets/nunito-latin-600-normal-Br8yIETf.woff2",
+      "bytes": 16556,
+      "sha256": "45f437de32ff5973eb5616b43c1308bf9fe897442f3d78a603c4cd0a06d66573"
+    },
+    {
+      "path": "assets/nunito-latin-600-normal-Cd0eNu1l.woff",
+      "bytes": 20492,
+      "sha256": "06a9c8b384b332423be9291e180dba15ec49c0c903303e03ea03e2ded06197e4"
+    },
+    {
+      "path": "assets/nunito-latin-700-normal-Dort48En.woff2",
+      "bytes": 16228,
+      "sha256": "fa89300b9bbb3bd0f60d6991aa055965d98e2ccca27bf8688fe0c39cdc796846"
+    },
+    {
+      "path": "assets/nunito-latin-700-normal-OcDqTBcA.woff",
+      "bytes": 19988,
+      "sha256": "ce9107dc33f5d3bb8237776799400f28b96aed4b114773d4fd7fbacb3b218509"
+    },
+    {
+      "path": "assets/nunito-latin-800-normal-D-J0wlBY.woff",
+      "bytes": 20360,
+      "sha256": "0ca02785f0bf8aaabada9adc9b4e2bb4952e1c641fea02d12f34608ca89fe904"
+    },
+    {
+      "path": "assets/nunito-latin-800-normal-Dz8SOQK_.woff2",
+      "bytes": 16520,
+      "sha256": "2363d3ed037283ebb961e8c4b4917e40a8bc8853cf9965cf1ea7b4daa1df630a"
+    },
+    {
+      "path": "assets/nunito-latin-900-normal-BVB1fGs6.woff2",
+      "bytes": 16676,
+      "sha256": "9ca32f5d8334579387361096944286df451272a557bb09bd906254a623aba99e"
+    },
+    {
+      "path": "assets/nunito-latin-900-normal-CVn49sIn.woff",
+      "bytes": 20468,
+      "sha256": "001c1d9c9147801a37b9e22c1768bc050590d0a833de46698fe5fbac76162431"
+    },
+    {
+      "path": "assets/overworldLantern-DmBKzqpy.js",
+      "bytes": 28112,
+      "sha256": "d60f98ce641fd0219e0a029af64f946416c49f55e1887c3615a94fd053121b30"
+    },
+    {
+      "path": "assets/overworldPreview-BTs9dLmy.js",
+      "bytes": 49824,
+      "sha256": "07575c282767ce9905eab83b8578082bdce3ec9f0221ec95aae77f75708c8a67"
+    },
+    {
+      "path": "assets/palette-xr6YRQ4k.js",
+      "bytes": 2692,
+      "sha256": "db525e246d64185561168e37a1ae304c11210b17309c44cc74ff2eac0c73a4d6"
+    },
+    {
+      "path": "assets/parade-woodland-v3-Nb5MCmlU.webp",
+      "bytes": 202754,
+      "sha256": "4413ad52649762ca545b2b059f429d73ecf218e35349fc53b956cb5db8759fbc"
+    },
+    {
+      "path": "assets/rolldown-runtime-DK3Fl9T5.js",
+      "bytes": 158,
+      "sha256": "a526d1bb3288ef04d001028843220a24b0867a4edf8c685b69506d6525af36ff"
+    },
+    {
+      "path": "assets/saveSchema-23mjyPR9.js",
+      "bytes": 194633,
+      "sha256": "76e21254b09d9ec4c1009fbc7e936323ad14a530eeb573a18424667faac770d5"
+    },
+    {
+      "path": "assets/scene-FkEfgHCe.js",
+      "bytes": 42486,
+      "sha256": "077a536e0a7a83df473c9053d1cd13b4aa2e34d228450f495041b42d473b46a8"
+    },
+    {
+      "path": "assets/sheets-Br6RHkRA.js",
+      "bytes": 102055,
+      "sha256": "81a5dd6ebb837698aeaf3de53acf83803fa08bf87e58482ff1a44f756a87917d"
+    },
+    {
+      "path": "assets/sheets-CpGc0uqa.css",
+      "bytes": 10120,
+      "sha256": "9463ef6463998257ec7c4f73959b54dbd5445f5b4ea5c1d430ed199e590b2a01"
+    },
+    {
+      "path": "assets/state-6pKJyZdK.js",
+      "bytes": 165178,
+      "sha256": "97824c6e0a5cb09de85d6b31b77db6177a39acca1f5ef32cd0cd08b265102414"
+    },
+    {
+      "path": "assets/story-Da1ZT1fG.js",
+      "bytes": 114941,
+      "sha256": "3619de087b5d534ea0538d5b8d6f874b63e09975749c9856bd6d547cc1029107"
+    },
+    {
+      "path": "assets/storyDebug-BIRfr6kK.js",
+      "bytes": 1230,
+      "sha256": "a0d336ccca0783f69e70fa9197a569415eda1e4eec37376ca9c6fa0813381cf5"
+    },
+    {
+      "path": "assets/village-Bgl3rYJG.js",
+      "bytes": 3500,
+      "sha256": "876ddf3c59e72c88dc1e3968ec343b27df8dfcf0b89fe629f6500b7f6655200a"
+    },
+    {
+      "path": "assets/villageFestivals-CafuDoRT.js",
+      "bytes": 12829,
+      "sha256": "72ccca7a2acf45b45588cb3c897bb8aa5a465682b9e0fe5c4f93d1f504b50114"
+    },
+    {
+      "path": "assets/villageSheets-CkaXCexW.js",
+      "bytes": 1348,
+      "sha256": "3b6e4ae9b0c46a4f7a8e80371d31876fd6b4ab86ed4875d180628bcd8c9f0447"
+    },
+    {
+      "path": "assets/web-aqXpfU6g.js",
+      "bytes": 8470,
+      "sha256": "923c7f269dc9f6da63d3e9ad0a242b9e61277d23ac12edd11a918d22e73f9df3"
+    },
+    {
+      "path": "assets/web-Ba0TZG9T.js",
+      "bytes": 364,
+      "sha256": "659f5dadaa8f3e9afbb1de3853edee29b79fe14930dd116a6e0e1080748fdcca"
+    },
+    {
+      "path": "assets/web-BgnMmn2W.js",
+      "bytes": 1191,
+      "sha256": "dc0243a30fcb20ca68fa8fb27a1912f72368721a661742c56635200cbf4c8af2"
+    },
+    {
+      "path": "assets/web-BhKDBmYN.js",
+      "bytes": 843,
+      "sha256": "4d833af44dceb8c35a96f357ec1954fb167eab00c7067e817ce7ac3f10a677e9"
+    },
+    {
+      "path": "assets/web-CtZwTGG5.js",
+      "bytes": 949,
+      "sha256": "ea2bb3077dedb2fc340fc3353f3cde3a6d2366f7ca7fcf93ca275516cabe21d5"
+    },
+    {
+      "path": "assets/web-fuHVDv9B.js",
+      "bytes": 4439,
+      "sha256": "09f4d506cb0dc9d5161c0bb106a74adde3cf592375e7cd1a1d17cdf092da1ffd"
+    },
+    {
+      "path": "assets/wilds-s2qiZRxr.js",
+      "bytes": 28129,
+      "sha256": "841f6e5e3c9c8c29fe2b3cc5feef6c7ad9328fbad7e87b4c9fb72681bb003229"
+    },
+    {
+      "path": "favicon.ico",
+      "bytes": 2800,
+      "sha256": "1f1104ba69f2f13a59c4d97e05398856d0358840bb43f160fe0f332fe72e5475"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 1588,
+      "sha256": "327cc077d531e5f548da2bbe706858fce2e5bd46cdc43f8b274f1b2831ae62f4"
+    },
+    {
+      "path": "icons/icon-1024.png",
+      "bytes": 823108,
+      "sha256": "7e6750c1ababe02a9f0fcaa8f2b9619eafcbfa06a4864cb5e934b2cce8b629e8"
+    },
+    {
+      "path": "icons/icon-180.png",
+      "bytes": 44018,
+      "sha256": "04b2f5ac0eac4c6194159310c43c8551c29e98def73604e97904562349d10d01"
+    },
+    {
+      "path": "icons/icon-192.png",
+      "bytes": 49412,
+      "sha256": "165d2c40343df07dcf138d47b16456c72ec814cc03dd146bb38b4f8868b22530"
+    },
+    {
+      "path": "icons/icon-512.png",
+      "bytes": 249364,
+      "sha256": "272658d8fc28c98557bffc8058b383dcc54b74980536f1e8198bffc845e287d2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2066,
+      "sha256": "963251b84a90f36ed729b3dcfe3a1d1a73c6519b6f0865d68454c2387cb44a93"
+    },
+    {
+      "path": "licenses/alegreya-OFL.txt",
+      "bytes": 4513,
+      "sha256": "a616403914fd16d254244f482b348af457a54f7e79a7919daec24129c1bd3571"
+    },
+    {
+      "path": "licenses/nunito-OFL.txt",
+      "bytes": 4491,
+      "sha256": "40991bfa02ac620aae16dc527f3c47765a25e43f270d4c301ee6ab663a8d9015"
+    },
+    {
+      "path": "licenses/phosphor-MIT.txt",
+      "bytes": 1092,
+      "sha256": "ddbe6082ec3cf979db47e5af549d2849c5d6182b3e005ef91ce1dbb9eb122f11"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 712,
+      "sha256": "4f01541ae33880f22f0e5f0e1f50be58b2409a9686f4123fedaeeca270ba3647"
+    }
+  ],
+  "start": {
+    "title": "Fluff Rush: The Great Homecoming",
+    "road": "L1",
+    "phase": "walk",
+    "entry": "https://urbantorque.github.io/fluff-rush-play/",
+    "module": "./assets/index-DvPkCHqF.js"
+  },
+  "errors": [],
+  "badRequests": []
+}

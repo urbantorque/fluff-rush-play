@@ -1,0 +1,177 @@
+[
+  {
+    "width": 393,
+    "height": 852,
+    "reduce": false,
+    "hotspot": {
+      "x": 134.34616088867188,
+      "y": 525.3389892578125,
+      "width": 136,
+      "height": 44
+    },
+    "button": {
+      "x": 37,
+      "y": 453.390625,
+      "width": 319,
+      "height": 164.015625
+    },
+    "focus": {
+      "outline": "solid",
+      "width": "3px"
+    },
+    "focusBack": "breakfast",
+    "before": {
+      "petals": 6133,
+      "folds": 0,
+      "display": 0
+    },
+    "after": {
+      "petals": 6133,
+      "folds": 1,
+      "display": 0
+    },
+    "road": "Replay Seedfall Road",
+    "destination": "L5",
+    "errors": []
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "reduce": true,
+    "hotspot": {
+      "x": 97.33333587646484,
+      "y": 363.3333435058594,
+      "width": 136.00000762939453,
+      "height": 44
+    },
+    "button": {
+      "x": 37,
+      "y": 206.703125,
+      "width": 246,
+      "height": 126.703125
+    },
+    "focus": {
+      "outline": "solid",
+      "width": "3px"
+    },
+    "focusBack": "breakfast",
+    "before": {
+      "petals": 6133,
+      "folds": 0,
+      "display": 0
+    },
+    "after": {
+      "petals": 6133,
+      "folds": 1,
+      "display": 0
+    },
+    "road": "Replay Seedfall Road",
+    "destination": "L5",
+    "errors": []
+  },
+  {
+    "width": 852,
+    "height": 393,
+    "reduce": true,
+    "hotspot": {
+      "x": 362.5904846191406,
+      "y": 271.99761962890625,
+      "width": 136,
+      "height": 44
+    },
+    "button": {
+      "x": 165,
+      "y": 93.359375,
+      "width": 522,
+      "height": 135.609375
+    },
+    "focus": {
+      "outline": "solid",
+      "width": "3px"
+    },
+    "focusBack": "breakfast",
+    "before": {
+      "petals": 6133,
+      "folds": 0,
+      "display": 0
+    },
+    "after": {
+      "petals": 6133,
+      "folds": 1,
+      "display": 0
+    },
+    "road": "Replay Seedfall Road",
+    "destination": "L5",
+    "errors": []
+  },
+  {
+    "width": 568,
+    "height": 320,
+    "reduce": true,
+    "hotspot": {
+      "x": 219.1999969482422,
+      "y": 209.60000610351562,
+      "width": 136.00001525878906,
+      "height": 44
+    },
+    "button": {
+      "x": 27,
+      "y": 69.265625,
+      "width": 514,
+      "height": 110.796875
+    },
+    "focus": {
+      "outline": "solid",
+      "width": "3px"
+    },
+    "focusBack": "breakfast",
+    "before": {
+      "petals": 6133,
+      "folds": 0,
+      "display": 0
+    },
+    "after": {
+      "petals": 6133,
+      "folds": 1,
+      "display": 0
+    },
+    "road": "Replay Seedfall Road",
+    "destination": "L5",
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "height": 800,
+    "reduce": false,
+    "hotspot": {
+      "x": 581.6912231445312,
+      "y": 565.4417724609375,
+      "width": 136,
+      "height": 44
+    },
+    "button": {
+      "x": 431,
+      "y": 434.09375,
+      "width": 418,
+      "height": 214.609375
+    },
+    "focus": {
+      "outline": "solid",
+      "width": "3px"
+    },
+    "focusBack": "breakfast",
+    "before": {
+      "petals": 6133,
+      "folds": 0,
+      "display": 0
+    },
+    "after": {
+      "petals": 6133,
+      "folds": 1,
+      "display": 0
+    },
+    "road": "Replay Seedfall Road",
+    "destination": "L5",
+    "errors": []
+  }
+]

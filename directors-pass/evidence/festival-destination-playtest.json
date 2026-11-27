@@ -1,0 +1,23 @@
+{
+  "label": "playtest",
+  "edition": ".tmp/directors-pass/rc-d211fd0e96d4",
+  "method": "Each ordinary full Festival run uses native touch. The late state is the actual two-hour save. The early state is the earned Festival fixture. Tapped the result action, read its road card and started the road.",
+  "results": [
+    {
+      "scenario": "after story",
+      "button": "Earn the second star on Sleepy Signs",
+      "carried": true,
+      "destination": "Gobbo's Hill",
+      "road": "L24",
+      "errors": []
+    },
+    {
+      "scenario": "first Festival escort",
+      "button": "Visit Gobbo’s hill",
+      "carried": true,
+      "destination": "Gobbo's Hill",
+      "road": "L24",
+      "errors": []
+    }
+  ]
+}

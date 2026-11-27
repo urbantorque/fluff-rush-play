@@ -1,0 +1,34 @@
+{
+  "release": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+  "method": "Same browser context, five separate origins. Verified the production entry module and saved balances at all three scene starts. Re-entering retained each save. The two-hour and fresh profiles remained independent.",
+  "rows": [
+    {
+      "port": 4283,
+      "stem": "festival",
+      "entry": "http://127.0.0.1:4283/?level=L23",
+      "originalPetals": 4811,
+      "continuedPetals": 4811,
+      "boatRemembered": false,
+      "entryModuleVerified": true
+    },
+    {
+      "port": 4284,
+      "stem": "breakfast",
+      "entry": "http://127.0.0.1:4284/?town",
+      "originalPetals": 6133,
+      "continuedPetals": 6133,
+      "boatRemembered": true,
+      "entryModuleVerified": true
+    },
+    {
+      "port": 4285,
+      "stem": "seedfall",
+      "entry": "http://127.0.0.1:4285/?level=L5",
+      "originalPetals": 241,
+      "continuedPetals": 241,
+      "boatRemembered": false,
+      "entryModuleVerified": true
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,62 @@
+{
+  "rows": [
+    {
+      "track": "gentle",
+      "key": "2026-11-27",
+      "stars": 3,
+      "old": 0,
+      "finds": 0,
+      "oldFinds": 0,
+      "paid": 38,
+      "stamps": 1
+    },
+    {
+      "track": "grand",
+      "key": "2026-11-27",
+      "stars": 3,
+      "old": 0,
+      "finds": 4,
+      "oldFinds": 0,
+      "paid": 38,
+      "stamps": 1
+    },
+    {
+      "track": "grand",
+      "key": "2026-11-27",
+      "stars": 3,
+      "old": 3,
+      "finds": 4,
+      "oldFinds": 4,
+      "paid": 0,
+      "stamps": 1
+    }
+  ],
+  "welcome": {
+    "receipt": "Collect 37 Petals",
+    "from": 200,
+    "to": 237
+  },
+  "legacy": {
+    "fixture": "scripts/fixtures/deep.json",
+    "version": 10,
+    "days": 17,
+    "retainedDates": [
+      "2026-10-05",
+      "2026-10-04",
+      "2026-10-03",
+      "2026-10-02",
+      "2026-10-01",
+      "2026-10-06"
+    ],
+    "retainedLooks": [
+      "beret",
+      "leafcap",
+      "petal",
+      "starclip",
+      "heart",
+      "woolbeanie"
+    ],
+    "errors": []
+  },
+  "errors": []
+}

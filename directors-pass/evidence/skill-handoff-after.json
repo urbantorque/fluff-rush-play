@@ -1,0 +1,73 @@
+{
+  "method": "Prepared earned 4/8 save. Manual map control; measured normal-clock native selections. Expert steering supplies the repeatable 8/8 line.",
+  "score": {
+    "hit": 8,
+    "of": 8,
+    "revision": 6,
+    "at": 1795777231164
+  },
+  "scene": {
+    "flags": [
+      "town:road-display:seedfall"
+    ],
+    "level": {
+      "stars": 3,
+      "best": 6022,
+      "plays": 2,
+      "fails": 0,
+      "failStreak": 0,
+      "eased": [],
+      "paradeRecords": {
+        "revision": 6,
+        "leaders": {
+          "pip": {
+            "best": 6022,
+            "stars": 3,
+            "last": 6022,
+            "previous": 2198,
+            "plays": 2
+          }
+        }
+      },
+      "replayMark": {
+        "hit": 8,
+        "of": 8,
+        "revision": 6,
+        "at": 1795777231164
+      }
+    }
+  },
+  "actions": [
+    {
+      "label": "Parade map from Town",
+      "time": 1795777180670
+    },
+    {
+      "label": "Open Seedfall road card by keyboard",
+      "time": 1795777183385
+    },
+    {
+      "label": "Start Parade",
+      "time": 1795777183442
+    },
+    {
+      "label": "See my daisy lamps",
+      "time": 1795777232318
+    }
+  ],
+  "clues": [
+    {
+      "place": "Road card from an earned 4-of-8 catch",
+      "text": "Hushvale Meadow · Level 5\n\nSeedfall Road\n\nSteer under each parachute before it lands. Take your new friends through the multiplier gates.\n\nPip · Huddle\nChange leader\nRoad options\nStart with Berry\nBack"
+    },
+    {
+      "place": "Improved result",
+      "text": "Parade size\n6,022\nBest streak\n2\nFriends woken this run: 3\n3 woken\nFull bloom! All 5 lanterns litNew best! 6,022 beats 2,198Parade of 6022 reached the end.\n8 of 8 parachutes caught!\n\n6 daisy lamps on your fountain path.\n\nTotal Petals\n+176 \nRoad report\nSee my daisy lamps\nTown"
+    },
+    {
+      "place": "Fountain on the improved save",
+      "text": "Breakfast at the fountain\nPetals\n438\nSquare\nTown map\nSeedfall garden\nFrom Seedfall Road. Caught parachutes light the daisy lamps along the fountain path.\nParade\nTown"
+    }
+  ],
+  "errors": []
+}

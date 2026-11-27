@@ -1,0 +1,1295 @@
+{
+  "method": "Informed solo touch on the production preview. Each sitting starts with its first intentional input. Automatic view events never extend the clock. All action-free gaps over 30 seconds are conservatively excluded in full, including any thinking time. Closed tabs, diagnostics in separate profiles and recorded comparisons are outside both clocks. The minute categories are estimates assigned at contemporaneous notes.",
+  "elapsedActiveMin": 130.012,
+  "openClockMin": 138.652,
+  "categories": {
+    "First-time": 37.092,
+    "Chosen mastery": 47.444,
+    "Town discovery": 26.398,
+    "Forced repeat": 13.254,
+    "Menu search": 1.53,
+    "Reward claim": 0.848,
+    "Diagnosis": 3.445,
+    "Idle": 8.64
+  },
+  "gaps": [
+    {
+      "from": "2026-11-27T04:42:14.629Z",
+      "to": "2026-11-27T04:43:45.043Z",
+      "durationSec": 90.41,
+      "grossAtStart": 50.475,
+      "activeAtStart": 50.475
+    },
+    {
+      "from": "2026-11-27T05:27:27.506Z",
+      "to": "2026-11-27T05:29:02.340Z",
+      "durationSec": 94.83,
+      "grossAtStart": 85.205,
+      "activeAtStart": 83.698
+    },
+    {
+      "from": "2026-11-27T06:05:53.662Z",
+      "to": "2026-11-27T06:09:43.035Z",
+      "durationSec": 229.37,
+      "grossAtStart": 112.866,
+      "activeAtStart": 109.779
+    },
+    {
+      "from": "2026-11-27T06:39:45.065Z",
+      "to": "2026-11-27T06:41:28.824Z",
+      "durationSec": 103.76,
+      "grossAtStart": 135.272,
+      "activeAtStart": 128.362
+    }
+  ],
+  "visits": [
+    {
+      "begin": "2026-11-27T03:39:56.634Z",
+      "startMinute": 0,
+      "end": "2026-11-27T03:53:09.940Z",
+      "endMinute": 13.222,
+      "grossEndMinute": 13.222
+    },
+    {
+      "begin": "2026-11-27T03:58:18.924Z",
+      "startMinute": 13.222,
+      "end": "2026-11-27T04:20:39.200Z",
+      "endMinute": 35.56,
+      "grossEndMinute": 35.56
+    },
+    {
+      "begin": "2026-11-27T04:27:19.700Z",
+      "startMinute": 35.56,
+      "end": "2026-11-27T04:49:23.737Z",
+      "endMinute": 56.12,
+      "grossEndMinute": 57.627
+    },
+    {
+      "begin": "2026-11-27T04:53:49.373Z",
+      "startMinute": 56.12,
+      "end": "2026-11-27T05:03:19.852Z",
+      "endMinute": 65.628,
+      "grossEndMinute": 67.135
+    },
+    {
+      "begin": "2026-11-27T05:06:35.406Z",
+      "startMinute": 65.628,
+      "end": "2026-11-27T05:22:15.730Z",
+      "endMinute": 81.3,
+      "grossEndMinute": 82.807
+    },
+    {
+      "begin": "2026-11-27T05:25:03.642Z",
+      "startMinute": 81.3,
+      "end": "2026-11-27T05:35:40.404Z",
+      "endMinute": 90.332,
+      "grossEndMinute": 93.42
+    },
+    {
+      "begin": "2026-11-27T05:41:11.329Z",
+      "startMinute": 90.332,
+      "end": "2026-11-27T05:59:43.149Z",
+      "endMinute": 108.863,
+      "grossEndMinute": 111.95
+    },
+    {
+      "begin": "2026-11-27T06:04:58.679Z",
+      "startMinute": 108.863,
+      "end": "2026-11-27T06:14:24.826Z",
+      "endMinute": 114.475,
+      "grossEndMinute": 121.386
+    },
+    {
+      "begin": "2026-11-27T06:18:14.952Z",
+      "startMinute": 114.475,
+      "end": "2026-11-27T06:30:21.064Z",
+      "endMinute": 126.577,
+      "grossEndMinute": 133.488
+    },
+    {
+      "begin": "2026-11-27T06:37:58.001Z",
+      "startMinute": 126.577,
+      "end": "2026-11-27T06:43:07.847Z",
+      "endMinute": 130.012,
+      "grossEndMinute": 138.652
+    }
+  ],
+  "hours": [
+    {
+      "minutes": [
+        0,
+        60
+      ],
+      "observed": 60,
+      "categories": {
+        "First-time": 31.541,
+        "Chosen mastery": 8.519,
+        "Town discovery": 8.866,
+        "Forced repeat": 11.075,
+        "Menu search": 0,
+        "Reward claim": 0,
+        "Diagnosis": 0,
+        "Idle": 0
+      }
+    },
+    {
+      "minutes": [
+        60,
+        120
+      ],
+      "observed": 60,
+      "categories": {
+        "First-time": 5.551,
+        "Chosen mastery": 31.684,
+        "Town discovery": 15.839,
+        "Forced repeat": 1.103,
+        "Menu search": 1.53,
+        "Reward claim": 0.848,
+        "Diagnosis": 3.445,
+        "Idle": 0
+      }
+    },
+    {
+      "minutes": [
+        120,
+        180
+      ],
+      "observed": 10.012,
+      "categories": {
+        "First-time": 0,
+        "Chosen mastery": 7.242,
+        "Town discovery": 1.693,
+        "Forced repeat": 1.077,
+        "Menu search": 0,
+        "Reward claim": 0,
+        "Diagnosis": 0,
+        "Idle": 0
+      }
+    }
+  ],
+  "bands": [
+    {
+      "minutes": [
+        0,
+        10
+      ],
+      "observed": 10,
+      "categories": {
+        "First-time": 7.553,
+        "Chosen mastery": 1.247,
+        "Town discovery": 0.548,
+        "Forced repeat": 0.652,
+        "Menu search": 0,
+        "Reward claim": 0,
+        "Diagnosis": 0,
+        "Idle": 0
+      }
+    },
+    {
+      "minutes": [
+        10,
+        35
+      ],
+      "observed": 25,
+      "categories": {
+        "First-time": 11.528,
+        "Chosen mastery": 3.356,
+        "Town discovery": 5.679,
+        "Forced repeat": 4.437,
+        "Menu search": 0,
+        "Reward claim": 0,
+        "Diagnosis": 0,
+        "Idle": 0
+      }
+    },
+    {
+      "minutes": [
+        35,
+        75
+      ],
+      "observed": 40,
+      "categories": {
+        "First-time": 14.215,
+        "Chosen mastery": 13.689,
+        "Town discovery": 6.111,
+        "Forced repeat": 5.985,
+        "Menu search": 0,
+        "Reward claim": 0,
+        "Diagnosis": 0,
+        "Idle": 0
+      }
+    },
+    {
+      "minutes": [
+        75,
+        120
+      ],
+      "observed": 45,
+      "categories": {
+        "First-time": 3.796,
+        "Chosen mastery": 21.911,
+        "Town discovery": 12.367,
+        "Forced repeat": 1.103,
+        "Menu search": 1.53,
+        "Reward claim": 0.848,
+        "Diagnosis": 3.445,
+        "Idle": 0
+      }
+    },
+    {
+      "minutes": [
+        120,
+        180
+      ],
+      "observed": 10.012,
+      "categories": {
+        "First-time": 0,
+        "Chosen mastery": 7.242,
+        "Town discovery": 1.693,
+        "Forced repeat": 1.077,
+        "Menu search": 0,
+        "Reward claim": 0,
+        "Diagnosis": 0,
+        "Idle": 0
+      }
+    }
+  ],
+  "rows": [
+    {
+      "minute": 0,
+      "grossMinute": 0,
+      "utc": "2026-11-27T03:39:56.634Z",
+      "activity": "First-time",
+      "intention": "First-time. Starting the corrected build with a clean save. I want to bring Fig home with enough friends for the upper branches. Going right at the first fork then back for Fig."
+    },
+    {
+      "minute": 0.761,
+      "grossMinute": 0.761,
+      "utc": "2026-11-27T03:40:42.308Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I missed Fig by crossing late. Pip set an empty plate and told me to look left for her loaf. I will reopen the Bakery, then go back for her."
+    },
+    {
+      "minute": 1.075,
+      "grossMinute": 1.075,
+      "utc": "2026-11-27T03:41:01.159Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. No Fig in the window and nobody to share a bun with. Back to the first road."
+    },
+    {
+      "minute": 1.686,
+      "grossMinute": 1.686,
+      "utc": "2026-11-27T03:41:37.815Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Fig followed me but seven reached the wall of eight. The fail card says to take +5 first. I will take the right gate and cut left before her loaf."
+    },
+    {
+      "minute": 2.339,
+      "grossMinute": 2.339,
+      "utc": "2026-11-27T03:42:16.948Z",
+      "activity": "First-time",
+      "intention": "First-time. Wall recovered. 78 home and Comet in the album; Fig is in the Bakery postcard now. I want the sign painters on road two."
+    },
+    {
+      "minute": 3.153,
+      "grossMinute": 3.153,
+      "utc": "2026-11-27T03:43:05.804Z",
+      "activity": "First-time",
+      "intention": "First-time. Single tap opened Road report. I took the multiplier again, and I am more interested in trying the new drum than another return for the painters now."
+    },
+    {
+      "minute": 4.276,
+      "grossMinute": 4.276,
+      "utc": "2026-11-27T03:44:13.223Z",
+      "activity": "First-time",
+      "intention": "First-time. Fig was cutting bread by the bandstand on Treat Street. Choosing Drizzle Dell first this time, then I want to beat four Seedfall catches."
+    },
+    {
+      "minute": 6.003,
+      "grossMinute": 6.003,
+      "utc": "2026-11-27T03:45:56.819Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Four catches lit two lamps and the letter now names the trio. I already helped them on my first clear of Drizzle Dell. I want to save their invitation and see Mumu first."
+    },
+    {
+      "minute": 6.237,
+      "grossMinute": 6.237,
+      "utc": "2026-11-27T03:46:10.836Z",
+      "activity": "First-time",
+      "intention": "First-time. The map kept the picnic in its own button above the dock. Taking the separate Mumu road button. I want to get both wake spots this time."
+    },
+    {
+      "minute": 7.966,
+      "grossMinute": 7.966,
+      "utc": "2026-11-27T03:47:54.580Z",
+      "activity": "First-time",
+      "intention": "First-time. Mumu lowered her fin beside Tambo. I want to see what the lantern does when the road goes dark before going back for the picnic."
+    },
+    {
+      "minute": 8.338,
+      "grossMinute": 8.338,
+      "utc": "2026-11-27T03:48:16.931Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The illuminated diamond tempted me off the main route. Starfall offers a triple after each group. Trying it to learn the parachute timing before the Marsh."
+    },
+    {
+      "minute": 8.974,
+      "grossMinute": 8.974,
+      "utc": "2026-11-27T03:48:55.092Z",
+      "activity": "First-time",
+      "intention": "First-time. Starfall gave four of ten, 675, a quick route without walls. Now I want the first lantern and the Marsh bridge."
+    },
+    {
+      "minute": 9.86,
+      "grossMinute": 9.86,
+      "utc": "2026-11-27T03:49:48.228Z",
+      "activity": "First-time",
+      "intention": "First-time. I chased the left multiplier and the result told me the keepers were in the right-hand honey. I am leaving them for now. Going on to Carousel Lane to see Otto."
+    },
+    {
+      "minute": 11.543,
+      "grossMinute": 11.543,
+      "utc": "2026-11-27T03:51:29.222Z",
+      "activity": "First-time",
+      "intention": "First-time. Choosing Nap Cat Crossing before the rafts. I want to see the cat that can visit the hoods later. Forty-two of 96 is a different aim from growing a crowd."
+    },
+    {
+      "minute": 12.354,
+      "grossMinute": 12.354,
+      "utc": "2026-11-27T03:52:17.878Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. 68 of 96 reached the porch. I have more than 1100 Petals and I want something I can take onto Lantern River. Looking at the Bakery window."
+    },
+    {
+      "minute": 12.529,
+      "grossMinute": 12.529,
+      "utc": "2026-11-27T03:52:28.376Z",
+      "activity": "First-time",
+      "intention": "First-time. The transition was still running; Lantern River started before I got to Town. Staying to try for the lily."
+    },
+    {
+      "minute": 13.221,
+      "grossMinute": 13.221,
+      "utc": "2026-11-27T03:53:09.921Z",
+      "activity": "First-time",
+      "intention": "Natural stop. Both crews waved across the water; the ducks brought a lily home and the result says it will bloom when Lily Pond opens. On return I want to find and open the pond, then see the hoods before Festival Eve. I now have a reason to spend my Petals."
+    },
+    {
+      "minute": 13.222,
+      "grossMinute": 13.222,
+      "utc": "2026-11-27T03:58:18.927Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Back for the river lily as planned. Looking for Lily Pond ahead of taking the pinned raincoat outing."
+    },
+    {
+      "minute": 15.656,
+      "grossMinute": 15.656,
+      "utc": "2026-11-27T04:00:44.970Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The lilac lily is on the sunny bank. The pond let me gather the ducks at the reeds and offers Lantern River. That is a different place to steer, so I am taking this before the hoods."
+    },
+    {
+      "minute": 16.391,
+      "grossMinute": 16.391,
+      "utc": "2026-11-27T04:01:29.077Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I passed the flower going right after the last gate. The result tells me where the ducks waited. One more try, staying left at the finish."
+    },
+    {
+      "minute": 17.342,
+      "grossMinute": 17.342,
+      "utc": "2026-11-27T04:02:26.152Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Gold lily in the reeds, lilac lily on the sunny bank. Choosing where the ducks waited was worth those two runs. I am leaving the middle shore for later and picking up the raincoat plan."
+    },
+    {
+      "minute": 18.47,
+      "grossMinute": 18.47,
+      "utc": "2026-11-27T04:03:33.842Z",
+      "activity": "First-time",
+      "intention": "First-time. Three hoods sat below the fountain as promised. I have spent my river money and taken the group home. On to Festival Eve, keeping Otto until I see what the ferry asks for."
+    },
+    {
+      "minute": 19.266,
+      "grossMinute": 19.266,
+      "utc": "2026-11-27T04:04:21.578Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. I followed the lantern instruction right too early. The wall needed 160 more; the retry explicitly names +150 at the first gate. I want that first, then the lantern."
+    },
+    {
+      "minute": 20.086,
+      "grossMinute": 20.086,
+      "utc": "2026-11-27T04:05:10.804Z",
+      "activity": "First-time",
+      "intention": "First-time. Reached the arch with the right lantern crew, 3970 home and breakfast promised. Luma next. I want to wake the part of the glade that stays dark for most of the approach."
+    },
+    {
+      "minute": 21.87,
+      "grossMinute": 21.87,
+      "utc": "2026-11-27T04:06:57.823Z",
+      "activity": "First-time",
+      "intention": "First-time. I missed the first left wing with only 19 there and filled the second pair. Luma tipped her glowing wing toward the keeper I had just taken through the arch. That is an earlier cross-road character response than Gobbo. Choosing Candy Gate."
+    },
+    {
+      "minute": 23.241,
+      "grossMinute": 23.241,
+      "utc": "2026-11-27T04:08:20.057Z",
+      "activity": "First-time",
+      "intention": "First-time. Tambo drew eight from the market side at once. On the new float her call can seat musicians at bells. I want to slow down my lane changes and recruit from the outside."
+    },
+    {
+      "minute": 24.099,
+      "grossMinute": 24.099,
+      "utc": "2026-11-27T04:09:11.554Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Poppy and one other rang their bell. The result says Hear your musicians, which is better than another number. I am taking that trip before Gumdrop Alley."
+    },
+    {
+      "minute": 25.784,
+      "grossMinute": 25.784,
+      "utc": "2026-11-27T04:10:52.687Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Most projects promise more Petals when I already have enough. Skipping the recommended glade. The Lookout changes my first call recharge so I am paying 420 before the next road."
+    },
+    {
+      "minute": 26.041,
+      "grossMinute": 26.041,
+      "utc": "2026-11-27T04:11:08.070Z",
+      "activity": "First-time",
+      "intention": "First-time. Lookout wants seven new roads for a roof. Its Play a new road button fits what I want to do anyway. I want to see the two Candy branches."
+    },
+    {
+      "minute": 29.106,
+      "grossMinute": 29.106,
+      "utc": "2026-11-27T04:14:12.007Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Sugar Bridge shut me out after the div2. This time I want both triples early, then the fifth row multiplier. Trying the same leader."
+    },
+    {
+      "minute": 29.706,
+      "grossMinute": 29.706,
+      "utc": "2026-11-27T04:14:47.966Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I found Crossing practice on the second failed result. Trying the borrowed 243 crowd because I want to learn the troublesome gate without redoing the ferry."
+    },
+    {
+      "minute": 31.375,
+      "grossMinute": 31.375,
+      "utc": "2026-11-27T04:16:28.135Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Three practices gave zero, 220 without the seed, and 878 with the seed. I need the seed first then an early cut left for triple. Carrying it back to the whole road."
+    },
+    {
+      "minute": 32.664,
+      "grossMinute": 32.664,
+      "utc": "2026-11-27T04:17:45.454Z",
+      "activity": "First-time",
+      "intention": "First-time. The practised left cut took the triple and cleared the whole wall. I missed the seed on the full road and only brought 704 home. One star gets me to Suki, so I am taking it."
+    },
+    {
+      "minute": 33.271,
+      "grossMinute": 33.271,
+      "utc": "2026-11-27T04:18:21.897Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Nine short on Suki. I saw the triple but started across too late on the first attempt. Leaving the left stall about three seconds earlier."
+    },
+    {
+      "minute": 33.892,
+      "grossMinute": 33.892,
+      "utc": "2026-11-27T04:18:59.146Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Four short at the next wall. Turning off the offered Helping hand and taking the +390 instead. I have an understandable plan for this retry."
+    },
+    {
+      "minute": 35.559,
+      "grossMinute": 35.559,
+      "utc": "2026-11-27T04:20:39.177Z",
+      "activity": "Forced repeat",
+      "intention": "Natural stop. The second wall finally went down after left +390 and a balanced hedge. Balloon Street took me to Suki, wrapping a pink sweet for someone. Next I want her to lead the counter road and then I want to see who gets the sweet. I am stopping on the result this time, with the Candy choice still open."
+    },
+    {
+      "minute": 35.56,
+      "grossMinute": 35.56,
+      "utc": "2026-11-27T04:27:19.701Z",
+      "activity": "First-time",
+      "intention": "First-time. I came back for the counter road with Suki and her pink sweet. Checking the Parade map before spending anything else."
+    },
+    {
+      "minute": 35.93,
+      "grossMinute": 35.93,
+      "utc": "2026-11-27T04:27:41.924Z",
+      "activity": "First-time",
+      "intention": "First-time. The three-way card names who greets me next. Choosing Candy Floss Drizzle for the hoods, then Grand Bazaar for its booths. I will save Caramel Cat for after the story."
+    },
+    {
+      "minute": 38.103,
+      "grossMinute": 38.103,
+      "utc": "2026-11-27T04:29:52.294Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Four of twelve booths. I moved for the double-left too early and missed a centre booth. Try for 5 is on the result beside Lantern Market. I want to start middle, hold left, then cross."
+    },
+    {
+      "minute": 39.57,
+      "grossMinute": 39.57,
+      "utc": "2026-11-27T04:31:20.318Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I tried for five. I scored three, then six by going right before the second wave and holding left for two booths. Two market pennants and an invitation to Poppy appeared together. She is already at my bandstand. I am curious what a picnic changes."
+    },
+    {
+      "minute": 39.832,
+      "grossMinute": 39.832,
+      "utc": "2026-11-27T04:31:36.011Z",
+      "activity": "First-time",
+      "intention": "First-time. I kept Poppy for later because I want to see the market the hoods promised. Taking the road 22 button below her plan."
+    },
+    {
+      "minute": 40.736,
+      "grossMinute": 40.736,
+      "utc": "2026-11-27T04:32:30.251Z",
+      "activity": "First-time",
+      "intention": "First-time. The second road I chose was the Bazaar, so the booth keepers greeted Suki at Lantern Market. I had expected the coats. Festival of Sweets next. I want to send enough to the left wall for Gobbo even if fewer finish."
+    },
+    {
+      "minute": 41.785,
+      "grossMinute": 41.785,
+      "utc": "2026-11-27T04:33:33.196Z",
+      "activity": "First-time",
+      "intention": "First-time. The carrier stayed beside Suki with a red notched flag. 5478 reunited and 18692 finished. The Lookout roof is now available but Visit Gobbo’s hill is the reason I chose this line."
+    },
+    {
+      "minute": 43.3,
+      "grossMinute": 43.3,
+      "utc": "2026-11-27T04:35:04.144Z",
+      "activity": "First-time",
+      "intention": "First payoff. I can see the swallowtail at the far left of Gobbo, the pale diamond centred on the grey cloth. The jars did not both fill. The flag showed up before I knew whether he would wake."
+    },
+    {
+      "minute": 43.546,
+      "grossMinute": 43.546,
+      "utc": "2026-11-27T04:35:18.860Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Gobbo needed 618 more and remembered 741. I want the ridge this time instead of the street crowd. Staying right for the branch before trying the jars again."
+    },
+    {
+      "minute": 45.059,
+      "grossMinute": 45.059,
+      "utc": "2026-11-27T04:36:49.660Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Now 136 short and 1352 hugs saved. I am going to the map to change leader. Tambo doubles the additions; the +1400 before Gobbo is worth more to her."
+    },
+    {
+      "minute": 47.064,
+      "grossMinute": 47.064,
+      "utc": "2026-11-27T04:38:49.970Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Tambo brought 5893 into the wake, with the pennant turning red. Gobbo named the Snow Giant. I am taking the roof on my way into Frost, then switching to Wren to see what can make ice safe."
+    },
+    {
+      "minute": 47.571,
+      "grossMinute": 47.571,
+      "utc": "2026-11-27T04:39:20.404Z",
+      "activity": "First-time",
+      "intention": "First-time. Wren is marked Suits this road. Lit ice is safe to steer across for three seconds. I am going to cross on purpose when the light is ready."
+    },
+    {
+      "minute": 48.402,
+      "grossMinute": 48.402,
+      "utc": "2026-11-27T04:40:10.239Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. I crossed to the right for the gold and took divide by two at the three-wide gate. Staying in the middle for double this time; keeping the later light for ice."
+    },
+    {
+      "minute": 49.378,
+      "grossMinute": 49.378,
+      "utc": "2026-11-27T04:41:08.819Z",
+      "activity": "First-time",
+      "intention": "First-time. The early lit line worked. I left the next patch late and saw Slip at the back row. Still 4419 home. Choosing the next Frost road from the map."
+    },
+    {
+      "minute": 52.139,
+      "grossMinute": 53.646,
+      "utc": "2026-11-27T04:45:24.873Z",
+      "activity": "First-time",
+      "intention": "First-time. Wren lit three of four snow pools. Snowdrift brought 64 of 96 home. Aurora gave five of fifteen and a real Try for 6 choice; I chose Icefall to reach the Giant first."
+    },
+    {
+      "minute": 52.769,
+      "grossMinute": 54.276,
+      "utc": "2026-11-27T04:46:02.697Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Icefall wall needed 22 more. Read its plus400 then triple suggestion, will try left first then change sides when the row reveals itself."
+    },
+    {
+      "minute": 53.7,
+      "grossMinute": 55.207,
+      "utc": "2026-11-27T04:46:58.551Z",
+      "activity": "First-time",
+      "intention": "First-time. First Snow Giant arrival. Icefall practice advice transferred, 1542 before the 500 wall, I took Rescue Hollow and finished 4562. I am going up the final hill now."
+    },
+    {
+      "minute": 55.384,
+      "grossMinute": 56.891,
+      "utc": "2026-11-27T04:48:39.599Z",
+      "activity": "First-time",
+      "intention": "Story finish. First Snow Giant wake with 25054. Both 13100 paws together exceeded my crowd, I warmed one, then shared enough at the smaller second pair. Aurora, blossom and striped scarf. I want to see his cup."
+    },
+    {
+      "minute": 55.681,
+      "grossMinute": 57.188,
+      "utc": "2026-11-27T04:48:57.385Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. First home. Square says For your paws this time Pip. I chose Breakfast at the fountain because both little cups are visible."
+    },
+    {
+      "minute": 56.119,
+      "grossMinute": 57.626,
+      "utc": "2026-11-27T04:49:23.701Z",
+      "activity": "Town discovery",
+      "intention": "Natural stop. I came home at 5169, saw the scarf and cups, and found the little left plus60 invitation for painters. Closing at breakfast; next visit I want to see Suki at the table before I collect Poppy or chase a score."
+    },
+    {
+      "minute": 56.12,
+      "grossMinute": 57.627,
+      "utc": "2026-11-27T04:53:49.374Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I came back to find Suki at the same breakfast table after the Giant poured for Pip. I want to touch the paper before accepting the painters invitation."
+    },
+    {
+      "minute": 56.647,
+      "grossMinute": 58.154,
+      "utc": "2026-11-27T04:54:20.998Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Reopened in Grove. I selected Square and touched the cups. There is Suki at the left, much smaller than his paws. The paper opened pink between them and his fold floated when I touched the water. Still 5169. I want the sign painters at this table next."
+    },
+    {
+      "minute": 57.551,
+      "grossMinute": 59.058,
+      "utc": "2026-11-27T04:55:15.234Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The left +60 brought all three painters and Fig’s jam tarts. At the next breakfast visit the pink boat rests by Suki’s cup. The table itself asks for six Seedfall catches. I am following it, starting middle, then moving left and back early."
+    },
+    {
+      "minute": 59.518,
+      "grossMinute": 61.024,
+      "utc": "2026-11-27T04:57:13.222Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Four again on the picnic side. The outside-and-back line gave me five, with a left ribbon still missed. Keep left for that landing rather than reversing immediately, then follow both right-hand drops."
+    },
+    {
+      "minute": 61.243,
+      "grossMinute": 62.75,
+      "utc": "2026-11-27T04:58:56.736Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Five felt earned, but the next two whole roads each gave three. I do not want another trip past the same gates for the sixth landing. Going back for Poppy, whose invitation is still pinned."
+    },
+    {
+      "minute": 62.619,
+      "grossMinute": 64.126,
+      "utc": "2026-11-27T05:00:19.333Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The pinned Poppy letter took one tap. Three of four float bells, including first and last. Visit the picnic put a yellow drummer at the fountain. I noticed the envelope there and opened it. It asks for a cushion, 72 of 96 home at Nap Cat Crossing. My first run was 68. I want the cat beside the hoods."
+    },
+    {
+      "minute": 63.248,
+      "grossMinute": 64.754,
+      "utc": "2026-11-27T05:00:57.024Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Wren brought only 57 through. I crossed the first left cat while the back was still passing it. I will start hard right, hold until both left cats fall behind, then move hard left for both right cats."
+    },
+    {
+      "minute": 63.991,
+      "grossMinute": 65.498,
+      "utc": "2026-11-27T05:01:41.639Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Eighty-one reached the porch. The cushion now has a brown curled cat beside the Giant. The envelope changed to Walk the cat home: meet it on the right before the shower, then turn left for the last hood. Following it now."
+    },
+    {
+      "minute": 64.765,
+      "grossMinute": 66.272,
+      "utc": "2026-11-27T05:02:28.056Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The first walk missed the cat. I went to the edge early and crossed back before the cushion. This time I will aim inside the right lane and wait until the cat itself moves."
+    },
+    {
+      "minute": 65.627,
+      "grossMinute": 67.134,
+      "utc": "2026-11-27T05:03:19.809Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The cat stayed on the cushion on my first walk. On the second I stayed inside the right lane through the balloon until Cat aboard appeared, then held left. Only 965 friends, one star, but the yellow awning has the curled cat underneath it at the fountain. I like this ending better than the two-star miss."
+    },
+    {
+      "minute": 65.627,
+      "grossMinute": 67.134,
+      "utc": "2026-11-27T05:03:19.810Z",
+      "activity": "Town discovery",
+      "intention": "Natural stop. I have finished what I came back for. The map still owes me Caramel Cat and I bought a Lookout roof without looking through the telescope. Those are my next two choices, in that order."
+    },
+    {
+      "minute": 65.628,
+      "grossMinute": 67.135,
+      "utc": "2026-11-27T05:06:35.406Z",
+      "activity": "First-time",
+      "intention": "First-time. I came back to take the skipped Caramel Cat road. Then I want to try the telescope. Starting at the Parade map."
+    },
+    {
+      "minute": 66.671,
+      "grossMinute": 68.178,
+      "utc": "2026-11-27T05:07:37.999Z",
+      "activity": "First-time",
+      "intention": "First-time. I chose Suki for Caramel Cat and brought 76 of 96 home. The road was new, the cat timing familiar. Sprinkle Parade is the prominent result action. I am taking that detour now before the telescope."
+    },
+    {
+      "minute": 67.383,
+      "grossMinute": 68.89,
+      "utc": "2026-11-27T05:08:20.726Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Sprinkle gave one of six booths and 2537. The next recommendation is to earn the second star on Wake Up Pip. Eight short wrapped lines make that button look like a tower. I am following my own plan back to the telescope instead."
+    },
+    {
+      "minute": 67.927,
+      "grossMinute": 69.434,
+      "utc": "2026-11-27T05:08:53.362Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I paid 850 of 6831 for the telescope and the first-call recovery rose from 6 to 10 percent. The telescope actually shows a cup and loaf among the stars and asks for eight Aurora colours. Five on my first trip. I want the loaf up there, so this is worth another try."
+    },
+    {
+      "minute": 68.954,
+      "grossMinute": 70.461,
+      "utc": "2026-11-27T05:09:54.944Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. First telescope trip four of fifteen. I kept chasing the colours after they passed. I will let the first green reach me, then take the next centre, right and middle without crossing early. The result asks for five while the telescope wants eight."
+    },
+    {
+      "minute": 69.937,
+      "grossMinute": 71.443,
+      "utc": "2026-11-27T05:10:53.916Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Six for the five-colour target. I picked up the ribbon I missed last time. At the wider span the next blue is right and the following violet is hard left; that reversal is the part I want to learn. I am taking Try for 7."
+    },
+    {
+      "minute": 72.594,
+      "grossMinute": 74.101,
+      "utc": "2026-11-27T05:13:33.385Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Seven of fifteen is my best, then six twice. I used the ordinary pause on the first span to see the marked centre plank. The far-right green then far-left teal fooled me. The Loaf and Cup are still a real goal but I want a different action now. Going to the map for Suki’s challenge."
+    },
+    {
+      "minute": 72.743,
+      "grossMinute": 74.25,
+      "utc": "2026-11-27T05:13:42.303Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Timed outing starts. Suki has three groups to bring home. I want to save the call until someone actually stops at a stall."
+    },
+    {
+      "minute": 73.802,
+      "grossMinute": 75.309,
+      "utc": "2026-11-27T05:14:45.823Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I caught one group twice. I was steering away as soon as the first stall released its friends and the next one was still on the left. I will follow the shops and let them take walkers before throwing."
+    },
+    {
+      "minute": 75.541,
+      "grossMinute": 77.048,
+      "utc": "2026-11-27T05:16:30.198Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Outing ends here. Five short Suki attempts, 1/3, 1/3, 2/3, 2/3, 2/3. Getting the second group required staying with the stalls into the next call. The final right-hand post never gave me a third group. The repeated advice still says to toss near each stall. I am leaving with the two-group record. I would rather look at who wrote down the homecoming."
+    },
+    {
+      "minute": 75.714,
+      "grossMinute": 77.221,
+      "utc": "2026-11-27T05:16:40.582Z",
+      "activity": "Menu search",
+      "intention": "Menu search. Looking for the Storybook from the Parade menu. Friends you have met looks likeliest. I now have nine of nine."
+    },
+    {
+      "minute": 76.32,
+      "grossMinute": 77.826,
+      "utc": "2026-11-27T05:17:16.896Z",
+      "activity": "Menu search",
+      "intention": "Menu search. The album has all nine drawn cards and the Giant says he came home. Settings, Story and save, Story so far still says Your story starts with the first parade. This is my real post-finale profile after the cups and boat. I expected a chapter to look back on and found none. I am leaving the book."
+    },
+    {
+      "minute": 76.451,
+      "grossMinute": 77.958,
+      "utc": "2026-11-27T05:17:24.812Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I want to see Wren’s fireflies. The glade is still grey beside a working telescope. Opening the glade is the first Grove project I am buying for its place rather than the road buff."
+    },
+    {
+      "minute": 77.593,
+      "grossMinute": 79.1,
+      "utc": "2026-11-27T05:18:33.326Z",
+      "activity": "Reward claim",
+      "intention": "Reward claim. The 420 deck finished Grove and earned a Wool Beanie. I want Suki wearing the thing I just built rather than spending another thousand. I will take the outfit onto one of the new challenges."
+    },
+    {
+      "minute": 78.011,
+      "grossMinute": 79.518,
+      "utc": "2026-11-27T05:18:58.387Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Found seven Leader challenges under the Parade menu and the blue beanie is equipped. One Good Drumbeat only allows one call for ten sleepers. I am going to pass the first small group and wait for a bunch worth ten."
+    },
+    {
+      "minute": 79.077,
+      "grossMinute": 80.584,
+      "utc": "2026-11-27T05:20:02.318Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Ten sleepers answered the one call on attempt two, but only 500 reached the tree. I want left for Tambo’s opening addition then right for the triple before moving back for the final double."
+    },
+    {
+      "minute": 80.758,
+      "grossMinute": 82.265,
+      "utc": "2026-11-27T05:21:43.231Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Medal earned. At 294 I paused to see the sleeping group by the right rail. One drum brought all ten before I cut left for the double. 608 at the tree. The earlier 596 had been four short. I want to see where the medal goes."
+    },
+    {
+      "minute": 81.3,
+      "grossMinute": 82.806,
+      "utc": "2026-11-27T05:22:15.697Z",
+      "activity": "Town discovery",
+      "intention": "Natural stop. Bring the medal Home returned me to Grove. I saw the medal on the result but no new display at the bandstand. Poppy, Plum and Honey were there, and their own card offers Replay Taffy Float for Mint. I want Mint in the empty seat and to try the single-call Borrowed Light after that. Closing here with 5769."
+    },
+    {
+      "minute": 81.3,
+      "grossMinute": 82.807,
+      "utc": "2026-11-27T05:25:03.643Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I came back for Mint and Borrowed Light. The bandstand promised the empty seat, so I will start with that. I also know from checking the archive that the Giant himself can be greeted; any later attempt to read that chapter is a prompted diagnostic."
+    },
+    {
+      "minute": 83.533,
+      "grossMinute": 85.04,
+      "utc": "2026-11-27T05:27:17.599Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Mint was ready but the bell passed while I was still on the right. I will pick up the green hat on the right, then come back towards the float itself before its second bell."
+    },
+    {
+      "minute": 84.002,
+      "grossMinute": 87.09,
+      "utc": "2026-11-27T05:29:20.608Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Three right-side pickups read Mint ready, then Bell missed even after crossing to the visible float. I would leave the empty chair for another day."
+    },
+    {
+      "minute": 84.124,
+      "grossMinute": 87.211,
+      "utc": "2026-11-27T05:29:27.881Z",
+      "activity": "Diagnosis",
+      "intention": "Diagnosis. Trying the Giant himself at the Square after I found the empty illustrated book."
+    },
+    {
+      "minute": 84.801,
+      "grossMinute": 87.888,
+      "utc": "2026-11-27T05:30:08.530Z",
+      "activity": "Diagnosis",
+      "intention": "Diagnosis. After touching the Giant, the empty Story so far gained A cup for Pip. Read with pictures gave me two panels. I had already seen the cup at home half an hour earlier."
+    },
+    {
+      "minute": 85.115,
+      "grossMinute": 88.203,
+      "utc": "2026-11-27T05:30:27.375Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I came back for Borrowed Light. The gently timed lanterns were easier to understand on Frost than the float bell."
+    },
+    {
+      "minute": 86.16,
+      "grossMinute": 89.247,
+      "utc": "2026-11-27T05:31:30.063Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Wren: 3200 with neither row lit; delayed one call until after the first gate and stayed left. Second row visibly said 4000/2700, 4000 home and a medal. I want the umbrella on the bridge next."
+    },
+    {
+      "minute": 87.73,
+      "grossMinute": 90.818,
+      "utc": "2026-11-27T05:33:04.276Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Borrowed Umbrella: early call 38/48, later center pass 43, then call on the bridge and steer right away from the trailing raincloud: 46/48. The one missing passenger was enough reason to learn the exit."
+    },
+    {
+      "minute": 87.872,
+      "grossMinute": 90.959,
+      "utc": "2026-11-27T05:33:12.789Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The Bakery shows a real brick oven and five extra starters for only 220. I left 6114 Petals waiting because other invitations were better, but I want to try the oven before taking a Daily."
+    },
+    {
+      "minute": 88.567,
+      "grossMinute": 91.654,
+      "utc": "2026-11-27T05:33:54.479Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Lit the bakery table; Fig turned the dough and Pip copied her paws. The literal oven is still on the Square."
+    },
+    {
+      "minute": 88.883,
+      "grossMinute": 91.971,
+      "utc": "2026-11-27T05:34:13.477Z",
+      "activity": "First-time",
+      "intention": "First-time. Taking Grand first on the real Friday, previewed Gentle but wanted a wider margin for the seed and the optional garden."
+    },
+    {
+      "minute": 90.332,
+      "grossMinute": 93.419,
+      "utc": "2026-11-27T05:35:40.375Z",
+      "activity": "First-time",
+      "intention": "First-time. Grand first earned 2484, 46 Petals and stamp 1/7. Taking High Road with 491 at a 200 wall was a real choice. I would leave Gentle for a separate visit; no second stamp today. Next I would try Hedge Duet, then see whether the map has another personal trail."
+    },
+    {
+      "minute": 90.332,
+      "grossMinute": 93.42,
+      "utc": "2026-11-27T05:41:11.330Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Back for Hedge Duet now that the actual game is open. After that I want to see whether my map still has another trail with someone on it."
+    },
+    {
+      "minute": 91.502,
+      "grossMinute": 94.589,
+      "utc": "2026-11-27T05:42:21.507Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Hedge Duet first try: stood just right of centre for 160/440 and 1860 together. Switched left for 1372/488 and 4874 together. Both halves mattered twice. I could reuse what I had learned on Gobbo without replaying a whole road."
+    },
+    {
+      "minute": 91.746,
+      "grossMinute": 94.834,
+      "utc": "2026-11-27T05:42:36.157Z",
+      "activity": "Menu search",
+      "intention": "Menu search. I want a trail from the map, after briefly restarting Hedge Duet by mistake on the way out."
+    },
+    {
+      "minute": 91.874,
+      "grossMinute": 94.962,
+      "utc": "2026-11-27T05:42:43.839Z",
+      "activity": "First-time",
+      "intention": "First-time. The large map card says Try Frozen Pond on the giant’s hill. I remember taking the other fork to wake him. I want to see what the frozen way actually does on this save."
+    },
+    {
+      "minute": 93.601,
+      "grossMinute": 96.689,
+      "utc": "2026-11-27T05:44:27.478Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Frozen Pond made me cross away from the old Pine line. I spent some of 13277 on a garden and reached the finish 702 short. Crossing practice from this actual failure is tempting: can I change how I divide them at the second pair of paws?"
+    },
+    {
+      "minute": 93.788,
+      "grossMinute": 96.875,
+      "utc": "2026-11-27T05:44:38.663Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The practice instead offered Honey crossing with 733, not either paw. I declined it. On the whole hill I will keep the crowd at the garden and distribute it between the final paws."
+    },
+    {
+      "minute": 95.44,
+      "grossMinute": 98.528,
+      "utc": "2026-11-27T05:46:17.816Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The garden still took a share. I could pay 2400 and 6500 on the final pair, even with the left paw snowed under, by aiming a little right of centre: 4286/8108. Frozen Pond clear with 12394. Both paws were more interesting than the reward."
+    },
+    {
+      "minute": 95.609,
+      "grossMinute": 98.696,
+      "utc": "2026-11-27T05:46:27.919Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. My folded paper was on the cloth after the repeat finale. I will try the Meadow garden seat the town named when I reopened, to see if it gives someone a place at the table."
+    },
+    {
+      "minute": 96.237,
+      "grossMinute": 99.325,
+      "utc": "2026-11-27T05:47:05.643Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Pour a cup after spending 480 gave Suki’s line, I saved the sunny seat for you. That is a payoff for visiting the Tea House. Lead the duck parade is now the card; I remember an empty lily from my second sitting."
+    },
+    {
+      "minute": 96.468,
+      "grossMinute": 99.555,
+      "utc": "2026-11-27T05:47:19.444Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The middle shore is the only button without a flower. I have a definite place to steer for before the gate now."
+    },
+    {
+      "minute": 97.734,
+      "grossMinute": 100.822,
+      "utc": "2026-11-27T05:48:35.458Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. 1967 was a one-star Lantern River; keeping near the centre caught the third lily. At the pond a pink flower sits between gold and lilac. Switching to Sunny bank moved the leaf and the ducks to the right without costing a Petal. That closes a goal I set in the first thirteen minutes."
+    },
+    {
+      "minute": 98.306,
+      "grossMinute": 101.393,
+      "utc": "2026-11-27T05:49:09.752Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I am choosing the six Seedfall groups again because I want to see what breakfast gains beyond the jam tarts. This time I will use the landing shadows and make an early lateral move as soon as each puff lands."
+    },
+    {
+      "minute": 100.381,
+      "grossMinute": 103.468,
+      "utc": "2026-11-27T05:51:14.230Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Five of eight and the entire wave is already behind me. Instead of running the remaining half-minute for Petals I am using Pause, Restart road while I still remember the landing order."
+    },
+    {
+      "minute": 101.804,
+      "grossMinute": 104.891,
+      "utc": "2026-11-27T05:52:39.615Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. I can catch the marked left one but I am leaving centre too early for the next puff. This return has gone 2, 5, 4, 4. I will try one centre-heavy line, adding two side catches, and leave if it still feels like guesswork."
+    },
+    {
+      "minute": 102.633,
+      "grossMinute": 105.721,
+      "utc": "2026-11-27T05:53:29.395Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Four again. The retry offered three even though I had caught five earlier and the breakfast sign still required six. I am leaving that breakfast unserved. I would try the envelope by the fountain for the Snow keeper instead."
+    },
+    {
+      "minute": 102.785,
+      "grossMinute": 105.873,
+      "utc": "2026-11-27T05:53:38.502Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Bring the aurora home on the Fountain path is the card facing me. Opening it to see if the keeper is behind it."
+    },
+    {
+      "minute": 103.087,
+      "grossMinute": 106.175,
+      "utc": "2026-11-27T05:53:56.636Z",
+      "activity": "First-time",
+      "intention": "First-time. Tapping the Aurora result took me to Wake Up, Pip, best 78, target 130. I had hoped for the keeper. I will try one deliberate homecoming with the full brick oven and Suki before leaving the gift ladder."
+    },
+    {
+      "minute": 103.707,
+      "grossMinute": 106.795,
+      "utc": "2026-11-27T05:54:33.831Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. L1 still starts with one even with the oven, as the upgrade says most roads. I got 54, missed Fig this run, and the result remembered Last time, Fig came home. There is no need to chase 130 just to move on."
+    },
+    {
+      "minute": 103.859,
+      "grossMinute": 106.946,
+      "utc": "2026-11-27T05:54:42.930Z",
+      "activity": "Reward claim",
+      "intention": "Reward claim. Of fifteen unclaimed gifts I want the bench at 15 stars, not another pile of Petals. I want to choose its place in my Square."
+    },
+    {
+      "minute": 104.289,
+      "grossMinute": 107.377,
+      "utc": "2026-11-27T05:55:08.741Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I want to place this bench close to the bandstand. The tiny plus signs blend into the path. Trying a numbered empty spot through its accessible button."
+    },
+    {
+      "minute": 105.279,
+      "grossMinute": 108.367,
+      "utc": "2026-11-27T05:56:08.162Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The bandstand’s Visit Tambo says someone across the brook is keeping time and offers the Market Bonnet. I will wear his hat and put the Bazaar lights by the fountain, then try the bench away from the stage."
+    },
+    {
+      "minute": 105.787,
+      "grossMinute": 108.874,
+      "utc": "2026-11-27T05:56:38.614Z",
+      "activity": "Menu search",
+      "intention": "Menu search. The bench gift mentions a plus but I cannot distinguish one at this zoom. Three numbered spot taps failed on touch, one reached the bandstand. I am leaving the bench in inventory. The Bazaar’s sweets now glow next to the fountain."
+    },
+    {
+      "minute": 106.452,
+      "grossMinute": 109.539,
+      "utc": "2026-11-27T05:57:18.514Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I changed Grove back to morning at the lantern bench. The telescope still shows the faint loaf and cup, one colour out of reach. I want to see them lit. I will favour the first narrow span and sacrifice crowd at the gates if needed."
+    },
+    {
+      "minute": 108.404,
+      "grossMinute": 111.491,
+      "utc": "2026-11-27T05:59:15.630Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Caught 2 of 8 on the narrow span, then all seven on the wide one. Two repeated left-centre-right sweeps, then a long cross back left got 9/15, 4554 home and the Loaf and Cup. The same changed result offers Light the picnic lantern. I want both the telescope and its keeper."
+    },
+    {
+      "minute": 108.862,
+      "grossMinute": 111.949,
+      "utc": "2026-11-27T05:59:43.095Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The loaf and little handled cup are now gold in the glass; the next pair is a bell and lantern for 12. I chose Keep this outing for the snow keeper before I went to look. I would stop here and come back specifically to guide the rear bearer into the last pool, rather than farm for three more colours."
+    },
+    {
+      "minute": 108.863,
+      "grossMinute": 111.95,
+      "utc": "2026-11-27T06:04:58.680Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I came back for the pinned lantern keeper. The result itself said three pools, including the rear bearer. I have since seen the source say the last pool is on the right, so I know that direction going in."
+    },
+    {
+      "minute": 109.909,
+      "grossMinute": 116.82,
+      "utc": "2026-11-27T06:09:50.850Z",
+      "activity": "Town discovery",
+      "intention": "Town. Four pools and three stars. I want to see who lights the picnic at home."
+    },
+    {
+      "minute": 110.357,
+      "grossMinute": 117.267,
+      "utc": "2026-11-27T06:10:17.701Z",
+      "activity": "Town discovery",
+      "intention": "Town. The result promised a lit lantern. The tiny picnic reads as cups and lanterns, but its close-up still shows Suki and the Giant and asks for Seedfall. Floating my boat does not bring the keeper into the close-up."
+    },
+    {
+      "minute": 110.502,
+      "grossMinute": 117.413,
+      "utc": "2026-11-27T06:10:26.429Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen. The star on road 5 is full. I want to see what three stars let me actually play."
+    },
+    {
+      "minute": 111.739,
+      "grossMinute": 118.649,
+      "utc": "2026-11-27T06:11:40.615Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen. Mystery Day gave me a crown for 1124 despite another four parachutes. The +/x on approach looked familiar; I want the early road star rather than another crown."
+    },
+    {
+      "minute": 112.534,
+      "grossMinute": 119.445,
+      "utc": "2026-11-27T06:12:28.358Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen. Suki got 49 again. Tambo doubles plus gates, an actual reason to bring him to the first road for 130."
+    },
+    {
+      "minute": 113.125,
+      "grossMinute": 120.035,
+      "utc": "2026-11-27T06:13:03.778Z",
+      "activity": "Town discovery",
+      "intention": "Town. Two calls brought six then three, caught Comet, took the right triple and brought 357 instead of 49. Fig remembers last time. I would rather play the band at home than climb the same star ladder."
+    },
+    {
+      "minute": 114.474,
+      "grossMinute": 121.385,
+      "utc": "2026-11-27T06:14:24.749Z",
+      "activity": "Town discovery",
+      "intention": "Town. Minute 120 passed with 32 roads, 3 lily colours, the Loaf and Cup, the keeper result, one crown and a new three-star Pip. The band sent me to the brook; I found a bridge recollection and Suki offered her rain hood. Enough for now. Returning intention is to place the bench while wearing it, then take the actual six-catch solution if I find one."
+    },
+    {
+      "minute": 114.476,
+      "grossMinute": 121.386,
+      "utc": "2026-11-27T06:18:14.954Z",
+      "activity": "Diagnosis",
+      "intention": "Diagnosis. Returning for my bench. Between visits the matched target check showed a usable square spot below and left of the table. I also saw Seedfall uses centre-left-centre-right-right-centre-right-centre; any subsequent breakfast catch is source-informed."
+    },
+    {
+      "minute": 114.912,
+      "grossMinute": 121.822,
+      "utc": "2026-11-27T06:18:41.139Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The bench is now beside the Workshop flowers. The decoration tray also offered a free swing. I want it opposite the bench so this side of the breakfast path feels like the children’s end."
+    },
+    {
+      "minute": 115.049,
+      "grossMinute": 121.959,
+      "utc": "2026-11-27T06:18:49.365Z",
+      "activity": "Diagnosis",
+      "intention": "Diagnosis. Taking breakfast to Seedfall with the disclosed lane order. I will let the first puff come to me, ignore the first left and line up early for the pair on the right."
+    },
+    {
+      "minute": 117.067,
+      "grossMinute": 123.977,
+      "utc": "2026-11-27T06:20:50.414Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Eight parachutes. I used three ordinary pauses and the supplied order for the landing section; this solves breakfast but cannot show someone reads the ribbon unaided. I am going home to see who is at the table now."
+    },
+    {
+      "minute": 117.745,
+      "grossMinute": 124.655,
+      "utc": "2026-11-27T06:21:31.105Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Eight lit six daisies and brought 5112. The table now offers Parade map or Stay in Town. The little upright teal-green dish sits beside the jam tarts; the keeper and the boat read better in the Square than in that close-up. I still want the fourth musician to join Poppy, Plum and Honey."
+    },
+    {
+      "minute": 117.915,
+      "grossMinute": 124.825,
+      "utc": "2026-11-27T06:21:41.322Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Tambo’s road card tells me to drum from beside the float. I will stay with the cart and call the right-side musician across instead of crossing to Mint myself."
+    },
+    {
+      "minute": 119.941,
+      "grossMinute": 126.851,
+      "utc": "2026-11-27T06:23:42.883Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Mint rode home after I drummed from by the float, crossed left to meet its second bell, and held there. Three bells, 4380 home. I missed Honey this time, but she was already at the Band Stand. The four names and the musical welcome are the payoff I had wanted at minute 81."
+    },
+    {
+      "minute": 120.582,
+      "grossMinute": 127.493,
+      "utc": "2026-11-27T06:24:21.351Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The audited two-hour checkpoint is the telescope with all four musicians home, three lilies, one crown, the bench and swing, eight catches, nine colours and three skill medals. I want the bell and lantern in the glass. Tambo’s fourth chair made this a good place to stop even if I never return."
+    },
+    {
+      "minute": 122.519,
+      "grossMinute": 129.43,
+      "utc": "2026-11-27T06:26:17.587Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Six of eight on the narrow bridge, then only three on the wide one. Nine again. My last return did the opposite. I want both sweeps in the same run."
+    },
+    {
+      "minute": 124.17,
+      "grossMinute": 131.08,
+      "utc": "2026-11-27T06:27:56.605Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Eight on the next run, 8032 home. I can already reproduce the wide sweep on its own and the new best crowd does not change the dark constellation. I am leaving the Bell and Lantern here. The road I would most like to revisit is the Festival; I want to take the profitable side now that Gobbo already has his flag."
+    },
+    {
+      "minute": 125.838,
+      "grossMinute": 132.749,
+      "utc": "2026-11-27T06:29:36.717Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I sent 20 left and 4772 right. The 20 napped, the right-hand gain reunited 13544. I missed the late cut and took the right addition for 17557 instead of the previewed 46228. The one-star result offered wind chimes. I will see what they do before visiting Gobbo."
+    },
+    {
+      "minute": 126.008,
+      "grossMinute": 132.918,
+      "utc": "2026-11-27T06:29:46.910Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The one-star result led to three playable bells. I want a welcome song for the fourth musician: Mint, Mint, Honey."
+    },
+    {
+      "minute": 126.576,
+      "grossMinute": 133.486,
+      "utc": "2026-11-27T06:30:20.989Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The close-up showed two triangles and a diamond, then offered Hear it at the Band Stand. Tambo is playing your welcome song appeared in Square. That is a different thing to carry home than a fourth star. I would come back specifically to see whether he remembers the tune once the game is closed."
+    },
+    {
+      "minute": 126.577,
+      "grossMinute": 133.488,
+      "utc": "2026-11-27T06:37:58.007Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. I have come back for my welcome song and Gobbo’s sewn flag. I want to see what Tambo keeps after closing the game, then take the other side at Gobbo’s hill."
+    },
+    {
+      "minute": 126.949,
+      "grossMinute": 133.859,
+      "utc": "2026-11-27T06:38:20.283Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Play together remembered the tune after reopening. I want to check the pennant from the other approach, then try the Icefall map’s High Ridge invitation which I have been walking past all afternoon."
+    },
+    {
+      "minute": 128.518,
+      "grossMinute": 137.158,
+      "utc": "2026-11-27T06:41:38.208Z",
+      "activity": "Forced repeat",
+      "intention": "Forced repeat. Gobbo woke at 2522 but the finish offered the same unvisited Taffy Street. I want one more try to see whether the route choice is legible."
+    },
+    {
+      "minute": 129.595,
+      "grossMinute": 138.235,
+      "utc": "2026-11-27T06:42:42.832Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. The restart named left explicitly. I stayed left until Taffy registered, cashed a larger crowd with x2, then recentered to meet both of Gobbo’s last jars."
+    },
+    {
+      "minute": 130.011,
+      "grossMinute": 138.651,
+      "utc": "2026-11-27T06:43:07.798Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Both last jars lit; total three of four, 4579 and +295. The result now says Replay road. I have seen both Gobbo branches and do not want the next offered Sleepy Signs star. Closing here."
+    }
+  ]
+}

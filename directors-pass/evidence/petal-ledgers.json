@@ -1,0 +1,100 @@
+{
+  "day": "2026-11-27",
+  "method": "Current production functions on independent copies of the earned checkpoints. Daily scenarios assume zero finds. The repeat road assumes ordinary gates, no golden find and no perfect-row bonus.",
+  "one": {
+    "start": 0,
+    "clear": 120,
+    "score": 49,
+    "bakery": {
+      "id": "bakery",
+      "stage": 1,
+      "cost": 100,
+      "balance": 20
+    },
+    "extraStart": 3,
+    "next": {
+      "id": "band",
+      "name": "Build Tambo’s Band Stand",
+      "cost": 180,
+      "roads": 1,
+      "ready": false,
+      "needed": 160
+    }
+  },
+  "mixed": {
+    "start": 200,
+    "welcome": 37,
+    "giftDay": 2,
+    "catchup": {
+      "gentle": 8,
+      "improvement": 1,
+      "again": 0,
+      "finds": 0
+    },
+    "next": {
+      "id": "pond",
+      "name": "Bring back Lily Pond",
+      "cost": 260,
+      "roads": 1,
+      "ready": false,
+      "needed": 14
+    },
+    "end": 246,
+    "campaignReplay": {
+      "road": "Drizzle Dell",
+      "roadSeconds": 28.25,
+      "base": 44,
+      "town": [
+        {
+          "name": "Workshop",
+          "petals": 22
+        },
+        {
+          "name": "Meadow · welcome home",
+          "petals": 13
+        }
+      ],
+      "clear": 79,
+      "finds": 0,
+      "perfectBonus": 0
+    },
+    "purchase": {
+      "id": "pond",
+      "stage": 1,
+      "cost": 260,
+      "balance": 65
+    },
+    "afterPurchase": {
+      "id": "pond",
+      "name": "Build the duck house",
+      "cost": 180,
+      "roads": 9,
+      "ready": false,
+      "needed": 115
+    }
+  },
+  "expert": {
+    "start": 200,
+    "gentle3": 26,
+    "grand3": 34,
+    "dailyGift": 12,
+    "unchanged": 0,
+    "dailyEarnings": 72,
+    "eligibleFindsPerTrack": 4,
+    "findsAfterCap": 0,
+    "spent": {
+      "id": "pond",
+      "stage": 1,
+      "cost": 260,
+      "balance": 12
+    },
+    "next": {
+      "id": "pond",
+      "name": "Build the duck house",
+      "cost": 180,
+      "roads": 9,
+      "ready": false,
+      "needed": 168
+    }
+  }
+}

@@ -17,6 +17,12 @@ Your progress saves in your browser. Use a private browsing window to try a fres
 
 [Watch the phone playtest](https://urbantorque.github.io/fluff-rush-play/phone-replay/), including the first Town visit, Seedfall and Tambo’s Drum Call at normal speed.
 
+## Director’s pass
+
+At the second Festival hedge, send 600 friends through the left wall and Gobbo will fly their pennant on his hill. At the fountain, return after breakfast to see what the Giant makes with Suki’s wrapper.
+
+[Watch the before-and-after reel](https://urbantorque.github.io/fluff-rush-play/directors-pass/) · [Play the two-hour save](https://urbantorque.github.io/fluff-rush-play/directors-pass/checkpoint.html?scene=two-hours) · [Read the release judgement](https://urbantorque.github.io/fluff-rush-play/directors-pass/release.html) · [Read the pacing ledger](https://urbantorque.github.io/fluff-rush-play/directors-pass/pacing.html) · [Download the tested ZIP](https://urbantorque.github.io/fluff-rush-play/directors-pass/Fluff-Rush-c8b5302f32d2.zip)
+
 ## What's in this build
 
 - 30 main Parade roads across four valleys, plus bonus roads.

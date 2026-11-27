@@ -1,0 +1,534 @@
+{
+  "method": "Separate copies of the actual 108:52 active-minute save (111:57 on the open clock), 15-star Bench already earned. Native touch at the centre of all eight exposed slot rectangles, then Enter on spot six. Empty-slot markings and canvas targeting are distinct.",
+  "rows": [
+    {
+      "label": "before",
+      "width": 393,
+      "height": 852,
+      "taps": [
+        {
+          "slot": 1,
+          "x": 160,
+          "y": 347,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Bakery"
+        },
+        {
+          "slot": 2,
+          "x": 233,
+          "y": 347,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Band Stand"
+        },
+        {
+          "slot": 3,
+          "x": 57,
+          "y": 438,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Workshop"
+        },
+        {
+          "slot": 4,
+          "x": 336,
+          "y": 438,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 5,
+          "x": 145,
+          "y": 531,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 6,
+          "x": 248,
+          "y": 531,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 7,
+          "x": 117,
+          "y": 587,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 8,
+          "x": 276,
+          "y": 587,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        }
+      ],
+      "keyboard": "Decorate\n\nPlace owned pieces for free. New pieces cost the Petals shown.\n\nBench\nPlace bench\nFlower Cart\nPlace · 120 Petals\nPaper Windmill\nPlace · 200 Petals\nLantern Post\nPlace · 300 Petals\nBubble Fountain\nPlace · 450 Pet"
+    },
+    {
+      "label": "before",
+      "width": 320,
+      "height": 568,
+      "taps": [
+        {
+          "slot": 1,
+          "x": 131,
+          "y": 216,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Bakery"
+        },
+        {
+          "slot": 2,
+          "x": 189,
+          "y": 217,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Band Stand"
+        },
+        {
+          "slot": 3,
+          "x": 48,
+          "y": 290,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Workshop"
+        },
+        {
+          "slot": 4,
+          "x": 272,
+          "y": 290,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 5,
+          "x": 119,
+          "y": 365,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 6,
+          "x": 201,
+          "y": 365,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 7,
+          "x": 96,
+          "y": 410,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 8,
+          "x": 224,
+          "y": 410,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        }
+      ],
+      "keyboard": "Decorate\n\nPlace owned pieces for free. New pieces cost the Petals shown.\n\nBench\nPlace bench\nFlower Cart\nPlace · 120 Petals\nPaper Windmill\nPlace · 200 Petals\nLantern Post\nPlace · 300 Petals\nBubble Fountain\nPlace · 450 Pet"
+    },
+    {
+      "label": "before",
+      "width": 568,
+      "height": 320,
+      "taps": [
+        {
+          "slot": 1,
+          "x": 266,
+          "y": 121,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Bakery"
+        },
+        {
+          "slot": 2,
+          "x": 302,
+          "y": 122,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Band Stand"
+        },
+        {
+          "slot": 3,
+          "x": 217,
+          "y": 166,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Workshop"
+        },
+        {
+          "slot": 4,
+          "x": 351,
+          "y": 166,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 5,
+          "x": 259,
+          "y": 210,
+          "top": [
+            "SPAN",
+            ""
+          ],
+          "sheet": "Town"
+        },
+        {
+          "slot": 6,
+          "x": 309,
+          "y": 210,
+          "top": [
+            "SPAN",
+            ""
+          ],
+          "sheet": "Town"
+        },
+        {
+          "slot": 7,
+          "x": 246,
+          "y": 238,
+          "top": [
+            "BUTTON",
+            "town-project"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 8,
+          "x": 322,
+          "y": 238,
+          "top": [
+            "BUTTON",
+            "town-project"
+          ],
+          "sheet": "Breakfast at the fountain"
+        }
+      ],
+      "keyboard": "Decorate\n\nPlace owned pieces for free. New pieces cost the Petals shown.\n\nBench\nPlace bench\nFlower Cart\nPlace · 120 Petals\nPaper Windmill\nPlace · 200 Petals\nLantern Post\nPlace · 300 Petals\nBubble Fountain\nPlace · 450 Pet"
+    },
+    {
+      "label": "after",
+      "width": 393,
+      "height": 852,
+      "taps": [
+        {
+          "slot": 1,
+          "x": 160,
+          "y": 347,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Bakery"
+        },
+        {
+          "slot": 2,
+          "x": 233,
+          "y": 347,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Band Stand"
+        },
+        {
+          "slot": 3,
+          "x": 57,
+          "y": 438,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Workshop"
+        },
+        {
+          "slot": 4,
+          "x": 336,
+          "y": 438,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 5,
+          "x": 145,
+          "y": 531,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 6,
+          "x": 248,
+          "y": 531,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 7,
+          "x": 117,
+          "y": 587,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 8,
+          "x": 276,
+          "y": 587,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        }
+      ],
+      "keyboard": "Decorate\n\nPlace owned pieces for free. New pieces cost the Petals shown.\n\nBench\nPlace bench\nFlower Cart\nPlace · 120 Petals\nPaper Windmill\nPlace · 200 Petals\nLantern Post\nPlace · 300 Petals\nBubble Fountain\nPlace · 450 Pet"
+    },
+    {
+      "label": "after",
+      "width": 320,
+      "height": 568,
+      "taps": [
+        {
+          "slot": 1,
+          "x": 131,
+          "y": 216,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Bakery"
+        },
+        {
+          "slot": 2,
+          "x": 189,
+          "y": 217,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Band Stand"
+        },
+        {
+          "slot": 3,
+          "x": 48,
+          "y": 290,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Workshop"
+        },
+        {
+          "slot": 4,
+          "x": 272,
+          "y": 290,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 5,
+          "x": 119,
+          "y": 365,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 6,
+          "x": 201,
+          "y": 365,
+          "top": [
+            "BUTTON",
+            "breakfast"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 7,
+          "x": 96,
+          "y": 410,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 8,
+          "x": 224,
+          "y": 410,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        }
+      ],
+      "keyboard": "Decorate\n\nPlace owned pieces for free. New pieces cost the Petals shown.\n\nBench\nPlace bench\nFlower Cart\nPlace · 120 Petals\nPaper Windmill\nPlace · 200 Petals\nLantern Post\nPlace · 300 Petals\nBubble Fountain\nPlace · 450 Pet"
+    },
+    {
+      "label": "after",
+      "width": 568,
+      "height": 320,
+      "taps": [
+        {
+          "slot": 1,
+          "x": 266,
+          "y": 121,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Bakery"
+        },
+        {
+          "slot": 2,
+          "x": 302,
+          "y": 122,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Band Stand"
+        },
+        {
+          "slot": 3,
+          "x": 217,
+          "y": 166,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Workshop"
+        },
+        {
+          "slot": 4,
+          "x": 351,
+          "y": 166,
+          "top": [
+            "CANVAS",
+            "stage"
+          ],
+          "sheet": "Decorate"
+        },
+        {
+          "slot": 5,
+          "x": 259,
+          "y": 210,
+          "top": [
+            "SPAN",
+            ""
+          ],
+          "sheet": "Town"
+        },
+        {
+          "slot": 6,
+          "x": 309,
+          "y": 210,
+          "top": [
+            "SPAN",
+            ""
+          ],
+          "sheet": "Town"
+        },
+        {
+          "slot": 7,
+          "x": 246,
+          "y": 238,
+          "top": [
+            "BUTTON",
+            "town-project"
+          ],
+          "sheet": "Breakfast at the fountain"
+        },
+        {
+          "slot": 8,
+          "x": 322,
+          "y": 238,
+          "top": [
+            "BUTTON",
+            "town-project"
+          ],
+          "sheet": "Breakfast at the fountain"
+        }
+      ],
+      "keyboard": "Decorate\n\nPlace owned pieces for free. New pieces cost the Petals shown.\n\nBench\nPlace bench\nFlower Cart\nPlace · 120 Petals\nPaper Windmill\nPlace · 200 Petals\nLantern Post\nPlace · 300 Petals\nBubble Fountain\nPlace · 450 Pet"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,441 @@
+{
+  "method": "The shipped splitResult and authored L23 second hedge evaluated for every integer left allocation at three played arrival counts. Hard right uses the observed input-induced allocation at each count. The 4,792 arrival and 13,544 reunion were observed together with Tambo in the long playtest. Other leader combinations in this table are calculations.",
+  "allocations": 52345,
+  "rows": [
+    {
+      "count": 2341,
+      "leader": "pip",
+      "hardRight": {
+        "left": 10,
+        "l": 0,
+        "r": 6662,
+        "total": 6662
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 5482,
+        "total": 6032
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 6682,
+        "total": 6682
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 5484,
+        "total": 5484
+      },
+      "cost": 630
+    },
+    {
+      "count": 2341,
+      "leader": "tambo",
+      "hardRight": {
+        "left": 10,
+        "l": 0,
+        "r": 8662,
+        "total": 8662
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 800,
+        "r": 7482,
+        "total": 8282
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 8682,
+        "total": 8682
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 7484,
+        "total": 7484
+      },
+      "cost": 380
+    },
+    {
+      "count": 2341,
+      "leader": "otto",
+      "hardRight": {
+        "left": 10,
+        "l": 0,
+        "r": 6662,
+        "total": 6662
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 5482,
+        "total": 6032
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 6682,
+        "total": 6682
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 5484,
+        "total": 5484
+      },
+      "cost": 630
+    },
+    {
+      "count": 2341,
+      "leader": "suki",
+      "hardRight": {
+        "left": 10,
+        "l": 0,
+        "r": 6662,
+        "total": 6662
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 5482,
+        "total": 6032
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 6682,
+        "total": 6682
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 5484,
+        "total": 5484
+      },
+      "cost": 630
+    },
+    {
+      "count": 2341,
+      "leader": "wren",
+      "hardRight": {
+        "left": 10,
+        "l": 0,
+        "r": 6662,
+        "total": 6662
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 5482,
+        "total": 6032
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 6682,
+        "total": 6682
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 5484,
+        "total": 5484
+      },
+      "cost": 630
+    },
+    {
+      "count": 3333,
+      "leader": "pip",
+      "hardRight": {
+        "left": 14,
+        "l": 0,
+        "r": 8638,
+        "total": 8638
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 7466,
+        "total": 8016
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 8666,
+        "total": 8666
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 7468,
+        "total": 7468
+      },
+      "cost": 622
+    },
+    {
+      "count": 3333,
+      "leader": "tambo",
+      "hardRight": {
+        "left": 14,
+        "l": 0,
+        "r": 10638,
+        "total": 10638
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 800,
+        "r": 9466,
+        "total": 10266
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 10666,
+        "total": 10666
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 9468,
+        "total": 9468
+      },
+      "cost": 372
+    },
+    {
+      "count": 3333,
+      "leader": "otto",
+      "hardRight": {
+        "left": 14,
+        "l": 0,
+        "r": 8638,
+        "total": 8638
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 7466,
+        "total": 8016
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 8666,
+        "total": 8666
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 7468,
+        "total": 7468
+      },
+      "cost": 622
+    },
+    {
+      "count": 3333,
+      "leader": "suki",
+      "hardRight": {
+        "left": 14,
+        "l": 0,
+        "r": 8638,
+        "total": 8638
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 7466,
+        "total": 8016
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 8666,
+        "total": 8666
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 7468,
+        "total": 7468
+      },
+      "cost": 622
+    },
+    {
+      "count": 3333,
+      "leader": "wren",
+      "hardRight": {
+        "left": 14,
+        "l": 0,
+        "r": 8638,
+        "total": 8638
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 7466,
+        "total": 8016
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 8666,
+        "total": 8666
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 7468,
+        "total": 7468
+      },
+      "cost": 622
+    },
+    {
+      "count": 4792,
+      "leader": "pip",
+      "hardRight": {
+        "left": 20,
+        "l": 0,
+        "r": 11544,
+        "total": 11544
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 10384,
+        "total": 10934
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 11584,
+        "total": 11584
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 10386,
+        "total": 10386
+      },
+      "cost": 610
+    },
+    {
+      "count": 4792,
+      "leader": "tambo",
+      "hardRight": {
+        "left": 20,
+        "l": 0,
+        "r": 13544,
+        "total": 13544
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 800,
+        "r": 12384,
+        "total": 13184
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 13584,
+        "total": 13584
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 12386,
+        "total": 12386
+      },
+      "cost": 360
+    },
+    {
+      "count": 4792,
+      "leader": "otto",
+      "hardRight": {
+        "left": 20,
+        "l": 0,
+        "r": 11544,
+        "total": 11544
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 10384,
+        "total": 10934
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 11584,
+        "total": 11584
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 10386,
+        "total": 10386
+      },
+      "cost": 610
+    },
+    {
+      "count": 4792,
+      "leader": "suki",
+      "hardRight": {
+        "left": 20,
+        "l": 0,
+        "r": 11544,
+        "total": 11544
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 10384,
+        "total": 10934
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 11584,
+        "total": 11584
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 10386,
+        "total": 10386
+      },
+      "cost": 610
+    },
+    {
+      "count": 4792,
+      "leader": "wren",
+      "hardRight": {
+        "left": 20,
+        "l": 0,
+        "r": 11544,
+        "total": 11544
+      },
+      "bestEscort": {
+        "left": 600,
+        "l": 550,
+        "r": 10384,
+        "total": 10934
+      },
+      "bestWithoutEscort": {
+        "left": 0,
+        "l": 0,
+        "r": 11584,
+        "total": 11584
+      },
+      "missByOne": {
+        "left": 599,
+        "l": 0,
+        "r": 10386,
+        "total": 10386
+      },
+      "cost": 610
+    }
+  ]
+}

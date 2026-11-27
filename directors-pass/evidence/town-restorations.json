@@ -1,0 +1,132 @@
+{
+  "method": "Supplied opening, middle and ending checkpoints; real UI restoration and spending.",
+  "rows": [
+    {
+      "width": 320,
+      "height": 568,
+      "phase": "opening",
+      "spent": 1000,
+      "payments": [
+        {
+          "id": "bakery",
+          "stage": 1,
+          "price": 100
+        },
+        {
+          "id": "workshop",
+          "stage": 1,
+          "price": 240
+        },
+        {
+          "id": "band",
+          "stage": 1,
+          "price": 180
+        },
+        {
+          "id": "bakery",
+          "stage": 2,
+          "price": 140
+        },
+        {
+          "id": "workshop",
+          "stage": 2,
+          "price": 180
+        },
+        {
+          "id": "band",
+          "stage": 2,
+          "price": 160
+        }
+      ],
+      "preserved": true,
+      "celebration": true,
+      "reload": true,
+      "bandVisit": true
+    },
+    {
+      "width": 393,
+      "height": 852,
+      "phase": "middle",
+      "spent": 1000,
+      "payments": [
+        {
+          "id": "bakery",
+          "stage": 1,
+          "price": 100
+        },
+        {
+          "id": "workshop",
+          "stage": 1,
+          "price": 240
+        },
+        {
+          "id": "band",
+          "stage": 1,
+          "price": 180
+        },
+        {
+          "id": "bakery",
+          "stage": 2,
+          "price": 140
+        },
+        {
+          "id": "workshop",
+          "stage": 2,
+          "price": 180
+        },
+        {
+          "id": "band",
+          "stage": 2,
+          "price": 160
+        }
+      ],
+      "preserved": true,
+      "celebration": true,
+      "reload": true,
+      "bandVisit": true
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "phase": "ending",
+      "spent": 1000,
+      "payments": [
+        {
+          "id": "bakery",
+          "stage": 1,
+          "price": 100
+        },
+        {
+          "id": "workshop",
+          "stage": 1,
+          "price": 240
+        },
+        {
+          "id": "band",
+          "stage": 1,
+          "price": 180
+        },
+        {
+          "id": "bakery",
+          "stage": 2,
+          "price": 140
+        },
+        {
+          "id": "workshop",
+          "stage": 2,
+          "price": 180
+        },
+        {
+          "id": "band",
+          "stage": 2,
+          "price": 160
+        }
+      ],
+      "preserved": true,
+      "celebration": true,
+      "reload": true,
+      "bandVisit": true
+    }
+  ],
+  "errors": []
+}

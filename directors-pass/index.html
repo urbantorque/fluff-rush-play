@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Fluff Rush · Director’s screening</title>
+  <style>
+    *{box-sizing:border-box}
+    :root{color-scheme:light;--ink:#382e33;--muted:#655865;--paper:#fbf7ee;--line:#cfc1b1;--wine:#70364c}
+    body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.47 system-ui,sans-serif}
+    main{max-width:1070px;margin:auto;padding:22px clamp(14px,3.5vw,44px) 50px}
+    header{border-top:5px solid var(--wine);padding:16px 0 18px}
+    header p{margin:0;color:var(--muted)}h1,h2,h3{line-height:1.12;margin:0 0 8px}
+    h1{font:600 clamp(2.15rem,5vw,3.7rem)/1.1 Georgia,serif;letter-spacing:-.035em}
+    h2{font:600 clamp(1.4rem,2.5vw,2rem)/1.12 Georgia,serif}
+    h3{font-size:1rem}a{color:var(--wine);text-underline-offset:3px}
+    button,select{font:inherit;color:inherit}button{min-height:44px;padding:6px 13px;border:1px solid var(--line);border-radius:7px;background:#fffdf8;cursor:pointer}
+    button:hover{border-color:var(--wine)}button:focus-visible,select:focus-visible,a:focus-visible,video:focus-visible{outline:3px solid #a24e22;outline-offset:3px}
+    button[aria-pressed=true],#reel{background:var(--wine);border-color:var(--wine);color:white}
+    .screening{display:grid;grid-template-columns:minmax(235px,.85fr) minmax(300px,1.35fr);gap:clamp(20px,4vw,55px);align-items:start}
+    .stage{display:grid;place-items:center;border:1px solid #c7b6a8;border-radius:12px;background:#e9dfd4;overflow:hidden;padding:8px}
+    video{display:block;width:auto;height:min(66vh,610px);max-width:100%;aspect-ratio:393/852;background:#2d272e;object-fit:contain;border-radius:5px}
+    #pair{width:100%;height:45px;padding:0 8px;border:1px solid var(--line);background:white;border-radius:6px;margin:4px 0 16px}
+    #intent{margin:0 0 12px}#watch{display:flex;gap:7px;flex-wrap:wrap;margin:13px 0 18px}
+    #notes{margin:4px 0 18px;padding:0;list-style:none}#notes li{display:grid;grid-template-columns:55px 1fr;align-items:baseline;gap:10px;margin:4px 0}
+    #notes button{font-variant-numeric:tabular-nums;min-height:44px;padding:4px;border:0;color:var(--wine);background:transparent;text-decoration:underline}
+    #file,#method,.secondary{font-size:.91rem;color:var(--muted)}#method{border-top:1px solid var(--line);padding-top:12px}
+    details{margin-top:22px;border-top:1px solid var(--line);padding-top:10px}summary{cursor:pointer;font-weight:650}
+    .facts{display:grid;gap:13px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));margin-top:14px}
+    .facts p{margin:0}.links{margin-top:25px;display:flex;gap:18px;flex-wrap:wrap}
+    @media(max-width:660px){.screening{grid-template-columns:1fr}.stage{padding:5px}video{height:min(56vh,490px)}main{padding-top:10px}.screening{gap:14px}header{padding-bottom:12px}}
+    @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+  </style>
+</head>
+<body><main>
+  <header><h1>Fluff Rush</h1><p>Earlier release ec29b4d0 and director’s pass c8b5302f32d2 · original browser sound at 1×</p></header>
+  <div class="screening">
+    <div class="stage"><video id="movie" controls playsinline preload="metadata" poster="clips/festival-poster.jpg" aria-label="Fluff Rush comparison clip"></video></div>
+    <section aria-label="Screening controls">
+      <label for="pair">Scene</label><select id="pair"></select>
+      <h2 id="title"></h2><p id="intent"></p>
+      <div id="watch"><button id="reel">Play the reel</button><button id="before" aria-pressed="true">Before</button><button id="after" aria-pressed="false">After</button></div>
+      <h3 id="side" aria-live="polite"></h3><ul id="notes"></ul>
+      <p id="method"></p><a id="file" href="#">Open this clip separately</a><p><a id="try" href="#"></a></p>
+    </section>
+  </div>
+  <details><summary>Other steering plans and the first reunion</summary>
+    <div class="facts">
+      <p><strong>Favour the multiplier.</strong> From 2,341, send 2,331 right. The two runs bring 4,662 and 6,662 to reunion. On the release, they reunite at 0:09.53. <a href="clips/before-festival-right-large.webm">Before</a> · <a href="clips/after-festival-right-large.webm">After</a></p>
+      <p><strong>Miss the wall by five.</strong> At 0:05.48 the 595 on the left fall asleep. The 1,746 on the right bring back 5,492. The surviving crowd takes ×4 at 0:17.12. <a href="clips/after-festival-edge50-large.webm">Watch the miss</a></p>
+      <p><strong>Arrive with 3,333 instead.</strong> A different first hedge changes the arrival count. The escort reunites 5,297 at 0:06.16. The multiplier reunites 8,638 at 0:14.75. <a href="clips/after-festival-left-small.webm">Escort the carrier</a> · <a href="clips/after-festival-right-small.webm">Favour the multiplier</a></p>
+      <p><strong>Come home for the first time.</strong> At 0:16.15 in the release clip, Pip returns to the fountain. Touching the Giant at 0:20.42 starts his reply. Suki’s paper waits until another visit. <a href="clips/before-snow.webm">Before</a> · <a href="clips/after-snow.webm">After</a></p>
+    </div>
+  </details>
+  <p class="links"><a href="Fluff-Rush-comparison-reel.webm" download>Download the labelled reel (2:47, 21 MB)</a><a href="release.html">Release judgement and launch</a><a href="pacing.html">Playtest ledger</a></p>
+  <noscript><p>These clips also play directly. <a href="clips/before-festival-left-large.webm">Public Festival</a> · <a href="clips/after-festival-left-large.webm">Candidate Festival</a> · <a href="clips/after-breakfast-discovery.webm">Breakfast</a></p></noscript>
+</main>
+<script>
+const scenes=[
+  {name:'The second Sharing Hedge',file:'festival-left-large',intent:'Watch the left wall, then follow the carrier through the burrows to the next gate.',method:'Same earned Festival of Sweets save, seed 317, 393 × 852, motion on. Full-road inputs use ordinary touch. Both runs arrive with 2,341 and send 2,331 left.',before:[[2.30,'The crowd divides. The left route offers a wall and +2,500.'],[5.87,'4,551 reunite. Look between Pip and the leading row.'],[14.71,'The left ×4 resolves.']],after:[[0.47,'The preview pairs Gobbo’s pennant with the left wall of 600.'],[3.52,'2,331 reach the wall. The peach carrier takes up the roll.'],[6.41,'4,301 reunite under “For Gobbo!”'],[14.51,'The next ×4 resolves after the burrows.']]},
+  {name:'Gobbo’s Hill',file:'gobbo',intent:'Look at the bunting just to the left of Gobbo’s cheek.',method:'Matched L24 approach with the same expert input and lead. Each save comes from its filmed left-side L23 clear. The earned pennant is the intended difference.',before:[[4.4,'The original triangular bunting hangs above the glade.'],[8.4,'The string brightens as Gobbo wakes.']],after:[[4.4,'A notched hem and diamond patch identify the flag in greyscale.'],[8.4,'It warms to the same pink as the carrier’s roll.']]},
+  {name:'Fig and the Bakery',file:'visit',intent:'Stay through the whole first Town visit, including the look around and departure.',method:'Blank profiles on seed 317 with the same recorded touch and keyboard decisions. These two controlled runs bring 174 home. The separate public hand play brought 49.',before:[[1.01,'Leave the result for the Bakery.'],[3.63,'Close the offer and look around.'],[8.31,'Pay 100 Petals. The camera holds while the shop changes.'],[16.63,'Eight start Sleepy Signs.']],after:[[1.01,'The result takes the first tap.'],[3.76,'Fig and the shop still hold the frame.'],[8.33,'Reopen the Bakery.'],[17.73,'The three Bakery friends leave with the five starters.']]},
+  {name:'Suki’s wrapper',file:'breakfast-discovery',intent:'Follow the pink paper from the plate to Suki’s cup. The square underneath is a previously completed save.',method:'Same earned late save, seed, viewport, motion and table interaction. The Tea House visit finishes first. Both clips touch the same spot on the glass at about seven seconds.',before:[[.87,'Open the breakfast table.'],[3.8,'The old host invitation repeats its six-parachute request.'],[6.91,'A tap below the heading leaves the invitation in place.']],after:[[0.87,'Open the same table.'],[2.95,'Suki steadies one end while the Giant unwraps the sweet.'],[5.28,'His right paw corrects one corner.'],[7.00,'Touch the water to float the boat.']]},
+  {name:'Back for the boat',file:'breakfast-revisit',intent:'Leave for Parade, return to the square and open the table a second time.',method:'Each clip continues its own discovery save. The first float earns no Petals. Both versions keep the same departure and Stay in Town actions.',before:[[.87,'The breakfast menu opens again.'],[6.91,'The same place still has the host request.']],after:[[1.97,'The folded boat is already beside Suki’s cup.'],[6.94,'A second touch floats it again.']]},
+  {name:'From Seedfall to the raincoats',file:'picnic-letter',intent:'Start from the same 4-of-8 clear. Follow the invitation until Drizzle Dell accepts steering.',method:'Same earned L5 checkpoint, seed, viewport and catches. The navigation differs because the new result exposes the existing fountain letter directly. The timed gaps include the tester’s reading pauses.',before:[[1.30,'First tap on the daisy lamps. The result stays put.'],[1.95,'Tap the same button again.'],[3.75,'Find and open the fountain letter.'],[5.24,'Steering resumes after accepting the outing.']],after:[[1.56,'Tap “Invite the raincoat trio” on the result.'],[3.38,'The letter names the last yellow hood. Accept the replay.'],[4.07,'Steering resumes on Drizzle Dell.']]}
+];
+const get=id=>document.getElementById(id),movie=get('movie'),pair=get('pair');let scene=0,side=0,sequence=false,version=0;
+scenes.forEach((item,i)=>pair.add(new Option(item.name,String(i))));
+const stamp=t=>Math.floor(t/60)+':'+String(Math.floor(t)%60).padStart(2,'0')+'.'+String(Math.round((t%1)*100)).padStart(2,'0');
+function stopSequence(){sequence=false;get('reel').textContent='Play the reel';}
+function playCurrent(){
+  const selected=version;
+  movie.play().catch(error=>{if(version===selected && error.name!=='AbortError')stopSequence();});
+}
+function show(i,s,play=false){
+  version++;scene=i;side=s;pair.value=String(i);const item=scenes[i],key=s?'after':'before';
+  if(!i&&!s)movie.poster='clips/festival-poster.jpg';else movie.removeAttribute('poster');
+  movie.src='clips/'+key+'-'+item.file+'.webm';movie.playbackRate=1;get('file').href=movie.src;
+  get('title').textContent=item.name;get('intent').textContent=item.intent;get('method').textContent=item.method;
+  const sceneLink=get('try');
+  const start=[['Try this Festival hedge','festival'],['Carry the pennant to Gobbo','festival'],['Play Fluff Rush','opening'],['Visit Suki’s table','breakfast'],['Fold and float the boat','breakfast'],['Try the Seedfall invitation','seedfall']][i];
+  sceneLink.textContent=start[0];sceneLink.href='checkpoint.html?scene='+start[1];
+  get('side').textContent=s?'Director’s pass':'Earlier public build';get('before').setAttribute('aria-pressed',String(!s));get('after').setAttribute('aria-pressed',String(!!s));
+  const notes=get('notes');notes.replaceChildren();
+  for(const [time,line] of item[key]){const li=document.createElement('li'),button=document.createElement('button'),text=document.createElement('span');button.textContent=stamp(time);button.setAttribute('aria-label','Play from '+stamp(time));text.textContent=line;button.onclick=()=>{movie.currentTime=time;playCurrent();};li.append(button,text);notes.append(li);}
+  if(play)playCurrent();
+}
+pair.onchange=()=>{stopSequence();show(Number(pair.value),side);};
+get('before').onclick=()=>{stopSequence();show(scene,0,true);};get('after').onclick=()=>{stopSequence();show(scene,1,true);};
+get('reel').onclick=()=>{if(sequence){stopSequence();movie.pause();return;}sequence=true;get('reel').textContent='Pause the reel';show(0,0,true);};
+movie.onended=()=>{if(!sequence)return;if(!side)show(scene,1,true);else if(scene+1<scenes.length)show(scene+1,0,true);else stopSequence();};
+show(0,0);
+</script></body></html>

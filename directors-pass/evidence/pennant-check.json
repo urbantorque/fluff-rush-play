@@ -1,0 +1,95 @@
+{
+  "rows": [
+    {
+      "reason": "five short",
+      "before": {
+        "petals": 4811,
+        "flags": 0,
+        "stars": 3,
+        "best": 95532
+      },
+      "split": {
+        "left": 595,
+        "wall": 0,
+        "halves": [
+          0,
+          5492
+        ],
+        "sum": 5492,
+        "carried": false,
+        "joined": true
+      },
+      "gate": {
+        "op": "x",
+        "v": 4
+      },
+      "after": {
+        "petals": 4974,
+        "flags": 0,
+        "stars": 3,
+        "best": 95532
+      }
+    },
+    {
+      "reason": "escort on replay",
+      "before": {
+        "petals": 4974,
+        "flags": 0,
+        "stars": 3,
+        "best": 95532
+      },
+      "split": {
+        "left": 2304,
+        "wall": 2004,
+        "halves": [
+          2254,
+          2020
+        ],
+        "sum": 4274,
+        "carried": true,
+        "joined": true
+      },
+      "gate": {
+        "op": "x",
+        "v": 4
+      },
+      "after": {
+        "petals": 5122,
+        "flags": 1,
+        "stars": 3,
+        "best": 95532
+      }
+    },
+    {
+      "reason": "escort again",
+      "before": {
+        "petals": 5122,
+        "flags": 1,
+        "stars": 3,
+        "best": 95532
+      },
+      "split": {
+        "left": 2331,
+        "wall": 2031,
+        "halves": [
+          2281,
+          2020
+        ],
+        "sum": 4301,
+        "carried": true,
+        "joined": true
+      },
+      "gate": {
+        "op": "x",
+        "v": 4
+      },
+      "after": {
+        "petals": 5270,
+        "flags": 1,
+        "stars": 3,
+        "best": 95532
+      }
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,466 @@
+{
+  "method": "Each edition replays Gumdrop Alley from a copy of the actual two-hour save. Same seeded expert steering and virtual clock for layout only. The resulting real sheet is resized to five viewports after reward count-up. CSS text line measurements can include icon bounds.",
+  "rows": [
+    {
+      "edition": "public",
+      "width": 393,
+      "height": 852,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 16,
+        "y": 235,
+        "width": 361,
+        "height": 601,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 37,
+          "y": 645,
+          "width": 101,
+          "height": 170,
+          "centreHits": true,
+          "textRows": 8
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 146,
+          "y": 704,
+          "width": 101,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 3
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 255,
+          "y": 704,
+          "width": 101,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 2
+        }
+      ]
+    },
+    {
+      "edition": "public",
+      "width": 320,
+      "height": 568,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 16,
+        "y": 86,
+        "width": 288,
+        "height": 466,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 37,
+          "y": 450,
+          "width": 79,
+          "height": 91,
+          "centreHits": true,
+          "textRows": 5
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 121,
+          "y": 472,
+          "width": 79,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 2
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 204,
+          "y": 472,
+          "width": 79,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    },
+    {
+      "edition": "public",
+      "width": 852,
+      "height": 393,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 126,
+        "y": 51,
+        "width": 600,
+        "height": 291,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 145,
+          "y": 285,
+          "width": 184,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 2
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 334,
+          "y": 285,
+          "width": 184,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 523,
+          "y": 285,
+          "width": 184,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    },
+    {
+      "edition": "public",
+      "width": 568,
+      "height": 320,
+      "scrollRoom": 39,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 8,
+        "y": 8,
+        "width": 552,
+        "height": 304,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 27,
+          "y": 255,
+          "width": 168,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 2
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 200,
+          "y": 255,
+          "width": 168,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 373,
+          "y": 255,
+          "width": 168,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    },
+    {
+      "edition": "public",
+      "width": 1280,
+      "height": 800,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 410,
+        "y": 110,
+        "width": 460,
+        "height": 581,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 454,
+          "y": 547,
+          "width": 373,
+          "height": 60,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 493,
+          "y": 617,
+          "width": 167,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 670,
+          "y": 617,
+          "width": 117,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    },
+    {
+      "edition": "candidate",
+      "width": 393,
+      "height": 852,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 16,
+        "y": 235,
+        "width": 361,
+        "height": 601,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 37,
+          "y": 645,
+          "width": 101,
+          "height": 170,
+          "centreHits": true,
+          "textRows": 8
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 146,
+          "y": 704,
+          "width": 101,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 3
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 255,
+          "y": 704,
+          "width": 101,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 2
+        }
+      ]
+    },
+    {
+      "edition": "candidate",
+      "width": 320,
+      "height": 568,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 16,
+        "y": 86,
+        "width": 288,
+        "height": 466,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 37,
+          "y": 450,
+          "width": 79,
+          "height": 91,
+          "centreHits": true,
+          "textRows": 5
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 121,
+          "y": 472,
+          "width": 79,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 2
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 204,
+          "y": 472,
+          "width": 79,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    },
+    {
+      "edition": "candidate",
+      "width": 852,
+      "height": 393,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 126,
+        "y": 51,
+        "width": 600,
+        "height": 291,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 145,
+          "y": 285,
+          "width": 184,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 2
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 334,
+          "y": 285,
+          "width": 184,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 523,
+          "y": 285,
+          "width": 184,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    },
+    {
+      "edition": "candidate",
+      "width": 568,
+      "height": 320,
+      "scrollRoom": 39,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 8,
+        "y": 8,
+        "width": 552,
+        "height": 304,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 27,
+          "y": 255,
+          "width": 168,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 2
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 200,
+          "y": 255,
+          "width": 168,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 373,
+          "y": 255,
+          "width": 168,
+          "height": 46,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    },
+    {
+      "edition": "candidate",
+      "width": 1280,
+      "height": 800,
+      "scrollRoom": 0,
+      "horizontalOverflow": 0,
+      "sheet": {
+        "x": 410,
+        "y": 110,
+        "width": 460,
+        "height": 581,
+        "centreHits": true
+      },
+      "actions": [
+        {
+          "label": "Earn the second star on Sleepy Signs",
+          "act": "next",
+          "x": 454,
+          "y": 547,
+          "width": 373,
+          "height": 60,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Replay road",
+          "act": "again",
+          "x": 493,
+          "y": 617,
+          "width": 167,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 1
+        },
+        {
+          "label": "Town",
+          "act": "meta",
+          "x": 670,
+          "y": 617,
+          "width": 117,
+          "height": 52,
+          "centreHits": true,
+          "textRows": 1
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

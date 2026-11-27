@@ -1,0 +1,32 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "duration": 4.930799961090088,
+  "marks": {
+    "chooseInvitation": 1.558,
+    "accept": 3.382,
+    "steering": 4.072
+  },
+  "frames": 168,
+  "inputs": [
+    {
+      "delta": -260,
+      "t": 9.23333333333345,
+      "d": 2341.9374999999923,
+      "x": -57.008344851694304
+    }
+  ],
+  "errors": [],
+  "mark": {
+    "hit": 4,
+    "of": 8,
+    "revision": 6,
+    "at": 1795763498584,
+    "missed": 4
+  },
+  "result": "Parade size\n2,198\nBest streak\n2\nFriends woken this run: 3\n3 woken\nParade of 2198 reached the end.\n4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path.\nInvite the raincoat trio\n\n2,198 friends home · 202 more for 2 stars (2,400 total)\n\nTotal Petals\n+100 \nRoad report\nSee my daisy lamps\nNext road"
+}

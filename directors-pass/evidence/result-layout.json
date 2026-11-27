@@ -1,0 +1,222 @@
+[
+  {
+    "width": 393,
+    "height": 852,
+    "sheet": {
+      "x": 16,
+      "y": 283.96875,
+      "w": 361,
+      "h": 552.03125,
+      "hit": true
+    },
+    "top": 0,
+    "scroll": 0,
+    "overflow": 0,
+    "outside": [],
+    "letter": {
+      "x": 102.328125,
+      "y": 508.09375,
+      "w": 188.328125,
+      "h": 44,
+      "hit": true
+    },
+    "actions": [
+      {
+        "act": "display-reward",
+        "x": 37,
+        "y": 761,
+        "w": 155.5,
+        "h": 52,
+        "hit": true
+      },
+      {
+        "act": "next",
+        "x": 200.5,
+        "y": 759,
+        "w": 155.5,
+        "h": 56,
+        "hit": true
+      }
+    ],
+    "text": "4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path.\nInvite the raincoat trio\n\n2,198 friends home · 202 more for 2",
+    "backTop": 0,
+    "detailFocus": true,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "sheet": {
+      "x": 16,
+      "y": 79.21875,
+      "w": 288,
+      "h": 472.78125,
+      "hit": true
+    },
+    "top": 0,
+    "scroll": 0,
+    "overflow": 2,
+    "outside": [],
+    "letter": {
+      "x": 65.828125,
+      "y": 267.09375,
+      "w": 188.328125,
+      "h": 44,
+      "hit": true
+    },
+    "actions": [
+      {
+        "act": "display-reward",
+        "x": 37,
+        "y": 489,
+        "w": 119,
+        "h": 46,
+        "hit": true
+      },
+      {
+        "act": "next",
+        "x": 164,
+        "y": 484,
+        "w": 119,
+        "h": 56,
+        "hit": true
+      }
+    ],
+    "text": "4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path.\nInvite the raincoat trio\n\n2,198 friends home · 202 more for 2",
+    "backTop": 0,
+    "detailFocus": true,
+    "errors": []
+  },
+  {
+    "width": 852,
+    "height": 393,
+    "sheet": {
+      "x": 146,
+      "y": 35.234375,
+      "w": 560,
+      "h": 322.515625,
+      "hit": true
+    },
+    "top": 0,
+    "scroll": 0,
+    "overflow": 0,
+    "outside": [],
+    "letter": {
+      "x": 331.828125,
+      "y": 97.109375,
+      "w": 188.328125,
+      "h": 44,
+      "hit": true
+    },
+    "actions": [
+      {
+        "act": "display-reward",
+        "x": 236.390625,
+        "y": 300.75,
+        "w": 195.1875,
+        "h": 46,
+        "hit": true
+      },
+      {
+        "act": "next",
+        "x": 441.578125,
+        "y": 300.75,
+        "w": 174.03125,
+        "h": 46,
+        "hit": true
+      }
+    ],
+    "text": "4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path.\nInvite the raincoat trio\n\n2,198 friends home · 202 more for 2",
+    "backTop": 0,
+    "detailFocus": true,
+    "errors": []
+  },
+  {
+    "width": 568,
+    "height": 320,
+    "sheet": {
+      "x": 8,
+      "y": 8,
+      "w": 552,
+      "h": 304,
+      "hit": true
+    },
+    "top": 0,
+    "scroll": 75,
+    "overflow": 0,
+    "outside": [],
+    "letter": {
+      "x": 189.828125,
+      "y": 125.875,
+      "w": 188.328125,
+      "h": 44,
+      "hit": true
+    },
+    "actions": [
+      {
+        "act": "display-reward",
+        "x": 94.390625,
+        "y": 255,
+        "w": 195.1875,
+        "h": 46,
+        "hit": true
+      },
+      {
+        "act": "next",
+        "x": 299.578125,
+        "y": 255,
+        "w": 174.03125,
+        "h": 46,
+        "hit": true
+      }
+    ],
+    "text": "4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path.\nInvite the raincoat trio\n\n2,198 friends home · 202 more for 2",
+    "backTop": 0,
+    "detailFocus": true,
+    "errors": []
+  },
+  {
+    "width": 1280,
+    "height": 800,
+    "sheet": {
+      "x": 410,
+      "y": 134.6875,
+      "w": 460,
+      "h": 530.609375,
+      "hit": true
+    },
+    "top": 0,
+    "scroll": 0,
+    "overflow": 0,
+    "outside": [],
+    "letter": {
+      "x": 545.828125,
+      "y": 353.84375,
+      "w": 188.328125,
+      "h": 44,
+      "hit": true
+    },
+    "actions": [
+      {
+        "act": "display-reward",
+        "x": 453.796875,
+        "y": 584.296875,
+        "w": 195.1875,
+        "h": 60,
+        "hit": true
+      },
+      {
+        "act": "next",
+        "x": 658.984375,
+        "y": 584.296875,
+        "w": 167.21875,
+        "h": 60,
+        "hit": true
+      }
+    ],
+    "text": "4 of 8 parachutes caught!\n\n2 daisy lamps on your fountain path.\nInvite the raincoat trio\n\n2,198 friends home · 202 more for 2",
+    "backTop": 0,
+    "detailFocus": true,
+    "errors": []
+  }
+]

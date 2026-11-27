@@ -1,0 +1,22 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "duration": 24.319700002670288,
+  "marks": {
+    "approach": 0.057,
+    "finale": 2.346,
+    "wake": 8.505,
+    "result": 14.863,
+    "home": 16.152,
+    "hug": 20.423
+  },
+  "frames": 936,
+  "inputs": [],
+  "errors": [],
+  "giant": "snow",
+  "setup": "Earned checkpoint; expert approach for matched scenery only."
+}

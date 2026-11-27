@@ -1,0 +1,149 @@
+{
+  "method": "Informed solo touch on the production preview, native game clock. Starts with the first intentional input in each sitting. Closed-tab gaps excluded. Categories assigned at the recorded transitions.",
+  "elapsedActiveMin": 9.79,
+  "categories": {
+    "First-time": 5.8,
+    "Chosen mastery": 2.09,
+    "Town discovery": 1.56,
+    "Forced repeat": 0,
+    "Menu search": 0.33,
+    "Reward claim": 0,
+    "Diagnosis": 0
+  },
+  "visits": [
+    {
+      "begin": "2026-11-27T03:14:27.801Z",
+      "startMinute": 0,
+      "end": "2026-11-27T03:22:50.193Z",
+      "endMinute": 8.3732
+    },
+    {
+      "begin": "2026-11-27T03:27:08.255Z",
+      "startMinute": 8.3732,
+      "end": "2026-11-27T03:28:32.977Z",
+      "endMinute": 9.785233333333334
+    }
+  ],
+  "rows": [
+    {
+      "minute": 0,
+      "utc": "2026-11-27T03:14:27.801Z",
+      "activity": "First-time",
+      "intention": "First-time. I want to take Fig home and see what the Bakery gives the road."
+    },
+    {
+      "minute": 0.55,
+      "utc": "2026-11-27T03:15:00.938Z",
+      "activity": "First-time",
+      "intention": "Fig joined at the left edge. I moved across the wall to the x3 preview showing 63 instead of 41."
+    },
+    {
+      "minute": 0.97,
+      "utc": "2026-11-27T03:15:25.972Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Share the first bun is beside Fig. I want to find who gets it before taking my three starters to Sleepy Signs."
+    },
+    {
+      "minute": 1.32,
+      "utc": "2026-11-27T03:15:46.889Z",
+      "activity": "First-time",
+      "intention": "First-time. Picked Clover. I want the three sign painters because Town had empty signs."
+    },
+    {
+      "minute": 1.86,
+      "utc": "2026-11-27T03:16:19.514Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. I moved left after the striped gate and got the multiplier. I want to replay and hold left earlier for the painters."
+    },
+    {
+      "minute": 2.31,
+      "utc": "2026-11-27T03:16:46.134Z",
+      "activity": "Menu search",
+      "intention": "Menu search. No replay in the report. Going back through the Tambo offer to find the map."
+    },
+    {
+      "minute": 2.64,
+      "utc": "2026-11-27T03:17:06.176Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Replaying L2 with the newly offered Tambo. Stay left at striped gate even if it costs the multiplier."
+    },
+    {
+      "minute": 3.39,
+      "utc": "2026-11-27T03:17:51.363Z",
+      "activity": "First-time",
+      "intention": "First payoff. Three sign painters came through; result remembers last time x3. 248 versus 58. Tambo called sleepers across the road while I kept my line. Next I want to see the flags on Treat Street."
+    },
+    {
+      "minute": 4.27,
+      "utc": "2026-11-27T03:18:43.879Z",
+      "activity": "First-time",
+      "intention": "First-time Treat Street. The painters stood at the drum prompt. At the hedge my left read 154 under the 160 wall. I tried another swipe after the fork closed and arrived with just 66."
+    },
+    {
+      "minute": 4.37,
+      "utc": "2026-11-27T03:18:49.742Z",
+      "activity": "First-time",
+      "intention": "Correction: 66 was an intermediate animation count. The actual clear was 1713, with Tambo and the painter trading the last beat."
+    },
+    {
+      "minute": 4.65,
+      "utc": "2026-11-27T03:19:06.986Z",
+      "activity": "First-time",
+      "intention": "First-time. Seedfall first. Want to catch a falling friend, then take the hoods if a letter turns up."
+    },
+    {
+      "minute": 5.56,
+      "utc": "2026-11-27T03:20:01.290Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Four of eight, 36 friends shy of three stars. There is no letter before Drizzle Dell is cleared. Looking at the two lamps and Blossom."
+    },
+    {
+      "minute": 6.15,
+      "utc": "2026-11-27T03:20:36.771Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. Spending 180 on Tambo because I expect to improve Seedfall. Want to see if there is a drummer in the band."
+    },
+    {
+      "minute": 6.38,
+      "utc": "2026-11-27T03:20:50.484Z",
+      "activity": "First-time",
+      "intention": "First-time. Taking the right-hand next road button to get the yellow hoods. Tambo is at the stand now."
+    },
+    {
+      "minute": 7.17,
+      "utc": "2026-11-27T03:21:38.251Z",
+      "activity": "First-time",
+      "intention": "First-time. The balloon and multiplier took me to the right. The riders got the cart. My late left swipe did not escort the yellow hoods. Next I want to wake Mumu, then come back for the picnic."
+    },
+    {
+      "minute": 8.37,
+      "utc": "2026-11-27T03:22:50.164Z",
+      "activity": "First-time",
+      "intention": "Natural stop after Mumu. Next I want to take the yellow coats to the two lamps, then find what the first lantern lights. Closing now; I will check which invitation I recognise when I reopen."
+    },
+    {
+      "minute": 8.5,
+      "utc": "2026-11-27T03:27:15.794Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. On returning Mumu is floating by the band and there is an envelope on the fountain. Following my yellow-coat plan via that envelope."
+    },
+    {
+      "minute": 8.77,
+      "utc": "2026-11-27T03:27:32.355Z",
+      "activity": "Chosen mastery",
+      "intention": "Chosen mastery. Holding hard left this time, including the last shower. Leaving the balloon for the next parade."
+    },
+    {
+      "minute": 9.67,
+      "utc": "2026-11-27T03:28:26.138Z",
+      "activity": "Town discovery",
+      "intention": "Town discovery. The trio made it. The result invitation clipped the last words beyond the right edge of the phone; the main Visit the picnic label was readable. Following it now."
+    },
+    {
+      "minute": 9.79,
+      "utc": "2026-11-27T03:28:32.964Z",
+      "activity": "Town discovery",
+      "intention": "Natural stop. Three hoods are sitting beside the lamps and pears. The live return plan paid off. I want to meet the cat next. End this pilot to fix the visibly clipped result receipt before taking the release candidate further."
+    }
+  ]
+}

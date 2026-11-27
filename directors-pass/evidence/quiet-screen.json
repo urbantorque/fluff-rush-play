@@ -1,0 +1,81 @@
+{
+  "method": "Five release recordings played from start to finish at 1× in a 393×852 browser. Sound muted, image converted to greyscale. Four marked frames from each pass were inspected for shapes and positions.",
+  "rows": [
+    {
+      "stem": "festival-left-large",
+      "events": [
+        0.667,
+        3.667,
+        6.867,
+        14.7
+      ],
+      "elapsed": 17.193600000023842,
+      "seconds": 15.466,
+      "width": 393,
+      "height": 852,
+      "rate": 1,
+      "muted": true
+    },
+    {
+      "stem": "festival-edge50-large",
+      "events": [
+        0.667,
+        5.667,
+        8.933,
+        17.333
+      ],
+      "elapsed": 21.409600000023843,
+      "seconds": 18.2,
+      "width": 393,
+      "height": 852,
+      "rate": 1,
+      "muted": true
+    },
+    {
+      "stem": "gobbo",
+      "events": [
+        3,
+        4.333,
+        6.833,
+        8.7
+      ],
+      "elapsed": 13.173199999988078,
+      "seconds": 12.866,
+      "width": 393,
+      "height": 852,
+      "rate": 1,
+      "muted": true
+    },
+    {
+      "stem": "breakfast-discovery",
+      "events": [
+        2,
+        3.4,
+        5.367,
+        8.7
+      ],
+      "elapsed": 11.885299999952316,
+      "seconds": 9.933,
+      "width": 393,
+      "height": 852,
+      "rate": 1,
+      "muted": true
+    },
+    {
+      "stem": "breakfast-revisit",
+      "events": [
+        2.133,
+        3.8,
+        7.267,
+        8.633
+      ],
+      "elapsed": 11.471100000023842,
+      "seconds": 9.9,
+      "width": 393,
+      "height": 852,
+      "rate": 1,
+      "muted": true
+    }
+  ],
+  "errors": []
+}

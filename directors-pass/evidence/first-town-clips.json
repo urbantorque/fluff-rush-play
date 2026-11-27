@@ -1,0 +1,48 @@
+[
+  {
+    "side": "before",
+    "viewport": [
+      393,
+      852
+    ],
+    "controls": "touch and arrow keys, normal clock, no autopilot",
+    "times": {
+      "start": 0,
+      "leaveResults": 1.01,
+      "card": 1.176,
+      "look": 3.631,
+      "reopenCard": 6.993,
+      "pay": 8.307,
+      "receipt": 13.278,
+      "roadCard": 14.512,
+      "roadTwo": 16.629,
+      "end": 18.008
+    },
+    "videoFrames": 540,
+    "distinctCapturedFrames": 540,
+    "errors": []
+  },
+  {
+    "side": "after",
+    "viewport": [
+      393,
+      852
+    ],
+    "controls": "touch and arrow keys, normal clock, no autopilot",
+    "times": {
+      "start": 0,
+      "leaveResults": 1.009,
+      "card": 1.452,
+      "look": 3.764,
+      "reopenCard": 7.274,
+      "pay": 8.327,
+      "receipt": 13.859,
+      "roadCard": 14.75,
+      "roadTwo": 17.727,
+      "end": 18.153
+    },
+    "videoFrames": 544,
+    "distinctCapturedFrames": 502,
+    "errors": []
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "assets": {
+    "http://127.0.0.1:4281/": 65,
+    "http://127.0.0.1:4282/": 65
+  },
+  "range": "bytes 1024-2047/21249696",
+  "late": {
+    "initialPetals": 7682,
+    "clearRoads": 32,
+    "medals": 4,
+    "owned": [
+      "bench",
+      "swing",
+      "flowercart"
+    ],
+    "editedPetals": 7562,
+    "resumedPetals": 7562
+  },
+  "fresh": {
+    "title": "Fluff Rush: The Great Homecoming",
+    "road": "L1"
+  },
+  "errors": []
+}

@@ -1,0 +1,126 @@
+{
+  "method": "Separate copies of the actual two-hour save. Normal-clock native touches. Only the current calendar Date is fixed per case. Calendar behaviour does not establish a voluntary return.",
+  "rows": [
+    {
+      "edition": "public",
+      "week": 0,
+      "date": "2026-11-27T17:23:00+11:00",
+      "sign": "Breakfast at the fountain",
+      "before": "Breakfast at the fountain\n\nBreakfast is served. The friends at the fountain ask for help once a week.\n\nBack to Town",
+      "hasBoat": false,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      }
+    },
+    {
+      "edition": "public",
+      "week": 1,
+      "date": "2026-12-04T17:23:00+11:00",
+      "sign": "Breakfast at the fountain. Ring the breakfast bells",
+      "before": "Breakfast at the fountain\n\nRing the breakfast bells. Ring three bells on Taffy Float to call Town to breakfast.\n\nReplay The Taffy Float\nStay in Town",
+      "hasBoat": false,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      },
+      "played": "L14",
+      "pin": "breakfast:hosting:L14:1"
+    },
+    {
+      "edition": "public",
+      "week": 2,
+      "date": "2026-12-11T17:23:00+11:00",
+      "sign": "Breakfast at the fountain. Light the breakfast path",
+      "before": "Breakfast at the fountain\n\nLight the breakfast path. Light three pools with the last bearer on the lantern relay.\n\nReplay Lanterns in the Snow\nStay in Town",
+      "hasBoat": false,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      },
+      "played": "L27",
+      "pin": "breakfast:hosting:L27:2"
+    },
+    {
+      "edition": "playtest",
+      "week": 0,
+      "date": "2026-11-27T17:23:00+11:00",
+      "sign": "Breakfast at the fountain",
+      "before": "Breakfast at the fountain\nFloat the boat\nParade map\nStay in Town",
+      "hasBoat": true,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      }
+    },
+    {
+      "edition": "playtest",
+      "week": 1,
+      "date": "2026-12-04T17:23:00+11:00",
+      "sign": "Breakfast at the fountain. Ring the breakfast bells",
+      "before": "Breakfast at the fountain\nFloat the boat\n\nRing three bells on Taffy Float to call Town to breakfast.\n\nReplay The Taffy Float\nStay in Town",
+      "hasBoat": true,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      },
+      "played": "L14",
+      "pin": "breakfast:hosting:L14:1"
+    },
+    {
+      "edition": "playtest",
+      "week": 2,
+      "date": "2026-12-11T17:23:00+11:00",
+      "sign": "Breakfast at the fountain. Light the breakfast path",
+      "before": "Breakfast at the fountain\nFloat the boat\n\nLight three pools with the last bearer on the lantern relay.\n\nReplay Lanterns in the Snow\nStay in Town",
+      "hasBoat": true,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      },
+      "played": "L27",
+      "pin": "breakfast:hosting:L27:2"
+    },
+    {
+      "edition": "release",
+      "week": 0,
+      "date": "2026-11-27T17:23:00+11:00",
+      "sign": "Breakfast at the fountain",
+      "before": "Breakfast at the fountain\nFloat the boat\n\nBreakfast is served. The friends at the fountain ask for help once a week.\n\nParade map\nStay in Town",
+      "hasBoat": true,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      }
+    },
+    {
+      "edition": "release",
+      "week": 1,
+      "date": "2026-12-04T17:23:00+11:00",
+      "sign": "Breakfast at the fountain. Ring the breakfast bells",
+      "before": "Breakfast at the fountain\nFloat the boat\n\nRing three bells on Taffy Float to call Town to breakfast.\n\nReplay The Taffy Float\nStay in Town",
+      "hasBoat": true,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      },
+      "played": "L14",
+      "pin": "breakfast:hosting:L14:1"
+    },
+    {
+      "edition": "release",
+      "week": 2,
+      "date": "2026-12-11T17:23:00+11:00",
+      "sign": "Breakfast at the fountain. Light the breakfast path",
+      "before": "Breakfast at the fountain\nFloat the boat\n\nLight three pools with the last bearer on the lantern relay.\n\nReplay Lanterns in the Snow\nStay in Town",
+      "hasBoat": true,
+      "afterFloat": {
+        "petals": 7682,
+        "folds": 1
+      },
+      "played": "L27",
+      "pin": "breakfast:hosting:L27:2"
+    }
+  ],
+  "errors": []
+}

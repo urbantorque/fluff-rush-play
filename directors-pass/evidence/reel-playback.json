@@ -1,0 +1,97 @@
+{
+  "entry": "http://127.0.0.1:4280/",
+  "viewport": [
+    393,
+    852
+  ],
+  "speed": 1,
+  "elapsed": 154.863,
+  "mediaSeconds": 142.964,
+  "ends": [
+    {
+      "file": "before-festival-left-large.webm",
+      "seconds": 15.6,
+      "rate": 1,
+      "now": 1795764626748,
+      "audio": 249340
+    },
+    {
+      "file": "after-festival-left-large.webm",
+      "seconds": 15.466,
+      "rate": 1,
+      "now": 1795764642981,
+      "audio": 246463
+    },
+    {
+      "file": "before-gobbo.webm",
+      "seconds": 12.2,
+      "rate": 1,
+      "now": 1795764655769,
+      "audio": 194677
+    },
+    {
+      "file": "after-gobbo.webm",
+      "seconds": 12.866,
+      "rate": 1,
+      "now": 1795764668898,
+      "audio": 205226
+    },
+    {
+      "file": "before-visit.webm",
+      "seconds": 18,
+      "rate": 1,
+      "now": 1795764687158,
+      "audio": 287700
+    },
+    {
+      "file": "after-visit.webm",
+      "seconds": 18.133,
+      "rate": 1,
+      "now": 1795764705609,
+      "audio": 289618
+    },
+    {
+      "file": "before-breakfast-discovery.webm",
+      "seconds": 9.9,
+      "rate": 1,
+      "now": 1795764715696,
+      "audio": 157276
+    },
+    {
+      "file": "after-breakfast-discovery.webm",
+      "seconds": 9.933,
+      "rate": 1,
+      "now": 1795764725818,
+      "audio": 158235
+    },
+    {
+      "file": "before-breakfast-revisit.webm",
+      "seconds": 9.933,
+      "rate": 1,
+      "now": 1795764742498,
+      "audio": 158235
+    },
+    {
+      "file": "after-breakfast-revisit.webm",
+      "seconds": 9.9,
+      "rate": 1,
+      "now": 1795764752577,
+      "audio": 157276
+    },
+    {
+      "file": "before-picnic-letter.webm",
+      "seconds": 6.1,
+      "rate": 1,
+      "now": 1795764758881,
+      "audio": 96859
+    },
+    {
+      "file": "after-picnic-letter.webm",
+      "seconds": 4.933,
+      "rate": 1,
+      "now": 1795764764380,
+      "audio": 78638
+    }
+  ],
+  "errors": []
+}

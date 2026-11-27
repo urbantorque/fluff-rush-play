@@ -1,0 +1,47 @@
+[
+  {
+    "width": 393,
+    "height": 852,
+    "buttonWidth": 319,
+    "buttonHeight": 63.578125,
+    "caption": "Three yellow hoods are picnicking by the fountain.",
+    "lines": 2,
+    "inside": true
+  },
+  {
+    "width": 320,
+    "height": 568,
+    "buttonWidth": 246,
+    "buttonHeight": 63.578125,
+    "caption": "Three yellow hoods are picnicking by the fountain.",
+    "lines": 2,
+    "inside": true
+  },
+  {
+    "width": 852,
+    "height": 393,
+    "buttonWidth": 562,
+    "buttonHeight": 49.1875,
+    "caption": "Three yellow hoods are picnicking by the fountain.",
+    "lines": 1,
+    "inside": true
+  },
+  {
+    "width": 568,
+    "height": 320,
+    "buttonWidth": 514,
+    "buttonHeight": 49.1875,
+    "caption": "Three yellow hoods are picnicking by the fountain.",
+    "lines": 1,
+    "inside": true
+  },
+  {
+    "width": 1280,
+    "height": 800,
+    "buttonWidth": 418,
+    "buttonHeight": 49.1875,
+    "caption": "Three yellow hoods are picnicking by the fountain.",
+    "lines": 1,
+    "inside": true
+  }
+]

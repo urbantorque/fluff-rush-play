@@ -1,0 +1,663 @@
+{
+  "release": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+  "source": "ec29b4d05f73deeedd84dc2226635d0b07c3df74",
+  "archive": {
+    "file": "Fluff-Rush-c8b5302f32d2.zip",
+    "sha256": "e4e26f919ce9cdcdadbcbb344f39975bfd1f6a7ab602bbb5fc4fef6df0834168"
+  },
+  "longPlay": {
+    "hash": "d211fd0e96d4eb54cf60a2990ae23879b586c0d4faa8e8a3d11ab8974d42b33c",
+    "activeSecondsRounded": 7801,
+    "sittings": 10,
+    "evidence": "active-play.json",
+    "earlierCommands": "playtest-verification.json",
+    "workingTreeDelta": "build-delta.json"
+  },
+  "reproducibleRelease": {
+    "typecheck": "node node_modules/typescript/bin/tsc --noEmit",
+    "build": "node node_modules/vite/bin/vite.js build --outDir .tmp/directors-pass/rebuild-proof",
+    "filesCompared": 65,
+    "byteIdentical": true
+  },
+  "finalReleaseCommands": [
+    {
+      "group": "State and save",
+      "command": "scripts/test-breakfast-invites.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.393,
+      "result": [
+        "PASS: six invitations, dish rewards, locked leaders, skipped weeks, legacy Fig, replay memory, advanced host selection, persistence and weekly payout limits."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-fountain-mastery.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.318,
+      "result": [
+        "PASS: three mastery ladders, paired decorations, eligible traces, tied legacy saves and persistent bests."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-fountain-guests.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.423,
+      "result": [
+        "PASS: four picnic guests, alternate unlock, actual road conditions, no duplicate rewards, old saves and fieldwork gates."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-phone-windows.mjs",
+      "exit": 0,
+      "elapsedSeconds": 0.181,
+      "result": [
+        "PASS: three full windows per scene, background and off-bridge exclusion, cross-load continuation, percentile and sample cap."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-return-scorecard.mjs",
+      "exit": 0,
+      "elapsedSeconds": 0.152,
+      "result": [
+        "PASS: unique enrollment, nonreturners, mature denominators, prompted exclusions, deduplication and interval decisions."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-coherence.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.404,
+      "result": [
+        "PASS: restoration spending, repeated clicks, celebration, reload, unlock preservation, gate arithmetic and short cooldown buffer."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-save.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.626,
+      "result": [
+        "a Heart's dream under way at v9, ended by v10",
+        "a Whisperwood walk under way at v9, its bonds and Wonders, by v10",
+        "corrupt and odd saves",
+        "710/710 checks passed"
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-town.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.766,
+      "result": [
+        "Wren's quest, its ending (AA12, Milestone 2)",
+        "The Village Plan (AC7)",
+        "The festival year (Part AD, AD1)",
+        "town: 954/954 checks passed"
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-parade-formats.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.691,
+      "result": [
+        "Parade formats: fixed starts, exact/easier targets, fair leader stars, Encore safety, wave replay, short signature roads and comparable payouts passed"
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-parade-third.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.894,
+      "result": [
+        "Parade third pass: eight fair roads, imperfect clears, skill growth, returning mechanics, five keeper leaders/Encore rules, preserved ownership and live call cues pass."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-parade-skills.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.603,
+      "result": [
+        "Parade skill feedback: actual contact, final losses, clean chains, quiet limits and musical pacing pass.",
+        "(node:29260) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time",
+        "(Use `node --trace-warnings ...` to show where the warning was created)"
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-holistic-controls.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.721,
+      "result": [
+        "Held keys, shortcuts, cancellation, capture loss and quick taps passed."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-town-benefits.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.904,
+      "result": [
+        "PASS: 19 atomic purchases, staged shared benefits, exact payouts, old tiers, no practice/failure payouts, preserved records and reload."
+      ]
+    },
+    {
+      "group": "State and save",
+      "command": "scripts/test-daily.ts",
+      "exit": 0,
+      "elapsedSeconds": 9.083,
+      "result": [
+        "  [America/New_York] 1721/1721 checks passed",
+        "  [Pacific/Auckland] 1721/1721 checks passed",
+        "  [America/St_Johns] 1721/1721 checks passed",
+        "daily: all checks passed in every time zone"
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": "scripts/qa/phone-campaign.mjs",
+      "exit": 0,
+      "elapsedSeconds": 224.918,
+      "result": [
+        "L27 3 stars 4157 Petals 18 repairs",
+        "L28 3 stars 3750 Petals 19 repairs",
+        "L29 3 stars 4198 Petals 19 repairs",
+        "L30 3 stars 4651 Petals 19 repairs"
+      ],
+      "earlierAttempts": [
+        {
+          "exit": 1,
+          "elapsedSeconds": 299.224
+        }
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": "scripts/qa/result-navigation.mjs",
+      "exit": 0,
+      "elapsedSeconds": 44.408,
+      "result": [
+        "393 replay passed",
+        "320 project passed",
+        "960 next passed",
+        "Daily, Wardrobe preview, route choice from map and Town, road card, pause and exit passed."
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": "scripts/qa/coherence-controls.mjs --out=.tmp/directors-pass/release-checks/controls",
+      "exit": 0,
+      "elapsedSeconds": 217.203,
+      "result": [
+        "PASS suki touch",
+        "PASS wren keyboard",
+        "PASS wren touch",
+        "PASS: all five abilities, native keyboard and touch, targets, hold/repeat, pause/resume, focus-loss cancellation."
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": "scripts/qa/coherence-town.mjs --out=.tmp/directors-pass/release-checks/town",
+      "exit": 0,
+      "elapsedSeconds": 140.8,
+      "result": [
+        "PASS: three project choices, visible build/celebration, exact spending, possessions, reload and character cards at three sizes."
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": "scripts/qa/fountain-mastery.mjs",
+      "exit": 0,
+      "elapsedSeconds": 50.075,
+      "result": [
+        "L21 Meet the ribbon booth · left 12/12 record survived reload",
+        "L28 Hold right through the ribbon 15/15 record survived reload",
+        "Marked miss reports the actual landing lane.",
+        "Hints off removes the replay ribbon and coaching."
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": "scripts/qa/picnic-visits.mjs",
+      "exit": 0,
+      "elapsedSeconds": 78.056,
+      "result": [
+        "L4 hoods {\"early\":{\"scene\":\"awning\",\"joined\":3,\"total\":3,\"called\":0,\"cart\":0,\"dryCalls\":0},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\"]}",
+        "L4 cat-home {\"early\":{\"scene\":\"awning\",\"joined\":3,\"total\":3,\"called\":0,\"cart\":0,\"dryCalls\":0},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\",\"town:fountain-guest:cat-home\"]}",
+        "L14 poppy {\"job\":{\"kind\":\"float\",\"hit\":4,\"of\":4,\"scoredStops\":15,\"passengers\":15},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\",\"town:fountain-guest:cat-home\",\"town:fountain-guest:poppy\"]}",
+        "L27 keeper {\"job\":{\"kind\":\"relay\",\"hit\":4,\"of\":4,\"scoredStops\":15,\"passengers\":0},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\",\"town:fountain-guest:cat-home\",\"town:fountain-guest:poppy\",\"town:fountain-guest:keeper\"]}"
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": ".tmp/director-pennant-check.mjs",
+      "exit": 0,
+      "elapsedSeconds": 184.727,
+      "result": [
+        "five short {\"reason\":\"five short\",\"before\":{\"petals\":4811,\"flags\":0,\"stars\":3,\"best\":95532},\"split\":{\"left\":595,\"wall\":0,\"halves\":[0,5492],\"sum\":5492,\"carried\":false,\"joined\":true},\"gate\":{\"op\":\"x\",\"v\":4},\"after\":{\"petals\":4974,\"flags\":0,\"stars\":3,\"best\":95532}}",
+        "escort on replay {\"reason\":\"escort on replay\",\"before\":{\"petals\":4974,\"flags\":0,\"stars\":3,\"best\":95532},\"split\":{\"left\":2304,\"wall\":2004,\"halves\":[2254,2020],\"sum\":4274,\"carried\":true,\"joined\":true},\"gate\":{\"op\":\"x\",\"v\":4},\"after\":{\"petals\":5122,\"flags\":1,\"stars\":3,\"best\":95532}}",
+        "escort again {\"reason\":\"escort again\",\"before\":{\"petals\":5122,\"flags\":1,\"stars\":3,\"best\":95532},\"split\":{\"left\":2331,\"wall\":2031,\"halves\":[2281,2020],\"sum\":4301,\"carried\":true,\"joined\":true},\"gate\":{\"op\":\"x\",\"v\":4},\"after\":{\"petals\":5270,\"flags\":1,\"stars\":3,\"best\":95532}}",
+        "Refresh, reopen, repeat and Gobbo revisit kept one flag and the same wallet."
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": ".tmp/director-keyboard-return.mjs",
+      "exit": 0,
+      "elapsedSeconds": 11.47,
+      "result": []
+    },
+    {
+      "group": "Release regressions",
+      "command": ".tmp/director-gesture-check.mjs",
+      "exit": 0,
+      "elapsedSeconds": 38.729,
+      "result": [
+        "  petals: 341,",
+        "  flags: [ 'town:road-display:seedfall', 'town:picnic-plan:hoods' ]",
+        "} Invite the raincoat trio",
+        "Drizzle Dell"
+      ],
+      "earlierAttempts": [
+        {
+          "exit": null,
+          "elapsedSeconds": 4434.703
+        }
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": ".tmp/director-layout.mjs",
+      "exit": 0,
+      "elapsedSeconds": 195.217,
+      "result": [],
+      "earlierAttempts": [
+        {
+          "exit": null,
+          "elapsedSeconds": 7446.288
+        }
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": ".tmp/director-table-check.mjs",
+      "exit": 0,
+      "elapsedSeconds": 110.687,
+      "result": [
+        "320 568 true breakfast L5 {\"page\":false,\"sheet\":false} 6133 6133",
+        "852 393 true breakfast L5 {\"page\":false,\"sheet\":false} 6133 6133",
+        "568 320 true breakfast L5 {\"page\":false,\"sheet\":false} 6133 6133",
+        "1280 800 false breakfast L5 {\"page\":false,\"sheet\":false} 6133 6133"
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": ".tmp/director-skill-handoff.mjs after",
+      "exit": 0,
+      "elapsedSeconds": 57.177,
+      "result": [
+        "  'Open Seedfall road card by keyboard',",
+        "  'Start Parade',",
+        "  'See my daisy lamps'",
+        "]"
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": "scripts/test-parade-trials.ts",
+      "exit": 0,
+      "elapsedSeconds": 0.627,
+      "result": [
+        "Parade trials passed: hedge 4970 vs centre 3430, light 3200 vs early 4000, 3.9s gate spacing; bounded actual records.",
+        "(node:20836) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time",
+        "(Use `node --trace-warnings ...` to show where the warning was created)"
+      ]
+    },
+    {
+      "group": "Release regressions",
+      "command": ".tmp/director-five-splits.mjs",
+      "exit": 0,
+      "elapsedSeconds": 0.367,
+      "result": [
+        "52345 allocations checked. Minimum cost for a perfect escort versus physical hard right: 360"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-festival.mjs after left large",
+      "exit": 0,
+      "elapsedSeconds": 65.858,
+      "result": [
+        "Road report",
+        "Visit Gobbo’s hill",
+        "Replay road",
+        "Town {\"phase\":\"split\",\"actual\":[{\"side\":0,\"t\":\"wall\",\"need\":600,\"before\":2331,\"after\":2031},{\"side\":0,\"t\":\"row\",\"before\":2031,\"after\":2281},{\"side\":1,\"t\":\"row\",\"before\":10,\"after\":20},{\"side\":1,\"t\":\"row\",\"before\":20,\"after\":2020}],\"halves\":[2281,2020],\"d\":7282.666666666973,\"crowd\":4301}"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-giants.mjs after gobbo",
+      "exit": 0,
+      "elapsedSeconds": 90.001,
+      "result": [
+        "after-gobbo {\"approach\":0.015,\"finale\":2.326,\"wake\":6.672,\"result\":12.278} 386 449"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-town-capture.mjs after --build=.tmp/directors-pass/rc-c8b5302f32d2",
+      "exit": 0,
+      "elapsedSeconds": 52.421,
+      "result": [
+        "09-square undefined undefined 0 true",
+        "10-bakery-kept undefined undefined 1 true",
+        "11-sleepy-signs L2 8 1 true",
+        "TOWN_CLIP {\"start\":0,\"leaveResults\":1.009,\"card\":1.452,\"look\":3.764,\"reopenCard\":7.274,\"pay\":8.327,\"receipt\":13.859,\"roadCard\":14.75,\"roadTwo\":17.727,\"end\":18.153} 502 544"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-breakfast.mjs after",
+      "exit": 0,
+      "elapsedSeconds": 40.41,
+      "result": [
+        "after-breakfast-discovery {\"openTable\":0.871,\"tableVisible\":1.352,\"paper\":3.831,\"touchPaper\":6.998} 298 219",
+        "after-breakfast-revisit {\"openTable\":0.901,\"tableVisible\":1.853,\"paper\":3.85,\"touchPaper\":6.936} 297 258"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-invitation.mjs after",
+      "exit": 0,
+      "elapsedSeconds": 87.919,
+      "result": [
+        "View Workshop",
+        "Build cost · 240 Petals",
+        "Next road",
+        "AT THE FOUNTAIN {\"mask\":1,\"flags\":[\"town:fountain-guest:hoods\"]}"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-festival.mjs after right large",
+      "exit": 0,
+      "elapsedSeconds": 95.756,
+      "result": [
+        "Road report",
+        "Next road",
+        "Replay road",
+        "Town {\"phase\":\"joined\",\"actual\":[{\"side\":0,\"t\":\"wall\",\"need\":600,\"before\":10,\"after\":0},{\"side\":0,\"t\":\"row\",\"before\":0,\"after\":0},{\"side\":1,\"t\":\"row\",\"before\":2331,\"after\":4662},{\"side\":1,\"t\":\"row\",\"before\":4662,\"after\":6662}],\"halves\":[0,6662],\"d\":7306.666666666975,\"crowd\":6662}"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-festival.mjs after edge50 large",
+      "exit": 0,
+      "elapsedSeconds": 83.948,
+      "result": [
+        "Road report",
+        "Next road",
+        "Replay road",
+        "Town {\"phase\":\"split\",\"actual\":[{\"side\":0,\"t\":\"wall\",\"need\":600,\"before\":595,\"after\":0},{\"side\":0,\"t\":\"row\",\"before\":0,\"after\":0},{\"side\":1,\"t\":\"row\",\"before\":1746,\"after\":3492},{\"side\":1,\"t\":\"row\",\"before\":3492,\"after\":5492}],\"halves\":[0,5492],\"d\":7293.33333333364,\"crowd\":5492}"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-festival.mjs after left small",
+      "exit": 0,
+      "elapsedSeconds": 97.33,
+      "result": [
+        "Road report",
+        "Visit Gobbo’s hill",
+        "Replay road",
+        "Town {\"phase\":\"split\",\"actual\":[{\"side\":0,\"t\":\"wall\",\"need\":600,\"before\":3319,\"after\":3019},{\"side\":0,\"t\":\"row\",\"before\":3019,\"after\":3269},{\"side\":1,\"t\":\"row\",\"before\":14,\"after\":28},{\"side\":1,\"t\":\"row\",\"before\":28,\"after\":2028}],\"halves\":[3269,2028],\"d\":7298.666666666974,\"crowd\":5297}"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-festival.mjs after right small",
+      "exit": 0,
+      "elapsedSeconds": 80.559,
+      "result": [
+        "Road report",
+        "Next road",
+        "Replay road",
+        "Town {\"phase\":\"split\",\"actual\":[{\"side\":0,\"t\":\"wall\",\"need\":600,\"before\":14,\"after\":0},{\"side\":0,\"t\":\"row\",\"before\":0,\"after\":0},{\"side\":1,\"t\":\"row\",\"before\":3319,\"after\":6638},{\"side\":1,\"t\":\"row\",\"before\":6638,\"after\":8638}],\"halves\":[0,8638],\"d\":7288.0000000003065,\"crowd\":8638}"
+      ]
+    },
+    {
+      "group": "Release footage",
+      "command": ".tmp/director-giants.mjs after snow",
+      "exit": 0,
+      "elapsedSeconds": 121.875,
+      "result": [
+        "after-snow {\"approach\":0.057,\"finale\":2.346,\"wake\":8.505,\"result\":14.863,\"home\":16.152,\"hug\":20.423} 730 936"
+      ],
+      "earlierAttempts": [
+        {
+          "exit": 1,
+          "elapsedSeconds": 92.615
+        }
+      ]
+    }
+  ],
+  "solver": {
+    "command": "node scripts/solve.ts",
+    "result": "All levels pass."
+  },
+  "assistedCampaign": {
+    "roads": [
+      {
+        "id": "L1",
+        "stars": 3,
+        "friends": 195
+      },
+      {
+        "id": "L2",
+        "stars": 3,
+        "friends": 648
+      },
+      {
+        "id": "L3",
+        "stars": 3,
+        "friends": 4674
+      },
+      {
+        "id": "L4",
+        "stars": 3,
+        "friends": 2888
+      },
+      {
+        "id": "L5",
+        "stars": 3,
+        "friends": 5356
+      },
+      {
+        "id": "L6",
+        "stars": 3,
+        "friends": 8983
+      },
+      {
+        "id": "B1",
+        "stars": 1,
+        "friends": 1299
+      },
+      {
+        "id": "L7",
+        "stars": 3,
+        "friends": 7223
+      },
+      {
+        "id": "L8",
+        "stars": 3,
+        "friends": 11772
+      },
+      {
+        "id": "L9",
+        "stars": 3,
+        "friends": 4776
+      },
+      {
+        "id": "L10",
+        "stars": 2,
+        "friends": 65
+      },
+      {
+        "id": "L11",
+        "stars": 3,
+        "friends": 5369
+      },
+      {
+        "id": "L12",
+        "stars": 3,
+        "friends": 7460
+      },
+      {
+        "id": "L13",
+        "stars": 3,
+        "friends": 13951
+      },
+      {
+        "id": "L14",
+        "stars": 3,
+        "friends": 4114
+      },
+      {
+        "id": "L15",
+        "stars": 3,
+        "friends": 4749
+      },
+      {
+        "id": "L16",
+        "stars": 3,
+        "friends": 6042
+      },
+      {
+        "id": "L17",
+        "stars": 3,
+        "friends": 1393
+      },
+      {
+        "id": "L18",
+        "stars": 2,
+        "friends": 4056
+      },
+      {
+        "id": "B2",
+        "stars": 1,
+        "friends": 6170
+      },
+      {
+        "id": "L19",
+        "stars": 3,
+        "friends": 3302
+      },
+      {
+        "id": "L20",
+        "stars": 2,
+        "friends": 75
+      },
+      {
+        "id": "L21",
+        "stars": 3,
+        "friends": 8703
+      },
+      {
+        "id": "L22",
+        "stars": 3,
+        "friends": 5015
+      },
+      {
+        "id": "L23",
+        "stars": 3,
+        "friends": 47024
+      },
+      {
+        "id": "L24",
+        "stars": 3,
+        "friends": 6709
+      },
+      {
+        "id": "L25",
+        "stars": 3,
+        "friends": 5470
+      },
+      {
+        "id": "L26",
+        "stars": 2,
+        "friends": 74
+      },
+      {
+        "id": "L27",
+        "stars": 3,
+        "friends": 8526
+      },
+      {
+        "id": "L28",
+        "stars": 3,
+        "friends": 10910
+      },
+      {
+        "id": "L29",
+        "stars": 3,
+        "friends": 14924
+      },
+      {
+        "id": "L30",
+        "stars": 3,
+        "friends": 36744
+      }
+    ],
+    "repairs": 19,
+    "errors": []
+  },
+  "realReleaseReplays": {
+    "festival": "festival-destination-release.json",
+    "weekly": "weekly-table.json",
+    "manualReturn": "earned-route-samples.json",
+    "quietReview": "quiet-screen.json",
+    "compactAndTelescope": "final-touch-checks.json",
+    "assistedTelescope": "aurora-payoff.json"
+  },
+  "productionEntry": {
+    "extractedArchive": "archive-launch.json",
+    "runningLauncher": "review-launch.json",
+    "threeEarnedSceneStarts": "scene-starts.json"
+  },
+  "media": {
+    "packetVerification": "portable-reel.json",
+    "continuousPlayback": "reel-playback.json",
+    "twelveClipsAndControls": "gallery-check.json",
+    "fullDownloadPlayback": "continuous-movie.json",
+    "speed": 1
+  },
+  "crowded": {
+    "playtestRuns": 20,
+    "independentTraces": 6,
+    "finalPublicComparisonRuns": 4,
+    "finalSources": [
+      "final-frames-left.json",
+      "final-frames-right.json"
+    ],
+    "withinRelease": {
+      "runs": 4,
+      "arrivals": 2341,
+      "reunion": 4301,
+      "evidence": "final-carrier-control.json",
+      "method": "Same compiled release, checkpoint, seed and touch sequence. The two middle passes disable the carrier in the HUD and the world. Check the earned carrier at reunion and the unchanged counts in each pass."
+    }
+  },
+  "scope": "The earlier leader efficacy pairs, audio probes, first Bazaar booth and both short Seedfall handoffs were measured on the long-play archive. The final release repeated all five touch and keyboard calls, all 32 assisted roads, the focused result routes, the late table and the entire release comparison footage.",
+  "captureRecovery": "The first Snow Giant capture timed out waiting 90 seconds for the full approach. The same road and steering ran to the fountain on retry after extending the harness wait. The final shot uses the live game clock.",
+  "verificationRecovery": "A generic Town-only setup in the campaign QA could not open a road. The corrected test enters L23 directly and uses a held native left key at the second hedge, so the receipt receives a genuinely earned pennant. The timed-out gesture and layout harnesses were rerun after the host clock gap. No production changes were needed for these checks.",
+  "limits": [
+    "Solo informed developer play.",
+    "Sound captured in Chromium. No verified handset or perceptual listening.",
+    "Frame pacing measured on this host.",
+    "10:01 of the third hour on the continuing save. No later-day player observation."
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "candidate": "d211fd0e96d4eb54cf60a2990ae23879b586c0d4faa8e8a3d11ab8974d42b33c",
+  "source": "ec29b4d05f73deeedd84dc2226635d0b07c3df74",
+  "archive": "4871132856a4c84d1ba8815bc5642a7d6f9bf380a4af6e8b5f9ae5321c7eb99a",
+  "reproducibleBuild": {
+    "typeCheck": "node node_modules/typescript/bin/tsc --noEmit",
+    "bundler": "node node_modules/vite/bin/vite.js build --outDir .tmp/directors-pass/rebuild-proof",
+    "filesCompared": 65,
+    "allFilesByteIdentical": true
+  },
+  "campaignSolver": [
+    "C falls short without easing (and clears eased) on 3 of 27 story roads from L4. Authored movement roads use their own catch, crossing or survivor checks.",
+    "All levels pass."
+  ],
+  "repositoryCommands": [
+    {
+      "group": "state",
+      "command": "scripts/test-breakfast-invites.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.344,
+      "evidence": [
+        "PASS: six invitations, dish rewards, locked leaders, skipped weeks, legacy Fig, replay memory, advanced host selection, persistence and weekly payout limits."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-fountain-mastery.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.289,
+      "evidence": [
+        "PASS: three mastery ladders, paired decorations, eligible traces, tied legacy saves and persistent bests."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-fountain-guests.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.313,
+      "evidence": [
+        "PASS: four picnic guests, alternate unlock, actual road conditions, no duplicate rewards, old saves and fieldwork gates."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-phone-windows.mjs",
+      "exit": 0,
+      "realtimeSeconds": 0.085,
+      "evidence": [
+        "PASS: three full windows per scene, background and off-bridge exclusion, cross-load continuation, percentile and sample cap."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-return-scorecard.mjs",
+      "exit": 0,
+      "realtimeSeconds": 0.066,
+      "evidence": [
+        "PASS: unique enrollment, nonreturners, mature denominators, prompted exclusions, deduplication and interval decisions."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-coherence.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.328,
+      "evidence": [
+        "PASS: restoration spending, repeated clicks, celebration, reload, unlock preservation, gate arithmetic and short cooldown buffer."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-save.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.565,
+      "evidence": [
+        "a Heart's dream under way at v9, ended by v10",
+        "a Whisperwood walk under way at v9, its bonds and Wonders, by v10",
+        "corrupt and odd saves",
+        "710/710 checks passed"
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-town.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.618,
+      "evidence": [
+        "Wren's quest, its ending (AA12, Milestone 2)",
+        "The Village Plan (AC7)",
+        "The festival year (Part AD, AD1)",
+        "town: 954/954 checks passed"
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-parade-formats.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.563,
+      "evidence": [
+        "Parade formats: fixed starts, exact/easier targets, fair leader stars, Encore safety, wave replay, short signature roads and comparable payouts passed"
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-parade-third.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.57,
+      "evidence": [
+        "Parade third pass: eight fair roads, imperfect clears, skill growth, returning mechanics, five keeper leaders/Encore rules, preserved ownership and live call cues pass."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-parade-skills.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.209,
+      "evidence": [
+        "Parade skill feedback: actual contact, final losses, clean chains, quiet limits and musical pacing pass.",
+        "(node:18596) ExperimentalWarning: stripTypeScriptTypes is an experimental feature and might change at any time",
+        "(Use `node --trace-warnings ...` to show where the warning was created)"
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-holistic-controls.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.502,
+      "evidence": [
+        "Held keys, shortcuts, cancellation, capture loss and quick taps passed."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-town-benefits.ts",
+      "exit": 0,
+      "realtimeSeconds": 0.462,
+      "evidence": [
+        "PASS: 19 atomic purchases, staged shared benefits, exact payouts, old tiers, no practice/failure payouts, preserved records and reload."
+      ]
+    },
+    {
+      "group": "state",
+      "command": "scripts/test-daily.ts",
+      "exit": 0,
+      "realtimeSeconds": 11.101,
+      "evidence": [
+        "  [America/New_York] 1721/1721 checks passed",
+        "  [Pacific/Auckland] 1721/1721 checks passed",
+        "  [America/St_Johns] 1721/1721 checks passed",
+        "daily: all checks passed in every time zone"
+      ]
+    },
+    {
+      "group": "campaign",
+      "command": "scripts/qa/phone-campaign.mjs",
+      "exit": 0,
+      "realtimeSeconds": 181.385,
+      "evidence": [
+        "L27 3 stars 4157 Petals 18 repairs",
+        "L28 3 stars 3750 Petals 19 repairs",
+        "L29 3 stars 4198 Petals 19 repairs",
+        "L30 3 stars 4651 Petals 19 repairs"
+      ]
+    },
+    {
+      "group": "campaign",
+      "command": "scripts/qa/result-navigation.mjs",
+      "exit": 0,
+      "realtimeSeconds": 31.367,
+      "evidence": [
+        "393 replay passed",
+        "320 project passed",
+        "960 next passed",
+        "Daily, Wardrobe preview, route choice from map and Town, road card, pause and exit passed."
+      ]
+    },
+    {
+      "group": "campaign",
+      "command": "scripts/qa/coherence-controls.mjs",
+      "exit": 0,
+      "realtimeSeconds": 128.712,
+      "evidence": [
+        "PASS suki touch",
+        "PASS wren keyboard",
+        "PASS wren touch",
+        "PASS: all five abilities, native keyboard and touch, targets, hold/repeat, pause/resume, focus-loss cancellation."
+      ]
+    },
+    {
+      "group": "campaign",
+      "command": "scripts/qa/fountain-mastery.mjs",
+      "exit": 0,
+      "realtimeSeconds": 27.007,
+      "evidence": [
+        "L21 Meet the ribbon booth · left 12/12 record survived reload",
+        "L28 Hold right through the ribbon 15/15 record survived reload",
+        "Marked miss reports the actual landing lane.",
+        "Hints off removes the replay ribbon and coaching."
+      ]
+    },
+    {
+      "group": "controls",
+      "command": "scripts/qa/picnic-visits.mjs",
+      "exit": 0,
+      "realtimeSeconds": 50.905,
+      "evidence": [
+        "L4 hoods {\"early\":{\"scene\":\"awning\",\"joined\":3,\"total\":3,\"called\":0,\"cart\":0,\"dryCalls\":0},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\"]}",
+        "L4 cat-home {\"early\":{\"scene\":\"awning\",\"joined\":3,\"total\":3,\"called\":0,\"cart\":0,\"dryCalls\":0},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\",\"town:fountain-guest:cat-home\"]}",
+        "L14 poppy {\"job\":{\"kind\":\"float\",\"hit\":4,\"of\":4,\"scoredStops\":15,\"passengers\":15},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\",\"town:fountain-guest:cat-home\",\"town:fountain-guest:poppy\"]}",
+        "L27 keeper {\"job\":{\"kind\":\"relay\",\"hit\":4,\"of\":4,\"scoredStops\":15,\"passengers\":0},\"flags\":[\"town:fountain-guest:cats\",\"town:fountain-guest:hoods\",\"town:fountain-guest:cat-home\",\"town:fountain-guest:poppy\",\"town:fountain-guest:keeper\"]}"
+      ]
+    },
+    {
+      "group": "returns",
+      "command": "scripts/qa/coherence-town.mjs --out=.tmp/directors-pass/coherence-town-final",
+      "exit": 0,
+      "realtimeSeconds": 99.801,
+      "evidence": [
+        "PASS: three project choices, visible build/celebration, exact spending, possessions, reload and character cards at three sizes."
+      ]
+    }
+  ],
+  "scopedReplays": [
+    {
+      "group": "screens",
+      "command": ".tmp/director-layout.mjs",
+      "exit": 0,
+      "realtimeSeconds": 145.898
+    },
+    {
+      "group": "screens",
+      "command": ".tmp/director-table-check.mjs",
+      "exit": 0,
+      "realtimeSeconds": 64.871
+    },
+    {
+      "group": "controls",
+      "command": ".tmp/director-gesture-check.mjs",
+      "exit": 0,
+      "realtimeSeconds": 35.912
+    },
+    {
+      "group": "controls",
+      "command": ".tmp/director-pennant-check.mjs",
+      "exit": 0,
+      "realtimeSeconds": 97.579
+    },
+    {
+      "group": "controls",
+      "command": ".tmp/av10-market.mjs director-rc film 393x852",
+      "exit": 0,
+      "realtimeSeconds": 28.502
+    },
+    {
+      "group": "controls",
+      "command": "--import ./docs/visual-overhaul/offline-qa.mjs .tmp/refine-753/two-cues-focus.mjs drum --timed-tap --probe",
+      "exit": 0,
+      "realtimeSeconds": 75.064
+    },
+    {
+      "group": "controls",
+      "command": ".tmp/director-prepared-calls.mjs drum-empty drum-first umbrella umbrella-rm treat-rescue lantern-gate lantern-quiet huddle",
+      "exit": 0,
+      "realtimeSeconds": 87.643
+    },
+    {
+      "group": "controls",
+      "command": ".tmp/director-audition.mjs opening-live 0 103",
+      "exit": 0,
+      "realtimeSeconds": 2.231
+    },
+    {
+      "group": "cues",
+      "command": "--import ./docs/visual-overhaul/offline-qa.mjs .tmp/refine-753/two-cues-focus.mjs seed --timed-drag --probe",
+      "exit": 0,
+      "realtimeSeconds": 41.704
+    },
+    {
+      "group": "cues",
+      "command": "--import ./docs/visual-overhaul/offline-qa.mjs .tmp/refine-753/two-cues-focus.mjs seed --timed-drag --probe --compact",
+      "exit": 0,
+      "realtimeSeconds": 35.691
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-festival.mjs before left large",
+      "exit": 0,
+      "realtimeSeconds": 41.4
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-festival.mjs after left large",
+      "exit": 0,
+      "realtimeSeconds": 40.18
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-festival.mjs after right large",
+      "exit": 0,
+      "realtimeSeconds": 40.045
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-festival.mjs after edge50 large",
+      "exit": 0,
+      "realtimeSeconds": 41.811
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-giants.mjs after gobbo",
+      "exit": 0,
+      "realtimeSeconds": 82.073
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-giants.mjs after snow",
+      "exit": 0,
+      "realtimeSeconds": 104.99
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-town-capture.mjs after",
+      "exit": 0,
+      "realtimeSeconds": 47.111
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-breakfast.mjs before",
+      "exit": 0,
+      "realtimeSeconds": 39.627
+    },
+    {
+      "group": "film",
+      "command": ".tmp/director-breakfast.mjs after",
+      "exit": 0,
+      "realtimeSeconds": 39.336
+    },
+    {
+      "group": "paths",
+      "command": ".tmp/director-restores.mjs",
+      "exit": 0,
+      "realtimeSeconds": 118.447
+    },
+    {
+      "group": "paths",
+      "command": ".tmp/director-skill-handoff.mjs before",
+      "exit": 0,
+      "realtimeSeconds": 48.75
+    },
+    {
+      "group": "paths",
+      "command": ".tmp/director-skill-handoff.mjs after",
+      "exit": 0,
+      "realtimeSeconds": 46.093
+    },
+    {
+      "group": "paths",
+      "command": ".tmp/leader-balance-replay.mjs director-production",
+      "exit": 0,
+      "realtimeSeconds": 103.426
+    },
+    {
+      "group": "paths",
+      "command": ".tmp/director-festival.mjs after left small",
+      "exit": 0,
+      "realtimeSeconds": 52.475
+    },
+    {
+      "group": "paths",
+      "command": ".tmp/director-festival.mjs after right small",
+      "exit": 0,
+      "realtimeSeconds": 48.48
+    },
+    {
+      "group": "returns",
+      "command": ".tmp/director-drum-mixes.mjs",
+      "exit": 0,
+      "realtimeSeconds": 68.019
+    }
+  ],
+  "initialChecksRequiringAnotherPass": [
+    {
+      "group": "screens",
+      "command": "scripts/qa/coherence-town.mjs",
+      "initialExit": 1
+    },
+    {
+      "group": "returns",
+      "command": ".tmp/director-keyboard-return.mjs",
+      "initialExit": 1
+    },
+    {
+      "group": "returns",
+      "command": ".tmp/director-gallery-check.mjs",
+      "initialExit": 1
+    }
+  ],
+  "subsequentChecks": [
+    {
+      "test": "scripts/qa/coherence-town.mjs",
+      "cause": "Its historical route tapped the post-Bakery road receipt as if it selected the Workshop. The same timeout occurred on archived public and new builds.",
+      "resolution": "Updated the existing test to select named places and pay the exact six prices. Re-ran it at 320, 393 and 1280. All three retained earlier possessions, opened Meadow and preserved the one-time celebration after reload.",
+      "file": "town-restorations.json"
+    },
+    {
+      "test": "Keyboard boat focus",
+      "cause": "An immediate CSS read sampled the appearance transition at 0px in short landscape.",
+      "resolution": "Waited for a visible focus ring after native Tab. All three additional keyboard cases painted a 3px outline. Space floated the boat and Escape restored the breakfast target.",
+      "file": "keyboard-boat.json"
+    },
+    {
+      "test": "Chapter-to-chapter reel",
+      "cause": "An aborted play promise from the previous scene could turn off the newly selected sequence.",
+      "resolution": "Ignored stale play completions in the viewer. The entire 12-clip HTTP reel then finished with audio decoding at 1× in 142.42 seconds of wall time.",
+      "file": "reel-playback.json"
+    }
+  ],
+  "nativeInputs": {
+    "note": "Normal-clock browser touch and keyboard at desktop device scale 1. Main play uses hand-chosen native touches rather than camera telemetry. Seeded replays and assisted campaign coverage are separate.",
+    "viewports": [
+      [
+        393,
+        852
+      ],
+      [
+        320,
+        568
+      ],
+      [
+        852,
+        393
+      ],
+      [
+        568,
+        320
+      ],
+      [
+        1280,
+        800
+      ]
+    ]
+  },
+  "originalMix": {
+    "name": "opening-live",
+    "start": 0,
+    "peak": 0.4351252317428589,
+    "rms": 0.017489198233292435,
+    "duration": 103,
+    "captureSeconds": 117.78,
+    "channels": [
+      {
+        "peak": 0.43512415885925293,
+        "rms": 0.01779992228859831,
+        "fullScaleSamples": 0
+      },
+      {
+        "peak": 0.43512630462646484,
+        "rms": 0.01735150840166228,
+        "fullScaleSamples": 0
+      }
+    ]
+  },
+  "pairedLeaderRuns": [
+    "director-production pip L8 false 9892 0 [] 0 846",
+    "director-production pip L8 true 13363 7 [] 0 934",
+    "director-production otto L8 false 7754 0 [] 0 651",
+    "director-production otto L8 true 9849 2 [] 0 0",
+    "director-production tambo L3 false 4338 0 [] 0 0",
+    "director-production tambo L3 true 4718 5 [\"4 answered\",\"4 answered\",\"3 answered\",\"5 answered\",\"9 answered\"] 0 0",
+    "director-production suki L10 false 48 0 [] 48 0",
+    "director-production suki L10 true 70 4 [\"8 back\",\"7 back\",\"7 back\",\"6 back\"] 26 0",
+    "director-production suki L3 false 2330 0 [] 0 0",
+    "director-production suki L3 true 2902 3 [\"Stall calmed\",\"Stall calmed\",\"Stall calmed\"] 0 0",
+    "director-production wren L26 false 86 0 [] 0 0",
+    "director-production wren L26 true 86 4 [\"Frost lit\",\"Frost lit\",\"Frost lit\",\"Frost lit\"] 0 0",
+    "director-production wren L19 false 3020 0 [] 0 0",
+    "director-production wren L19 true 3226 6 [\"Gate totals lit\",\"Gate totals lit\",\"Gate totals lit\",\"Gate totals lit\",\"Gate totals lit\"] 0 0"
+  ],
+  "originalMixLimit": "Native game output was captured in Chromium. No physical handset audition or verified perceptual listening.",
+  "limits": [
+    "Browser frame timings are for this host.",
+    "No fresh independent tester or later-day retention observation."
+  ]
+}

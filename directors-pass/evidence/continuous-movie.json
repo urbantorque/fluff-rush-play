@@ -1,0 +1,107 @@
+{
+  "entry": "http://127.0.0.1:4280/Fluff-Rush-comparison-reel.webm",
+  "sha256": "b90d9a71b0bf86759b6dba86412df8640076db4517bfd322b584839844f42066",
+  "method": "Fresh Chromium tab at 393×852. Single play from the start of the downloadable movie to the end, sound enabled, with no seeking. Observed a video frame and active decoder at every chapter.",
+  "elapsed": 168.19339999997615,
+  "mediaSeconds": 166.964,
+  "rate": 1,
+  "muted": false,
+  "ended": true,
+  "startingAt": 0,
+  "chapters": [
+    {
+      "file": "before-festival-left-large.webm",
+      "gameTime": 2.333,
+      "wall": 2.766699999988079,
+      "rate": 1,
+      "audioBytes": 10549
+    },
+    {
+      "file": "after-festival-left-large.webm",
+      "gameTime": 19.933,
+      "wall": 20.365899999976158,
+      "rate": 1,
+      "audioBytes": 291536
+    },
+    {
+      "file": "before-gobbo.webm",
+      "gameTime": 37.399,
+      "wall": 37.830599999964235,
+      "rate": 1,
+      "audioBytes": 570605
+    },
+    {
+      "file": "after-gobbo.webm",
+      "gameTime": 51.599,
+      "wall": 52.0475,
+      "rate": 1,
+      "audioBytes": 797888
+    },
+    {
+      "file": "before-visit.webm",
+      "gameTime": 66.465,
+      "wall": 66.89680000001192,
+      "rate": 1,
+      "audioBytes": 1035720
+    },
+    {
+      "file": "after-visit.webm",
+      "gameTime": 86.465,
+      "wall": 86.91269999998808,
+      "rate": 1,
+      "audioBytes": 1355067
+    },
+    {
+      "file": "before-breakfast-discovery.webm",
+      "gameTime": 106.598,
+      "wall": 107.02859999996424,
+      "rate": 1,
+      "audioBytes": 1676332
+    },
+    {
+      "file": "after-breakfast-discovery.webm",
+      "gameTime": 118.498,
+      "wall": 118.94409999996424,
+      "rate": 1,
+      "audioBytes": 1867173
+    },
+    {
+      "file": "before-breakfast-revisit.webm",
+      "gameTime": 130.431,
+      "wall": 131.6943000000119,
+      "rate": 1,
+      "audioBytes": 2060891
+    },
+    {
+      "file": "after-breakfast-revisit.webm",
+      "gameTime": 142.364,
+      "wall": 143.6105,
+      "rate": 1,
+      "audioBytes": 2251732
+    },
+    {
+      "file": "before-picnic-letter.webm",
+      "gameTime": 154.264,
+      "wall": 155.50959999996422,
+      "rate": 1,
+      "audioBytes": 2279543
+    },
+    {
+      "file": "after-picnic-letter.webm",
+      "gameTime": 162.364,
+      "wall": 163.60939999997615,
+      "rate": 1,
+      "audioBytes": 2279543
+    }
+  ],
+  "waiting": [
+    {
+      "at": 130.28,
+      "wall": 131.0788000000119
+    }
+  ],
+  "frames": 5010,
+  "dropped": 3,
+  "audioBytes": 2279543,
+  "errors": []
+}

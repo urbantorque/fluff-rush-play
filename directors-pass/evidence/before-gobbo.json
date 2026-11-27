@@ -1,0 +1,20 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "duration": 12.198199987411499,
+  "marks": {
+    "approach": 0.001,
+    "finale": 2.314,
+    "wake": 6.099,
+    "result": 11.635
+  },
+  "frames": 731,
+  "inputs": [],
+  "errors": [],
+  "giant": "gobbo",
+  "setup": "Earned checkpoint; expert approach for matched scenery only."
+}

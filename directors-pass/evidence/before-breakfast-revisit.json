@@ -1,0 +1,25 @@
+{
+  "viewport": {
+    "width": 393,
+    "height": 852
+  },
+  "seed": 317,
+  "speed": 1,
+  "duration": 9.938899993896484,
+  "marks": {
+    "openTable": 0.87,
+    "tableVisible": 1.203,
+    "paper": 3.819,
+    "touchPaper": 6.911
+  },
+  "frames": 515,
+  "inputs": [],
+  "errors": [],
+  "save": "breakfast",
+  "visit": "revisit",
+  "text": "Breakfast at the fountain\nBreakfast at the fountain\n\nCatch six parachutes. Catch six parachute groups on Seedfall Road for breakfast.\n\nReplay Seedfall Road\nStay in Town",
+  "tap": {
+    "x": 174,
+    "y": 582
+  }
+}

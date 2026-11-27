@@ -1,0 +1,89 @@
+{
+  "release": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+  "method": "Two independent native-touch diagnostics on the final ZIP, using real time and the ordinary HTTP entry. The first started blank at 320×568. The second started from a copy of the playing save at 393×852. Notes, screens and receipts are contemporaneous. Wall intervals include reading and pause. Neither interval contributes to the longitudinal 130:01.",
+  "runs": {
+    "fresh-compact": {
+      "title": "Blank compact entry and two rotations",
+      "asset": "./assets/index-DvPkCHqF.js",
+      "wallSeconds": 266,
+      "notes": [
+        {
+          "at": "2026-11-27T07:30:50.623Z",
+          "note": "Final release diagnostic. Blank 320 by 568 phone. Bring Fig to the shop and rotate at the result. Keep separate from the informed play clock."
+        },
+        {
+          "at": "2026-11-27T07:32:12.996Z",
+          "note": "Compact clear. The wall hint's +5 took me through on retry. Finished with 49 and an empty plate. Rotate before buying the Bakery, then return for Fig."
+        },
+        {
+          "at": "2026-11-27T07:33:42.770Z",
+          "note": "The rotated Bakery action opened on the first touch. Paid 100 of 120, left with 20 and saw the eight starters in landscape. Rotated in motion. Sleepy Signs finished in portrait with 54. Now try for Fig on the first road."
+        },
+        {
+          "at": "2026-11-27T07:35:02.702Z",
+          "note": "Got Fig on the replay and met Comet. Tambo called six near the first double. Finished with 98. Fig's receipt explicitly recalls the missed invitation. Test returning from this earned look before closing."
+        },
+        {
+          "at": "2026-11-27T07:35:16.690Z",
+          "note": "Comet's album opened from the compact result. Back to results returned me to Fig's note and the same two actions. Close the diagnostic."
+        }
+      ],
+      "results": [
+        {
+          "at": "2026-11-27T07:31:12.315Z",
+          "text": "Parade size\n0\nFig catches her loaf and joins the parade.The parade rests.\nThe wall needed one more friend.\n\nPetals kept\n12\n\nCrossing practice\n\nTake +5 at the first gate. Four more friends join there.\n\nTry again\nMap"
+        },
+        {
+          "at": "2026-11-27T07:31:55.241Z",
+          "text": "Parade size\n49\nFriends woken this run: 3\n3 woken\nParade of 49 reached the end.\n49 friends home!\n\nWake Up, Pip\n\nPip sets an empty plate for Fig. “Next time, look left for her loaf.”\n\n2 stars at 130 friends home\n\nTotal Petals\n+73 \n\nYou can reopen the Bakery for 100 Petals. Three friends will join your next parade.\n\nVisit the Bakery"
+        },
+        {
+          "at": "2026-11-27T07:33:31.551Z",
+          "text": "Parade size\n54\nBest streak\n2\nFriends woken this run: 3\n3 woken\nParade of 54 reached the end.\nTambo can lead your parade!\n\nSleepy Signs\n\nRoad report\nTry Tambo on Treat Street"
+        },
+        {
+          "at": "2026-11-27T07:34:48.247Z",
+          "text": "Parade size\n98\nFriends woken this run: 3\n3 woken\nParade of 98 reached the end.\n98 friends home!\n\nWake Up, Pip\n\nFig brought her loaf to the Bakery. Last time, the invitation was still open.\n\n2 stars at 220 friends home\n\nTotal Petals\n+36 \nYou met Comet!\n\nGate row 4: choosing ×3 would have brought 76 more to the tree. Try that choice next time.\n\nView Band Stand\nBuild cost · 180 Petals\nNext road\nReplay road"
+        },
+        {
+          "at": "2026-11-27T07:35:03.144Z",
+          "text": "Parade size\n98\nFriends woken this run: 3\n3 woken\nFriends you’ve met\n\nYou met Comet!\n\n1 of 9 friends found\nFind every friend for the Rainbow Trail\nComet\nThe star-tufted Fluffling who darts across the road.\nFriends still to find · 8\nBack to results"
+        },
+        {
+          "at": "2026-11-27T07:35:09.355Z",
+          "text": "Parade size\n98\nFriends woken this run: 3\n3 woken\n98 friends home!\n\nWake Up, Pip\n\nFig brought her loaf to the Bakery. Last time, the invitation was still open.\n\n2 stars at 220 friends home\n\nTotal Petals\n+36 \nYou met Comet!\n\nGate row 4: choosing ×3 would have brought 76 more to the tree. Try that choice next time.\n\nView Band Stand\nBuild cost · 180 Petals\nNext road\nReplay road"
+        }
+      ],
+      "screenChanges": [
+        "size 568 320",
+        "size 320 568"
+      ]
+    },
+    "aurora-final": {
+      "title": "Return to the next telescope pair",
+      "asset": "./assets/index-DvPkCHqF.js",
+      "wallSeconds": 189,
+      "notes": [
+        {
+          "at": "2026-11-27T07:36:32.319Z",
+          "note": "Separate diagnostic from the earned 120-minute save. Director-supplied goal: find the next two telescope shapes by lighting twelve Aurora planks. I know the previous nine and the source lane rhythm. See what changes after the bridge."
+        },
+        {
+          "at": "2026-11-27T07:39:33.398Z",
+          "note": "The Lookout named twelve and sent me straight to the bridge. My first three narrow colours held, then the fourth and fifth were late. On the wide span I moved ahead of the second strip: one of seven. Four of fifteen and 8467 at the arch. The result now offers Try for 5 instead of the twelve I came for. Going back to the telescope."
+        },
+        {
+          "at": "2026-11-27T07:39:41.437Z",
+          "note": "The earlier nine and Loaf and Cup survived. The telescope still asks for twelve. I would stop this particular attempt here."
+        }
+      ],
+      "results": [
+        {
+          "at": "2026-11-27T07:39:17.337Z",
+          "text": "Parade size\n8,467\nParade of 8467 reached the end.\n4 of 15 colours caught!\n\nThe Aurora Bridge\n\nRoad report\nTry for 5\nTown"
+        }
+      ],
+      "screenChanges": []
+    }
+  }
+}

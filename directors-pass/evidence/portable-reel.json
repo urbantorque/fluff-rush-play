@@ -1,0 +1,230 @@
+{
+  "file": "Fluff-Rush-comparison-reel.webm",
+  "sha256": "b90d9a71b0bf86759b6dba86412df8640076db4517bfd322b584839844f42066",
+  "length": 166.964,
+  "method": "Original VP9 frames and Opus packets remuxed. Two-second silent title cards separate the public and candidate recordings.",
+  "chapterTimes": [
+    {
+      "source": "before-festival-left-large.webm",
+      "title": "The second hedge",
+      "side": "before",
+      "card": 0,
+      "game": 2,
+      "seconds": 15.6,
+      "build": "f91ee3071fecbf8e172b7959f0f4a01c76894b45897bf98817b9626416a07988",
+      "sha256": "111bf8544579e3cfe5abea3852cbc1ea5b683dbf3c33a4bf377fc5ea347d49ba"
+    },
+    {
+      "source": "after-festival-left-large.webm",
+      "title": "The second hedge",
+      "side": "after",
+      "card": 17.6,
+      "game": 19.6,
+      "seconds": 15.466,
+      "build": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+      "sha256": "caa9d72a952ed20e55c41cfaf117f6166b0092d026aed68f39963a2c67022730"
+    },
+    {
+      "source": "before-gobbo.webm",
+      "title": "Gobbo’s hill",
+      "side": "before",
+      "card": 35.066,
+      "game": 37.066,
+      "seconds": 12.2,
+      "build": "f91ee3071fecbf8e172b7959f0f4a01c76894b45897bf98817b9626416a07988",
+      "sha256": "6c2cd88d3d666861614e2e21b423c81ac16a513fa43fe0f198b53579e8963eef"
+    },
+    {
+      "source": "after-gobbo.webm",
+      "title": "Gobbo’s hill",
+      "side": "after",
+      "card": 49.266,
+      "game": 51.266,
+      "seconds": 12.866,
+      "build": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+      "sha256": "03228a548f7968d5a376a189d69b2ad53ed4e7277d71792daf924a9017c5f907"
+    },
+    {
+      "source": "before-visit.webm",
+      "title": "Fig and the Bakery",
+      "side": "before",
+      "card": 64.132,
+      "game": 66.132,
+      "seconds": 18,
+      "build": "f91ee3071fecbf8e172b7959f0f4a01c76894b45897bf98817b9626416a07988",
+      "sha256": "fbf0d1598270c4ab50cb65328d642ee85cc99d402798d6587005538bc142824d"
+    },
+    {
+      "source": "after-visit.webm",
+      "title": "Fig and the Bakery",
+      "side": "after",
+      "card": 84.132,
+      "game": 86.132,
+      "seconds": 18.133,
+      "build": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+      "sha256": "c85564b34c8b9e42e5fd0e8f419e4f042b52d6b21d74981fee0a82ac40c30e0d"
+    },
+    {
+      "source": "before-breakfast-discovery.webm",
+      "title": "Suki’s wrapper",
+      "side": "before",
+      "card": 104.265,
+      "game": 106.265,
+      "seconds": 9.9,
+      "build": "f91ee3071fecbf8e172b7959f0f4a01c76894b45897bf98817b9626416a07988",
+      "sha256": "9d01dc17b8f22e4138493f2ecdea0219fc927037e9c8733a5aa629701d8ec00f"
+    },
+    {
+      "source": "after-breakfast-discovery.webm",
+      "title": "Suki’s wrapper",
+      "side": "after",
+      "card": 116.165,
+      "game": 118.165,
+      "seconds": 9.933,
+      "build": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+      "sha256": "e08e00b43a1696eb46efeb0c695a14e88be3071015f8c03375ef382a08e661dd"
+    },
+    {
+      "source": "before-breakfast-revisit.webm",
+      "title": "Back at the table",
+      "side": "before",
+      "card": 128.098,
+      "game": 130.098,
+      "seconds": 9.933,
+      "build": "f91ee3071fecbf8e172b7959f0f4a01c76894b45897bf98817b9626416a07988",
+      "sha256": "e52aa29bc14dc56f0bc640873f6f421701fcb39d3032eab7af2a626ac587a8cf"
+    },
+    {
+      "source": "after-breakfast-revisit.webm",
+      "title": "Back at the table",
+      "side": "after",
+      "card": 140.031,
+      "game": 142.031,
+      "seconds": 9.9,
+      "build": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+      "sha256": "0832615c0ae3f93f5be1991ba99b673dd74677902667961c036830e55e18dd4b"
+    },
+    {
+      "source": "before-picnic-letter.webm",
+      "title": "The yellow raincoats",
+      "side": "before",
+      "card": 151.931,
+      "game": 153.931,
+      "seconds": 6.1,
+      "build": "f91ee3071fecbf8e172b7959f0f4a01c76894b45897bf98817b9626416a07988",
+      "sha256": "37e567bd9c7f41f22769e99b2890409b9134bb29166f12926dd81254a6c91059"
+    },
+    {
+      "source": "after-picnic-letter.webm",
+      "title": "The yellow raincoats",
+      "side": "after",
+      "card": 160.031,
+      "game": 162.031,
+      "seconds": 4.933,
+      "build": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+      "sha256": "a8f79572d3aadfcaa6c7830fb5dd58e4c8f27cd46f0ebfe45a1fa5dd5b5b8c4a"
+    }
+  ],
+  "verification": {
+    "matches": {
+      "video": {
+        "packets": 5009,
+        "identical": true,
+        "largestTimestampShiftMs": 0
+      },
+      "audio": {
+        "packets": 2377,
+        "identical": true,
+        "largestTimestampShiftMs": 0
+      }
+    },
+    "browserDuration": 166.964,
+    "chaptersSought": [
+      {
+        "file": "before-festival-left-large.webm",
+        "sought": 5,
+        "time": 5,
+        "playing": 5.129922,
+        "audioBytes": 60417
+      },
+      {
+        "file": "after-festival-left-large.webm",
+        "sought": 22.6,
+        "time": 22.6,
+        "playing": 22.732969,
+        "audioBytes": 116039
+      },
+      {
+        "file": "before-gobbo.webm",
+        "sought": 40.066,
+        "time": 40.066,
+        "playing": 40.196915,
+        "audioBytes": 171661
+      },
+      {
+        "file": "after-gobbo.webm",
+        "sought": 54.266,
+        "time": 54.266,
+        "playing": 54.402622,
+        "audioBytes": 227283
+      },
+      {
+        "file": "before-visit.webm",
+        "sought": 69.132,
+        "time": 69.132,
+        "playing": 69.279426,
+        "audioBytes": 282905
+      },
+      {
+        "file": "after-visit.webm",
+        "sought": 89.132,
+        "time": 89.132,
+        "playing": 89.278025,
+        "audioBytes": 338527
+      },
+      {
+        "file": "before-breakfast-discovery.webm",
+        "sought": 109.265,
+        "time": 109.265,
+        "playing": 109.428614,
+        "audioBytes": 395108
+      },
+      {
+        "file": "after-breakfast-discovery.webm",
+        "sought": 121.165,
+        "time": 121.165,
+        "playing": 121.310512,
+        "audioBytes": 451689
+      },
+      {
+        "file": "before-breakfast-revisit.webm",
+        "sought": 133.098,
+        "time": 133.098,
+        "playing": 133.231429,
+        "audioBytes": 507311
+      },
+      {
+        "file": "after-breakfast-revisit.webm",
+        "sought": 145.031,
+        "time": 145.031,
+        "playing": 145.175301,
+        "audioBytes": 562933
+      },
+      {
+        "file": "before-picnic-letter.webm",
+        "sought": 156.931,
+        "time": 156.931,
+        "playing": 157.088257,
+        "audioBytes": 618555
+      },
+      {
+        "file": "after-picnic-letter.webm",
+        "sought": 164.4975,
+        "time": 164.4975,
+        "playing": 164.634152,
+        "audioBytes": 665546
+      }
+    ],
+    "errors": []
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "method": "Read both shipped ZIPs. Match files by unchanged bytes or normalized asset reference names, require a bijection, then replace only final basenames with their unique earlier counterparts and compare SHA-256. Source changes after the long play were confined to the Festival afterRun ordering and weekly table line in hub.ts.",
+  "playtest": "d211fd0e96d4eb54cf60a2990ae23879b586c0d4faa8e8a3d11ab8974d42b33c",
+  "release": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+  "files": [
+    {
+      "release": "assets/bridge-CLoep9UJ.js",
+      "playtest": "assets/bridge-DztPe-z8.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/companions-CMU9WMdr.js",
+      "playtest": "assets/companions-CMU9WMdr.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/debug-WtDryvf1.js",
+      "playtest": "assets/debug-BNZOuQL-.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/dist-CixD3Ru4.js",
+      "playtest": "assets/dist-CixD3Ru4.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/esm-BR8_iZQ4.js",
+      "playtest": "assets/esm-5BHmqihb.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/esm-CfMuq0nh.js",
+      "playtest": "assets/esm-C6C9-wd5.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/esm-CK_sOZr9.js",
+      "playtest": "assets/esm-Bn62DeLy.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/esm-CYLMMuAH.js",
+      "playtest": "assets/esm-CiiaoPxO.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/esm-Dqj7liYu.js",
+      "playtest": "assets/esm-CUy-rGkK.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/esm-vukujIJM.js",
+      "playtest": "assets/esm-DlsF2ayp.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/fountainBreakfast-B0WIAzRU.css",
+      "playtest": "assets/fountainBreakfast-B0WIAzRU.css",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/fountainBreakfast-CeSDNPmr.js",
+      "playtest": "assets/fountainBreakfast-CeSDNPmr.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "playtest": "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+      "playtest": "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "playtest": "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+      "playtest": "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/hub-C8bkb0t-.css",
+      "playtest": "assets/hub-C8bkb0t-.css",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/hub-DqiX2ESX.js",
+      "playtest": "assets/hub-CId9aydL.js",
+      "match": "compiled content differs"
+    },
+    {
+      "release": "assets/index-BCO201tk.css",
+      "playtest": "assets/index-BCO201tk.css",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/index-DvPkCHqF.js",
+      "playtest": "assets/index-BBaZveTO.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/main-B6pSjAku.js",
+      "playtest": "assets/main-CA7-pc63.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/main-DKeEY1Yv.css",
+      "playtest": "assets/main-DKeEY1Yv.css",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/mochiy-pop-one-latin-400-normal-B-XEkQuZ.woff2",
+      "playtest": "assets/mochiy-pop-one-latin-400-normal-B-XEkQuZ.woff2",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/mochiy-pop-one-latin-400-normal-D7_dByCQ.woff",
+      "playtest": "assets/mochiy-pop-one-latin-400-normal-D7_dByCQ.woff",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-600-normal-Br8yIETf.woff2",
+      "playtest": "assets/nunito-latin-600-normal-Br8yIETf.woff2",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-600-normal-Cd0eNu1l.woff",
+      "playtest": "assets/nunito-latin-600-normal-Cd0eNu1l.woff",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-700-normal-Dort48En.woff2",
+      "playtest": "assets/nunito-latin-700-normal-Dort48En.woff2",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-700-normal-OcDqTBcA.woff",
+      "playtest": "assets/nunito-latin-700-normal-OcDqTBcA.woff",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-800-normal-D-J0wlBY.woff",
+      "playtest": "assets/nunito-latin-800-normal-D-J0wlBY.woff",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-800-normal-Dz8SOQK_.woff2",
+      "playtest": "assets/nunito-latin-800-normal-Dz8SOQK_.woff2",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-900-normal-BVB1fGs6.woff2",
+      "playtest": "assets/nunito-latin-900-normal-BVB1fGs6.woff2",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/nunito-latin-900-normal-CVn49sIn.woff",
+      "playtest": "assets/nunito-latin-900-normal-CVn49sIn.woff",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/overworldLantern-DmBKzqpy.js",
+      "playtest": "assets/overworldLantern-D_jv-sRd.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/overworldPreview-BTs9dLmy.js",
+      "playtest": "assets/overworldPreview-BIEcZhef.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/palette-xr6YRQ4k.js",
+      "playtest": "assets/palette-xr6YRQ4k.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/parade-woodland-v3-Nb5MCmlU.webp",
+      "playtest": "assets/parade-woodland-v3-Nb5MCmlU.webp",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/rolldown-runtime-DK3Fl9T5.js",
+      "playtest": "assets/rolldown-runtime-DK3Fl9T5.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/saveSchema-23mjyPR9.js",
+      "playtest": "assets/saveSchema-23mjyPR9.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/scene-FkEfgHCe.js",
+      "playtest": "assets/scene-Cn0sMj_-.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/sheets-Br6RHkRA.js",
+      "playtest": "assets/sheets-D5va-2Kl.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/sheets-CpGc0uqa.css",
+      "playtest": "assets/sheets-CpGc0uqa.css",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/state-6pKJyZdK.js",
+      "playtest": "assets/state-6pKJyZdK.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/story-Da1ZT1fG.js",
+      "playtest": "assets/story-Da1ZT1fG.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/storyDebug-BIRfr6kK.js",
+      "playtest": "assets/storyDebug-CsAiO8gy.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/village-Bgl3rYJG.js",
+      "playtest": "assets/village-Bgl3rYJG.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/villageFestivals-CafuDoRT.js",
+      "playtest": "assets/villageFestivals-CAHS-rus.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/villageSheets-CkaXCexW.js",
+      "playtest": "assets/villageSheets-Cq_OP5Fz.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/web-aqXpfU6g.js",
+      "playtest": "assets/web-DQGyQ2fw.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/web-Ba0TZG9T.js",
+      "playtest": "assets/web-Ba0TZG9T.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/web-BgnMmn2W.js",
+      "playtest": "assets/web-BgnMmn2W.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/web-BhKDBmYN.js",
+      "playtest": "assets/web-BhKDBmYN.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/web-CtZwTGG5.js",
+      "playtest": "assets/web-CFIoNIxB.js",
+      "match": "references only"
+    },
+    {
+      "release": "assets/web-fuHVDv9B.js",
+      "playtest": "assets/web-fuHVDv9B.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "assets/wilds-s2qiZRxr.js",
+      "playtest": "assets/wilds-s2qiZRxr.js",
+      "match": "byte-identical"
+    },
+    {
+      "release": "favicon.ico",
+      "playtest": "favicon.ico",
+      "match": "byte-identical"
+    },
+    {
+      "release": "favicon.svg",
+      "playtest": "favicon.svg",
+      "match": "byte-identical"
+    },
+    {
+      "release": "icons/icon-1024.png",
+      "playtest": "icons/icon-1024.png",
+      "match": "byte-identical"
+    },
+    {
+      "release": "icons/icon-180.png",
+      "playtest": "icons/icon-180.png",
+      "match": "byte-identical"
+    },
+    {
+      "release": "icons/icon-192.png",
+      "playtest": "icons/icon-192.png",
+      "match": "byte-identical"
+    },
+    {
+      "release": "icons/icon-512.png",
+      "playtest": "icons/icon-512.png",
+      "match": "byte-identical"
+    },
+    {
+      "release": "index.html",
+      "playtest": "index.html",
+      "match": "references only"
+    },
+    {
+      "release": "licenses/alegreya-OFL.txt",
+      "playtest": "licenses/alegreya-OFL.txt",
+      "match": "byte-identical"
+    },
+    {
+      "release": "licenses/nunito-OFL.txt",
+      "playtest": "licenses/nunito-OFL.txt",
+      "match": "byte-identical"
+    },
+    {
+      "release": "licenses/phosphor-MIT.txt",
+      "playtest": "licenses/phosphor-MIT.txt",
+      "match": "byte-identical"
+    },
+    {
+      "release": "manifest.webmanifest",
+      "playtest": "manifest.webmanifest",
+      "match": "byte-identical"
+    }
+  ],
+  "differences": [
+    {
+      "release": "assets/hub-DqiX2ESX.js",
+      "playtest": "assets/hub-CId9aydL.js",
+      "match": "compiled content differs"
+    }
+  ]
+}
