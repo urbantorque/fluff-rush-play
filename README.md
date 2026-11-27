@@ -15,6 +15,8 @@ Steer a parade of Flufflings, wake sleeping giants and bring everyone Home. Choo
 
 Your progress saves in your browser. Use a private browsing window to try a fresh game without changing your usual save.
 
+[Watch the phone playtest](https://urbantorque.github.io/fluff-rush-play/phone-replay/), including the first Town visit, Seedfall and Tambo’s Drum Call at normal speed.
+
 ## What's in this build
 
 - 30 main Parade roads across four valleys, plus bonus roads.

@@ -1,0 +1,556 @@
+{
+  "source": "26f1a7f8",
+  "publicUrl": "https://urbantorque.github.io/fluff-rush-play/?v=26f1a7f8",
+  "browser": "158.0.8127.37",
+  "observedMatchingReleaseFiles": 31,
+  "entrySHA256": "cc23a622f9b44385fb17ab19c7cec8d1cdba3fd9406c1913f331fb82d9af9802",
+  "pageErrors": [],
+  "sessionSeconds": 1686,
+  "clearedRoads": 32,
+  "townStagesIncludingFirstBakery": 19,
+  "roads": [
+    {
+      "id": "L1",
+      "stars": 3,
+      "best": 183,
+      "plays": 1,
+      "fails": 0,
+      "failStreak": 0,
+      "eased": [],
+      "paradeRecords": {
+        "revision": 2,
+        "leaders": {
+          "pip": {
+            "best": 183,
+            "stars": 3,
+            "last": 183,
+            "plays": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "L2",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 33.247,
+      "crowd": 648
+    },
+    {
+      "id": "L3",
+      "leader": "tambo",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 45.1,
+      "crowd": 4674
+    },
+    {
+      "id": "L4",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 35.341,
+      "crowd": 2100
+    },
+    {
+      "id": "L5",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 40.9,
+      "crowd": 6022
+    },
+    {
+      "id": "L6",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 57.025,
+      "crowd": 6066
+    },
+    {
+      "id": "L7",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 36.25,
+      "crowd": 4028
+    },
+    {
+      "id": "L8",
+      "leader": "tambo",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 66.733,
+      "crowd": 22884
+    },
+    {
+      "id": "L9",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 37.741,
+      "crowd": 4026
+    },
+    {
+      "id": "L10",
+      "leader": "otto",
+      "stars": 2,
+      "cleared": true,
+      "gameSeconds": 20.742,
+      "crowd": 65
+    },
+    {
+      "id": "L11",
+      "leader": "otto",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 40.908,
+      "crowd": 5369
+    },
+    {
+      "id": "L12",
+      "leader": "otto",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 81.15,
+      "crowd": 7460
+    },
+    {
+      "id": "L13",
+      "leader": "tambo",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 41.791,
+      "crowd": 10758
+    },
+    {
+      "id": "L14",
+      "leader": "tambo",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 40.333,
+      "crowd": 5644
+    },
+    {
+      "id": "L15",
+      "leader": "otto",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 49.65,
+      "crowd": 5334
+    },
+    {
+      "id": "L16",
+      "leader": "otto",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 51.116,
+      "crowd": 5476
+    },
+    {
+      "id": "L17",
+      "leader": "wren",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 46.434,
+      "crowd": 1393
+    },
+    {
+      "id": "L18",
+      "leader": "tambo",
+      "stars": 1,
+      "cleared": true,
+      "gameSeconds": 51.367,
+      "crowd": 9094
+    },
+    {
+      "id": "L19",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 48.866,
+      "crowd": 4718
+    },
+    {
+      "id": "L20",
+      "leader": "otto",
+      "stars": 2,
+      "cleared": true,
+      "gameSeconds": 24.875,
+      "crowd": 77
+    },
+    {
+      "id": "L22",
+      "leader": "wren",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 37.683,
+      "crowd": 5015
+    },
+    {
+      "id": "L23",
+      "leader": "tambo",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 40.4,
+      "crowd": 95532
+    },
+    {
+      "id": "L24",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 80.35,
+      "crowd": 12308
+    },
+    {
+      "id": "L25",
+      "leader": "otto",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 52.116,
+      "crowd": 6017
+    },
+    {
+      "id": "L26",
+      "leader": "suki",
+      "stars": 2,
+      "cleared": true,
+      "gameSeconds": 27.883,
+      "crowd": 74
+    },
+    {
+      "id": "L27",
+      "leader": "wren",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 46.333,
+      "crowd": 10164
+    },
+    {
+      "id": "L28",
+      "leader": "tambo",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 39.725,
+      "crowd": 20930
+    },
+    {
+      "id": "L29",
+      "leader": "pip",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 45.514,
+      "crowd": 14992
+    },
+    {
+      "id": "L30",
+      "leader": "otto",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 89.217,
+      "crowd": 26656
+    },
+    {
+      "id": "B1",
+      "leader": "suki",
+      "stars": 1,
+      "cleared": true,
+      "gameSeconds": 26.266,
+      "crowd": 1299
+    },
+    {
+      "id": "B2",
+      "leader": "wren",
+      "stars": 1,
+      "cleared": true,
+      "gameSeconds": 20.725,
+      "crowd": 6170
+    },
+    {
+      "id": "L21",
+      "leader": "suki",
+      "stars": 3,
+      "cleared": true,
+      "gameSeconds": 29.541,
+      "crowd": 8703
+    }
+  ],
+  "notable": {
+    "firstTown": {
+      "earned": 185,
+      "spent": 100,
+      "remaining": 85,
+      "secondsUntilFollowUp": 4.856,
+      "next": "strawberry"
+    },
+    "seedfall": [
+      {
+        "name": "07-seedfall-early",
+        "dragDelay": 0.308,
+        "bothToPassenger": 0.525,
+        "passenger": true,
+        "next": true,
+        "total": 8,
+        "side": "Wall Path",
+        "gate": "×4",
+        "crowd": 756,
+        "landingTime": 3.881,
+        "gateTime": 15.726
+      },
+      {
+        "name": "08-seedfall-late",
+        "dragDelay": 0.458,
+        "bothToPassenger": 0.525,
+        "passenger": false,
+        "next": true,
+        "total": 7,
+        "side": "Wall Path",
+        "gate": "×4",
+        "crowd": 636,
+        "landingTime": 3.872,
+        "gateTime": 15.717
+      }
+    ],
+    "shorterLandscape": [
+      {
+        "size": [
+          568,
+          320
+        ],
+        "dragDelay": 0.308,
+        "bothToPassenger": 0.558,
+        "passenger": true,
+        "next": true,
+        "total": 8,
+        "side": 1,
+        "gateLane": 0
+      },
+      {
+        "size": [
+          568,
+          320
+        ],
+        "dragDelay": 0.458,
+        "bothToPassenger": 0.558,
+        "passenger": false,
+        "next": true,
+        "total": 7,
+        "side": 1,
+        "gateLane": 0
+      }
+    ],
+    "drum": [
+      {
+        "name": "04-drum-call",
+        "leader": "tambo",
+        "gate": "+750",
+        "friends": 3,
+        "answerToGateGameMs": -67,
+        "firstBellToGateOnsetMs": -79,
+        "secondBellToGateOnsetMs": -189,
+        "firstBellAndGateOverlapMs": 371,
+        "gateInClip": null,
+        "music": true,
+        "effects": true
+      },
+      {
+        "name": "09-drum-tap",
+        "leader": "tambo",
+        "gate": "+750",
+        "friends": 1,
+        "answerToGateGameMs": 25,
+        "firstBellToGateOnsetMs": -1,
+        "secondBellToGateOnsetMs": -111,
+        "firstBellAndGateOverlapMs": 449,
+        "gateInClip": 3.73,
+        "music": true,
+        "effects": true,
+        "hudAtGate": [
+          "1 answered"
+        ]
+      },
+      {
+        "name": "10-gate-alone",
+        "leader": "tambo",
+        "gate": "+750",
+        "friends": 0,
+        "answerToGateGameMs": null,
+        "firstBellToGateOnsetMs": null,
+        "secondBellToGateOnsetMs": null,
+        "firstBellAndGateOverlapMs": null,
+        "gateInClip": 3.728,
+        "music": true,
+        "effects": true,
+        "hudAtGate": []
+      }
+    ],
+    "bazaar": {
+      "id": "L21",
+      "leader": "suki",
+      "stars": 3
+    },
+    "giant": {
+      "id": "snowgiant",
+      "phases": [
+        {
+          "phase": 1,
+          "need": [
+            9900,
+            9900
+          ],
+          "have": [
+            13439,
+            13217
+          ],
+          "woke": [
+            true,
+            true
+          ],
+          "snow": {
+            "side": 0,
+            "warm": true,
+            "base": 9900
+          }
+        },
+        {
+          "phase": 2,
+          "need": [
+            1300,
+            5300
+          ],
+          "have": [
+            11218,
+            15438
+          ],
+          "woke": [
+            true,
+            true
+          ],
+          "snow": {
+            "side": 0,
+            "warm": true,
+            "base": 1300
+          }
+        }
+      ],
+      "of": 2
+    },
+    "telescope": "The Lookout telescope\n\nAll six constellations shine on your fountain path.\n\nBack to Town\nPlay Aurora Bridge"
+  },
+  "method": "The public game ran in a fresh Chrome profile at 393 × 852. Seedfall used 852 × 393. Repeating the two drags at 568 × 320 also produced 8/8 and 7/8, with the next centre landing and ×4 gate intact. The opening used touch, later roads used the game’s steering assist, and map and Town navigation used their on-screen controls and accessible buttons. The focused comparisons use checkpoints earned on this visit. Their input timings were prescribed. The audio check measured the game’s mix. Physical handset speakers and human reaction times were outside this test.",
+  "clips": [
+    {
+      "id": "opening",
+      "file": "01-first-road.webm",
+      "seconds": 26.066,
+      "size": [
+        393,
+        852
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "town",
+      "file": "02-first-town.webm",
+      "seconds": 13.033,
+      "size": [
+        393,
+        852
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "seedfall",
+      "file": "03-seedfall-campaign.webm",
+      "seconds": 16.6,
+      "size": [
+        852,
+        393
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "seed-early",
+      "file": "07-seedfall-early.webm",
+      "seconds": 17.066,
+      "size": [
+        852,
+        393
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "seed-late",
+      "file": "08-seedfall-late.webm",
+      "seconds": 16.6,
+      "size": [
+        852,
+        393
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "drum",
+      "file": "04-drum-call.webm",
+      "seconds": 7.933,
+      "size": [
+        393,
+        852
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "drum-tap",
+      "file": "09-drum-tap.webm",
+      "seconds": 7.566,
+      "size": [
+        393,
+        852
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "gate-alone",
+      "file": "10-gate-alone.webm",
+      "seconds": 7.566,
+      "size": [
+        393,
+        852
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "giant",
+      "file": "06-snow-giant.webm",
+      "seconds": 20.033,
+      "size": [
+        393,
+        852
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    },
+    {
+      "id": "bazaar",
+      "file": "05-portrait-bazaar.webm",
+      "seconds": 12.133,
+      "size": [
+        393,
+        852
+      ],
+      "audioChannels": 2,
+      "playbackRate": 1
+    }
+  ]
+}
