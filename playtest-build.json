@@ -1,10 +1,11 @@
 {
   "sourceCommit": "ec29b4d0",
-  "sourceDirty": false,
-  "buildHash": "f91ee3071fecbf8e172b7959f0f4a01c76894b45897bf98817b9626416a07988",
-  "buildId": "ec29b4d0",
+  "sourceDirty": true,
+  "buildHash": "c8b5302f32d21853db61677c22b0a602e22badb367dfee6f4d5220820c22bf18",
+  "buildId": "c8b5302f32d2",
   "entries": [
     "index.html",
     "garden.html"
-  ]
+  ],
+  "archiveSha256": "e4e26f919ce9cdcdadbcbb344f39975bfd1f6a7ab602bbb5fc4fef6df0834168"
 }
