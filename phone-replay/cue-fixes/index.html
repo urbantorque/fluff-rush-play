@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Seedfall and Drum Call · Fluff Rush</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;color:#392e38;background:#faf6ec;font:16px/1.5 system-ui,sans-serif}
+    main{max-width:1080px;margin:auto;padding:clamp(16px,4vw,44px)}header{border-top:4px solid #793e50;padding-top:16px}
+    h1,h2{font-family:Georgia,serif;line-height:1.1;letter-spacing:-.025em;margin:12px 0}h1{font-size:clamp(2.1rem,5vw,3.6rem)}h2{font-size:clamp(1.5rem,3vw,2.1rem)}
+    p{margin:8px 0;max-width:83ch}a{color:#78394d}section{border-top:1px solid #d5c4b4;margin-top:25px;padding-top:10px}
+    .pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:12px 0}
+    figure{margin:0;overflow:hidden;background:#fffdf7;border:1px solid #cebeaf;border-radius:10px}
+    figcaption{padding:7px 12px;font-weight:650}video{width:100%;display:block;background:#29242b;object-fit:contain}
+    .seed video{aspect-ratio:852/393}.drum video{height:clamp(275px,53vh,450px)}
+    button{border:1px solid #a78883;border-radius:7px;padding:8px 14px;background:#f1e4da;color:inherit;font:inherit;cursor:pointer}
+    button:focus-visible,a:focus-visible,video:focus-visible,audio:focus-visible{outline:3px solid #246d70;outline-offset:3px}
+    audio{display:block;width:min(100%,460px);margin:8px 0}details{margin:16px 0}summary{cursor:pointer;color:#713a50}
+    footer{margin-top:26px;border-top:1px solid #d5c4b4;padding-top:10px;font-size:.9rem}
+    @media(max-width:680px){.seed .pair{grid-template-columns:1fr}.pair{gap:6px}.drum video{height:auto;aspect-ratio:393/852}figcaption{font-size:.85rem;padding:6px 8px}}
+  </style>
+</head>
+<body><main>
+  <header>
+    <a href="../">Full phone playtest</a>
+    <h1>Seedfall and Drum Call</h1>
+    <p>Matched recordings at 1× with the original game audio. Each pair uses the same earned save, viewport and road.</p>
+  </header>
+  <section class="seed">
+    <h2>The outside passenger</h2>
+    <p>Watch the right-hand landing as the centre pilot touches down. Its ring now lights once, giving 1.07 seconds to steer. In the original take, 0.53 seconds remained when both landing centres cleared the HUD line.</p>
+    <div class="pair">
+      <figure><figcaption>Before · 7 of 8 caught</figcaption><video controls playsinline preload="metadata" src="before-seed.webm" aria-label="Seedfall before the fix"></video></figure>
+      <figure><figcaption>After · 8 of 8 caught</figcaption><video controls playsinline preload="metadata" src="after-seed.webm" aria-label="Seedfall after the fix"></video></figure>
+    </div>
+    <button type="button" data-sequence>Play before, then after</button>
+    <p>The drag starts 0.46 seconds after the reading cue in each take. Both runs catch the next centre parachute and clear Wall Path’s ×4 gate near 0:14.</p>
+  </section>
+  <section class="drum">
+    <h2>Tambo at the +750 gate</h2>
+    <p>The gate chimes at 0:02.4 in both clips. Listen for the two short, lower notes that now answer it. Tambo brings in one friend in each take.</p>
+    <div class="pair">
+      <figure><figcaption>Before · Bell answer</figcaption><video controls playsinline preload="metadata" src="before-tap.webm" aria-label="Drum Call before the fix"></video></figure>
+      <figure><figcaption>After · Mallet answer</figcaption><video controls playsinline preload="metadata" src="after-tap.webm" aria-label="Drum Call after the fix"></video></figure>
+    </div>
+    <button type="button" data-sequence>Play before, then after</button>
+    <p>Listen to the same moment with the old answer first and the new answer second.</p>
+    <audio controls preload="metadata" src="drum-comparison.wav" aria-label="Original and revised Drum Call at the same gate"></audio>
+    <details><summary>Compare the gate with Drum Call held</summary>
+      <div class="pair">
+        <figure><figcaption>Before · Gate alone</figcaption><video controls playsinline preload="none" src="before-hold.webm" aria-label="Original gate with the ability held"></video></figure>
+        <figure><figcaption>After · Gate alone</figcaption><video controls playsinline preload="none" src="after-hold.webm" aria-label="Revised build with the ability held"></video></figure>
+      </div>
+    </details>
+  </section>
+  <footer><p><a href="../../">Play Fluff Rush</a> · <a href="measurements.json">Capture timings</a></p></footer>
+</main><script>
+  const media=[...document.querySelectorAll('video,audio')];
+  let sequence=[];
+  async function startNext(){
+    const next=sequence.shift();
+    if(!next)return;
+    next.currentTime=0;next.playbackRate=1;
+    try{await next.play();}catch{sequence=[];}
+  }
+  let current;
+  for(const item of media){
+    item.addEventListener('play',()=>{
+      if(item!==current)sequence=[];
+      for(const other of media)if(other!==item)other.pause();
+    });
+    item.addEventListener('ended',()=>{if(item===current){current=sequence[0];startNext();}});
+  }
+  for(const button of document.querySelectorAll('[data-sequence]')){
+    button.addEventListener('click',()=>{
+      sequence=[...button.closest('section').querySelectorAll(':scope > .pair video')];
+      current=sequence[0];startNext();
+    });
+  }
+</script></body></html>

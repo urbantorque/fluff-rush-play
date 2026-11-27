@@ -1,0 +1,122 @@
+{
+  "baseline": "26f1a7f8",
+  "method": "Same earned saves, road seeds, music, viewport and prescribed inputs. Seedfall uses a 450 ms response to the visible cue and the same centre return and Wall Path. Drum uses the same on-screen ability tap at road time 25.592 s. Each pair has equal duration and is aligned on the same road event. Original stereo game audio.",
+  "clips": [
+    {
+      "file": "before-seed.webm",
+      "size": {
+        "width": 852,
+        "height": 393
+      },
+      "seconds": 14.6,
+      "playbackRate": 1,
+      "cue": "both ordinary landing centres below HUD line",
+      "cueInFilm": 2.1,
+      "secondsToCatch": 0.525,
+      "dragAfterCue": 0.458,
+      "hits": 7,
+      "passenger": false,
+      "centre": true,
+      "wallPath": true,
+      "gate": "×4",
+      "gateInFilm": 13.961
+    },
+    {
+      "file": "before-tap.webm",
+      "size": {
+        "width": 393,
+        "height": 852
+      },
+      "seconds": 3.5,
+      "playbackRate": 1,
+      "gate": "+750",
+      "gateInFilm": 2.4,
+      "gateOpeningHz": 1319,
+      "friends": 1,
+      "answerNotes": [
+        {
+          "hz": 784,
+          "afterGateMs": -1,
+          "durationMs": 530
+        },
+        {
+          "hz": 1047,
+          "afterGateMs": 109,
+          "durationMs": 510
+        }
+      ]
+    },
+    {
+      "file": "before-hold.webm",
+      "size": {
+        "width": 393,
+        "height": 852
+      },
+      "seconds": 3.5,
+      "playbackRate": 1,
+      "gate": "+750",
+      "gateInFilm": 2.4,
+      "gateOpeningHz": 1319,
+      "friends": 0,
+      "answerNotes": []
+    },
+    {
+      "file": "after-seed.webm",
+      "size": {
+        "width": 852,
+        "height": 393
+      },
+      "seconds": 14.6,
+      "playbackRate": 1,
+      "cue": "outside ring at pilot touchdown",
+      "cueInFilm": 1.553,
+      "secondsToCatch": 1.067,
+      "dragAfterCue": 0.458,
+      "hits": 8,
+      "passenger": true,
+      "centre": true,
+      "wallPath": true,
+      "gate": "×4",
+      "gateInFilm": 13.941
+    },
+    {
+      "file": "after-tap.webm",
+      "size": {
+        "width": 393,
+        "height": 852
+      },
+      "seconds": 3.5,
+      "playbackRate": 1,
+      "gate": "+750",
+      "gateInFilm": 2.4,
+      "gateOpeningHz": 1319,
+      "friends": 1,
+      "answerNotes": [
+        {
+          "hz": 587,
+          "afterGateMs": 194,
+          "durationMs": 135
+        },
+        {
+          "hz": 784,
+          "afterGateMs": 325,
+          "durationMs": 145
+        }
+      ]
+    },
+    {
+      "file": "after-hold.webm",
+      "size": {
+        "width": 393,
+        "height": 852
+      },
+      "seconds": 3.5,
+      "playbackRate": 1,
+      "gate": "+750",
+      "gateInFilm": 2.4,
+      "gateOpeningHz": 1319,
+      "friends": 0,
+      "answerNotes": []
+    }
+  ]
+}
